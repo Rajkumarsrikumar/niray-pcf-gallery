@@ -36,6 +36,15 @@ for f in sorted(glob.glob(os.path.join(src, "extra-*.json"))):
 keep = ["name", "component", "slug", "schemaName", "tagline", "description", "features", "category", "subCategory",
         "industry", "pack", "packOrder", "hosts", "mobileResponsive", "complexity", "tags", "availability",
         "componentVersion", "solutionVersion", "controlType", "react", "screenshotCount", "dateBuilt", "price"]
+# Server-only file names for emailed downloads (free first component). Not imported by any page.
+delivery = {}
+for c in comps:
+    files = c.get("solutionFiles") or []
+    managed = next((f for f in files if f.endswith("_managed.zip")), None)
+    manual = next((f for f in files if f.endswith("_User-Manual.docx")), None)
+    if c.get("availability") == "Available" and managed and manual:
+        delivery[c["slug"]] = {"component": c["component"], "managed": managed, "manualPdf": manual[: -len(".docx")] + ".pdf"}
+
 comps = sorted(({k: c.get(k) for k in keep} for c in comps), key=lambda c: c["name"])
 for c in comps:
     c["description"] = c["description"] or ""
@@ -57,4 +66,5 @@ for p in packs:
 
 json.dump(comps, open(os.path.join(out, "components.json"), "w"), indent=1, ensure_ascii=False)
 json.dump(out_packs, open(os.path.join(out, "packs.json"), "w"), indent=1, ensure_ascii=False)
+json.dump(delivery, open(os.path.join(out, "delivery.json"), "w"), indent=1, ensure_ascii=False)
 print(len(comps), "components;", ", ".join(f"{p['slug']}={len(p['components'])}" for p in out_packs))
