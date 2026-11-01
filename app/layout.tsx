@@ -11,6 +11,8 @@ const inter = Inter({ subsets: ["latin"], display: "swap" });
 const display = Space_Grotesk({ subsets: ["latin"], weight: ["500", "700"], display: "swap", variable: "--font-display" });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://niraypcfgallery.com"),
+  openGraph: { siteName: "Niray PCF Gallery", type: "website" },
   title: "Niray PCF Gallery | Power Apps code components",
   description: "Shop 178 production-ready Power Apps Component Framework (PCF) controls and industry packs for Canvas apps, Model-driven apps and Power Pages, by Niray IT Solutions.",
 };

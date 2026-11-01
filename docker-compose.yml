@@ -1,4 +1,4 @@
-# Runs the gallery on the Hostinger VPS as its own Docker project ("niray-pcf-gallery").
+# Runs the gallery (niraypcfgallery.com) on the Hostinger VPS as its own Docker project ("niray-pcf-gallery").
 # The reverse proxy / TLS labels are added when it is wired to the VPS's existing Traefik.
 services:
   web:
