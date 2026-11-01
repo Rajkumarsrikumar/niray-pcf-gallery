@@ -4,7 +4,7 @@ import Icon from "../Icon";
 export const metadata = { title: "Pricing | Niray PCF Gallery" };
 
 const tiers = [
-  { name: "Single component", body: "One PCF control for your organisation.", items: ["Managed + unmanaged solution", "User manual", "12 months of updates"], cta: "/components" },
+  { name: "Single component", body: "One PCF control for your organisation.", items: ["Managed solution", "User manual", "12 months of updates"], cta: "/components" },
   { name: "Industry pack", body: "Every component in one industry pack.", items: ["Up to 30 components", "One combined solution", "Pack catalogue + manuals"], cta: "/packs", featured: true },
   { name: "All-access", body: "The full library, including new releases.", items: ["Every component and pack", "New components as they ship", "Priority email support"], cta: "/components" },
 ];

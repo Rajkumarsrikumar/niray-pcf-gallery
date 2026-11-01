@@ -21,7 +21,7 @@ export default function Header() {
   const submit = (e: React.FormEvent) => { e.preventDefault(); router.push(`/components${q.trim() ? `?q=${encodeURIComponent(q.trim())}` : ""}`); setMenu(false); };
   return (
     <>
-      <div className="bg-ink px-4 py-2 text-center text-xs text-white/85">Every component comes with managed and unmanaged solutions and a user manual.</div>
+      <div className="bg-ink px-4 py-2 text-center text-xs text-white/85">Every component comes as a managed solution with a user manual.</div>
       <header className="sticky top-0 z-30 border-b border-line bg-white">
         <div className="mx-auto flex max-w-7xl items-center gap-3 px-4 py-3 sm:gap-6">
           <button className="lg:hidden" onClick={() => setMenu(!menu)} aria-label="Menu" aria-expanded={menu}><Icon name={menu ? "x" : "menu"} className="h-6 w-6 text-brand-navy" /></button>

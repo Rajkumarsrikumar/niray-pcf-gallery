@@ -7,7 +7,7 @@ const steps = [
   { icon: "doc", h: "Tell us what you need", b: "Describe the screen, the data and where it will run." },
   { icon: "layers", h: "Scope and quote", b: "We reply within 2 business days with a fixed scope and quote." },
   { icon: "bolt", h: "Build and test", b: "Built to the same standard as the gallery, with screenshots at every screen size." },
-  { icon: "box", h: "Deliver", b: "Managed + unmanaged solution, source if agreed, and a user manual." },
+  { icon: "box", h: "Deliver", b: "A managed solution and a user manual." },
 ];
 
 export default function Custom() {

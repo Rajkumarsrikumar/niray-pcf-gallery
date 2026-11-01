@@ -69,7 +69,7 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
               <Link href="/custom" className="block pt-1 text-center text-sm font-medium text-tile-blue hover:underline">Need it customised? Request custom development</Link>
             </div>
             <ul className="mt-5 grid gap-2 border-t border-line pt-5 text-sm text-ink-soft sm:grid-cols-2">
-              {["Managed and unmanaged solution", "User manual (Word)", "Canvas, Model-driven, Power Pages", c.mobileResponsive ? "Works on phones" : "Desktop layout"].map((x) => (
+              {["Managed solution", "User manual (Word)", "Canvas, Model-driven, Power Pages", c.mobileResponsive ? "Works on phones" : "Desktop layout"].map((x) => (
                 <li key={x} className="flex items-center gap-2"><Icon name="check" className="h-4 w-4 text-tile-leaf" />{x}</li>
               ))}
             </ul>
@@ -103,7 +103,7 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
               id: "install", title: "How to install", summary: "Canvas, Model-driven and Power Pages",
               body: (
                 <ul className="max-w-3xl space-y-3 text-ink-soft">
-                  <li><b className="text-ink">Which package:</b> unmanaged in development, managed in test and production.</li>
+                  <li><b className="text-ink">What you get:</b> a managed solution to import into your environment, and a user manual.</li>
                   <li><b className="text-ink">Canvas apps:</b> turn on &quot;Allow publishing of canvas apps with code components&quot;, import the solution, then Insert, Get more components, Code.</li>
                   <li><b className="text-ink">Model-driven apps:</b> in the form designer select the field, then Components, + Component.</li>
                   <li><b className="text-ink">Power Pages:</b> enable the code component on a form field in design studio, or use Liquid: <code className="break-all rounded bg-paper px-1">{`{% codecomponent name:${c.schemaName} /%}`}</code></li>

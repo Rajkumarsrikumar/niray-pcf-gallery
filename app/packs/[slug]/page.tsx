@@ -38,7 +38,7 @@ export default function PackPage({ params }: { params: { slug: string } }) {
             <p className="text-sm text-slate-500">Bundle price</p>
             <p className="text-3xl font-extrabold text-brand-navy">{p.price ? `$${p.price}` : "On request"}</p>
             <ul className="my-5 space-y-2 text-sm">
-              {[`${all.length} components`, `${all.filter(isAvailable).length} in stock now`, "One managed + unmanaged solution", "Pack catalogue + user manuals"].map((x) => (
+              {[`${all.length} components`, `${all.filter(isAvailable).length} in stock now`, "One managed solution", "Pack catalogue + user manuals"].map((x) => (
                 <li key={x} className="flex items-center gap-2"><Icon name="check" className="h-4 w-4 text-brand-green" />{x}</li>
               ))}
             </ul>

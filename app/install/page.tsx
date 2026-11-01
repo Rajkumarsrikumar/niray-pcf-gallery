@@ -3,7 +3,7 @@ import Link from "next/link";
 export const metadata = { title: "How to install | Niray PCF Gallery" };
 
 const steps = [
-  { h: "Pick the right package", b: "Import the unmanaged solution in development and the managed solution in test and production." },
+  { h: "Import the managed solution", b: "Import the managed solution you received into your environment from Solutions → Import solution." },
   { h: "Canvas apps", b: "Turn on \"Allow publishing of canvas apps with code components\" in the environment, import the solution, then go to Insert → Get more components → Code." },
   { h: "Model-driven apps", b: "In the form designer, select the field, then Components → + Component, and choose the Niray control." },
   { h: "Power Pages", b: "Enable the code component on a form field in design studio, or place it with Liquid: {% codecomponent name:<schemaName> ... /%}" },

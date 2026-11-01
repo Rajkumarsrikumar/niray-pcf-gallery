@@ -5,7 +5,7 @@ import StudioCanvas from "./StudioCanvas";
 import { allComponents, allPacks, industries, industrySlug, isAvailable, packComponents, screensFor, themeFor } from "@/lib/catalog";
 
 const included = [
-  { h: "Managed and unmanaged solutions", b: "Import unmanaged in development, managed in test and production." },
+  { h: "A managed solution", b: "Import it into any environment. Upgrades install cleanly over the top." },
   { h: "A user manual for every component", b: "Setup steps for Canvas, Model-driven and Power Pages, with screenshots." },
   { h: "Built for phones too", b: "Every component is tested at 1366, 375, 360 and 320 pixels wide." },
   { h: "Nothing calls home", b: "React 16.14 is bundled, so components also run in Power Pages." },
