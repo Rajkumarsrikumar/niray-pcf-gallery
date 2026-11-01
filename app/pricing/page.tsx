@@ -18,8 +18,8 @@ export default function Pricing() {
       </div>
       <div className="mt-12 grid gap-6 md:grid-cols-3">
         {tiers.map((t) => (
-          <div key={t.name} className={`relative rounded-3xl p-7 ${t.featured ? "bg-brand-navy text-white shadow-2xl md:-translate-y-3" : "border border-slate-200 bg-white shadow-sm"}`}>
-            {t.featured && <span className="absolute -top-3 left-1/2 -translate-x-1/2 rounded-full bg-brand-teal px-3 py-1 text-xs font-bold text-brand-navy">Most popular</span>}
+          <div key={t.name} className={`relative rounded-lg p-7 ${t.featured ? "bg-ink text-white" : "border border-ink/15 bg-white"}`}>
+            {t.featured && <span className="absolute -top-3 left-1/2 -translate-x-1/2 rounded bg-tile-sun px-3 py-1 text-xs font-bold text-ink">Most popular</span>}
             <h2 className="text-xl font-bold">{t.name}</h2>
             <p className={`mt-1 text-sm ${t.featured ? "text-slate-300" : "text-slate-500"}`}>{t.body}</p>
             <p className="mt-6 text-3xl font-extrabold">On request</p>

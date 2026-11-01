@@ -1,14 +1,14 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { Inter, Space_Grotesk } from "next/font/google";
+import { Bricolage_Grotesque, IBM_Plex_Sans } from "next/font/google";
 import "./globals.css";
 import Header from "./Header";
 import Logo from "./Logo";
 import { CartProvider } from "@/lib/cart";
 import { CONTACT } from "@/lib/catalog";
 
-const inter = Inter({ subsets: ["latin"], display: "swap" });
-const display = Space_Grotesk({ subsets: ["latin"], weight: ["500", "700"], display: "swap", variable: "--font-display" });
+const body = IBM_Plex_Sans({ subsets: ["latin"], weight: ["400", "500", "600", "700"], display: "swap", variable: "--font-body" });
+const display = Bricolage_Grotesque({ subsets: ["latin"], weight: ["500", "700", "800"], display: "swap", variable: "--font-display" });
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://niraypcfgallery.com"),
@@ -19,16 +19,16 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={`${inter.className} ${display.variable}`}>
+    <html lang="en" className={`${body.variable} ${display.variable}`}>
       <body>
         <CartProvider>
           <Header />
           <main>{children}</main>
-          <footer className="mt-20 bg-brand-navy text-slate-300">
+          <footer className="mt-24 bg-ink text-slate-300">
             <div className="mx-auto grid max-w-7xl gap-8 px-4 py-12 sm:grid-cols-2 lg:grid-cols-4">
               <div>
                 <Logo dark />
-                <p className="mt-2 text-sm">Production-ready code components for Microsoft Power Platform, built by Niray IT Solutions.</p>
+                <p className="mt-2 text-sm">Production-ready code components for Power Apps and Power Pages, built by Niray IT Solutions.</p>
               </div>
               <div>
                 <p className="mb-3 font-semibold text-white">Shop</p>
@@ -52,7 +52,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 <a href="https://www.nirayitsolutions.com" className="mt-2 inline-block text-sm text-brand-teal hover:underline">nirayitsolutions.com</a>
               </div>
             </div>
-            <div className="border-t border-white/10 py-5 text-center text-xs text-slate-400">© {new Date().getFullYear()} Niray IT Solutions Pte. Ltd. Microsoft, Power Apps and Power Pages are trademarks of Microsoft Corporation.</div>
+            <div className="border-t border-white/10 py-5 text-center text-xs text-slate-400">© {new Date().getFullYear()} Niray IT Solutions Pte. Ltd.</div>
           </footer>
         </CartProvider>
       </body>

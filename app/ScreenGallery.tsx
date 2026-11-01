@@ -19,15 +19,15 @@ export default function ScreenGallery({ shots, name }: { shots: Screen[]; name: 
   }, [zoom, shots.length]);
   return (
     <div>
-      <button type="button" onClick={() => setZoom(true)} className="group relative block w-full overflow-hidden rounded-3xl border border-slate-200 bg-slate-100 shadow-xl" aria-label="Enlarge screenshot">
-        <div className="flex h-[300px] items-center justify-center sm:h-[420px]">
+      <button type="button" onClick={() => setZoom(true)} className="canvas-dots group relative block w-full overflow-hidden border-y border-line sm:rounded-lg sm:border" aria-label="Enlarge screenshot">
+        <div className="flex h-[280px] items-center justify-center sm:h-[440px]">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src={s.src} alt={`${name}: ${s.caption}`} className={`max-h-full ${s.mobile ? "w-auto" : "h-full w-full object-cover object-top"}`} />
         </div>
-        <span className="absolute bottom-3 left-3 rounded-full bg-black/60 px-3 py-1 text-xs text-white">{s.caption} · {i + 1}/{shots.length}</span>
+        <span className="absolute bottom-3 left-3 rounded bg-ink/85 px-2.5 py-1 text-xs text-white">{s.caption} · {i + 1}/{shots.length}</span>
         <span className="absolute right-3 top-3 rounded-full bg-white/90 p-2 text-brand-navy opacity-0 shadow transition group-hover:opacity-100"><Icon name="search" className="h-4 w-4" /></span>
       </button>
-      <div className="mt-3 flex gap-2 overflow-x-auto pb-1">
+      <div className="mt-3 flex gap-2 overflow-x-auto px-4 pb-1 sm:px-0">
         {shots.map((t, j) => (
           <button key={t.src} type="button" onClick={() => setI(j)} aria-label={`Show screenshot ${j + 1}: ${t.caption}`}
             className={`h-16 w-24 shrink-0 overflow-hidden rounded-lg border-2 bg-slate-100 ${j === i ? "border-brand-blue" : "border-transparent opacity-70 hover:opacity-100"}`}>

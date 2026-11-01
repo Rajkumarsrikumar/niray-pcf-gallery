@@ -4,10 +4,16 @@ export default {
   theme: {
     extend: {
       colors: {
-        brand: { navy: "#003B5C", blue: "#007B7F", teal: "#8DC63F", green: "#4CB648", slate: "#5B7B8C", sky: "#F0F2F4", ice: "#F5F6F7" },
+        ink: { DEFAULT: "#102A43", soft: "#486581", faint: "#829AB1" },
+        paper: "#F7F8FA",
+        line: "#DCE3EC",
+        tile: { plum: "#7A2E83", blue: "#1D6FE0", sun: "#F4B400", leaf: "#1F9D62", teal: "#0F6E78" },
+        brand: { navy: "#102A43", blue: "#1D6FE0", teal: "#8DC63F", green: "#1F9D62", slate: "#486581", sky: "#EEF2F7", ice: "#F7F8FA" },
       },
-      fontFamily: { sans: ["Inter", "system-ui", "sans-serif"], display: ["var(--font-display)", "Inter", "sans-serif"] },
-      backgroundImage: { "hero-mesh": "linear-gradient(135deg, #003B5C 0%, #00304B 40%, #002A42 100%)", "blue-teal": "linear-gradient(135deg, #007B7F 0%, #8DC63F 100%)" },
+      fontFamily: {
+        sans: ["var(--font-body)", "system-ui", "sans-serif"],
+        display: ["var(--font-display)", "var(--font-body)", "sans-serif"],
+      },
     },
   },
 } satisfies Config;

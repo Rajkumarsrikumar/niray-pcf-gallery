@@ -25,7 +25,7 @@ export default function CustomForm() {
   };
 
   return (
-    <form onSubmit={submit} className="space-y-4 rounded-3xl border border-slate-200 bg-white p-6 shadow-sm sm:p-8" noValidate>
+    <form onSubmit={submit} className="space-y-4 rounded-lg border border-slate-200 bg-white p-6 shadow-sm sm:p-8" noValidate>
       <h2 className="text-xl font-bold text-brand-navy">Request custom development</h2>
       <div className="grid gap-4 sm:grid-cols-2">
         <label className="text-sm font-medium text-slate-700">Name *<input className={`${field} mt-1`} value={f.name} onChange={set("name")} autoComplete="name" /></label>

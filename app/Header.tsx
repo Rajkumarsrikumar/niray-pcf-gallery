@@ -21,24 +21,22 @@ export default function Header() {
   const submit = (e: React.FormEvent) => { e.preventDefault(); router.push(`/components${q.trim() ? `?q=${encodeURIComponent(q.trim())}` : ""}`); setMenu(false); };
   return (
     <>
-      <div className="bg-brand-navy px-4 py-2 text-center text-xs font-medium text-white">
-        <span className="text-brand-teal">New:</span> 4 industry packs and 178 PCF components · Managed + unmanaged solutions and a user manual with every component
-      </div>
-      <header className="sticky top-0 z-30 border-b border-slate-200 bg-white/95 backdrop-blur">
+      <div className="bg-ink px-4 py-2 text-center text-xs text-white/85">Every component comes with managed and unmanaged solutions and a user manual.</div>
+      <header className="sticky top-0 z-30 border-b border-line bg-white">
         <div className="mx-auto flex max-w-7xl items-center gap-3 px-4 py-3 sm:gap-6">
           <button className="lg:hidden" onClick={() => setMenu(!menu)} aria-label="Menu" aria-expanded={menu}><Icon name={menu ? "x" : "menu"} className="h-6 w-6 text-brand-navy" /></button>
           <Link href="/" className="shrink-0" aria-label="Niray PCF Gallery home"><Logo /></Link>
           <form onSubmit={submit} className="relative hidden flex-1 md:block" role="search">
             <Icon name="search" className="absolute left-3.5 top-1/2 h-4 w-4 -translate-y-1/2 text-slate-400" />
-            <input value={q} onChange={(e) => setQ(e.target.value)} placeholder="Search 178 components: claims, bed board, timetable…" aria-label="Search components"
-              className="w-full rounded-full border border-slate-200 bg-slate-50 py-2.5 pl-10 pr-4 text-sm focus:border-brand-blue focus:bg-white focus:outline-none focus:ring-4 focus:ring-brand-blue/10" />
+            <input value={q} onChange={(e) => setQ(e.target.value)} placeholder="Search components: claims, bed board, timetable" aria-label="Search components"
+              className="w-full rounded-lg border border-line bg-paper py-2.5 pl-10 pr-4 text-sm focus:border-tile-blue focus:bg-white focus:outline-none" />
           </form>
-          <nav className="hidden items-center gap-5 text-sm font-medium text-slate-600 lg:flex">
-            {nav.map((n) => <Link key={n.href} href={n.href} className="whitespace-nowrap hover:text-brand-blue">{n.label}</Link>)}
+          <nav className="hidden items-center gap-5 text-sm font-medium text-ink-soft lg:flex">
+            {nav.map((n) => <Link key={n.href} href={n.href} className="whitespace-nowrap hover:text-ink">{n.label}</Link>)}
           </nav>
           <button onClick={() => setOpen(true)} className="relative ml-auto rounded-full p-2 text-brand-navy hover:bg-slate-100 md:ml-0" aria-label={`Basket, ${items.length} items`}>
             <Icon name="cart" className="h-6 w-6" />
-            {items.length > 0 && <span className="absolute -right-0.5 -top-0.5 grid h-5 min-w-5 place-items-center rounded-full bg-brand-green px-1 text-[11px] font-bold text-white">{items.length}</span>}
+            {items.length > 0 && <span className="absolute -right-0.5 -top-0.5 grid h-5 min-w-5 place-items-center rounded-full bg-tile-leaf px-1 text-[11px] font-bold text-white">{items.length}</span>}
           </button>
         </div>
         {menu && (

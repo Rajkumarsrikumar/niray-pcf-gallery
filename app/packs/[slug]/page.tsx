@@ -26,15 +26,15 @@ export default function PackPage({ params }: { params: { slug: string } }) {
   const all = Array.from(groups.values()).flat();
   return (
     <>
-      <section className="text-white" style={{ background: `linear-gradient(140deg, ${t.from}, ${t.to})` }}>
+      <section style={{ background: t.color, color: t.on }}>
         <div className="mx-auto grid max-w-7xl gap-8 px-4 py-14 lg:grid-cols-[1fr_360px] lg:items-center">
           <div>
-            <Link href="/packs" className="text-sm text-white/80 hover:text-white">← All packs</Link>
+            <Link href="/packs" className="text-sm opacity-80 hover:opacity-100">← All packs</Link>
             <h1 className="mt-4 text-4xl font-extrabold sm:text-5xl">{p.name}</h1>
-            <p className="mt-3 max-w-xl text-lg text-white/85">{t.blurb} {all.length} components, grouped by workflow, in one solution.</p>
+            <p className="mt-3 max-w-xl text-lg opacity-90">{t.blurb} {all.length} components, grouped by workflow, in one solution.</p>
             {p.status !== "complete" && <p className="mt-3 inline-block rounded-full bg-black/20 px-3 py-1 text-sm">Pack in progress: {all.length} of {p.planned} built so far</p>}
           </div>
-          <div className="rounded-3xl bg-white p-6 text-slate-800 shadow-2xl">
+          <div className="rounded-lg bg-white p-6 text-ink shadow-lg">
             <p className="text-sm text-slate-500">Bundle price</p>
             <p className="text-3xl font-extrabold text-brand-navy">{p.price ? `$${p.price}` : "On request"}</p>
             <ul className="my-5 space-y-2 text-sm">

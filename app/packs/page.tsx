@@ -8,8 +8,7 @@ export const metadata = { title: "Industry packs | Niray PCF Gallery" };
 export default function Packs() {
   return (
     <div className="mx-auto max-w-7xl px-4 py-10">
-      <p className="text-sm text-slate-500">Home / Industry packs</p>
-      <h1 className="mt-1 text-3xl font-extrabold text-brand-navy sm:text-4xl">Industry packs</h1>
+            <h1 className="mt-1 text-3xl font-extrabold text-brand-navy sm:text-4xl">Industry packs</h1>
       <p className="mt-2 max-w-2xl text-slate-600">Up to 30 components researched for one sector and delivered as a single solution, with a pack catalogue.</p>
       <div className="mt-10 grid gap-6 md:grid-cols-2">
         {allPacks.map((p) => {
@@ -17,14 +16,14 @@ export default function Packs() {
           const items = packComponents(p);
           const ready = items.filter(isAvailable).length;
           return (
-            <div key={p.slug} className="overflow-hidden rounded-3xl border border-slate-200 bg-white shadow-sm transition hover:shadow-xl">
-              <Link href={`/packs/${p.slug}`} className="block p-7 text-white" style={{ background: `linear-gradient(140deg, ${t.from}, ${t.to})` }}>
+            <div key={p.slug} className="overflow-hidden rounded-lg border border-line bg-white">
+              <Link href={`/packs/${p.slug}`} className="block p-7" style={{ background: t.color, color: t.on }}>
                 <div className="flex items-start justify-between">
                   <span className="grid h-12 w-12 place-items-center rounded-2xl bg-white/15"><Icon name={t.icon} className="h-7 w-7" /></span>
-                  <span className="rounded-full bg-black/20 px-3 py-1 text-xs font-semibold">{p.status === "complete" ? "Complete pack" : `In progress · ${items.length}/${p.planned}`}</span>
+                  <span className="rounded bg-black/15 px-2.5 py-1 text-xs font-semibold">{p.status === "complete" ? "Complete pack" : `In progress · ${items.length}/${p.planned}`}</span>
                 </div>
                 <h2 className="mt-8 text-2xl font-extrabold">{p.name}</h2>
-                <p className="mt-1 text-sm text-white/80">{t.blurb}</p>
+                <p className="mt-1 text-sm opacity-85">{t.blurb}</p>
               </Link>
               <div className="p-6">
                 <div className="flex gap-6 text-sm">

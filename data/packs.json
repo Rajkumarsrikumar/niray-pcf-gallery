@@ -435,6 +435,10 @@
    {
     "slug": "tuition-fee-statement",
     "subCategory": "Student finance"
+   },
+   {
+    "slug": "financial-aid-award-viewer",
+    "subCategory": "Student finance"
    }
   ],
   "price": null

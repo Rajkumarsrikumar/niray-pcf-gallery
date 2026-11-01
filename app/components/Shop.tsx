@@ -37,7 +37,7 @@ export default function Shop() {
   const filters = (
     <div className="space-y-7">
       <div>
-        <p className="mb-3 text-xs font-bold uppercase tracking-wider text-slate-500">Industry</p>
+        <p className="mb-3 text-sm font-bold text-ink">Industry</p>
         <div className="space-y-2">
           {industries.map((i) => (
             <label key={i} className="flex cursor-pointer items-center gap-2.5 text-sm text-slate-700">
@@ -48,13 +48,13 @@ export default function Shop() {
         </div>
       </div>
       <div>
-        <p className="mb-3 text-xs font-bold uppercase tracking-wider text-slate-500">Availability</p>
+        <p className="mb-3 text-sm font-bold text-ink">Availability</p>
         <label className="flex cursor-pointer items-center gap-2.5 text-sm text-slate-700">
-          <input type="checkbox" checked={stockOnly} onChange={(e) => setStockOnly(e.target.checked)} className="h-4 w-4 accent-brand-blue" /> In stock only
+          <input type="checkbox" checked={stockOnly} onChange={(e) => setStockOnly(e.target.checked)} className="h-4 w-4 accent-brand-blue" /> Ready to download now
         </label>
       </div>
       <div>
-        <p className="mb-3 text-xs font-bold uppercase tracking-wider text-slate-500">Category</p>
+        <p className="mb-3 text-sm font-bold text-ink">Category</p>
         <select value={cat} onChange={(e) => setCat(e.target.value)} aria-label="Category" className="w-full rounded-lg border border-slate-300 bg-white px-3 py-2 text-sm">
           <option value="All">All categories</option>
           {categories.map((c) => <option key={c}>{c}</option>)}
@@ -67,8 +67,7 @@ export default function Shop() {
   return (
     <div className="mx-auto max-w-7xl px-4 py-10">
       <div className="mb-8">
-        <p className="text-sm text-slate-500">Home / Shop</p>
-        <h1 className="mt-1 text-3xl font-extrabold text-brand-navy sm:text-4xl">All PCF components</h1>
+                <h1 className="mt-1 text-4xl font-extrabold tracking-[-0.03em] text-ink sm:text-5xl">All components</h1>
       </div>
       <div className="grid gap-8 lg:grid-cols-[240px_1fr]">
         <aside className="hidden lg:block">{filters}</aside>
@@ -90,7 +89,7 @@ export default function Shop() {
           </div>
           {filtersOpen && <div className="mb-6 rounded-2xl border border-slate-200 bg-white p-5 lg:hidden">{filters}</div>}
           <p className="mb-4 text-sm text-slate-500"><span className="font-semibold text-brand-navy">{shown.length}</span> results</p>
-          <div className="grid gap-5 sm:grid-cols-2 xl:grid-cols-3">{shown.map((c) => <ProductCard key={c.slug} c={c} />)}</div>
+          <div className="grid gap-x-5 gap-y-8 sm:grid-cols-2 xl:grid-cols-3">{shown.map((c) => <ProductCard key={c.slug} c={c} />)}</div>
           {shown.length === 0 && (
             <div className="rounded-2xl border border-dashed border-slate-300 py-16 text-center">
               <p className="font-semibold text-brand-navy">No components match these filters.</p>

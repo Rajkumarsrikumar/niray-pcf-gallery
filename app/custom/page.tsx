@@ -13,11 +13,10 @@ const steps = [
 export default function Custom() {
   return (
     <>
-      <section className="bg-hero-mesh text-white">
+      <section className="canvas-dots border-b border-line">
         <div className="mx-auto max-w-7xl px-4 py-14">
-          <p className="text-sm font-semibold uppercase tracking-wider text-brand-teal">Custom development</p>
-          <h1 className="mt-2 max-w-3xl text-4xl font-extrabold sm:text-5xl">Can't find the component you need? We'll build it.</h1>
-          <p className="mt-4 max-w-2xl text-lg text-slate-200">Niray IT Solutions builds custom PCF controls for Canvas apps, Model-driven apps and Power Pages, or tailors an existing gallery component to your process.</p>
+                    <h1 className="mt-2 max-w-3xl text-4xl font-extrabold tracking-[-0.03em] text-ink sm:text-6xl">Can't find the component you need? We'll build it.</h1>
+          <p className="mt-4 max-w-2xl text-lg text-ink-soft">Niray IT Solutions builds custom PCF controls for Canvas apps, Model-driven apps and Power Pages, or tailors an existing gallery component to your process.</p>
         </div>
       </section>
       <div className="mx-auto grid max-w-7xl gap-10 px-4 py-12 lg:grid-cols-[1fr_1.2fr]">

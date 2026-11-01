@@ -88,18 +88,17 @@ export default function ProductArt({ c, size = "card" }: { c: Component; size?: 
   const t = themeFor(c.industry);
   const seed = hash(c.slug);
   return (
-    <div className="relative overflow-hidden" style={{ background: `linear-gradient(135deg, ${t.from}, ${t.to})` }}>
-      <div className="absolute -right-10 -top-10 h-40 w-40 rounded-full opacity-20 blur-2xl" style={{ background: t.accent }} />
+    <div className="relative overflow-hidden" style={{ background: t.color }}>
       <div className={size === "hero" ? "p-8 sm:p-12" : "p-5"}>
-        <div className={`mx-auto rounded-lg border border-white/25 bg-white/10 shadow-2xl backdrop-blur ${size === "hero" ? "max-w-md" : ""}`}>
+        <div className={`mx-auto rounded-lg border border-white/30 bg-white/10 ${size === "hero" ? "max-w-md" : ""}`}>
           <div className="flex items-center gap-1 border-b border-white/20 px-2 py-1.5">
             <span className="h-1.5 w-1.5 rounded-full bg-white/60" /><span className="h-1.5 w-1.5 rounded-full bg-white/60" /><span className="h-1.5 w-1.5 rounded-full bg-white/60" />
             <span className="ml-2 truncate text-[9px] font-medium text-white/80">{c.name}</span>
           </div>
-          <div className={`${size === "hero" ? "h-56" : "h-28"} p-2.5`}><Mock kind={pick(c)} accent={t.accent} seed={seed} /></div>
+          <div className={`${size === "hero" ? "h-56" : "h-28"} p-2.5`}><Mock kind={pick(c)} accent={t.color === "#F4B400" ? "#102A43" : "#F4B400"} seed={seed} /></div>
         </div>
       </div>
-      <span className="absolute bottom-2 left-2 rounded-full bg-black/25 p-1.5 text-white backdrop-blur"><Icon name={t.icon} className="h-3.5 w-3.5" /></span>
+      <span className="absolute bottom-2 left-2 rounded-full bg-black/20 p-1.5 text-white"><Icon name={t.icon} className="h-3.5 w-3.5" /></span>
     </div>
   );
 }

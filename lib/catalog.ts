@@ -18,12 +18,14 @@ export const packForComponent = (c: Component) => allPacks.find((p) => p.compone
 export const isAvailable = (c: Component) => c.availability === "Available";
 export const industrySlug = (i: string) => i.toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]+/g, "-");
 
-export const theme: Record<string, { from: string; to: string; accent: string; icon: string; blurb: string }> = {
-  "Cross-industry": { from: "#003B5C", to: "#007B7F", accent: "#8DC63F", icon: "grid", blurb: "Grids, navigation, scheduling, maps and more for any app." },
-  "Healthcare & Life Sciences": { from: "#0E5E6F", to: "#3FA796", accent: "#C9F2E7", icon: "heart", blurb: "Patient access, clinical documentation and care coordination." },
-  "Government & Public Sector": { from: "#1F3A68", to: "#4C6FB5", accent: "#FFD166", icon: "landmark", blurb: "Citizen portals, permits, grants, benefits and case work." },
-  "Financial Services & Insurance": { from: "#2C2A6B", to: "#6A4FB3", accent: "#F2C14E", icon: "bank", blurb: "Banking, lending, wealth, claims and policy servicing." },
-  Education: { from: "#7A3B12", to: "#D9822B", accent: "#FFE3B3", icon: "cap", blurb: "Admissions, student records, fees and learning portals." },
+export type Theme = { color: string; on: string; soft: string; icon: string; blurb: string };
+// Flat colours taken from the four logo tiles (plus one), one per industry.
+export const theme: Record<string, Theme> = {
+  "Cross-industry": { color: "#1D6FE0", on: "#FFFFFF", soft: "#E6EFFC", icon: "grid", blurb: "Grids, navigation, scheduling and maps for any business app." },
+  "Healthcare & Life Sciences": { color: "#1F9D62", on: "#FFFFFF", soft: "#E3F4EB", icon: "heart", blurb: "Patient access, clinical documentation and care coordination." },
+  "Government & Public Sector": { color: "#7A2E83", on: "#FFFFFF", soft: "#F2E7F3", icon: "landmark", blurb: "Citizen portals, permits, grants, benefits and case work." },
+  "Financial Services & Insurance": { color: "#0F6E78", on: "#FFFFFF", soft: "#E1F0F1", icon: "bank", blurb: "Banking, lending, wealth, claims and policy servicing." },
+  Education: { color: "#F4B400", on: "#102A43", soft: "#FDF3D4", icon: "cap", blurb: "Admissions, student records, fees and timetables." },
 };
 export const themeFor = (industry: string) => theme[industry] ?? theme["Cross-industry"];
 
