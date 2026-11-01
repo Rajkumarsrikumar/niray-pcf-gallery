@@ -35,3 +35,5 @@ export const CONTACT = "info@nirayitsolutions.com";
 import screens from "@/data/screens.json";
 export type Screen = { src: string; w: number; h: number; caption: string; mobile: boolean };
 export const screensFor = (slug: string): Screen[] => (screens as Record<string, Screen[]>)[slug] ?? [];
+/** Small preview written by scripts/make-thumbs.py, for cards and thumbnail strips. */
+export const thumbOf = (src: string) => src.replace(/\.webp$/, ".thumb.webp");

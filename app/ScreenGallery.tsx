@@ -1,7 +1,7 @@
 "use client";
 import { useEffect, useState } from "react";
 import Icon from "./Icon";
-import type { Screen } from "@/lib/catalog";
+import { thumbOf, type Screen } from "@/lib/catalog";
 
 export default function ScreenGallery({ shots, name }: { shots: Screen[]; name: string }) {
   const [i, setI] = useState(0);
@@ -32,7 +32,7 @@ export default function ScreenGallery({ shots, name }: { shots: Screen[]; name: 
           <button key={t.src} type="button" onClick={() => setI(j)} aria-label={`Show screenshot ${j + 1}: ${t.caption}`}
             className={`h-16 w-24 shrink-0 overflow-hidden rounded-lg border-2 bg-slate-100 ${j === i ? "border-brand-blue" : "border-transparent opacity-70 hover:opacity-100"}`}>
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={t.src} alt="" loading="lazy" className="h-full w-full object-cover object-top" />
+            <img src={thumbOf(t.src)} alt="" loading="lazy" decoding="async" className="h-full w-full object-cover object-top" />
           </button>
         ))}
       </div>

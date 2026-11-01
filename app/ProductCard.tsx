@@ -1,7 +1,7 @@
 import Link from "next/link";
 import ProductArt from "./ProductArt";
 import AddToCart from "./AddToCart";
-import { isAvailable, screensFor, themeFor, type Component } from "@/lib/catalog";
+import { isAvailable, screensFor, themeFor, thumbOf, type Component } from "@/lib/catalog";
 
 export default function ProductCard({ c }: { c: Component }) {
   const t = themeFor(c.industry);
@@ -11,7 +11,7 @@ export default function ProductCard({ c }: { c: Component }) {
       <div className="relative overflow-hidden rounded-2xl border border-line bg-paper transition-shadow duration-300 group-hover:shadow-[0_18px_40px_-22px_rgba(0,59,92,0.55)]">
         {shot ? (
           // eslint-disable-next-line @next/next/no-img-element
-          <img src={shot.src} alt="" loading="lazy" className="aspect-[4/3] w-full object-cover object-top transition-transform duration-500 group-hover:scale-[1.03]" />
+          <img src={thumbOf(shot.src)} alt="" loading="lazy" decoding="async" className="aspect-[4/3] w-full object-cover object-top transition-transform duration-500 group-hover:scale-[1.03]" />
         ) : (
           <div className="aspect-[4/3] overflow-hidden"><ProductArt c={c} /></div>
         )}
@@ -23,7 +23,7 @@ export default function ProductCard({ c }: { c: Component }) {
       <div className="flex flex-1 flex-col px-1 pt-3.5">
         <p className="flex items-center gap-1.5 text-xs font-medium text-ink-faint"><i className="h-2 w-2 rounded-full" style={{ background: t.color }} />{c.industry}</p>
         <h3 className="mt-1 text-[17px] font-bold leading-snug tracking-tight text-ink">
-          <Link href={`/components/${c.slug}`} className="after:absolute after:inset-0 after:content-[''] focus:outline-none">{c.name}</Link>
+          <Link href={`/components/${c.slug}`} prefetch={false} className="after:absolute after:inset-0 after:content-[''] focus:outline-none">{c.name}</Link>
         </h3>
         <p className="mt-1 line-clamp-2 text-sm leading-relaxed text-ink-soft">{c.tagline}</p>
         <p className="mt-auto pt-3 text-sm font-semibold text-ink">{c.price ? `$${c.price}` : "Price on request"}</p>
