@@ -1,0 +1,58 @@
+[
+ {
+  "src": "/screens/grade-goal-calculator/01.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/grade-goal-calculator/02.webp",
+  "w": 357,
+  "h": 1756,
+  "caption": "Overview",
+  "mobile": true
+ },
+ {
+  "src": "/screens/grade-goal-calculator/03.webp",
+  "w": 357,
+  "h": 1547,
+  "caption": "Gpa",
+  "mobile": true
+ },
+ {
+  "src": "/screens/grade-goal-calculator/04.webp",
+  "w": 357,
+  "h": 809,
+  "caption": "Scenarios",
+  "mobile": true
+ },
+ {
+  "src": "/screens/grade-goal-calculator/05.webp",
+  "w": 978,
+  "h": 1185,
+  "caption": "Control",
+  "mobile": false
+ },
+ {
+  "src": "/screens/grade-goal-calculator/06.webp",
+  "w": 978,
+  "h": 1185,
+  "caption": "Target a stretch",
+  "mobile": false
+ },
+ {
+  "src": "/screens/grade-goal-calculator/07.webp",
+  "w": 978,
+  "h": 1185,
+  "caption": "Whatif scores",
+  "mobile": false
+ },
+ {
+  "src": "/screens/grade-goal-calculator/08.webp",
+  "w": 978,
+  "h": 1148,
+  "caption": "Impossible",
+  "mobile": false
+ }
+]

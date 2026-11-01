@@ -1,0 +1,58 @@
+[
+ {
+  "src": "/screens/investment-performance-chart/01.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Default 1y",
+  "mobile": false
+ },
+ {
+  "src": "/screens/investment-performance-chart/02.webp",
+  "w": 998,
+  "h": 949,
+  "caption": "B default 1y control",
+  "mobile": false
+ },
+ {
+  "src": "/screens/investment-performance-chart/03.webp",
+  "w": 357,
+  "h": 1740,
+  "caption": "Overview",
+  "mobile": true
+ },
+ {
+  "src": "/screens/investment-performance-chart/04.webp",
+  "w": 357,
+  "h": 1873,
+  "caption": "Tooltip cards",
+  "mobile": true
+ },
+ {
+  "src": "/screens/investment-performance-chart/05.webp",
+  "w": 357,
+  "h": 1740,
+  "caption": "B drawdown",
+  "mobile": true
+ },
+ {
+  "src": "/screens/investment-performance-chart/06.webp",
+  "w": 998,
+  "h": 979,
+  "caption": "Growth since inception hover",
+  "mobile": false
+ },
+ {
+  "src": "/screens/investment-performance-chart/07.webp",
+  "w": 998,
+  "h": 979,
+  "caption": "Value contributions",
+  "mobile": false
+ },
+ {
+  "src": "/screens/investment-performance-chart/08.webp",
+  "w": 998,
+  "h": 979,
+  "caption": "Drawdown 5y",
+  "mobile": false
+ }
+]

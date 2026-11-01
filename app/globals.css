@@ -1,4 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-body { @apply bg-brand-ice text-slate-800 antialiased; }
+
+body { @apply bg-white text-ink antialiased; font-feature-settings: "cv11", "ss01"; }
+:focus-visible { outline: 3px solid #007B7F; outline-offset: 2px; }
+
+/* The maker's canvas: a dot grid like the Power Apps studio surface */
+.canvas-dots {
+  background-color: #F4F7F9;
+  background-image: radial-gradient(#CFDAE1 1px, transparent 1.2px);
+  background-size: 18px 18px;
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }

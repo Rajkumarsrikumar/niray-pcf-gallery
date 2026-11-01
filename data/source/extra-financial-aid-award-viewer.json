@@ -1,0 +1,48 @@
+{
+ "name": "FinancialAidAwardViewer",
+ "displayName": "Financial Aid Award Viewer",
+ "slug": "financial-aid-award-viewer",
+ "schemaName": "niray_Niray.FinancialAidAwardViewer",
+ "tagline": "Turn the financial aid offer into an interactive award letter with live net price.",
+ "description": "PCF code component for student portals: cost of attendance, grants, scholarships, work-study and loans with accept / reduce / decline per award, net price and estimated bill, per-term disbursements, loan requirement holds, response deadline countdown and a validated submit flow. Canvas, Model-driven and Power Pages.",
+ "features": [
+  "Accept / Reduce / Decline per award with min/max validation",
+  "Live net price and estimated bill or refund",
+  "Gift aid vs self-help grouping with term split",
+  "Loan net disbursement and requirement holds",
+  "Response deadline countdown",
+  "Over-award and missing-decision validation with acknowledgement and submit",
+  "Requirements checklist and cost of attendance breakdown",
+  "Phone layout with sticky net price and Submit bar",
+  "19 outputs and a browser change event",
+  "Configurable labels, currency, locale and colours"
+ ],
+ "industry": "Education",
+ "pack": "Niray Education PCF Pack",
+ "category": "Education",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps",
+  "Power Pages"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "tags": [
+  "education",
+  "financial-aid",
+  "award-letter",
+  "net-price",
+  "student-portal",
+  "power-pages"
+ ],
+ "status": "pending-sync",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-01",
+ "react": "16.14.0 (bundled)",
+ "controlType": "standard",
+ "userManual": "FinancialAidAwardViewer-User-Manual.docx",
+ "screenshotCount": 19,
+ "price": null
+}

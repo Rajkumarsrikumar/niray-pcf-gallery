@@ -1,134 +1,446 @@
 [
  {
-  "slug": "healthcare",
+  "slug": "healthcare-pcf-pack",
   "name": "Niray Healthcare PCF Pack",
   "industry": "Healthcare & Life Sciences",
-  "complete": true,
+  "status": "complete",
+  "planned": 30,
   "components": [
-   "PatientBanner",
-   "AppointmentSlotBooking",
-   "PatientIntakeWizard",
-   "VitalsFlowsheet",
-   "EarlyWarningScore",
-   "MedicationAdministrationRecord",
-   "MedicationReconciliation",
-   "AllergyIntoleranceManager",
-   "ProblemListManager",
-   "CarePlanGoalTracker",
-   "BedManagementBoard",
-   "PatientFlowQueue",
-   "WoundAssessmentTracker",
-   "ClinicalScoringInstrument",
-   "LabResultsViewer",
-   "ImmunizationScheduleTracker",
-   "ReferralTracker",
-   "InsuranceCoverageCard",
-   "PatientConsentManager",
-   "DischargeReadinessPlanner",
-   "TelehealthWaitingRoom",
-   "CareTeamPanel",
-   "FamilyHistoryGenogram",
-   "PaediatricGrowthChart",
-   "ClinicalOrderEntry",
-   "DentalToothChart",
-   "PrescriptionRefillRequest",
-   "NursingHandoverSBAR",
-   "FluidBalanceChart"
-  ]
+   {
+    "slug": "patient-banner",
+    "subCategory": "Clinical context"
+   },
+   {
+    "slug": "appointment-slot-booking",
+    "subCategory": "Patient access"
+   },
+   {
+    "slug": "patient-intake-wizard",
+    "subCategory": "Patient access"
+   },
+   {
+    "slug": "vitals-flowsheet",
+    "subCategory": "Clinical documentation"
+   },
+   {
+    "slug": "early-warning-score",
+    "subCategory": "Clinical decision support"
+   },
+   {
+    "slug": "medication-administration-record",
+    "subCategory": "Medication"
+   },
+   {
+    "slug": "medication-reconciliation",
+    "subCategory": "Medication"
+   },
+   {
+    "slug": "allergy-intolerance-manager",
+    "subCategory": "Clinical documentation"
+   },
+   {
+    "slug": "problem-list-manager",
+    "subCategory": "Clinical documentation"
+   },
+   {
+    "slug": "care-plan-goal-tracker",
+    "subCategory": "Care management"
+   },
+   {
+    "slug": "bed-management-board",
+    "subCategory": "Patient flow"
+   },
+   {
+    "slug": "patient-flow-queue",
+    "subCategory": "Patient flow"
+   },
+   {
+    "slug": "wound-assessment-tracker",
+    "subCategory": "Clinical documentation"
+   },
+   {
+    "slug": "clinical-scoring-instrument",
+    "subCategory": "Assessments"
+   },
+   {
+    "slug": "lab-results-viewer",
+    "subCategory": "Results"
+   },
+   {
+    "slug": "immunization-schedule-tracker",
+    "subCategory": "Preventive care"
+   },
+   {
+    "slug": "referral-tracker",
+    "subCategory": "Care coordination"
+   },
+   {
+    "slug": "insurance-coverage-card",
+    "subCategory": "Revenue cycle"
+   },
+   {
+    "slug": "patient-consent-manager",
+    "subCategory": "Compliance"
+   },
+   {
+    "slug": "discharge-readiness-planner",
+    "subCategory": "Patient flow"
+   },
+   {
+    "slug": "telehealth-waiting-room",
+    "subCategory": "Patient access"
+   },
+   {
+    "slug": "care-team-panel",
+    "subCategory": "Care coordination"
+   },
+   {
+    "slug": "family-history-genogram",
+    "subCategory": "Clinical documentation"
+   },
+   {
+    "slug": "paediatric-growth-chart",
+    "subCategory": "Clinical decision support"
+   },
+   {
+    "slug": "clinical-order-entry",
+    "subCategory": "Orders"
+   },
+   {
+    "slug": "dental-tooth-chart",
+    "subCategory": "Specialty"
+   },
+   {
+    "slug": "prescription-refill-request",
+    "subCategory": "Patient access"
+   },
+   {
+    "slug": "nursing-handover-sbar",
+    "subCategory": "Care coordination"
+   },
+   {
+    "slug": "fluid-balance-chart",
+    "subCategory": "Clinical documentation"
+   }
+  ],
+  "price": null
  },
  {
-  "slug": "public-sector",
+  "slug": "public-sector-pcf-pack",
   "name": "Niray Public Sector PCF Pack",
   "industry": "Government & Public Sector",
-  "complete": true,
+  "status": "complete",
+  "planned": 30,
   "components": [
-   "PermitFeeCalculator",
-   "ServiceRequestReporter",
-   "PermitApplicationStatusTracker",
-   "BenefitEligibilityScreener",
-   "InspectionBookingScheduler",
-   "CodeEnforcementCaseBoard",
-   "ParcelZoningPanel",
-   "GrantBudgetBuilder",
-   "GrantReviewScoringPanel",
-   "RecordsRequestTracker",
-   "BenefitEntitlementLedger",
-   "HouseholdCompositionEditor",
-   "BusinessLicenceRenewalWizard",
-   "PublicMeetingAgenda",
-   "PublicCommentPortal",
-   "ParticipatoryBudgetAllocator",
-   "CapitalProjectTracker",
-   "PropertyTaxBillExplainer",
-   "CitationPaymentPanel",
-   "UtilityUsageEstimator",
-   "WasteCollectionCalendar",
-   "CourtHearingDocket",
-   "ShelterCapacityBoard",
-   "DamageAssessmentForm",
-   "LicenceCertificateViewer",
-   "StatutoryDeadlineCalculator",
-   "RepresentativeLookup",
-   "PollingPlaceFinder",
-   "AccessibilityLanguageToolbar",
-   "FleetDefectReport"
-  ]
+   {
+    "slug": "permit-fee-calculator",
+    "subCategory": "Permitting & licensing"
+   },
+   {
+    "slug": "service-request-reporter",
+    "subCategory": "Citizen services (311)"
+   },
+   {
+    "slug": "permit-application-status-tracker",
+    "subCategory": "Permitting & licensing"
+   },
+   {
+    "slug": "benefit-eligibility-screener",
+    "subCategory": "Programs & benefits"
+   },
+   {
+    "slug": "inspection-booking-scheduler",
+    "subCategory": "Code & inspections"
+   },
+   {
+    "slug": "code-enforcement-case-board",
+    "subCategory": "Code & inspections"
+   },
+   {
+    "slug": "parcel-zoning-panel",
+    "subCategory": "Planning & zoning"
+   },
+   {
+    "slug": "grant-budget-builder",
+    "subCategory": "Grants"
+   },
+   {
+    "slug": "grant-review-scoring-panel",
+    "subCategory": "Grants"
+   },
+   {
+    "slug": "records-request-tracker",
+    "subCategory": "Transparency (FOI/FOIA)"
+   },
+   {
+    "slug": "benefit-entitlement-ledger",
+    "subCategory": "Programs & benefits"
+   },
+   {
+    "slug": "household-composition-editor",
+    "subCategory": "Programs & benefits"
+   },
+   {
+    "slug": "business-licence-renewal-wizard",
+    "subCategory": "Permitting & licensing"
+   },
+   {
+    "slug": "public-meeting-agenda",
+    "subCategory": "Council & boards"
+   },
+   {
+    "slug": "public-comment-portal",
+    "subCategory": "Council & boards"
+   },
+   {
+    "slug": "participatory-budget-allocator",
+    "subCategory": "Civic engagement"
+   },
+   {
+    "slug": "capital-project-tracker",
+    "subCategory": "Public works"
+   },
+   {
+    "slug": "property-tax-bill-explainer",
+    "subCategory": "Revenue"
+   },
+   {
+    "slug": "citation-payment-panel",
+    "subCategory": "Revenue"
+   },
+   {
+    "slug": "utility-usage-estimator",
+    "subCategory": "Utilities"
+   },
+   {
+    "slug": "waste-collection-calendar",
+    "subCategory": "Public works"
+   },
+   {
+    "slug": "court-hearing-docket",
+    "subCategory": "Justice"
+   },
+   {
+    "slug": "shelter-capacity-board",
+    "subCategory": "Emergency management"
+   },
+   {
+    "slug": "damage-assessment-form",
+    "subCategory": "Emergency management"
+   },
+   {
+    "slug": "licence-certificate-viewer",
+    "subCategory": "Permitting & licensing"
+   },
+   {
+    "slug": "statutory-deadline-calculator",
+    "subCategory": "Compliance"
+   },
+   {
+    "slug": "representative-lookup",
+    "subCategory": "Civic engagement"
+   },
+   {
+    "slug": "polling-place-finder",
+    "subCategory": "Elections"
+   },
+   {
+    "slug": "accessibility-language-toolbar",
+    "subCategory": "Citizen portal"
+   },
+   {
+    "slug": "fleet-defect-report",
+    "subCategory": "Public works"
+   }
+  ],
+  "price": null
  },
  {
-  "slug": "financial-services-insurance",
+  "slug": "financial-services-and-insurance-pcf-pack",
   "name": "Niray Financial Services & Insurance PCF Pack",
   "industry": "Financial Services & Insurance",
-  "complete": true,
+  "status": "complete",
+  "planned": 30,
   "components": [
-   "LoanAmortizationExplorer",
-   "FnolClaimIntake",
-   "InsuranceQuoteBuilder",
-   "PolicyCoverageComparer",
-   "KycVerificationPanel",
-   "CreditApplicationWizard",
-   "ClaimSettlementCalculator",
-   "BeneficiaryDesignationEditor",
-   "PortfolioAllocationViewer",
-   "RiskToleranceQuestionnaire",
-   "TransactionDisputeForm",
-   "AccountTransactionExplorer",
-   "UnderwritingRiskScorecard",
-   "FinancialSpreadingGrid",
-   "CollateralLtvTracker",
-   "CovenantComplianceMonitor",
-   "CollectionsArrangementPlanner",
-   "CardControlsPanel",
-   "InsuredAssetSchedule",
-   "CertificateOfInsuranceRequest",
-   "AmlAlertTriageBoard",
-   "ComplaintsHandlingTracker",
-   "PremiumPaymentPlanner",
-   "NetWorthStatement",
-   "FinancialGoalPlanner",
-   "RenewalRetentionBoard",
-   "AccountProductComparator",
-   "InvestmentPerformanceChart",
-   "ClaimReserveWorksheet",
-   "LoanPayoffQuote"
-  ]
+   {
+    "slug": "loan-amortization-explorer",
+    "subCategory": "Lending"
+   },
+   {
+    "slug": "fnol-claim-intake",
+    "subCategory": "Claims"
+   },
+   {
+    "slug": "insurance-quote-builder",
+    "subCategory": "Underwriting & Sales"
+   },
+   {
+    "slug": "policy-coverage-comparer",
+    "subCategory": "Sales"
+   },
+   {
+    "slug": "kyc-verification-panel",
+    "subCategory": "Compliance"
+   },
+   {
+    "slug": "credit-application-wizard",
+    "subCategory": "Lending"
+   },
+   {
+    "slug": "claim-settlement-calculator",
+    "subCategory": "Claims"
+   },
+   {
+    "slug": "beneficiary-designation-editor",
+    "subCategory": "Life & Wealth"
+   },
+   {
+    "slug": "portfolio-allocation-viewer",
+    "subCategory": "Wealth"
+   },
+   {
+    "slug": "risk-tolerance-questionnaire",
+    "subCategory": "Wealth"
+   },
+   {
+    "slug": "transaction-dispute-form",
+    "subCategory": "Banking"
+   },
+   {
+    "slug": "account-transaction-explorer",
+    "subCategory": "Banking"
+   },
+   {
+    "slug": "underwriting-risk-scorecard",
+    "subCategory": "Underwriting"
+   },
+   {
+    "slug": "financial-spreading-grid",
+    "subCategory": "Commercial Lending"
+   },
+   {
+    "slug": "collateral-ltv-tracker",
+    "subCategory": "Lending"
+   },
+   {
+    "slug": "covenant-compliance-monitor",
+    "subCategory": "Commercial Lending"
+   },
+   {
+    "slug": "collections-arrangement-planner",
+    "subCategory": "Collections"
+   },
+   {
+    "slug": "card-controls-panel",
+    "subCategory": "Banking"
+   },
+   {
+    "slug": "insured-asset-schedule",
+    "subCategory": "Insurance"
+   },
+   {
+    "slug": "certificate-of-insurance-request",
+    "subCategory": "Commercial Insurance"
+   },
+   {
+    "slug": "aml-alert-triage-board",
+    "subCategory": "Compliance"
+   },
+   {
+    "slug": "complaints-handling-tracker",
+    "subCategory": "Compliance"
+   },
+   {
+    "slug": "premium-payment-planner",
+    "subCategory": "Insurance Billing"
+   },
+   {
+    "slug": "net-worth-statement",
+    "subCategory": "Wealth"
+   },
+   {
+    "slug": "financial-goal-planner",
+    "subCategory": "Wealth"
+   },
+   {
+    "slug": "renewal-retention-board",
+    "subCategory": "Insurance"
+   },
+   {
+    "slug": "account-product-comparator",
+    "subCategory": "Banking"
+   },
+   {
+    "slug": "investment-performance-chart",
+    "subCategory": "Wealth"
+   },
+   {
+    "slug": "claim-reserve-worksheet",
+    "subCategory": "Claims"
+   },
+   {
+    "slug": "loan-payoff-quote",
+    "subCategory": "Lending"
+   }
+  ],
+  "price": null
  },
  {
-  "slug": "education",
+  "slug": "education-pcf-pack",
   "name": "Niray Education PCF Pack",
   "industry": "Education",
-  "complete": false,
+  "status": "in progress",
+  "planned": 30,
   "components": [
-   "DegreeAuditProgress",
-   "CourseScheduleBuilder",
-   "GradebookGrid",
-   "AttendanceRegister",
-   "StudentEarlyAlertPanel",
-   "AdmissionsApplicationTracker",
-   "AcademicTranscriptViewer",
-   "GradeGoalCalculator",
-   "AssessmentRubricGrader",
-   "SchoolTimetableGrid",
-   "TuitionFeeStatement"
-  ]
+   {
+    "slug": "degree-audit-progress",
+    "subCategory": "Academic planning"
+   },
+   {
+    "slug": "course-schedule-builder",
+    "subCategory": "Registration"
+   },
+   {
+    "slug": "gradebook-grid",
+    "subCategory": "Teaching & assessment"
+   },
+   {
+    "slug": "attendance-register",
+    "subCategory": "Attendance"
+   },
+   {
+    "slug": "student-early-alert-panel",
+    "subCategory": "Student success"
+   },
+   {
+    "slug": "admissions-application-tracker",
+    "subCategory": "Admissions"
+   },
+   {
+    "slug": "academic-transcript-viewer",
+    "subCategory": "Records"
+   },
+   {
+    "slug": "grade-goal-calculator",
+    "subCategory": "Student self-service"
+   },
+   {
+    "slug": "assessment-rubric-grader",
+    "subCategory": "Teaching & assessment"
+   },
+   {
+    "slug": "school-timetable-grid",
+    "subCategory": "Scheduling"
+   },
+   {
+    "slug": "tuition-fee-statement",
+    "subCategory": "Student finance"
+   },
+   {
+    "slug": "financial-aid-award-viewer",
+    "subCategory": "Student finance"
+   }
+  ],
+  "price": null
  }
 ]

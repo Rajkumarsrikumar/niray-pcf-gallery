@@ -1,0 +1,58 @@
+[
+ {
+  "src": "/screens/insured-asset-schedule/01.webp",
+  "w": 1040,
+  "h": 1153,
+  "caption": "Default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/insured-asset-schedule/02.webp",
+  "w": 359,
+  "h": 1795,
+  "caption": "Overview",
+  "mobile": true
+ },
+ {
+  "src": "/screens/insured-asset-schedule/03.webp",
+  "w": 359,
+  "h": 2301,
+  "caption": "Expanded details",
+  "mobile": true
+ },
+ {
+  "src": "/screens/insured-asset-schedule/04.webp",
+  "w": 375,
+  "h": 900,
+  "caption": "Add bottom sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/insured-asset-schedule/05.webp",
+  "w": 1040,
+  "h": 1415,
+  "caption": "Expanded underinsured property",
+  "mobile": false
+ },
+ {
+  "src": "/screens/insured-asset-schedule/06.webp",
+  "w": 1040,
+  "h": 1537,
+  "caption": "Endorsement added valuables",
+  "mobile": false
+ },
+ {
+  "src": "/screens/insured-asset-schedule/07.webp",
+  "w": 1040,
+  "h": 1723,
+  "caption": "Pending adjustments schedule",
+  "mobile": false
+ },
+ {
+  "src": "/screens/insured-asset-schedule/08.webp",
+  "w": 1366,
+  "h": 1000,
+  "caption": "Add asset validation",
+  "mobile": false
+ }
+]

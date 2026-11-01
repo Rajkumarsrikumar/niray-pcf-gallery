@@ -1,22 +1,30 @@
+import Link from "next/link";
+import Icon from "../Icon";
+
 export const metadata = { title: "Pricing | Niray PCF Gallery" };
 
 const tiers = [
-  { name: "Single component", body: "One PCF control with managed and unmanaged solutions, user manual and 12 months of updates." },
-  { name: "Industry pack", body: "Every component in one industry pack, delivered as a single solution with a pack catalogue." },
-  { name: "All-access", body: "Every component and pack in the gallery, including new releases, for one year." },
+  { name: "Single component", body: "One PCF control for your organisation.", items: ["Managed solution", "User manual", "12 months of updates"], cta: "/components" },
+  { name: "Industry pack", body: "Every component in one industry pack.", items: ["Up to 30 components", "One combined solution", "Pack catalogue + manuals"], cta: "/packs", featured: true },
+  { name: "All-access", body: "The full library, including new releases.", items: ["Every component and pack", "New components as they ship", "Priority email support"], cta: "/components" },
 ];
 
 export default function Pricing() {
   return (
-    <div className="mx-auto max-w-6xl px-4 py-10">
-      <h1 className="text-3xl font-extrabold text-brand-navy">Pricing</h1>
-      <p className="mt-2 text-slate-600">Prices are being finalised. Email <a className="text-brand-blue hover:underline" href="mailto:info@nirayitsolutions.com">info@nirayitsolutions.com</a> for early access.</p>
-      <div className="mt-8 grid gap-4 md:grid-cols-3">
+    <div className="mx-auto max-w-6xl px-4 py-12">
+      <div className="text-center">
+        <h1 className="text-3xl font-extrabold text-brand-navy sm:text-5xl">Simple licensing</h1>
+        <p className="mx-auto mt-3 max-w-xl text-slate-600">Final prices are being set. Add items to your basket to request a quote today.</p>
+      </div>
+      <div className="mt-12 grid gap-6 md:grid-cols-3">
         {tiers.map((t) => (
-          <div key={t.name} className="rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
-            <h2 className="text-lg font-semibold text-brand-navy">{t.name}</h2>
-            <p className="mt-2 text-sm text-slate-600">{t.body}</p>
-            <p className="mt-6 text-2xl font-bold text-slate-400">Coming soon</p>
+          <div key={t.name} className={`relative rounded-lg p-7 ${t.featured ? "bg-ink text-white" : "border border-ink/15 bg-white"}`}>
+            {t.featured && <span className="absolute -top-3 left-1/2 -translate-x-1/2 rounded bg-tile-sun px-3 py-1 text-xs font-bold text-ink">Most popular</span>}
+            <h2 className="text-xl font-bold">{t.name}</h2>
+            <p className={`mt-1 text-sm ${t.featured ? "text-slate-300" : "text-slate-500"}`}>{t.body}</p>
+            <p className="mt-6 text-3xl font-extrabold">On request</p>
+            <ul className="mt-6 space-y-2.5 text-sm">{t.items.map((i) => <li key={i} className="flex items-center gap-2"><Icon name="check" className="h-4 w-4 text-brand-green" />{i}</li>)}</ul>
+            <Link href={t.cta} className={`mt-8 block rounded-xl py-3 text-center font-semibold ${t.featured ? "bg-white text-brand-navy hover:bg-brand-teal" : "bg-brand-navy text-white hover:bg-brand-blue"}`}>Browse</Link>
           </div>
         ))}
       </div>

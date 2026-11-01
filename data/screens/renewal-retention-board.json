@@ -1,0 +1,58 @@
+[
+ {
+  "src": "/screens/renewal-retention-board/01.webp",
+  "w": 1338,
+  "h": 729,
+  "caption": "Default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/renewal-retention-board/02.webp",
+  "w": 373,
+  "h": 1072,
+  "caption": "Board negotiation",
+  "mobile": true
+ },
+ {
+  "src": "/screens/renewal-retention-board/03.webp",
+  "w": 375,
+  "h": 800,
+  "caption": "Detail sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/renewal-retention-board/04.webp",
+  "w": 373,
+  "h": 2227,
+  "caption": "List",
+  "mobile": true
+ },
+ {
+  "src": "/screens/renewal-retention-board/05.webp",
+  "w": 1338,
+  "h": 1052,
+  "caption": "Detail selected",
+  "mobile": false
+ },
+ {
+  "src": "/screens/renewal-retention-board/06.webp",
+  "w": 360,
+  "h": 838,
+  "caption": "Suggested action added",
+  "mobile": true
+ },
+ {
+  "src": "/screens/renewal-retention-board/07.webp",
+  "w": 1338,
+  "h": 1080,
+  "caption": "After drag to negotiation",
+  "mobile": false
+ },
+ {
+  "src": "/screens/renewal-retention-board/08.webp",
+  "w": 1366,
+  "h": 900,
+  "caption": "Lapse reason required",
+  "mobile": false
+ }
+]

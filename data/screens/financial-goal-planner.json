@@ -1,0 +1,58 @@
+[
+ {
+  "src": "/screens/financial-goal-planner/01.webp",
+  "w": 1318,
+  "h": 1634,
+  "caption": "Default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/financial-goal-planner/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Edit sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/financial-goal-planner/03.webp",
+  "w": 357,
+  "h": 1426,
+  "caption": "Goals",
+  "mobile": true
+ },
+ {
+  "src": "/screens/financial-goal-planner/04.webp",
+  "w": 357,
+  "h": 1587,
+  "caption": "Projection",
+  "mobile": true
+ },
+ {
+  "src": "/screens/financial-goal-planner/05.webp",
+  "w": 792,
+  "h": 769,
+  "caption": "Chart tooltip",
+  "mobile": false
+ },
+ {
+  "src": "/screens/financial-goal-planner/06.webp",
+  "w": 792,
+  "h": 769,
+  "caption": "What if scenario",
+  "mobile": false
+ },
+ {
+  "src": "/screens/financial-goal-planner/07.webp",
+  "w": 1318,
+  "h": 1634,
+  "caption": "Scenario applied",
+  "mobile": false
+ },
+ {
+  "src": "/screens/financial-goal-planner/08.webp",
+  "w": 792,
+  "h": 769,
+  "caption": "Future money",
+  "mobile": false
+ }
+]

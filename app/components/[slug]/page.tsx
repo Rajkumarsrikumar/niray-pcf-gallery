@@ -1,6 +1,12 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { allComponents, getComponent } from "@/lib/catalog";
+import AddToCart from "../../AddToCart";
+import Icon from "../../Icon";
+import ProductArt from "../../ProductArt";
+import ProductCard from "../../ProductCard";
+import ScreenGallery from "../../ScreenGallery";
+import Sections from "./Sections";
+import { CONTACT, HEALTH_NOTICE, allComponents, getComponent, isAvailable, packForComponent, screensFor, themeFor } from "@/lib/catalog";
 
 export function generateStaticParams() {
   return allComponents.map((c) => ({ slug: c.slug }));
@@ -8,41 +14,116 @@ export function generateStaticParams() {
 
 export function generateMetadata({ params }: { params: { slug: string } }) {
   const c = getComponent(params.slug);
-  return c ? { title: `${c.title} PCF control | Niray PCF Gallery`, description: c.summary.slice(0, 160) } : {};
+  return c ? { title: `${c.name} – Power Apps PCF component | Niray IT Solutions`, description: c.tagline, keywords: c.tags } : {};
 }
 
-export default function ComponentPage({ params }: { params: { slug: string } }) {
+export default function ProductPage({ params }: { params: { slug: string } }) {
   const c = getComponent(params.slug);
   if (!c) notFound();
+  const t = themeFor(c.industry);
+  const pack = packForComponent(c);
+  const related = allComponents.filter((x) => x.industry === c.industry && x.slug !== c.slug).slice(0, 4);
+  const health = c.industry.startsWith("Healthcare");
+  const shots = screensFor(c.slug);
+  const jsonLd = {
+    "@context": "https://schema.org", "@type": "SoftwareApplication", name: c.name, description: c.tagline,
+    applicationCategory: "BusinessApplication", operatingSystem: "Microsoft Power Platform", softwareVersion: c.componentVersion,
+    publisher: { "@type": "Organization", name: "Niray IT Solutions Pte. Ltd.", url: "https://www.nirayitsolutions.com" },
+  };
+  const specs: [string, string | null | undefined][] = [
+    ["Schema name", c.schemaName], ["Component version", c.componentVersion], ["Solution version", c.solutionVersion ?? "Added in next release"],
+    ["Control type", c.controlType], ["React", c.react], ["Complexity", c.complexity], ["Category", c.category], ["Built", c.dateBuilt],
+  ];
+
   return (
-    <div className="mx-auto max-w-4xl px-4 py-10">
-      <Link href="/#gallery" className="text-sm text-brand-blue hover:underline">← All components</Link>
-      <div className="mt-4 flex flex-wrap gap-2 text-xs">
-        <span className="rounded-full bg-brand-sky px-2 py-0.5 font-medium text-brand-navy">{c.industry}</span>
-        <span className="rounded-full bg-brand-sky px-2 py-0.5 text-brand-navy">{c.complexity}</span>
-        {c.mobile && <span className="rounded-full bg-green-50 px-2 py-0.5 text-green-700">Mobile responsive</span>}
-      </div>
-      <h1 className="mt-3 text-3xl font-extrabold text-brand-navy sm:text-4xl">{c.title}</h1>
-      {c.pack && <p className="mt-1 text-sm text-slate-500">Part of the {c.pack}</p>}
-      <div className="mt-8 grid gap-8 md:grid-cols-[1fr_280px]">
-        <div>
-          <h2 className="mb-2 font-semibold text-brand-navy">What it does</h2>
-          <p className="whitespace-pre-line leading-relaxed text-slate-700">{c.summary}</p>
-          <h2 className="mb-2 mt-8 font-semibold text-brand-navy">Highlights</h2>
-          <div className="flex flex-wrap gap-2">
-            {c.tags.map((t) => <span key={t} className="rounded border border-slate-200 bg-white px-2 py-1 text-xs text-slate-600">{t}</span>)}
-          </div>
+    <div className="mx-auto max-w-7xl px-4 py-6 sm:py-8">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <nav className="mb-5 flex flex-wrap items-center gap-1.5 text-sm text-ink-faint" aria-label="Breadcrumb">
+        <Link href="/" className="hover:text-ink">Home</Link><span>/</span>
+        <Link href="/components" className="hover:text-ink">Components</Link><span>/</span>
+        <span className="text-ink">{c.name}</span>
+      </nav>
+
+      <div className="grid gap-8 lg:grid-cols-[1.4fr_1fr] lg:gap-10">
+        <div className="-mx-4 min-w-0 sm:mx-0">
+          {shots.length ? <ScreenGallery shots={shots} name={c.name} /> : <div className="overflow-hidden sm:rounded-lg"><ProductArt c={c} size="hero" /></div>}
         </div>
-        <aside className="h-fit rounded-xl border border-slate-200 bg-white p-5 shadow-sm">
-          <p className="text-sm text-slate-500">Works in</p>
-          <ul className="mt-1 space-y-1 text-sm font-medium text-slate-800">{c.hosts.map((h) => <li key={h}>✓ {h}</li>)}</ul>
-          <p className="mt-4 text-sm text-slate-500">Includes managed + unmanaged solution, user manual{c.screenshots ? ` (${c.screenshots} screenshots)` : ""}.</p>
-          <button disabled className="mt-5 w-full cursor-not-allowed rounded-lg bg-slate-200 px-4 py-2.5 font-semibold text-slate-500">
-            {c.available ? "Pricing coming soon" : "Coming soon"}
-          </button>
-          <a href={`mailto:info@nirayitsolutions.com?subject=${encodeURIComponent(`PCF enquiry: ${c.title}`)}`} className="mt-2 block text-center text-sm text-brand-blue hover:underline">Ask about this component</a>
-        </aside>
+
+        <div className="min-w-0">
+          <div className="flex flex-wrap gap-2">
+            <span className="rounded px-2.5 py-1 text-xs font-semibold" style={{ background: t.color, color: t.on }}>{c.industry}</span>
+            <span className="rounded bg-white px-2.5 py-1 text-xs font-semibold text-ink ring-1 ring-line">{isAvailable(c) ? "Ready to download" : "Coming soon: built and tested"}</span>
+          </div>
+          <h1 className="mt-4 text-4xl font-extrabold leading-[1.05] tracking-[-0.03em] text-ink sm:text-5xl">{c.name}</h1>
+          <p className="mt-3 text-lg leading-relaxed text-ink-soft">{c.tagline}</p>
+          {pack && <p className="mt-2 text-sm text-ink-faint">Also in the <Link href={`/packs/${pack.slug}`} className="font-semibold text-tile-blue hover:underline">{pack.name}</Link></p>}
+
+          <div className="-mx-4 mt-6 border-y border-ink/15 bg-white p-5 sm:mx-0 sm:rounded-lg sm:border sm:p-6">
+            <div className="flex items-end justify-between gap-4">
+              <div><p className="text-sm text-ink-faint">Licence price</p><p className="text-3xl font-extrabold text-ink">{c.price ? `$${c.price}` : "On request"}</p></div>
+              <p className="text-right text-xs text-ink-faint">One-time licence<br />Emailed to you after payment</p>
+            </div>
+            <div className="mt-5 space-y-2.5">
+              <AddToCart item={{ slug: c.slug, name: c.name, kind: "component" }} />
+              <a href={`mailto:${CONTACT}?subject=${encodeURIComponent(`Demo request: ${c.name}`)}`} className="flex w-full items-center justify-center rounded-lg border border-ink/20 px-5 py-3.5 font-semibold text-ink hover:border-ink">Request a demo</a>
+              <Link href="/custom" className="block pt-1 text-center text-sm font-medium text-tile-blue hover:underline">Need it customised? Request custom development</Link>
+            </div>
+            <ul className="mt-5 grid gap-2 border-t border-line pt-5 text-sm text-ink-soft sm:grid-cols-2">
+              {["Managed solution", "User manual (Word)", "Canvas, Model-driven, Power Pages", c.mobileResponsive ? "Works on phones" : "Desktop layout"].map((x) => (
+                <li key={x} className="flex items-center gap-2"><Icon name="check" className="h-4 w-4 text-tile-leaf" />{x}</li>
+              ))}
+            </ul>
+          </div>
+          {health && <p className="mt-4 rounded-lg border border-amber-200 bg-amber-50 p-3 text-sm text-amber-900">{HEALTH_NOTICE}</p>}
+        </div>
       </div>
+
+      <div className="-mx-4 mt-10 sm:mx-0">
+        <Sections
+          initiallyOpen={["features"]}
+          sections={[
+            {
+              id: "features", title: "Key features", summary: `${c.features.length} features`,
+              body: (
+                <ul className="grid gap-x-8 gap-y-2.5 md:grid-cols-2">
+                  {c.features.map((f) => <li key={f} className="flex gap-2.5 leading-relaxed text-ink"><span className="mt-2 h-2 w-2 shrink-0 rounded-sm" style={{ background: t.color }} />{f}</li>)}
+                </ul>
+              ),
+            },
+            { id: "description", title: "Full description", summary: "What it does, in detail", body: <p className="max-w-3xl leading-relaxed text-ink-soft">{c.description}</p> },
+            {
+              id: "specs", title: "Technical specs", summary: `${c.schemaName} · v${c.componentVersion}`,
+              body: (
+                <dl className="grid gap-x-10 text-sm md:grid-cols-2">
+                  {specs.map(([k, v]) => <div key={k} className="flex justify-between gap-4 border-b border-line py-2.5"><dt className="text-ink-faint">{k}</dt><dd className="break-all text-right font-medium text-ink">{v ?? "–"}</dd></div>)}
+                </dl>
+              ),
+            },
+            {
+              id: "install", title: "How to install", summary: "Canvas, Model-driven and Power Pages",
+              body: (
+                <ul className="max-w-3xl space-y-3 text-ink-soft">
+                  <li><b className="text-ink">What you get:</b> a managed solution to import into your environment, and a user manual.</li>
+                  <li><b className="text-ink">Canvas apps:</b> turn on &quot;Allow publishing of canvas apps with code components&quot;, import the solution, then Insert, Get more components, Code.</li>
+                  <li><b className="text-ink">Model-driven apps:</b> in the form designer select the field, then Components, + Component.</li>
+                  <li><b className="text-ink">Power Pages:</b> enable the code component on a form field in design studio, or use Liquid: <code className="break-all rounded bg-paper px-1">{`{% codecomponent name:${c.schemaName} /%}`}</code></li>
+                </ul>
+              ),
+            },
+            {
+              id: "tags", title: "Tags", summary: `${c.tags.length} tags`,
+              body: <div className="flex flex-wrap gap-1.5">{c.tags.map((tag) => <Link key={tag} href={`/components?q=${encodeURIComponent(tag)}`} className="rounded bg-paper px-2.5 py-1 text-sm text-ink-soft ring-1 ring-line hover:text-ink">{tag}</Link>)}</div>,
+            },
+          ]}
+        />
+      </div>
+
+      {related.length > 0 && (
+        <section className="mt-16">
+          <h2 className="mb-8 text-3xl font-extrabold tracking-tight text-ink">More for {c.industry}</h2>
+          <div className="grid gap-x-5 gap-y-8 sm:grid-cols-2 lg:grid-cols-4">{related.map((r) => <ProductCard key={r.slug} c={r} />)}</div>
+        </section>
+      )}
     </div>
   );
 }

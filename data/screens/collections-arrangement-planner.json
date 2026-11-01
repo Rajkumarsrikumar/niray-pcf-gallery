@@ -1,0 +1,58 @@
+[
+ {
+  "src": "/screens/collections-arrangement-planner/01.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/collections-arrangement-planner/02.webp",
+  "w": 399,
+  "h": 2400,
+  "caption": "Overview",
+  "mobile": true
+ },
+ {
+  "src": "/screens/collections-arrangement-planner/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Detail",
+  "mobile": true
+ },
+ {
+  "src": "/screens/collections-arrangement-planner/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Plan form",
+  "mobile": true
+ },
+ {
+  "src": "/screens/collections-arrangement-planner/05.webp",
+  "w": 1012,
+  "h": 936,
+  "caption": "Bucket filter 90",
+  "mobile": false
+ },
+ {
+  "src": "/screens/collections-arrangement-planner/06.webp",
+  "w": 1012,
+  "h": 936,
+  "caption": "Filter needs action",
+  "mobile": false
+ },
+ {
+  "src": "/screens/collections-arrangement-planner/07.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Detail broken plan",
+  "mobile": false
+ },
+ {
+  "src": "/screens/collections-arrangement-planner/08.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Payment recorded",
+  "mobile": false
+ }
+]

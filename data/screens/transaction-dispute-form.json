@@ -1,0 +1,58 @@
+[
+ {
+  "src": "/screens/transaction-dispute-form/01.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Transactions",
+  "mobile": false
+ },
+ {
+  "src": "/screens/transaction-dispute-form/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Transactions",
+  "mobile": true
+ },
+ {
+  "src": "/screens/transaction-dispute-form/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Reason",
+  "mobile": true
+ },
+ {
+  "src": "/screens/transaction-dispute-form/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Review",
+  "mobile": true
+ },
+ {
+  "src": "/screens/transaction-dispute-form/05.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Search select duplicates",
+  "mobile": false
+ },
+ {
+  "src": "/screens/transaction-dispute-form/06.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Amount validation",
+  "mobile": false
+ },
+ {
+  "src": "/screens/transaction-dispute-form/07.webp",
+  "w": 1366,
+  "h": 1000,
+  "caption": "Fraud card block notice",
+  "mobile": false
+ },
+ {
+  "src": "/screens/transaction-dispute-form/08.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Reason duplicate blockers",
+  "mobile": false
+ }
+]

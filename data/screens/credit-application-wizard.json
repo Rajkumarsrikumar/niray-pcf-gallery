@@ -1,0 +1,58 @@
+[
+ {
+  "src": "/screens/credit-application-wizard/01.webp",
+  "w": 1012,
+  "h": 1016,
+  "caption": "Loan quote",
+  "mobile": false
+ },
+ {
+  "src": "/screens/credit-application-wizard/02.webp",
+  "w": 375,
+  "h": 800,
+  "caption": "Commitments",
+  "mobile": true
+ },
+ {
+  "src": "/screens/credit-application-wizard/03.webp",
+  "w": 375,
+  "h": 800,
+  "caption": "Affordability",
+  "mobile": true
+ },
+ {
+  "src": "/screens/credit-application-wizard/04.webp",
+  "w": 1050,
+  "h": 781,
+  "caption": "Loan validation",
+  "mobile": false
+ },
+ {
+  "src": "/screens/credit-application-wizard/05.webp",
+  "w": 1050,
+  "h": 642,
+  "caption": "Applicants prefilled",
+  "mobile": false
+ },
+ {
+  "src": "/screens/credit-application-wizard/06.webp",
+  "w": 1050,
+  "h": 1473,
+  "caption": "Resume liabilities above policy",
+  "mobile": false
+ },
+ {
+  "src": "/screens/credit-application-wizard/07.webp",
+  "w": 1050,
+  "h": 644,
+  "caption": "Employment previous employer",
+  "mobile": false
+ },
+ {
+  "src": "/screens/credit-application-wizard/08.webp",
+  "w": 1050,
+  "h": 729,
+  "caption": "Income monthly equivalents",
+  "mobile": false
+ }
+]

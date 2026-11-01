@@ -1,0 +1,58 @@
+[
+ {
+  "src": "/screens/benefit-eligibility-screener/01.webp",
+  "w": 1042,
+  "h": 394,
+  "caption": "Intro",
+  "mobile": false
+ },
+ {
+  "src": "/screens/benefit-eligibility-screener/02.webp",
+  "w": 1042,
+  "h": 1302,
+  "caption": "Results top",
+  "mobile": false
+ },
+ {
+  "src": "/screens/benefit-eligibility-screener/03.webp",
+  "w": 1042,
+  "h": 2268,
+  "caption": "Results",
+  "mobile": false
+ },
+ {
+  "src": "/screens/benefit-eligibility-screener/04.webp",
+  "w": 373,
+  "h": 1025,
+  "caption": "Step top",
+  "mobile": true
+ },
+ {
+  "src": "/screens/benefit-eligibility-screener/05.webp",
+  "w": 373,
+  "h": 1139,
+  "caption": "Step",
+  "mobile": true
+ },
+ {
+  "src": "/screens/benefit-eligibility-screener/06.webp",
+  "w": 373,
+  "h": 1025,
+  "caption": "Results top",
+  "mobile": true
+ },
+ {
+  "src": "/screens/benefit-eligibility-screener/07.webp",
+  "w": 373,
+  "h": 2400,
+  "caption": "Results",
+  "mobile": true
+ },
+ {
+  "src": "/screens/benefit-eligibility-screener/08.webp",
+  "w": 1042,
+  "h": 740,
+  "caption": "Household live tally",
+  "mobile": false
+ }
+]
