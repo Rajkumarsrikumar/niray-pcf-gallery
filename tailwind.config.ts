@@ -1,18 +1,19 @@
 import type { Config } from "tailwindcss";
+// Niray IT Solutions brand palette, one typeface (Inter) as on nirayitsolutions.com
 export default {
   content: ["./app/**/*.{ts,tsx}", "./lib/**/*.{ts,tsx}"],
   theme: {
     extend: {
       colors: {
-        ink: { DEFAULT: "#102A43", soft: "#486581", faint: "#829AB1" },
-        paper: "#F7F8FA",
-        line: "#DCE3EC",
-        tile: { plum: "#7A2E83", blue: "#1D6FE0", sun: "#F4B400", leaf: "#1F9D62", teal: "#0F6E78" },
-        brand: { navy: "#102A43", blue: "#1D6FE0", teal: "#8DC63F", green: "#1F9D62", slate: "#486581", sky: "#EEF2F7", ice: "#F7F8FA" },
+        ink: { DEFAULT: "#003B5C", soft: "#4A6575", faint: "#7D909C" },
+        paper: "#F4F7F9",
+        line: "#E1E8ED",
+        tile: { plum: "#003B5C", blue: "#007B7F", sun: "#8DC63F", leaf: "#4CB648", teal: "#007B7F" },
+        brand: { navy: "#003B5C", blue: "#007B7F", teal: "#8DC63F", green: "#4CB648", slate: "#5B7B8C", sky: "#EAF4F4", ice: "#F4F7F9" },
       },
       fontFamily: {
-        sans: ["var(--font-body)", "system-ui", "sans-serif"],
-        display: ["var(--font-display)", "var(--font-body)", "sans-serif"],
+        sans: ["var(--font-inter)", "Inter", "system-ui", "sans-serif"],
+        display: ["var(--font-inter)", "Inter", "system-ui", "sans-serif"],
       },
     },
   },

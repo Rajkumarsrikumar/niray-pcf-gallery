@@ -2,6 +2,7 @@
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useState } from "react";
+import { AnimatePresence, motion } from "framer-motion";
 import Icon from "./Icon";
 import Logo from "./Logo";
 import { useCart } from "@/lib/cart";
@@ -21,22 +22,22 @@ export default function Header() {
   const submit = (e: React.FormEvent) => { e.preventDefault(); router.push(`/components${q.trim() ? `?q=${encodeURIComponent(q.trim())}` : ""}`); setMenu(false); };
   return (
     <>
-      <div className="bg-ink px-4 py-2 text-center text-xs text-white/85">Every component comes as a managed solution with a user manual, emailed to you as soon as payment is received.</div>
-      <header className="sticky top-0 z-30 border-b border-line bg-white">
+      <div className="bg-ink px-4 py-2 text-center text-xs font-medium text-white/85">Every component comes as a managed solution with a user manual, emailed to you as soon as payment is received.</div>
+      <header className="sticky top-0 z-30 border-b border-line bg-white/90 backdrop-blur">
         <div className="mx-auto flex max-w-7xl items-center gap-3 px-4 py-3 sm:gap-6">
           <button className="lg:hidden" onClick={() => setMenu(!menu)} aria-label="Menu" aria-expanded={menu}><Icon name={menu ? "x" : "menu"} className="h-6 w-6 text-brand-navy" /></button>
           <Link href="/" className="shrink-0" aria-label="Niray PCF Gallery home"><Logo /></Link>
           <form onSubmit={submit} className="relative hidden flex-1 md:block" role="search">
             <Icon name="search" className="absolute left-3.5 top-1/2 h-4 w-4 -translate-y-1/2 text-slate-400" />
             <input value={q} onChange={(e) => setQ(e.target.value)} placeholder="Search components: claims, bed board, timetable" aria-label="Search components"
-              className="w-full rounded-lg border border-line bg-paper py-2.5 pl-10 pr-4 text-sm focus:border-tile-blue focus:bg-white focus:outline-none" />
+              className="w-full rounded-full border border-line bg-paper py-2.5 pl-10 pr-4 text-sm focus:border-tile-blue focus:bg-white focus:outline-none" />
           </form>
           <nav className="hidden items-center gap-5 text-sm font-medium text-ink-soft lg:flex">
             {nav.map((n) => <Link key={n.href} href={n.href} className="whitespace-nowrap hover:text-ink">{n.label}</Link>)}
           </nav>
           <button onClick={() => setOpen(true)} className="relative ml-auto rounded-full p-2 text-brand-navy hover:bg-slate-100 md:ml-0" aria-label={`Basket, ${items.length} items`}>
             <Icon name="cart" className="h-6 w-6" />
-            {items.length > 0 && <span className="absolute -right-0.5 -top-0.5 grid h-5 min-w-5 place-items-center rounded-full bg-tile-leaf px-1 text-[11px] font-bold text-white">{items.length}</span>}
+            <AnimatePresence>{items.length > 0 && <motion.span key={items.length} initial={{ scale: 0.4 }} animate={{ scale: 1 }} exit={{ scale: 0 }} className="absolute -right-0.5 -top-0.5 grid h-5 min-w-5 place-items-center rounded-full bg-tile-blue px-1 text-[11px] font-bold text-white">{items.length}</motion.span>}</AnimatePresence>
           </button>
         </div>
         {menu && (
@@ -58,11 +59,12 @@ export default function Header() {
 
 function CartDrawer() {
   const { items, open, setOpen, remove } = useCart();
-  if (!open) return null;
   return (
-    <div className="fixed inset-0 z-50" role="dialog" aria-modal="true" aria-label="Your basket">
-      <div className="absolute inset-0 bg-slate-900/50 backdrop-blur-sm" onClick={() => setOpen(false)} />
-      <aside className="absolute right-0 top-0 flex h-full w-full max-w-md flex-col bg-white shadow-2xl">
+    <AnimatePresence>
+    {open && (
+    <motion.div className="fixed inset-0 z-50" role="dialog" aria-modal="true" aria-label="Your basket" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}>
+      <div className="absolute inset-0 bg-[#003B5C]/40 backdrop-blur-sm" onClick={() => setOpen(false)} />
+      <motion.aside initial={{ x: "100%" }} animate={{ x: 0 }} exit={{ x: "100%" }} className="absolute right-0 top-0 flex h-full w-full max-w-md flex-col bg-white shadow-2xl">
         <div className="flex items-center justify-between border-b border-slate-200 px-5 py-4">
           <h2 className="text-lg font-bold text-brand-navy">Your basket ({items.length})</h2>
           <button onClick={() => setOpen(false)} aria-label="Close basket" className="rounded-full p-1.5 hover:bg-slate-100"><Icon name="x" /></button>
@@ -87,11 +89,13 @@ function CartDrawer() {
         </div>
         {items.length > 0 && (
           <div className="border-t border-slate-200 p-5">
-            <Link href="/checkout" onClick={() => setOpen(false)} className="block w-full rounded-xl bg-brand-navy py-3.5 text-center font-semibold text-white hover:bg-brand-blue">Continue to checkout</Link>
+            <Link href="/checkout" onClick={() => setOpen(false)} className="block w-full rounded-xl bg-ink py-3.5 text-center font-semibold text-white hover:bg-brand-blue">Continue to checkout</Link>
             <button onClick={() => setOpen(false)} className="mt-2 w-full py-2 text-sm text-slate-500 hover:text-brand-navy">Keep shopping</button>
           </div>
         )}
-      </aside>
-    </div>
+      </motion.aside>
+    </motion.div>
+    )}
+    </AnimatePresence>
   );
 }

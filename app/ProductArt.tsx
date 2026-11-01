@@ -95,7 +95,7 @@ export default function ProductArt({ c, size = "card" }: { c: Component; size?: 
             <span className="h-1.5 w-1.5 rounded-full bg-white/60" /><span className="h-1.5 w-1.5 rounded-full bg-white/60" /><span className="h-1.5 w-1.5 rounded-full bg-white/60" />
             <span className="ml-2 truncate text-[9px] font-medium text-white/80">{c.name}</span>
           </div>
-          <div className={`${size === "hero" ? "h-56" : "h-28"} p-2.5`}><Mock kind={pick(c)} accent={t.color === "#F4B400" ? "#102A43" : "#F4B400"} seed={seed} /></div>
+          <div className={`${size === "hero" ? "h-56" : "h-28"} p-2.5`}><Mock kind={pick(c)} accent={t.color === "#8DC63F" ? "#003B5C" : "#8DC63F"} seed={seed} /></div>
         </div>
       </div>
       <span className="absolute bottom-2 left-2 rounded-full bg-black/20 p-1.5 text-white"><Icon name={t.icon} className="h-3.5 w-3.5" /></span>

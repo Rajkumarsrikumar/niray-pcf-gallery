@@ -21,11 +21,11 @@ export const industrySlug = (i: string) => i.toLowerCase().replace(/&/g, "and").
 export type Theme = { color: string; on: string; soft: string; icon: string; blurb: string };
 // Flat colours taken from the four logo tiles (plus one), one per industry.
 export const theme: Record<string, Theme> = {
-  "Cross-industry": { color: "#1D6FE0", on: "#FFFFFF", soft: "#E6EFFC", icon: "grid", blurb: "Grids, navigation, scheduling and maps for any business app." },
-  "Healthcare & Life Sciences": { color: "#1F9D62", on: "#FFFFFF", soft: "#E3F4EB", icon: "heart", blurb: "Patient access, clinical documentation and care coordination." },
-  "Government & Public Sector": { color: "#7A2E83", on: "#FFFFFF", soft: "#F2E7F3", icon: "landmark", blurb: "Citizen portals, permits, grants, benefits and case work." },
-  "Financial Services & Insurance": { color: "#0F6E78", on: "#FFFFFF", soft: "#E1F0F1", icon: "bank", blurb: "Banking, lending, wealth, claims and policy servicing." },
-  Education: { color: "#F4B400", on: "#102A43", soft: "#FDF3D4", icon: "cap", blurb: "Admissions, student records, fees and timetables." },
+  "Cross-industry": { color: "#007B7F", on: "#FFFFFF", soft: "#E3F2F2", icon: "grid", blurb: "Grids, navigation, scheduling and maps for any business app." },
+  "Healthcare & Life Sciences": { color: "#3E9A3B", on: "#FFFFFF", soft: "#E8F5E7", icon: "heart", blurb: "Patient access, clinical documentation and care coordination." },
+  "Government & Public Sector": { color: "#003B5C", on: "#FFFFFF", soft: "#E3ECF1", icon: "landmark", blurb: "Citizen portals, permits, grants, benefits and case work." },
+  "Financial Services & Insurance": { color: "#5B7B8C", on: "#FFFFFF", soft: "#ECF1F4", icon: "bank", blurb: "Banking, lending, wealth, claims and policy servicing." },
+  Education: { color: "#8DC63F", on: "#003B5C", soft: "#F1F8E6", icon: "cap", blurb: "Admissions, student records, fees and timetables." },
 };
 export const themeFor = (industry: string) => theme[industry] ?? theme["Cross-industry"];
 

@@ -22,8 +22,8 @@ export default function Logo({ dark = false }: { dark?: boolean }) {
     <span className="flex items-center gap-2.5">
       <LogoMark />
       <span className="leading-none">
-        <span className={`block text-[10px] font-bold tracking-[0.2em] ${dark ? "text-[#d9a6ff]" : "text-[#742774]"}`}>NIRAY</span>
-        <span className={`font-display block text-xl font-bold tracking-tight ${dark ? "text-white" : "text-brand-navy"}`}>PCF Gallery</span>
+        <span className={`block text-[10px] font-bold tracking-[0.2em] ${dark ? "text-tile-sun" : "text-tile-blue"}`}>NIRAY</span>
+        <span className={`block text-xl font-extrabold tracking-tight ${dark ? "text-white" : "text-brand-navy"}`}>PCF Gallery</span>
       </span>
     </span>
   );

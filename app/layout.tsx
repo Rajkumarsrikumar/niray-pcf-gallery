@@ -1,14 +1,14 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { Bricolage_Grotesque, IBM_Plex_Sans } from "next/font/google";
+import { Inter } from "next/font/google";
+import Motion from "./Motion";
 import "./globals.css";
 import Header from "./Header";
 import Logo from "./Logo";
 import { CartProvider } from "@/lib/cart";
 import { CONTACT } from "@/lib/catalog";
 
-const body = IBM_Plex_Sans({ subsets: ["latin"], weight: ["400", "500", "600", "700"], display: "swap", variable: "--font-body" });
-const display = Bricolage_Grotesque({ subsets: ["latin"], weight: ["500", "700", "800"], display: "swap", variable: "--font-display" });
+const inter = Inter({ subsets: ["latin"], display: "swap", variable: "--font-inter" });
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://niraypcfgallery.com"),
@@ -19,9 +19,9 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={`${body.variable} ${display.variable}`}>
+    <html lang="en" className={inter.variable}>
       <body>
-        <CartProvider>
+        <Motion><CartProvider>
           <Header />
           <main>{children}</main>
           <footer className="mt-24 bg-ink text-slate-300">
@@ -49,12 +49,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <div>
                 <p className="mb-3 font-semibold text-white">Company</p>
                 <p className="text-sm">Niray IT Solutions Pte. Ltd.<br />Singapore HQ · Branch in India</p>
-                <a href="https://www.nirayitsolutions.com" className="mt-2 inline-block text-sm text-brand-teal hover:underline">nirayitsolutions.com</a>
+                <a href="https://www.nirayitsolutions.com" className="mt-2 inline-block text-sm text-tile-sun hover:underline">nirayitsolutions.com</a>
               </div>
             </div>
             <div className="border-t border-white/10 py-5 text-center text-xs text-slate-400">© {new Date().getFullYear()} Niray IT Solutions Pte. Ltd.</div>
           </footer>
-        </CartProvider>
+        </CartProvider></Motion>
       </body>
     </html>
   );

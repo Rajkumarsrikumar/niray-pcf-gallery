@@ -60,7 +60,7 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
 
           <div className="-mx-4 mt-6 border-y border-ink/15 bg-white p-5 sm:mx-0 sm:rounded-lg sm:border sm:p-6">
             <div className="flex items-end justify-between gap-4">
-              <div><p className="text-sm text-ink-faint">Licence price</p><p className="font-display text-3xl font-extrabold text-ink">{c.price ? `$${c.price}` : "On request"}</p></div>
+              <div><p className="text-sm text-ink-faint">Licence price</p><p className="text-3xl font-extrabold text-ink">{c.price ? `$${c.price}` : "On request"}</p></div>
               <p className="text-right text-xs text-ink-faint">One-time licence<br />Emailed to you after payment</p>
             </div>
             <div className="mt-5 space-y-2.5">
