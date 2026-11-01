@@ -1,11 +1,12 @@
 "use client";
 import Link from "next/link";
 import { useCart } from "@/lib/cart";
-import { CONTACT } from "@/lib/catalog";
+import { CONTACT, formatPrice, priceOf } from "@/lib/catalog";
 
 export default function Checkout() {
   const { items, remove } = useCart();
-  const body = encodeURIComponent(`Hello Niray team,\n\nI'd like a quote for:\n${items.map((i) => `- ${i.name} (${i.kind})`).join("\n")}\n\nCompany:\nNumber of environments:\n`);
+  const total = items.reduce((s, i) => s + priceOf(i.kind), 0);
+  const body = encodeURIComponent(`Hello Niray team,\n\nI'd like a quote for:\n${items.map((i) => `- ${i.name} (${i.kind}, ${formatPrice(priceOf(i.kind))})`).join("\n")}\n\nTotal: ${formatPrice(total)}\n\nCompany:\nNumber of environments:\n`);
   return (
     <div className="mx-auto max-w-3xl px-4 py-12">
       <h1 className="text-3xl font-extrabold text-brand-navy">Checkout</h1>
@@ -17,12 +18,13 @@ export default function Checkout() {
             {items.map((i) => (
               <li key={i.slug} className="flex items-center justify-between gap-3 p-4">
                 <div><p className="font-semibold text-brand-navy">{i.name}</p><p className="text-xs text-slate-500">{i.kind === "pack" ? "Industry pack" : "PCF component"}</p></div>
-                <button onClick={() => remove(i.slug)} className="text-sm text-slate-400 hover:text-red-500">Remove</button>
+                <div className="flex items-center gap-4"><span className="font-semibold text-brand-navy">{formatPrice(priceOf(i.kind))}</span><button onClick={() => remove(i.slug)} className="text-sm text-slate-400 hover:text-red-500">Remove</button></div>
               </li>
             ))}
           </ul>
           <div className="h-fit rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
-            <p className="text-sm text-slate-500">Online card payment opens soon. Send your basket and we'll reply with a quote and invoice.</p>
+            <p className="flex justify-between text-lg font-bold text-brand-navy"><span>Total</span><span>{formatPrice(total)}</span></p>
+            <p className="mt-3 text-sm text-slate-500">Online card payment opens soon. Send your basket and we'll reply with a quote and invoice.</p>
             <a href={`mailto:${CONTACT}?subject=${encodeURIComponent("PCF Gallery quote request")}&body=${body}`} className="mt-4 block rounded-xl bg-brand-navy py-3.5 text-center font-semibold text-white hover:bg-brand-blue">Request quote</a>
           </div>
         </div>
