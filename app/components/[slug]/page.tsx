@@ -5,7 +5,9 @@ import Icon from "../../Icon";
 import ProductArt from "../../ProductArt";
 import ProductCard from "../../ProductCard";
 import ScreenGallery from "../../ScreenGallery";
+import FreeDownload from "./FreeDownload";
 import Sections from "./Sections";
+import delivery from "@/data/delivery.json";
 import { CONTACT, HEALTH_NOTICE, allComponents, getComponent, isAvailable, packForComponent, screensFor, themeFor } from "@/lib/catalog";
 
 export function generateStaticParams() {
@@ -68,6 +70,7 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
               <a href={`mailto:${CONTACT}?subject=${encodeURIComponent(`Demo request: ${c.name}`)}`} className="flex w-full items-center justify-center rounded-lg border border-ink/20 px-5 py-3.5 font-semibold text-ink hover:border-ink">Request a demo</a>
               <Link href="/custom" className="block pt-1 text-center text-sm font-medium text-tile-blue hover:underline">Need it customised? Request custom development</Link>
             </div>
+            {c.slug in delivery && <FreeDownload slug={c.slug} name={c.name} />}
             <ul className="mt-5 grid gap-2 border-t border-line pt-5 text-sm text-ink-soft sm:grid-cols-2">
               {["Managed solution", "User manual (Word)", "Canvas, Model-driven, Power Pages", c.mobileResponsive ? "Works on phones" : "Desktop layout"].map((x) => (
                 <li key={x} className="flex items-center gap-2"><Icon name="check" className="h-4 w-4 text-tile-leaf" />{x}</li>
