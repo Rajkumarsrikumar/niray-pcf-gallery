@@ -1,0 +1,58 @@
+[
+ {
+  "src": "/screens/admissions-application-tracker/01.webp",
+  "w": 1012,
+  "h": 936,
+  "caption": "Overview",
+  "mobile": false
+ },
+ {
+  "src": "/screens/admissions-application-tracker/02.webp",
+  "w": 399,
+  "h": 2400,
+  "caption": "Overview",
+  "mobile": true
+ },
+ {
+  "src": "/screens/admissions-application-tracker/03.webp",
+  "w": 399,
+  "h": 2400,
+  "caption": "B all stages",
+  "mobile": true
+ },
+ {
+  "src": "/screens/admissions-application-tracker/04.webp",
+  "w": 399,
+  "h": 2400,
+  "caption": "C checklist",
+  "mobile": true
+ },
+ {
+  "src": "/screens/admissions-application-tracker/05.webp",
+  "w": 399,
+  "h": 2400,
+  "caption": "D offer",
+  "mobile": true
+ },
+ {
+  "src": "/screens/admissions-application-tracker/06.webp",
+  "w": 1012,
+  "h": 937,
+  "caption": "Checklist all",
+  "mobile": false
+ },
+ {
+  "src": "/screens/admissions-application-tracker/07.webp",
+  "w": 1012,
+  "h": 936,
+  "caption": "Action needed note editor",
+  "mobile": false
+ },
+ {
+  "src": "/screens/admissions-application-tracker/08.webp",
+  "w": 1012,
+  "h": 937,
+  "caption": "Waiting on others reminder",
+  "mobile": false
+ }
+]

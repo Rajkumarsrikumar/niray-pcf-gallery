@@ -1,0 +1,58 @@
+[
+ {
+  "src": "/screens/attendance-register/01.webp",
+  "w": 1012,
+  "h": 757,
+  "caption": "Default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/attendance-register/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Overview",
+  "mobile": true
+ },
+ {
+  "src": "/screens/attendance-register/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "B marking",
+  "mobile": true
+ },
+ {
+  "src": "/screens/attendance-register/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "C submit bar",
+  "mobile": true
+ },
+ {
+  "src": "/screens/attendance-register/05.webp",
+  "w": 1012,
+  "h": 757,
+  "caption": "Keyboard roll call late cutoff",
+  "mobile": false
+ },
+ {
+  "src": "/screens/attendance-register/06.webp",
+  "w": 1012,
+  "h": 757,
+  "caption": "Excused note reasons",
+  "mobile": false
+ },
+ {
+  "src": "/screens/attendance-register/07.webp",
+  "w": 1012,
+  "h": 757,
+  "caption": "Submit validation issues",
+  "mobile": false
+ },
+ {
+  "src": "/screens/attendance-register/08.webp",
+  "w": 1012,
+  "h": 757,
+  "caption": "Bulk select remote",
+  "mobile": false
+ }
+]

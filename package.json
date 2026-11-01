@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "catalog": "python3 -I scripts/build-catalog.py"
+    "data": "python3 -I scripts/prepare-data.py"
   },
   "dependencies": {
     "next": "14.2.15",

@@ -1,0 +1,58 @@
+[
+ {
+  "src": "/screens/course-schedule-builder/01.webp",
+  "w": 1050,
+  "h": 1496,
+  "caption": "Default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/course-schedule-builder/02.webp",
+  "w": 357,
+  "h": 2400,
+  "caption": "Find",
+  "mobile": true
+ },
+ {
+  "src": "/screens/course-schedule-builder/03.webp",
+  "w": 357,
+  "h": 1173,
+  "caption": "Week agenda",
+  "mobile": true
+ },
+ {
+  "src": "/screens/course-schedule-builder/04.webp",
+  "w": 357,
+  "h": 956,
+  "caption": "Cart",
+  "mobile": true
+ },
+ {
+  "src": "/screens/course-schedule-builder/05.webp",
+  "w": 1050,
+  "h": 1496,
+  "caption": "Search preview ghost",
+  "mobile": false
+ },
+ {
+  "src": "/screens/course-schedule-builder/06.webp",
+  "w": 1050,
+  "h": 1547,
+  "caption": "Time conflicts",
+  "mobile": false
+ },
+ {
+  "src": "/screens/course-schedule-builder/07.webp",
+  "w": 1050,
+  "h": 1834,
+  "caption": "Waitlist overload prereq",
+  "mobile": false
+ },
+ {
+  "src": "/screens/course-schedule-builder/08.webp",
+  "w": 1050,
+  "h": 1737,
+  "caption": "Cart validation issues",
+  "mobile": false
+ }
+]

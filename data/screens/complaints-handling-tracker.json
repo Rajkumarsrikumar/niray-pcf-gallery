@@ -1,0 +1,58 @@
+[
+ {
+  "src": "/screens/complaints-handling-tracker/01.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Queue detail",
+  "mobile": false
+ },
+ {
+  "src": "/screens/complaints-handling-tracker/02.webp",
+  "w": 415,
+  "h": 1060,
+  "caption": "Queue",
+  "mobile": true
+ },
+ {
+  "src": "/screens/complaints-handling-tracker/03.webp",
+  "w": 415,
+  "h": 1060,
+  "caption": "Filters",
+  "mobile": true
+ },
+ {
+  "src": "/screens/complaints-handling-tracker/04.webp",
+  "w": 415,
+  "h": 1060,
+  "caption": "Detail",
+  "mobile": true
+ },
+ {
+  "src": "/screens/complaints-handling-tracker/05.webp",
+  "w": 415,
+  "h": 1060,
+  "caption": "Redress",
+  "mobile": true
+ },
+ {
+  "src": "/screens/complaints-handling-tracker/06.webp",
+  "w": 415,
+  "h": 1060,
+  "caption": "Insights",
+  "mobile": true
+ },
+ {
+  "src": "/screens/complaints-handling-tracker/07.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Kpi filter overdue",
+  "mobile": false
+ },
+ {
+  "src": "/screens/complaints-handling-tracker/08.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Root cause outcome",
+  "mobile": false
+ }
+]

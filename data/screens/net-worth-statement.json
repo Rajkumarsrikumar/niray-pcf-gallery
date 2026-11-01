@@ -1,0 +1,58 @@
+[
+ {
+  "src": "/screens/net-worth-statement/01.webp",
+  "w": 1318,
+  "h": 1728,
+  "caption": "Default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/net-worth-statement/02.webp",
+  "w": 357,
+  "h": 2020,
+  "caption": "Asset",
+  "mobile": true
+ },
+ {
+  "src": "/screens/net-worth-statement/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Edit sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/net-worth-statement/04.webp",
+  "w": 357,
+  "h": 1076,
+  "caption": "Summary",
+  "mobile": true
+ },
+ {
+  "src": "/screens/net-worth-statement/05.webp",
+  "w": 1318,
+  "h": 1414,
+  "caption": "Owner view alex",
+  "mobile": false
+ },
+ {
+  "src": "/screens/net-worth-statement/06.webp",
+  "w": 1284,
+  "h": 367,
+  "caption": "Trend tooltip ratios",
+  "mobile": false
+ },
+ {
+  "src": "/screens/net-worth-statement/07.webp",
+  "w": 1318,
+  "h": 1808,
+  "caption": "Delete confirm",
+  "mobile": false
+ },
+ {
+  "src": "/screens/net-worth-statement/08.webp",
+  "w": 1318,
+  "h": 971,
+  "caption": "Search harbour",
+  "mobile": false
+ }
+]

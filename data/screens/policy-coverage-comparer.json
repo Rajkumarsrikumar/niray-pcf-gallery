@@ -1,0 +1,58 @@
+[
+ {
+  "src": "/screens/policy-coverage-comparer/01.webp",
+  "w": 1040,
+  "h": 2129,
+  "caption": "Default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/policy-coverage-comparer/02.webp",
+  "w": 357,
+  "h": 2400,
+  "caption": "Overview",
+  "mobile": true
+ },
+ {
+  "src": "/screens/policy-coverage-comparer/03.webp",
+  "w": 357,
+  "h": 2400,
+  "caption": "B compare pair",
+  "mobile": true
+ },
+ {
+  "src": "/screens/policy-coverage-comparer/04.webp",
+  "w": 1040,
+  "h": 2129,
+  "caption": "Recommended selected",
+  "mobile": false
+ },
+ {
+  "src": "/screens/policy-coverage-comparer/05.webp",
+  "w": 1040,
+  "h": 2103,
+  "caption": "Musthave differences only",
+  "mobile": false
+ },
+ {
+  "src": "/screens/policy-coverage-comparer/06.webp",
+  "w": 1040,
+  "h": 2250,
+  "caption": "Gap acknowledgement required",
+  "mobile": false
+ },
+ {
+  "src": "/screens/policy-coverage-comparer/07.webp",
+  "w": 1040,
+  "h": 1096,
+  "caption": "Search and details",
+  "mobile": false
+ },
+ {
+  "src": "/screens/policy-coverage-comparer/08.webp",
+  "w": 1040,
+  "h": 2202,
+  "caption": "Keyboard focus",
+  "mobile": false
+ }
+]
