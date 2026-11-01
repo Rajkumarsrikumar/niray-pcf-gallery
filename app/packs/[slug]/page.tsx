@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import AddToCart from "../../AddToCart";
 import Icon from "../../Icon";
 import ProductCard from "../../ProductCard";
-import { HEALTH_NOTICE, allComponents, allPacks, getPack, isAvailable, themeFor } from "@/lib/catalog";
+import { HEALTH_NOTICE, PRICE, allComponents, allPacks, formatPrice, getPack, isAvailable, themeFor } from "@/lib/catalog";
 
 export function generateStaticParams() {
   return allPacks.map((p) => ({ slug: p.slug }));
@@ -36,7 +36,7 @@ export default function PackPage({ params }: { params: { slug: string } }) {
           </div>
           <div className="rounded-lg bg-white p-6 text-ink shadow-lg">
             <p className="text-sm text-slate-500">Bundle price</p>
-            <p className="text-3xl font-extrabold text-brand-navy">{p.price ? `$${p.price}` : "On request"}</p>
+            <p className="text-3xl font-extrabold text-brand-navy">{formatPrice(PRICE.pack)}</p>
             <ul className="my-5 space-y-2 text-sm">
               {[`${all.length} components`, `${all.filter(isAvailable).length} in stock now`, "One managed solution", "Pack catalogue + user manuals"].map((x) => (
                 <li key={x} className="flex items-center gap-2"><Icon name="check" className="h-4 w-4 text-brand-green" />{x}</li>

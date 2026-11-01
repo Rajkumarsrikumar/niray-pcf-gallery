@@ -1,7 +1,7 @@
 import Link from "next/link";
 import ProductArt from "./ProductArt";
 import AddToCart from "./AddToCart";
-import { isAvailable, screensFor, themeFor, thumbOf, type Component } from "@/lib/catalog";
+import { PRICE, formatPrice, isAvailable, screensFor, themeFor, thumbOf, type Component } from "@/lib/catalog";
 
 export default function ProductCard({ c }: { c: Component }) {
   const t = themeFor(c.industry);
@@ -26,7 +26,7 @@ export default function ProductCard({ c }: { c: Component }) {
           <Link href={`/components/${c.slug}`} prefetch={false} className="after:absolute after:inset-0 after:content-[''] focus:outline-none">{c.name}</Link>
         </h3>
         <p className="mt-1 line-clamp-2 text-sm leading-relaxed text-ink-soft">{c.tagline}</p>
-        <p className="mt-auto pt-3 text-sm font-semibold text-ink">{c.price ? `$${c.price}` : "Price on request"}</p>
+        <p className="mt-auto pt-3 text-sm font-semibold text-ink">{formatPrice(PRICE.component)}</p>
       </div>
     </article>
   );
