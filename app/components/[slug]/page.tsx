@@ -8,7 +8,7 @@ import ScreenGallery from "../../ScreenGallery";
 import FreeDownload from "./FreeDownload";
 import Sections from "./Sections";
 import delivery from "@/data/delivery.json";
-import { CONTACT, HEALTH_NOTICE, allComponents, getComponent, isAvailable, packForComponent, screensFor, themeFor } from "@/lib/catalog";
+import { CONTACT, HEALTH_NOTICE, PRICE, formatPrice, allComponents, getComponent, isAvailable, packForComponent, screensFor, themeFor } from "@/lib/catalog";
 
 export function generateStaticParams() {
   return allComponents.map((c) => ({ slug: c.slug }));
@@ -62,7 +62,7 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
 
           <div className="-mx-4 mt-6 border-y border-ink/15 bg-white p-5 sm:mx-0 sm:rounded-lg sm:border sm:p-6">
             <div className="flex items-end justify-between gap-4">
-              <div><p className="text-sm text-ink-faint">Licence price</p><p className="text-3xl font-extrabold text-ink">{c.price ? `$${c.price}` : "On request"}</p></div>
+              <div><p className="text-sm text-ink-faint">Licence price</p><p className="text-3xl font-extrabold text-ink">{formatPrice(PRICE.component)}</p></div>
               <p className="text-right text-xs text-ink-faint">One-time licence<br />Emailed to you after payment</p>
             </div>
             <div className="mt-5 space-y-2.5">

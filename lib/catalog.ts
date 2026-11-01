@@ -32,6 +32,11 @@ export const themeFor = (industry: string) => theme[industry] ?? theme["Cross-in
 export const HEALTH_NOTICE = "UI/documentation aid – not a medical device; validate clinically before use.";
 export const CONTACT = "info@nirayitsolutions.com";
 
+/** Licence prices in Singapore dollars (set by Niray, Nov 2026). */
+export const PRICE = { component: 15, pack: 250 } as const;
+export const formatPrice = (sgd: number) => `S$${sgd}`;
+export const priceOf = (kind: "component" | "pack") => (kind === "pack" ? PRICE.pack : PRICE.component);
+
 import screens from "@/data/screens.json";
 export type Screen = { src: string; w: number; h: number; caption: string; mobile: boolean };
 export const screensFor = (slug: string): Screen[] => (screens as Record<string, Screen[]>)[slug] ?? [];

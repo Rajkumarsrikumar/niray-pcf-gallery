@@ -1,7 +1,7 @@
 import Link from "next/link";
 import AddToCart from "../AddToCart";
 import Icon from "../Icon";
-import { allPacks, isAvailable, packComponents, themeFor } from "@/lib/catalog";
+import { PRICE, allPacks, formatPrice, isAvailable, packComponents, themeFor } from "@/lib/catalog";
 
 export const metadata = { title: "Industry packs | Niray PCF Gallery" };
 
@@ -29,7 +29,7 @@ export default function Packs() {
                 <div className="flex gap-6 text-sm">
                   <div><p className="text-2xl font-extrabold text-brand-navy">{items.length}</p><p className="text-slate-500">components</p></div>
                   <div><p className="text-2xl font-extrabold text-brand-green">{ready}</p><p className="text-slate-500">in stock</p></div>
-                  <div className="ml-auto text-right"><p className="text-sm text-slate-500">Bundle price</p><p className="text-xl font-extrabold text-brand-navy">{p.price ? `$${p.price}` : "On request"}</p></div>
+                  <div className="ml-auto text-right"><p className="text-sm text-slate-500">Bundle price</p><p className="text-xl font-extrabold text-brand-navy">{formatPrice(PRICE.pack)}</p></div>
                 </div>
                 <div className="mt-5 grid grid-cols-2 gap-3">
                   <Link href={`/packs/${p.slug}`} className="rounded-xl border border-slate-300 py-3 text-center font-semibold text-brand-navy hover:border-brand-blue">View pack</Link>
