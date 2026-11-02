@@ -519,7 +519,7 @@
   "slug": "manufacturing-pcf-pack",
   "name": "Niray Manufacturing PCF Pack",
   "industry": "Manufacturing",
-  "status": "in progress",
+  "status": "complete",
   "planned": 30,
   "components": [
    {
@@ -629,6 +629,32 @@
    {
     "slug": "pallet-load-planner",
     "subCategory": "Logistics"
+   },
+   {
+    "slug": "routing-operations-editor",
+    "subCategory": "Engineering"
+   },
+   {
+    "slug": "tier-meeting-board",
+    "subCategory": "Lean"
+   },
+   {
+    "slug": "capacity-load-heatmap",
+    "subCategory": "Planning"
+   }
+  ],
+  "price": null
+ },
+ {
+  "slug": "real-estate-and-facilities-pcf-pack",
+  "name": "Niray Real Estate & Facilities PCF Pack",
+  "industry": "Real Estate & Facilities",
+  "status": "in progress",
+  "planned": 30,
+  "components": [
+   {
+    "slug": "rent-roll-analyzer",
+    "subCategory": "Leasing & Revenue"
    }
   ],
   "price": null

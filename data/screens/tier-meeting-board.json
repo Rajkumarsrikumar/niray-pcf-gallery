@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/tier-meeting-board/01.webp",
+  "w": 1038,
+  "h": 996,
+  "caption": "Tier1 line board",
+  "mobile": false,
+  "v": "1a456ee4"
+ },
+ {
+  "src": "/screens/tier-meeting-board/02.webp",
+  "w": 391,
+  "h": 1868,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "35ceee2c"
+ },
+ {
+  "src": "/screens/tier-meeting-board/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "B delivery letter",
+  "mobile": true,
+  "v": "bfe21624"
+ },
+ {
+  "src": "/screens/tier-meeting-board/04.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "C actions",
+  "mobile": true,
+  "v": "3d82b280"
+ },
+ {
+  "src": "/screens/tier-meeting-board/05.webp",
+  "w": 1038,
+  "h": 1012,
+  "caption": "Day status click and keyboard",
+  "mobile": false,
+  "v": "6c4a20a3"
+ },
+ {
+  "src": "/screens/tier-meeting-board/06.webp",
+  "w": 1038,
+  "h": 1189,
+  "caption": "Add action validation",
+  "mobile": false,
+  "v": "54489372"
+ }
+]
