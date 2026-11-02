@@ -3,7 +3,7 @@ import Icon from "./Icon";
 import ProductCard from "./ProductCard";
 import Hero, { type HeroPick } from "./Hero";
 import Reveal from "./Reveal";
-import { allComponents, allPacks, industries, industrySlug, isAvailable, packComponents, screensFor, themeFor, thumbOf } from "@/lib/catalog";
+import { allComponents, allPacks, industries, industrySlug, isAvailable, packComponents, screensFor, themeFor } from "@/lib/catalog";
 
 const included = [
   { h: "A managed solution", b: "Import it into any environment. Upgrades install cleanly over the top." },
@@ -29,7 +29,7 @@ export default function Home() {
   // Prefer components with real screenshots until every package's screenshots are in; one per industry first.
   const shown = popular.filter((c) => screensFor(c.slug).length).length >= 8 ? popular
     : [...industries.flatMap((i) => withShots.filter((c) => c.industry === i && !newest.includes(c)).slice(0, 2)), ...popular].slice(0, 8);
-  const heroPicks: HeroPick[] = picks.map(({ c, shot }) => ({ slug: c.slug, name: c.name, industry: c.industry, color: themeFor(c.industry).color, on: themeFor(c.industry).on, src: shot.src, thumb: thumbOf(shot.src) }));
+  const heroPicks: HeroPick[] = picks.map(({ c, shot }) => ({ slug: c.slug, name: c.name, industry: c.industry, color: themeFor(c.industry).color, on: themeFor(c.industry).on, src: shot.src }));
   const chips = [{ label: "All components", href: "/components", color: "#003B5C" }, ...industries.filter((i) => i !== "Cross-industry").map((i) => ({ label: i.split(" & ")[0], href: `/components?industry=${industrySlug(i)}`, color: themeFor(i).color }))];
   const counts = Object.fromEntries(industries.map((i) => [i, allComponents.filter((c) => c.industry === i).length]));
 
