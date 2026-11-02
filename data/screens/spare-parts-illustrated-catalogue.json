@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/spare-parts-illustrated-catalogue/01.webp",
+  "w": 1364,
+  "h": 565,
+  "caption": "Main assembly",
+  "mobile": false,
+  "v": "379caad7"
+ },
+ {
+  "src": "/screens/spare-parts-illustrated-catalogue/02.webp",
+  "w": 373,
+  "h": 679,
+  "caption": "Diagram",
+  "mobile": true,
+  "v": "1093964c"
+ },
+ {
+  "src": "/screens/spare-parts-illustrated-catalogue/03.webp",
+  "w": 373,
+  "h": 1777,
+  "caption": "Parts detail",
+  "mobile": true,
+  "v": "2aa822e9"
+ },
+ {
+  "src": "/screens/spare-parts-illustrated-catalogue/04.webp",
+  "w": 373,
+  "h": 1429,
+  "caption": "Order list",
+  "mobile": true,
+  "v": "60686fca"
+ },
+ {
+  "src": "/screens/spare-parts-illustrated-catalogue/05.webp",
+  "w": 1364,
+  "h": 753,
+  "caption": "Main callout gearbox exchange unit",
+  "mobile": false,
+  "v": "13033a7d"
+ },
+ {
+  "src": "/screens/spare-parts-illustrated-catalogue/06.webp",
+  "w": 1364,
+  "h": 1062,
+  "caption": "Gearbox oil seal supersession chain",
+  "mobile": false,
+  "v": "3ead973d"
+ }
+]

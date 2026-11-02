@@ -889,7 +889,7 @@
   "industry": "Manufacturing",
   "status": "in progress",
   "componentsPlanned": 30,
-  "componentsBuilt": 16,
+  "componentsBuilt": 27,
   "price": null,
   "components": [
    {
@@ -1007,77 +1007,77 @@
    {
     "order": 17,
     "component": "WarrantyClaimPortal",
-    "slug": null,
+    "slug": "warranty-claim-portal",
     "subCategory": "After-sales",
     "status": "planned"
    },
    {
     "order": 18,
     "component": "SparePartsIllustratedCatalogue",
-    "slug": null,
+    "slug": "spare-parts-illustrated-catalogue",
     "subCategory": "After-sales",
     "status": "planned"
    },
    {
     "order": 19,
     "component": "MrpTimePhasedGrid",
-    "slug": null,
+    "slug": "mrp-time-phased-grid",
     "subCategory": "Planning",
     "status": "planned"
    },
    {
     "order": 20,
     "component": "LineBalancingYamazumi",
-    "slug": null,
+    "slug": "line-balancing-yamazumi",
     "subCategory": "Lean",
     "status": "planned"
    },
    {
     "order": 21,
     "component": "EKanbanLoopBoard",
-    "slug": null,
+    "slug": "ekanban-loop-board",
     "subCategory": "Lean",
     "status": "planned"
    },
    {
     "order": 22,
     "component": "SafetyCrossCalendar",
-    "slug": null,
+    "slug": "safety-cross-calendar",
     "subCategory": "EHS",
     "status": "planned"
    },
    {
     "order": 23,
     "component": "LayeredProcessAudit",
-    "slug": null,
+    "slug": "layered-process-audit",
     "subCategory": "Quality",
     "status": "planned"
    },
    {
     "order": 24,
     "component": "ToolLifeTracker",
-    "slug": null,
+    "slug": "tool-life-tracker",
     "subCategory": "Maintenance",
     "status": "planned"
    },
    {
     "order": 25,
     "component": "EnergyConsumptionMonitor",
-    "slug": null,
+    "slug": "energy-consumption-monitor",
     "subCategory": "Sustainability",
     "status": "planned"
    },
    {
     "order": 26,
     "component": "CertificateOfConformanceViewer",
-    "slug": null,
+    "slug": "certificate-of-conformance-viewer",
     "subCategory": "Quality",
     "status": "planned"
    },
    {
     "order": 27,
     "component": "PalletLoadPlanner",
-    "slug": null,
+    "slug": "pallet-load-planner",
     "subCategory": "Logistics",
     "status": "planned"
    },

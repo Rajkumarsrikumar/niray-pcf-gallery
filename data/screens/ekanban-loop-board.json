@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/ekanban-loop-board/01.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "Default",
+  "mobile": false,
+  "v": "3c896e89"
+ },
+ {
+  "src": "/screens/ekanban-loop-board/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "d9837d62"
+ },
+ {
+  "src": "/screens/ekanban-loop-board/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Cards expanded",
+  "mobile": true,
+  "v": "08e2efbd"
+ },
+ {
+  "src": "/screens/ekanban-loop-board/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Detail panel",
+  "mobile": true,
+  "v": "768ae033"
+ },
+ {
+  "src": "/screens/ekanban-loop-board/05.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Sizing",
+  "mobile": true,
+  "v": "1e9a4e06"
+ },
+ {
+  "src": "/screens/ekanban-loop-board/06.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "Card detail",
+  "mobile": false,
+  "v": "41b75ac1"
+ }
+]

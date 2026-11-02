@@ -585,6 +585,50 @@
    {
     "slug": "engineering-change-order",
     "subCategory": "Engineering"
+   },
+   {
+    "slug": "warranty-claim-portal",
+    "subCategory": "After-sales"
+   },
+   {
+    "slug": "spare-parts-illustrated-catalogue",
+    "subCategory": "After-sales"
+   },
+   {
+    "slug": "mrp-time-phased-grid",
+    "subCategory": "Planning"
+   },
+   {
+    "slug": "line-balancing-yamazumi",
+    "subCategory": "Lean"
+   },
+   {
+    "slug": "ekanban-loop-board",
+    "subCategory": "Lean"
+   },
+   {
+    "slug": "safety-cross-calendar",
+    "subCategory": "EHS"
+   },
+   {
+    "slug": "layered-process-audit",
+    "subCategory": "Quality"
+   },
+   {
+    "slug": "tool-life-tracker",
+    "subCategory": "Maintenance"
+   },
+   {
+    "slug": "energy-consumption-monitor",
+    "subCategory": "Sustainability"
+   },
+   {
+    "slug": "certificate-of-conformance-viewer",
+    "subCategory": "Quality"
+   },
+   {
+    "slug": "pallet-load-planner",
+    "subCategory": "Logistics"
    }
   ],
   "price": null
