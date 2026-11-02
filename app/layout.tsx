@@ -7,6 +7,7 @@ import Header from "./Header";
 import Logo from "./Logo";
 import { CartProvider } from "@/lib/cart";
 import { CONTACT, allComponents } from "@/lib/catalog";
+import { CORE_KEYWORDS } from "@/lib/seo";
 
 const inter = Inter({ subsets: ["latin"], display: "swap", variable: "--font-inter" });
 
@@ -16,7 +17,8 @@ export const metadata: Metadata = {
   openGraph: { siteName: "Niray PCF Gallery", type: "website", locale: "en_SG", images: [{ url: "/brand/logo.png", alt: "Niray PCF Gallery" }] },
   twitter: { card: "summary" },
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1 } },
-  title: "Niray PCF Gallery | Power Apps code components",
+  title: { default: "Niray PCF Gallery | Power Apps PCF controls & code components", template: "%s" },
+  keywords: [...CORE_KEYWORDS, "PCF gallery", "Niray PCF Gallery", "Niray IT Solutions"],
   description: `Shop ${allComponents.length} production-ready Power Apps Component Framework (PCF) controls and industry packs for Canvas apps, Model-driven apps and Power Pages, by Niray IT Solutions.`,
 };
 

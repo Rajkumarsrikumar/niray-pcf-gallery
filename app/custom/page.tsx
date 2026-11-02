@@ -1,7 +1,7 @@
 import CustomForm from "./CustomForm";
 import Icon from "../Icon";
 
-export const metadata = { title: "Request custom PCF development | Niray PCF Gallery", description: "Need a Power Apps code component that isn't in the gallery? Niray IT Solutions builds custom PCF controls for Canvas, Model-driven and Power Pages.", alternates: { canonical: "/custom" } };
+export const metadata = { keywords: ["custom PCF development", "PCF developer", "Power Apps component developer", "custom Power Apps control", "Power Platform consultant Singapore"], title: "Request custom PCF development | Niray PCF Gallery", description: "Need a Power Apps code component that isn't in the gallery? Niray IT Solutions builds custom PCF controls for Canvas, Model-driven and Power Pages.", alternates: { canonical: "/custom" } };
 
 const steps = [
   { icon: "doc", h: "Tell us what you need", b: "Describe the screen, the data and where it will run." },
