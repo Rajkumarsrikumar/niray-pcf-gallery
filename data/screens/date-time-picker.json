@@ -9,36 +9,8 @@
  {
   "src": "/screens/date-time-picker/02.webp",
   "w": 375,
-  "h": 760,
+  "h": 694,
   "caption": "Sheet open",
   "mobile": true
- },
- {
-  "src": "/screens/date-time-picker/03.webp",
-  "w": 375,
-  "h": 760,
-  "caption": "After pick",
-  "mobile": true
- },
- {
-  "src": "/screens/date-time-picker/04.webp",
-  "w": 1080,
-  "h": 510,
-  "caption": "Keyboard navigation",
-  "mobile": false
- },
- {
-  "src": "/screens/date-time-picker/05.webp",
-  "w": 1080,
-  "h": 510,
-  "caption": "Typed tomorrow 11am",
-  "mobile": false
- },
- {
-  "src": "/screens/date-time-picker/06.webp",
-  "w": 1080,
-  "h": 518,
-  "caption": "Inline 12h",
-  "mobile": false
  }
 ]

@@ -3,7 +3,7 @@
   "src": "/screens/patient-flow-queue/01.webp",
   "w": 1050,
   "h": 760,
-  "caption": "Board",
+  "caption": "Details drawer",
   "mobile": false
  },
  {
@@ -12,33 +12,5 @@
   "h": 760,
   "caption": "List",
   "mobile": true
- },
- {
-  "src": "/screens/patient-flow-queue/03.webp",
-  "w": 357,
-  "h": 760,
-  "caption": "Details sheet",
-  "mobile": true
- },
- {
-  "src": "/screens/patient-flow-queue/04.webp",
-  "w": 357,
-  "h": 760,
-  "caption": "Assign sheet",
-  "mobile": true
- },
- {
-  "src": "/screens/patient-flow-queue/05.webp",
-  "w": 357,
-  "h": 760,
-  "caption": "Rooms expanded",
-  "mobile": true
- },
- {
-  "src": "/screens/patient-flow-queue/06.webp",
-  "w": 1050,
-  "h": 760,
-  "caption": "Details drawer",
-  "mobile": false
  }
 ]

@@ -8,37 +8,23 @@
  },
  {
   "src": "/screens/file-preview-gallery/02.webp",
-  "w": 375,
-  "h": 746,
-  "caption": "List",
-  "mobile": true
- },
- {
-  "src": "/screens/file-preview-gallery/03.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Viewer",
-  "mobile": true
- },
- {
-  "src": "/screens/file-preview-gallery/04.webp",
   "w": 1000,
   "h": 820,
   "caption": "List view sorted selected",
   "mobile": false
  },
  {
-  "src": "/screens/file-preview-gallery/05.webp",
-  "w": 1012,
+  "src": "/screens/file-preview-gallery/03.webp",
+  "w": 519,
   "h": 854,
   "caption": "Search leeds",
   "mobile": false
  },
  {
-  "src": "/screens/file-preview-gallery/06.webp",
-  "w": 1180,
-  "h": 852,
-  "caption": "Viewer image details",
-  "mobile": false
+  "src": "/screens/file-preview-gallery/04.webp",
+  "w": 375,
+  "h": 746,
+  "caption": "List",
+  "mobile": true
  }
 ]

@@ -5,40 +5,5 @@
   "h": 920,
   "caption": "Fortnight grouped",
   "mobile": false
- },
- {
-  "src": "/screens/shift-roster-planner/02.webp",
-  "w": 375,
-  "h": 881,
-  "caption": "Day view",
-  "mobile": true
- },
- {
-  "src": "/screens/shift-roster-planner/03.webp",
-  "w": 375,
-  "h": 881,
-  "caption": "Saturday gaps",
-  "mobile": true
- },
- {
-  "src": "/screens/shift-roster-planner/04.webp",
-  "w": 375,
-  "h": 900,
-  "caption": "Issues",
-  "mobile": true
- },
- {
-  "src": "/screens/shift-roster-planner/05.webp",
-  "w": 1012,
-  "h": 935,
-  "caption": "Issues panel rest violation",
-  "mobile": false
- },
- {
-  "src": "/screens/shift-roster-planner/06.webp",
-  "w": 1072,
-  "h": 920,
-  "caption": "Paint mode week2 repeated",
-  "mobile": false
  }
 ]

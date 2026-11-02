@@ -1,16 +1,16 @@
 [
  {
   "src": "/screens/vendor-comparison-matrix/01.webp",
-  "w": 1012,
-  "h": 936,
-  "caption": "Matrix default",
+  "w": 1018,
+  "h": 798,
+  "caption": "B control only",
   "mobile": false
  },
  {
   "src": "/screens/vendor-comparison-matrix/02.webp",
-  "w": 1018,
-  "h": 798,
-  "caption": "B control only",
+  "w": 1012,
+  "h": 936,
+  "caption": "Matrix default",
   "mobile": false
  },
  {
@@ -19,26 +19,5 @@
   "h": 900,
   "caption": "Cards",
   "mobile": false
- },
- {
-  "src": "/screens/vendor-comparison-matrix/04.webp",
-  "w": 357,
-  "h": 1000,
-  "caption": "Cards",
-  "mobile": true
- },
- {
-  "src": "/screens/vendor-comparison-matrix/05.webp",
-  "w": 335,
-  "h": 851,
-  "caption": "Details",
-  "mobile": true
- },
- {
-  "src": "/screens/vendor-comparison-matrix/06.webp",
-  "w": 335,
-  "h": 1081,
-  "caption": "B matrix scroll",
-  "mobile": true
  }
 ]

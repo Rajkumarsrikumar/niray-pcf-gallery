@@ -3,42 +3,28 @@
   "src": "/screens/pricing-plan-selector/01.webp",
   "w": 1050,
   "h": 1000,
-  "caption": "Default",
+  "caption": "Annual business configured",
   "mobile": false
  },
  {
   "src": "/screens/pricing-plan-selector/02.webp",
-  "w": 341,
-  "h": 740,
-  "caption": "Carousel",
-  "mobile": true
+  "w": 1050,
+  "h": 1000,
+  "caption": "Default",
+  "mobile": false
  },
  {
   "src": "/screens/pricing-plan-selector/03.webp",
-  "w": 341,
-  "h": 740,
-  "caption": "Selected",
-  "mobile": true
+  "w": 1018,
+  "h": 720,
+  "caption": "Comparison differences",
+  "mobile": false
  },
  {
   "src": "/screens/pricing-plan-selector/04.webp",
   "w": 341,
   "h": 740,
-  "caption": "Compare",
+  "caption": "Carousel",
   "mobile": true
- },
- {
-  "src": "/screens/pricing-plan-selector/05.webp",
-  "w": 1050,
-  "h": 1000,
-  "caption": "Annual business configured",
-  "mobile": false
- },
- {
-  "src": "/screens/pricing-plan-selector/06.webp",
-  "w": 1018,
-  "h": 720,
-  "caption": "Comparison differences",
-  "mobile": false
  }
 ]

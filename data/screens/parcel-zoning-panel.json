@@ -1,44 +1,30 @@
 [
  {
   "src": "/screens/parcel-zoning-panel/01.webp",
-  "w": 1012,
-  "h": 854,
-  "caption": "Summary",
-  "mobile": false
- },
- {
-  "src": "/screens/parcel-zoning-panel/02.webp",
-  "w": 375,
-  "h": 766,
-  "caption": "Summary",
-  "mobile": true
- },
- {
-  "src": "/screens/parcel-zoning-panel/03.webp",
-  "w": 375,
-  "h": 766,
-  "caption": "Check verdict",
-  "mobile": true
- },
- {
-  "src": "/screens/parcel-zoning-panel/04.webp",
-  "w": 375,
-  "h": 766,
-  "caption": "B uses",
-  "mobile": true
- },
- {
-  "src": "/screens/parcel-zoning-panel/05.webp",
   "w": 1316,
   "h": 837,
   "caption": "Finder search",
   "mobile": false
  },
  {
-  "src": "/screens/parcel-zoning-panel/06.webp",
+  "src": "/screens/parcel-zoning-panel/02.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Summary",
+  "mobile": false
+ },
+ {
+  "src": "/screens/parcel-zoning-panel/03.webp",
   "w": 1316,
   "h": 837,
   "caption": "Uses overlay rules",
   "mobile": false
+ },
+ {
+  "src": "/screens/parcel-zoning-panel/04.webp",
+  "w": 375,
+  "h": 766,
+  "caption": "Summary",
+  "mobile": true
  }
 ]

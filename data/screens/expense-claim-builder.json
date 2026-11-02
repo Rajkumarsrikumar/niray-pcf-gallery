@@ -1,16 +1,16 @@
 [
  {
   "src": "/screens/expense-claim-builder/01.webp",
-  "w": 1082,
+  "w": 1364,
   "h": 852,
-  "caption": "Populated",
+  "caption": "B wide summary panel",
   "mobile": false
  },
  {
   "src": "/screens/expense-claim-builder/02.webp",
-  "w": 1364,
+  "w": 1082,
   "h": 852,
-  "caption": "B wide summary panel",
+  "caption": "Populated",
   "mobile": false
  },
  {
@@ -19,26 +19,5 @@
   "h": 746,
   "caption": "Cards",
   "mobile": true
- },
- {
-  "src": "/screens/expense-claim-builder/04.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "B editor sheet",
-  "mobile": true
- },
- {
-  "src": "/screens/expense-claim-builder/05.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "C summary",
-  "mobile": true
- },
- {
-  "src": "/screens/expense-claim-builder/06.webp",
-  "w": 1366,
-  "h": 900,
-  "caption": "Editor policy warnings",
-  "mobile": false
  }
 ]

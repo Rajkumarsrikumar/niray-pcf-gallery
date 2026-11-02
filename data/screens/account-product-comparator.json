@@ -1,58 +1,30 @@
 [
  {
   "src": "/screens/account-product-comparator/01.webp",
-  "w": 1012,
-  "h": 954,
-  "caption": "Default",
-  "mobile": false
- },
- {
-  "src": "/screens/account-product-comparator/02.webp",
-  "w": 998,
-  "h": 1500,
-  "caption": "Control",
-  "mobile": false
- },
- {
-  "src": "/screens/account-product-comparator/03.webp",
-  "w": 341,
-  "h": 1400,
-  "caption": "Overview",
-  "mobile": true
- },
- {
-  "src": "/screens/account-product-comparator/04.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Profile sheet",
-  "mobile": true
- },
- {
-  "src": "/screens/account-product-comparator/05.webp",
-  "w": 341,
-  "h": 1400,
-  "caption": "Compare",
-  "mobile": true
- },
- {
-  "src": "/screens/account-product-comparator/06.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Details sheet",
-  "mobile": true
- },
- {
-  "src": "/screens/account-product-comparator/07.webp",
   "w": 998,
   "h": 1500,
   "caption": "Compare three products",
   "mobile": false
  },
  {
-  "src": "/screens/account-product-comparator/08.webp",
-  "w": 698,
-  "h": 833,
-  "caption": "Compare only differences",
+  "src": "/screens/account-product-comparator/02.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Default",
   "mobile": false
+ },
+ {
+  "src": "/screens/account-product-comparator/03.webp",
+  "w": 998,
+  "h": 1500,
+  "caption": "Control",
+  "mobile": false
+ },
+ {
+  "src": "/screens/account-product-comparator/04.webp",
+  "w": 375,
+  "h": 746,
+  "caption": "Profile sheet",
+  "mobile": true
  }
 ]

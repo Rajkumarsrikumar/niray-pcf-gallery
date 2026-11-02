@@ -3,56 +3,14 @@
   "src": "/screens/student-early-alert-panel/01.webp",
   "w": 1012,
   "h": 954,
-  "caption": "Default",
-  "mobile": false
- },
- {
-  "src": "/screens/student-early-alert-panel/02.webp",
-  "w": 399,
-  "h": 1619,
-  "caption": "Overview",
-  "mobile": true
- },
- {
-  "src": "/screens/student-early-alert-panel/03.webp",
-  "w": 399,
-  "h": 1506,
-  "caption": "Alerts",
-  "mobile": true
- },
- {
-  "src": "/screens/student-early-alert-panel/04.webp",
-  "w": 399,
-  "h": 1506,
-  "caption": "Detail",
-  "mobile": true
- },
- {
-  "src": "/screens/student-early-alert-panel/05.webp",
-  "w": 399,
-  "h": 1506,
-  "caption": "B raise",
-  "mobile": true
- },
- {
-  "src": "/screens/student-early-alert-panel/06.webp",
-  "w": 1012,
-  "h": 954,
-  "caption": "Raise validation",
-  "mobile": false
- },
- {
-  "src": "/screens/student-early-alert-panel/07.webp",
-  "w": 1012,
-  "h": 954,
   "caption": "Alert raised assigned",
   "mobile": false
  },
  {
-  "src": "/screens/student-early-alert-panel/08.webp",
+  "src": "/screens/student-early-alert-panel/02.webp",
   "w": 1012,
   "h": 954,
-  "caption": "Assign start note",
+  "caption": "Default",
   "mobile": false
  }
 ]

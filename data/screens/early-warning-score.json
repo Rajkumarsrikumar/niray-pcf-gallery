@@ -5,40 +5,5 @@
   "h": 936,
   "caption": "High score trend",
   "mobile": false
- },
- {
-  "src": "/screens/early-warning-score/02.webp",
-  "w": 375,
-  "h": 854,
-  "caption": "Overview",
-  "mobile": true
- },
- {
-  "src": "/screens/early-warning-score/03.webp",
-  "w": 375,
-  "h": 900,
-  "caption": "Scrolled sticky total",
-  "mobile": true
- },
- {
-  "src": "/screens/early-warning-score/04.webp",
-  "w": 1029,
-  "h": 936,
-  "caption": "Trend point focus",
-  "mobile": false
- },
- {
-  "src": "/screens/early-warning-score/05.webp",
-  "w": 1029,
-  "h": 936,
-  "caption": "Trend table",
-  "mobile": false
- },
- {
-  "src": "/screens/early-warning-score/06.webp",
-  "w": 1029,
-  "h": 936,
-  "caption": "Improved low score",
-  "mobile": false
  }
 ]

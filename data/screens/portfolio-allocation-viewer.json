@@ -1,58 +1,23 @@
 [
  {
   "src": "/screens/portfolio-allocation-viewer/01.webp",
+  "w": 1042,
+  "h": 648,
+  "caption": "Holdings search",
+  "mobile": false
+ },
+ {
+  "src": "/screens/portfolio-allocation-viewer/02.webp",
   "w": 1012,
   "h": 936,
   "caption": "Default",
   "mobile": false
  },
  {
-  "src": "/screens/portfolio-allocation-viewer/02.webp",
-  "w": 399,
-  "h": 2106,
-  "caption": "Overview",
-  "mobile": true
- },
- {
   "src": "/screens/portfolio-allocation-viewer/03.webp",
-  "w": 399,
-  "h": 2400,
-  "caption": "Rebalance",
-  "mobile": true
- },
- {
-  "src": "/screens/portfolio-allocation-viewer/04.webp",
-  "w": 384,
-  "h": 2106,
-  "caption": "Holdings",
-  "mobile": true
- },
- {
-  "src": "/screens/portfolio-allocation-viewer/05.webp",
-  "w": 1012,
-  "h": 954,
-  "caption": "Drilldown us equity",
-  "mobile": false
- },
- {
-  "src": "/screens/portfolio-allocation-viewer/06.webp",
   "w": 1012,
   "h": 954,
   "caption": "Bar chart bands",
-  "mobile": false
- },
- {
-  "src": "/screens/portfolio-allocation-viewer/07.webp",
-  "w": 1012,
-  "h": 954,
-  "caption": "Holdings sorted",
-  "mobile": false
- },
- {
-  "src": "/screens/portfolio-allocation-viewer/08.webp",
-  "w": 1042,
-  "h": 648,
-  "caption": "Holdings search",
   "mobile": false
  }
 ]

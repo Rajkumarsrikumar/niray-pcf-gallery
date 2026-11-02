@@ -8,37 +8,16 @@
  },
  {
   "src": "/screens/image-annotator/02.webp",
-  "w": 351,
-  "h": 650,
-  "caption": "Collapsed",
-  "mobile": true
- },
- {
-  "src": "/screens/image-annotator/03.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "List open",
-  "mobile": true
- },
- {
-  "src": "/screens/image-annotator/04.webp",
-  "w": 1064,
-  "h": 612,
-  "caption": "Selected editor",
-  "mobile": false
- },
- {
-  "src": "/screens/image-annotator/05.webp",
-  "w": 1064,
-  "h": 612,
-  "caption": "Drawing new marks",
-  "mobile": false
- },
- {
-  "src": "/screens/image-annotator/06.webp",
   "w": 1064,
   "h": 612,
   "caption": "Filter zoom",
   "mobile": false
+ },
+ {
+  "src": "/screens/image-annotator/03.webp",
+  "w": 351,
+  "h": 650,
+  "caption": "Collapsed",
+  "mobile": true
  }
 ]

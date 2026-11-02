@@ -2,57 +2,29 @@
  {
   "src": "/screens/insurance-quote-builder/01.webp",
   "w": 1012,
-  "h": 757,
-  "caption": "Motor quote",
-  "mobile": false
- },
- {
-  "src": "/screens/insurance-quote-builder/02.webp",
-  "w": 375,
-  "h": 746,
-  "caption": "Questions sticky total",
-  "mobile": true
- },
- {
-  "src": "/screens/insurance-quote-builder/03.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Tier carousel",
-  "mobile": true
- },
- {
-  "src": "/screens/insurance-quote-builder/04.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Summary",
-  "mobile": true
- },
- {
-  "src": "/screens/insurance-quote-builder/05.webp",
-  "w": 1012,
   "h": 756,
   "caption": "Cover tiers",
   "mobile": false
  },
  {
-  "src": "/screens/insurance-quote-builder/06.webp",
+  "src": "/screens/insurance-quote-builder/02.webp",
+  "w": 1012,
+  "h": 757,
+  "caption": "Motor quote",
+  "mobile": false
+ },
+ {
+  "src": "/screens/insurance-quote-builder/03.webp",
   "w": 1012,
   "h": 757,
   "caption": "Tailor extras discounts",
   "mobile": false
  },
  {
-  "src": "/screens/insurance-quote-builder/07.webp",
-  "w": 1012,
-  "h": 756,
-  "caption": "Discounts auto optional",
-  "mobile": false
- },
- {
-  "src": "/screens/insurance-quote-builder/08.webp",
-  "w": 1012,
-  "h": 757,
-  "caption": "Breakdown monthly plan",
-  "mobile": false
+  "src": "/screens/insurance-quote-builder/04.webp",
+  "w": 375,
+  "h": 746,
+  "caption": "Questions sticky total",
+  "mobile": true
  }
 ]

@@ -8,34 +8,6 @@
  },
  {
   "src": "/screens/report-card-viewer/02.webp",
-  "w": 373,
-  "h": 2270,
-  "caption": "Summary",
-  "mobile": true
- },
- {
-  "src": "/screens/report-card-viewer/03.webp",
-  "w": 373,
-  "h": 2014,
-  "caption": "Subjects",
-  "mobile": true
- },
- {
-  "src": "/screens/report-card-viewer/04.webp",
-  "w": 373,
-  "h": 1571,
-  "caption": "Compare",
-  "mobile": true
- },
- {
-  "src": "/screens/report-card-viewer/05.webp",
-  "w": 373,
-  "h": 1197,
-  "caption": "Attendance",
-  "mobile": true
- },
- {
-  "src": "/screens/report-card-viewer/06.webp",
   "w": 1050,
   "h": 1169,
   "caption": "Subjects list",

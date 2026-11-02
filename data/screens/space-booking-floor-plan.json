@@ -9,36 +9,15 @@
  {
   "src": "/screens/space-booking-floor-plan/02.webp",
   "w": 750,
-  "h": 1624,
+  "h": 1492,
   "caption": "Plan",
   "mobile": false
  },
  {
   "src": "/screens/space-booking-floor-plan/03.webp",
   "w": 750,
-  "h": 1568,
-  "caption": "Sheet",
-  "mobile": false
- },
- {
-  "src": "/screens/space-booking-floor-plan/04.webp",
-  "w": 750,
-  "h": 1546,
+  "h": 1452,
   "caption": "Filters open",
-  "mobile": false
- },
- {
-  "src": "/screens/space-booking-floor-plan/05.webp",
-  "w": 750,
-  "h": 1624,
-  "caption": "List",
-  "mobile": false
- },
- {
-  "src": "/screens/space-booking-floor-plan/06.webp",
-  "w": 1060,
-  "h": 800,
-  "caption": "Conflict next free slot",
   "mobile": false
  }
 ]

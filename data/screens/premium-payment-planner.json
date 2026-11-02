@@ -2,54 +2,19 @@
  {
   "src": "/screens/premium-payment-planner/01.webp",
   "w": 1012,
-  "h": 976,
-  "caption": "Plan comparison",
-  "mobile": false
- },
- {
-  "src": "/screens/premium-payment-planner/02.webp",
-  "w": 415,
-  "h": 1106,
-  "caption": "Plans",
-  "mobile": true
- },
- {
-  "src": "/screens/premium-payment-planner/03.webp",
-  "w": 415,
-  "h": 1106,
-  "caption": "Schedule",
-  "mobile": true
- },
- {
-  "src": "/screens/premium-payment-planner/04.webp",
-  "w": 415,
-  "h": 1106,
-  "caption": "Record payment",
-  "mobile": true
- },
- {
-  "src": "/screens/premium-payment-planner/05.webp",
-  "w": 415,
-  "h": 1106,
-  "caption": "Missed",
-  "mobile": true
- },
- {
-  "src": "/screens/premium-payment-planner/06.webp",
-  "w": 1012,
-  "h": 976,
-  "caption": "Plan validation",
-  "mobile": false
- },
- {
-  "src": "/screens/premium-payment-planner/07.webp",
-  "w": 1012,
   "h": 977,
   "caption": "Schedule new plan",
   "mobile": false
  },
  {
-  "src": "/screens/premium-payment-planner/08.webp",
+  "src": "/screens/premium-payment-planner/02.webp",
+  "w": 1012,
+  "h": 976,
+  "caption": "Plan comparison",
+  "mobile": false
+ },
+ {
+  "src": "/screens/premium-payment-planner/03.webp",
   "w": 1012,
   "h": 977,
   "caption": "Schedule missed payment",

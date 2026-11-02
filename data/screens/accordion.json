@@ -2,43 +2,22 @@
  {
   "src": "/screens/accordion/01.webp",
   "w": 1044,
+  "h": 327,
+  "caption": "Search highlight",
+  "mobile": false
+ },
+ {
+  "src": "/screens/accordion/02.webp",
+  "w": 1044,
   "h": 797,
   "caption": "Default",
   "mobile": false
  },
  {
-  "src": "/screens/accordion/02.webp",
+  "src": "/screens/accordion/03.webp",
   "w": 375,
   "h": 700,
   "caption": "Collapsed",
   "mobile": true
- },
- {
-  "src": "/screens/accordion/03.webp",
-  "w": 375,
-  "h": 700,
-  "caption": "Expanded",
-  "mobile": true
- },
- {
-  "src": "/screens/accordion/04.webp",
-  "w": 1044,
-  "h": 797,
-  "caption": "Open returns hover",
-  "mobile": false
- },
- {
-  "src": "/screens/accordion/05.webp",
-  "w": 1044,
-  "h": 797,
-  "caption": "Keyboard focus",
-  "mobile": false
- },
- {
-  "src": "/screens/accordion/06.webp",
-  "w": 1044,
-  "h": 327,
-  "caption": "Search highlight",
-  "mobile": false
  }
 ]

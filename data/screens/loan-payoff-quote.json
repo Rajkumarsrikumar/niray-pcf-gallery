@@ -8,48 +8,13 @@
  },
  {
   "src": "/screens/loan-payoff-quote/02.webp",
-  "w": 357,
-  "h": 1413,
-  "caption": "Overview",
-  "mobile": true
- },
- {
-  "src": "/screens/loan-payoff-quote/03.webp",
-  "w": 357,
-  "h": 1285,
-  "caption": "Remittance",
-  "mobile": true
- },
- {
-  "src": "/screens/loan-payoff-quote/04.webp",
-  "w": 357,
-  "h": 959,
-  "caption": "Schedule",
-  "mobile": true
- },
- {
-  "src": "/screens/loan-payoff-quote/05.webp",
-  "w": 1012,
-  "h": 864,
-  "caption": "Weekend warning penalty stepdown",
-  "mobile": false
- },
- {
-  "src": "/screens/loan-payoff-quote/06.webp",
   "w": 1012,
   "h": 856,
   "caption": "Waived fee and optional",
   "mobile": false
  },
  {
-  "src": "/screens/loan-payoff-quote/07.webp",
-  "w": 1012,
-  "h": 856,
-  "caption": "Issued locked",
-  "mobile": false
- },
- {
-  "src": "/screens/loan-payoff-quote/08.webp",
+  "src": "/screens/loan-payoff-quote/03.webp",
   "w": 1012,
   "h": 917,
   "caption": "Daily schedule chart",

@@ -3,42 +3,28 @@
   "src": "/screens/survey-matrix/01.webp",
   "w": 998,
   "h": 900,
-  "caption": "Default",
+  "caption": "Validation and score",
   "mobile": false
  },
  {
   "src": "/screens/survey-matrix/02.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Cards",
-  "mobile": true
+  "w": 998,
+  "h": 900,
+  "caption": "Default",
+  "mobile": false
  },
  {
   "src": "/screens/survey-matrix/03.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Nps stars",
-  "mobile": true
- },
- {
-  "src": "/screens/survey-matrix/04.webp",
   "w": 998,
   "h": 900,
   "caption": "Answering interaction",
   "mobile": false
  },
  {
-  "src": "/screens/survey-matrix/05.webp",
-  "w": 998,
-  "h": 900,
-  "caption": "Validation and score",
-  "mobile": false
- },
- {
-  "src": "/screens/survey-matrix/06.webp",
-  "w": 998,
-  "h": 541,
-  "caption": "Numeric10 flat questions",
-  "mobile": false
+  "src": "/screens/survey-matrix/04.webp",
+  "w": 375,
+  "h": 746,
+  "caption": "Cards",
+  "mobile": true
  }
 ]

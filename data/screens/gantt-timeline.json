@@ -3,42 +3,21 @@
   "src": "/screens/gantt-timeline/01.webp",
   "w": 1050,
   "h": 600,
-  "caption": "Week hierarchy",
+  "caption": "Drag in progress",
   "mobile": false
  },
  {
   "src": "/screens/gantt-timeline/02.webp",
-  "w": 357,
-  "h": 640,
-  "caption": "Agenda",
-  "mobile": true
+  "w": 1050,
+  "h": 600,
+  "caption": "Week hierarchy",
+  "mobile": false
  },
  {
   "src": "/screens/gantt-timeline/03.webp",
   "w": 357,
   "h": 640,
-  "caption": "Details sheet",
+  "caption": "Agenda",
   "mobile": true
- },
- {
-  "src": "/screens/gantt-timeline/04.webp",
-  "w": 357,
-  "h": 640,
-  "caption": "Chart",
-  "mobile": true
- },
- {
-  "src": "/screens/gantt-timeline/05.webp",
-  "w": 1050,
-  "h": 600,
-  "caption": "Selected conflict details",
-  "mobile": false
- },
- {
-  "src": "/screens/gantt-timeline/06.webp",
-  "w": 1050,
-  "h": 600,
-  "caption": "Drag in progress",
-  "mobile": false
  }
 ]

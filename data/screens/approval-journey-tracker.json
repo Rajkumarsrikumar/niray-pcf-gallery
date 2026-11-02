@@ -2,43 +2,15 @@
  {
   "src": "/screens/approval-journey-tracker/01.webp",
   "w": 998,
-  "h": 1251,
-  "caption": "Journey",
-  "mobile": false
- },
- {
-  "src": "/screens/approval-journey-tracker/02.webp",
-  "w": 383,
-  "h": 2400,
-  "caption": "A expanded",
-  "mobile": true
- },
- {
-  "src": "/screens/approval-journey-tracker/03.webp",
-  "w": 383,
-  "h": 2064,
-  "caption": "B collapsed",
-  "mobile": true
- },
- {
-  "src": "/screens/approval-journey-tracker/04.webp",
-  "w": 998,
-  "h": 1037,
-  "caption": "After quorum approved",
-  "mobile": false
- },
- {
-  "src": "/screens/approval-journey-tracker/05.webp",
-  "w": 998,
   "h": 1258,
   "caption": "Reject comment required",
   "mobile": false
  },
  {
-  "src": "/screens/approval-journey-tracker/06.webp",
+  "src": "/screens/approval-journey-tracker/02.webp",
   "w": 998,
-  "h": 1126,
-  "caption": "Changes requested resubmit",
+  "h": 1251,
+  "caption": "Journey",
   "mobile": false
  }
 ]

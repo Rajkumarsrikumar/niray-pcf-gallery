@@ -8,37 +8,16 @@
  },
  {
   "src": "/screens/pivot-data-explorer/02.webp",
-  "w": 359,
-  "h": 700,
-  "caption": "Cards",
-  "mobile": true
- },
- {
-  "src": "/screens/pivot-data-explorer/03.webp",
-  "w": 359,
-  "h": 700,
-  "caption": "Drill sheet",
-  "mobile": true
- },
- {
-  "src": "/screens/pivot-data-explorer/04.webp",
-  "w": 359,
-  "h": 700,
-  "caption": "Table sticky",
-  "mobile": true
- },
- {
-  "src": "/screens/pivot-data-explorer/05.webp",
   "w": 1000,
   "h": 660,
   "caption": "Cell selected drill through",
   "mobile": false
  },
  {
-  "src": "/screens/pivot-data-explorer/06.webp",
-  "w": 1000,
-  "h": 660,
-  "caption": "Field menu date grouping",
-  "mobile": false
+  "src": "/screens/pivot-data-explorer/03.webp",
+  "w": 359,
+  "h": 700,
+  "caption": "Cards",
+  "mobile": true
  }
 ]

@@ -1,44 +1,30 @@
 [
  {
   "src": "/screens/damage-assessment-form/01.webp",
+  "w": 738,
+  "h": 468,
+  "caption": "Critical hazard placard",
+  "mobile": false
+ },
+ {
+  "src": "/screens/damage-assessment-form/02.webp",
   "w": 1040,
   "h": 1899,
   "caption": "Populated",
   "mobile": false
  },
  {
-  "src": "/screens/damage-assessment-form/02.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Step1",
-  "mobile": true
- },
- {
   "src": "/screens/damage-assessment-form/03.webp",
-  "w": 375,
-  "h": 766,
-  "caption": "Damage cards",
-  "mobile": true
- },
- {
-  "src": "/screens/damage-assessment-form/04.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Review",
-  "mobile": true
- },
- {
-  "src": "/screens/damage-assessment-form/05.webp",
   "w": 738,
   "h": 501,
   "caption": "Matrix keyboard",
   "mobile": false
  },
  {
-  "src": "/screens/damage-assessment-form/06.webp",
-  "w": 738,
-  "h": 468,
-  "caption": "Critical hazard placard",
-  "mobile": false
+  "src": "/screens/damage-assessment-form/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Step1",
+  "mobile": true
  }
 ]

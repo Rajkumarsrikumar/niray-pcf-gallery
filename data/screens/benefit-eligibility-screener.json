@@ -1,41 +1,20 @@
 [
  {
   "src": "/screens/benefit-eligibility-screener/01.webp",
-  "w": 1012,
-  "h": 499,
-  "caption": "Intro",
-  "mobile": false
- },
- {
-  "src": "/screens/benefit-eligibility-screener/02.webp",
   "w": 998,
   "h": 1130,
   "caption": "Results why expanded",
   "mobile": false
  },
  {
-  "src": "/screens/benefit-eligibility-screener/03.webp",
-  "w": 355,
-  "h": 712,
-  "caption": "Intro",
-  "mobile": true
- },
- {
-  "src": "/screens/benefit-eligibility-screener/04.webp",
-  "w": 355,
-  "h": 712,
-  "caption": "One question",
-  "mobile": true
- },
- {
-  "src": "/screens/benefit-eligibility-screener/05.webp",
+  "src": "/screens/benefit-eligibility-screener/02.webp",
   "w": 355,
   "h": 712,
   "caption": "Live bar open",
   "mobile": true
  },
  {
-  "src": "/screens/benefit-eligibility-screener/06.webp",
+  "src": "/screens/benefit-eligibility-screener/03.webp",
   "w": 355,
   "h": 712,
   "caption": "Income",

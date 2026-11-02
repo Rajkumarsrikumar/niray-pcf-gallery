@@ -8,37 +8,9 @@
  },
  {
   "src": "/screens/beneficiary-designation-editor/02.webp",
-  "w": 399,
-  "h": 1706,
-  "caption": "Overview",
-  "mobile": true
- },
- {
-  "src": "/screens/beneficiary-designation-editor/03.webp",
-  "w": 399,
-  "h": 2025,
-  "caption": "Card edit",
-  "mobile": true
- },
- {
-  "src": "/screens/beneficiary-designation-editor/04.webp",
-  "w": 399,
-  "h": 1706,
-  "caption": "Whatif",
-  "mobile": true
- },
- {
-  "src": "/screens/beneficiary-designation-editor/05.webp",
   "w": 1004,
   "h": 1050,
   "caption": "Minor detail expanded",
-  "mobile": false
- },
- {
-  "src": "/screens/beneficiary-designation-editor/06.webp",
-  "w": 1004,
-  "h": 1077,
-  "caption": "Minor needs custodian",
   "mobile": false
  }
 ]

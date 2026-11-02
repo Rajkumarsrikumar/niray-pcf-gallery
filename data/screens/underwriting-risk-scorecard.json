@@ -8,51 +8,23 @@
  },
  {
   "src": "/screens/underwriting-risk-scorecard/02.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Overview",
-  "mobile": true
- },
- {
-  "src": "/screens/underwriting-risk-scorecard/03.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "B decision",
-  "mobile": true
- },
- {
-  "src": "/screens/underwriting-risk-scorecard/04.webp",
-  "w": 1021,
-  "h": 1412,
-  "caption": "All answered referral triggered",
-  "mobile": false
- },
- {
-  "src": "/screens/underwriting-risk-scorecard/05.webp",
   "w": 667,
   "h": 1291,
   "caption": "Keyboard radio joisted masonry",
   "mobile": false
  },
  {
-  "src": "/screens/underwriting-risk-scorecard/06.webp",
-  "w": 340,
-  "h": 1190,
-  "caption": "Refer validation issues",
-  "mobile": true
- },
- {
-  "src": "/screens/underwriting-risk-scorecard/07.webp",
-  "w": 340,
-  "h": 1178,
-  "caption": "Referral recorded",
-  "mobile": true
- },
- {
-  "src": "/screens/underwriting-risk-scorecard/08.webp",
+  "src": "/screens/underwriting-risk-scorecard/03.webp",
   "w": 1021,
   "h": 1412,
   "caption": "Round trip saved value",
   "mobile": false
+ },
+ {
+  "src": "/screens/underwriting-risk-scorecard/04.webp",
+  "w": 375,
+  "h": 746,
+  "caption": "Overview",
+  "mobile": true
  }
 ]

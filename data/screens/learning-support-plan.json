@@ -2,43 +2,15 @@
  {
   "src": "/screens/learning-support-plan/01.webp",
   "w": 998,
-  "h": 1273,
-  "caption": "Overview",
-  "mobile": false
- },
- {
-  "src": "/screens/learning-support-plan/02.webp",
-  "w": 341,
-  "h": 2034,
-  "caption": "Overview",
-  "mobile": true
- },
- {
-  "src": "/screens/learning-support-plan/03.webp",
-  "w": 341,
-  "h": 2054,
-  "caption": "Goal expanded",
-  "mobile": true
- },
- {
-  "src": "/screens/learning-support-plan/04.webp",
-  "w": 341,
-  "h": 2400,
-  "caption": "Accommodation cards",
-  "mobile": true
- },
- {
-  "src": "/screens/learning-support-plan/05.webp",
-  "w": 998,
   "h": 1133,
   "caption": "Goals fluency on track",
   "mobile": false
  },
  {
-  "src": "/screens/learning-support-plan/06.webp",
-  "w": 998,
-  "h": 1109,
-  "caption": "Goal needs attention",
-  "mobile": false
+  "src": "/screens/learning-support-plan/02.webp",
+  "w": 399,
+  "h": 1273,
+  "caption": "Overview",
+  "mobile": true
  }
 ]

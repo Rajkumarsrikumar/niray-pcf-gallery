@@ -1,44 +1,16 @@
 [
  {
   "src": "/screens/bill-of-materials-explorer/01.webp",
-  "w": 1012,
-  "h": 936,
-  "caption": "Tree default",
-  "mobile": false
- },
- {
-  "src": "/screens/bill-of-materials-explorer/02.webp",
   "w": 1328,
   "h": 849,
   "caption": "B width",
   "mobile": false
  },
  {
-  "src": "/screens/bill-of-materials-explorer/03.webp",
+  "src": "/screens/bill-of-materials-explorer/02.webp",
   "w": 1012,
   "h": 936,
-  "caption": "Expand select detail",
+  "caption": "Tree default",
   "mobile": false
- },
- {
-  "src": "/screens/bill-of-materials-explorer/04.webp",
-  "w": 407,
-  "h": 1585,
-  "caption": "Tree",
-  "mobile": true
- },
- {
-  "src": "/screens/bill-of-materials-explorer/05.webp",
-  "w": 407,
-  "h": 1506,
-  "caption": "Drill down",
-  "mobile": true
- },
- {
-  "src": "/screens/bill-of-materials-explorer/06.webp",
-  "w": 375,
-  "h": 900,
-  "caption": "Detail sheet",
-  "mobile": true
  }
 ]

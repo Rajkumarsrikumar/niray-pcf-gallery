@@ -1,55 +1,27 @@
 [
  {
   "src": "/screens/assessment-rubric-grader/01.webp",
-  "w": 1012,
-  "h": 1306,
-  "caption": "Saved marking",
-  "mobile": false
- },
- {
-  "src": "/screens/assessment-rubric-grader/02.webp",
-  "w": 1012,
-  "h": 1349,
-  "caption": "Complete comment bank finetune",
-  "mobile": false
- },
- {
-  "src": "/screens/assessment-rubric-grader/03.webp",
-  "w": 415,
-  "h": 2400,
-  "caption": "Overview",
-  "mobile": true
- },
- {
-  "src": "/screens/assessment-rubric-grader/04.webp",
-  "w": 1012,
-  "h": 1349,
-  "caption": "Keyboard focus",
-  "mobile": false
- },
- {
-  "src": "/screens/assessment-rubric-grader/05.webp",
-  "w": 1012,
-  "h": 1349,
-  "caption": "Flagged overall feedback",
-  "mobile": false
- },
- {
-  "src": "/screens/assessment-rubric-grader/06.webp",
   "w": 1298,
   "h": 1312,
   "caption": "Reset confirm",
   "mobile": false
  },
  {
-  "src": "/screens/assessment-rubric-grader/07.webp",
+  "src": "/screens/assessment-rubric-grader/02.webp",
   "w": 1012,
-  "h": 1333,
-  "caption": "Weighted expanded descriptors",
+  "h": 1306,
+  "caption": "Saved marking",
   "mobile": false
  },
  {
-  "src": "/screens/assessment-rubric-grader/08.webp",
+  "src": "/screens/assessment-rubric-grader/03.webp",
+  "w": 1012,
+  "h": 1349,
+  "caption": "Complete comment bank finetune",
+  "mobile": false
+ },
+ {
+  "src": "/screens/assessment-rubric-grader/04.webp",
   "w": 1012,
   "h": 1550,
   "caption": "Moderation compare",

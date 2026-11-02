@@ -8,10 +8,10 @@
  },
  {
   "src": "/screens/announcement-banner-hub/02.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Compact bar",
-  "mobile": true
+  "w": 896,
+  "h": 832,
+  "caption": "Stack expanded read more",
+  "mobile": false
  },
  {
   "src": "/screens/announcement-banner-hub/03.webp",
@@ -19,26 +19,5 @@
   "h": 746,
   "caption": "Sheet",
   "mobile": true
- },
- {
-  "src": "/screens/announcement-banner-hub/04.webp",
-  "w": 367,
-  "h": 1031,
-  "caption": "Panel",
-  "mobile": true
- },
- {
-  "src": "/screens/announcement-banner-hub/05.webp",
-  "w": 896,
-  "h": 832,
-  "caption": "Stack expanded read more",
-  "mobile": false
- },
- {
-  "src": "/screens/announcement-banner-hub/06.webp",
-  "w": 1060,
-  "h": 654,
-  "caption": "Acknowledgement modal",
-  "mobile": false
  }
 ]

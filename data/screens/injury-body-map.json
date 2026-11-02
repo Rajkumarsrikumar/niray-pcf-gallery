@@ -1,17 +1,17 @@
 [
  {
   "src": "/screens/injury-body-map/01.webp",
-  "w": 1036,
+  "w": 1012,
   "h": 676,
-  "caption": "Populated",
+  "caption": "Details editor",
   "mobile": false
  },
  {
   "src": "/screens/injury-body-map/02.webp",
-  "w": 375,
-  "h": 1064,
-  "caption": "Overview",
-  "mobile": true
+  "w": 1036,
+  "h": 676,
+  "caption": "Populated",
+  "mobile": false
  },
  {
   "src": "/screens/injury-body-map/03.webp",
@@ -19,26 +19,5 @@
   "h": 744,
   "caption": "Bottom sheet",
   "mobile": true
- },
- {
-  "src": "/screens/injury-body-map/04.webp",
-  "w": 1012,
-  "h": 676,
-  "caption": "Details editor",
-  "mobile": false
- },
- {
-  "src": "/screens/injury-body-map/05.webp",
-  "w": 1029,
-  "h": 676,
-  "caption": "Search body part",
-  "mobile": false
- },
- {
-  "src": "/screens/injury-body-map/06.webp",
-  "w": 1029,
-  "h": 676,
-  "caption": "Keyboard focus",
-  "mobile": false
  }
 ]

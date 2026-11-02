@@ -1,44 +1,9 @@
 [
  {
   "src": "/screens/location-map/01.webp",
-  "w": 996,
-  "h": 617,
-  "caption": "Split default",
-  "mobile": false
- },
- {
-  "src": "/screens/location-map/02.webp",
-  "w": 359,
-  "h": 637,
-  "caption": "Map",
-  "mobile": true
- },
- {
-  "src": "/screens/location-map/03.webp",
   "w": 359,
   "h": 637,
   "caption": "Bottom sheet",
   "mobile": true
- },
- {
-  "src": "/screens/location-map/04.webp",
-  "w": 359,
-  "h": 637,
-  "caption": "List",
-  "mobile": true
- },
- {
-  "src": "/screens/location-map/05.webp",
-  "w": 996,
-  "h": 617,
-  "caption": "Cluster zoomed",
-  "mobile": false
- },
- {
-  "src": "/screens/location-map/06.webp",
-  "w": 996,
-  "h": 617,
-  "caption": "Marker popup selected",
-  "mobile": false
  }
 ]

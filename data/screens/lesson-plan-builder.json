@@ -8,34 +8,6 @@
  },
  {
   "src": "/screens/lesson-plan-builder/02.webp",
-  "w": 341,
-  "h": 2400,
-  "caption": "Sequence",
-  "mobile": true
- },
- {
-  "src": "/screens/lesson-plan-builder/03.webp",
-  "w": 341,
-  "h": 2400,
-  "caption": "Differentiation",
-  "mobile": true
- },
- {
-  "src": "/screens/lesson-plan-builder/04.webp",
-  "w": 1050,
-  "h": 1370,
-  "caption": "Segment editor practical",
-  "mobile": false
- },
- {
-  "src": "/screens/lesson-plan-builder/05.webp",
-  "w": 1050,
-  "h": 1370,
-  "caption": "Timing over warning",
-  "mobile": false
- },
- {
-  "src": "/screens/lesson-plan-builder/06.webp",
   "w": 1050,
   "h": 1395,
   "caption": "Add segment validation",

@@ -9,14 +9,14 @@
  {
   "src": "/screens/help-centre-knowledge-base/02.webp",
   "w": 750,
-  "h": 1474,
+  "h": 1388,
   "caption": "Typeahead",
   "mobile": false
  },
  {
   "src": "/screens/help-centre-knowledge-base/03.webp",
   "w": 750,
-  "h": 1520,
+  "h": 1388,
   "caption": "Article",
   "mobile": false
  },
@@ -25,20 +25,6 @@
   "w": 976,
   "h": 797,
   "caption": "Typeahead typo tolerant",
-  "mobile": false
- },
- {
-  "src": "/screens/help-centre-knowledge-base/05.webp",
-  "w": 976,
-  "h": 797,
-  "caption": "Article reader toc",
-  "mobile": false
- },
- {
-  "src": "/screens/help-centre-knowledge-base/06.webp",
-  "w": 969,
-  "h": 797,
-  "caption": "Feedback comment",
   "mobile": false
  }
 ]

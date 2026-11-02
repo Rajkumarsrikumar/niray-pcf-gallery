@@ -3,42 +3,21 @@
   "src": "/screens/audit-trail-viewer/01.webp",
   "w": 1012,
   "h": 817,
-  "caption": "Timeline",
+  "caption": "Word diff and selection",
   "mobile": false
  },
  {
   "src": "/screens/audit-trail-viewer/02.webp",
-  "w": 365,
-  "h": 724,
+  "w": 1012,
+  "h": 817,
   "caption": "Timeline",
-  "mobile": true
+  "mobile": false
  },
  {
   "src": "/screens/audit-trail-viewer/03.webp",
   "w": 365,
   "h": 724,
-  "caption": "B compare",
+  "caption": "Timeline",
   "mobile": true
- },
- {
-  "src": "/screens/audit-trail-viewer/04.webp",
-  "w": 365,
-  "h": 724,
-  "caption": "C field history",
-  "mobile": true
- },
- {
-  "src": "/screens/audit-trail-viewer/05.webp",
-  "w": 1012,
-  "h": 817,
-  "caption": "Word diff and selection",
-  "mobile": false
- },
- {
-  "src": "/screens/audit-trail-viewer/06.webp",
-  "w": 1000,
-  "h": 801,
-  "caption": "Search and filters",
-  "mobile": false
  }
 ]

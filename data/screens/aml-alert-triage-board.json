@@ -3,56 +3,21 @@
   "src": "/screens/aml-alert-triage-board/01.webp",
   "w": 1012,
   "h": 854,
-  "caption": "Queue detail",
+  "caption": "Disposition validation",
   "mobile": false
  },
  {
   "src": "/screens/aml-alert-triage-board/02.webp",
-  "w": 375,
-  "h": 800,
-  "caption": "Queue",
-  "mobile": true
+  "w": 1012,
+  "h": 854,
+  "caption": "Queue detail",
+  "mobile": false
  },
  {
   "src": "/screens/aml-alert-triage-board/03.webp",
   "w": 375,
-  "h": 800,
-  "caption": "Filters",
+  "h": 734,
+  "caption": "Queue",
   "mobile": true
- },
- {
-  "src": "/screens/aml-alert-triage-board/04.webp",
-  "w": 375,
-  "h": 800,
-  "caption": "Detail",
-  "mobile": true
- },
- {
-  "src": "/screens/aml-alert-triage-board/05.webp",
-  "w": 375,
-  "h": 800,
-  "caption": "B sar",
-  "mobile": true
- },
- {
-  "src": "/screens/aml-alert-triage-board/06.webp",
-  "w": 1012,
-  "h": 854,
-  "caption": "Assigned to me toast",
-  "mobile": false
- },
- {
-  "src": "/screens/aml-alert-triage-board/07.webp",
-  "w": 1012,
-  "h": 854,
-  "caption": "Sar decision support",
-  "mobile": false
- },
- {
-  "src": "/screens/aml-alert-triage-board/08.webp",
-  "w": 1012,
-  "h": 854,
-  "caption": "Disposition validation",
-  "mobile": false
  }
 ]

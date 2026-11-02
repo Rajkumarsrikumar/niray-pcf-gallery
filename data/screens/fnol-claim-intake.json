@@ -3,56 +3,28 @@
   "src": "/screens/fnol-claim-intake/01.webp",
   "w": 1012,
   "h": 757,
-  "caption": "Policy prefill",
+  "caption": "Injury and police",
   "mobile": false
  },
  {
   "src": "/screens/fnol-claim-intake/02.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Policy step",
-  "mobile": true
+  "w": 1012,
+  "h": 757,
+  "caption": "Policy prefill",
+  "mobile": false
  },
  {
   "src": "/screens/fnol-claim-intake/03.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Loss validation",
-  "mobile": true
- },
- {
-  "src": "/screens/fnol-claim-intake/04.webp",
   "w": 1012,
   "h": 757,
   "caption": "Loss auto branch",
   "mobile": false
  },
  {
-  "src": "/screens/fnol-claim-intake/05.webp",
-  "w": 1012,
-  "h": 757,
-  "caption": "Parties third party required",
-  "mobile": false
- },
- {
-  "src": "/screens/fnol-claim-intake/06.webp",
-  "w": 1012,
-  "h": 757,
-  "caption": "Parties third party and witness",
-  "mobile": false
- },
- {
-  "src": "/screens/fnol-claim-intake/07.webp",
-  "w": 1012,
-  "h": 757,
-  "caption": "Damage car diagram items",
-  "mobile": false
- },
- {
-  "src": "/screens/fnol-claim-intake/08.webp",
-  "w": 1012,
-  "h": 757,
-  "caption": "Injury and police",
-  "mobile": false
+  "src": "/screens/fnol-claim-intake/04.webp",
+  "w": 375,
+  "h": 746,
+  "caption": "Policy step",
+  "mobile": true
  }
 ]

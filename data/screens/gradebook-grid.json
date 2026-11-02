@@ -9,50 +9,8 @@
  {
   "src": "/screens/gradebook-grid/02.webp",
   "w": 375,
-  "h": 812,
+  "h": 746,
   "caption": "Students",
   "mobile": true
- },
- {
-  "src": "/screens/gradebook-grid/03.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Student detail",
-  "mobile": true
- },
- {
-  "src": "/screens/gradebook-grid/04.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Quick entry",
-  "mobile": true
- },
- {
-  "src": "/screens/gradebook-grid/05.webp",
-  "w": 1012,
-  "h": 679,
-  "caption": "Keyboard typing",
-  "mobile": false
- },
- {
-  "src": "/screens/gradebook-grid/06.webp",
-  "w": 1012,
-  "h": 679,
-  "caption": "Late missing entered",
-  "mobile": false
- },
- {
-  "src": "/screens/gradebook-grid/07.webp",
-  "w": 1012,
-  "h": 679,
-  "caption": "Column actions menu",
-  "mobile": false
- },
- {
-  "src": "/screens/gradebook-grid/08.webp",
-  "w": 1012,
-  "h": 679,
-  "caption": "Bulk missing filled",
-  "mobile": false
  }
 ]

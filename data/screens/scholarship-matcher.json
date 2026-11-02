@@ -1,44 +1,23 @@
 [
  {
   "src": "/screens/scholarship-matcher/01.webp",
+  "w": 1318,
+  "h": 1117,
+  "caption": "Detail why it matches",
+  "mobile": false
+ },
+ {
+  "src": "/screens/scholarship-matcher/02.webp",
   "w": 1012,
   "h": 1286,
   "caption": "Default",
   "mobile": false
  },
  {
-  "src": "/screens/scholarship-matcher/02.webp",
+  "src": "/screens/scholarship-matcher/03.webp",
   "w": 373,
   "h": 812,
   "caption": "Overview",
   "mobile": true
- },
- {
-  "src": "/screens/scholarship-matcher/03.webp",
-  "w": 373,
-  "h": 812,
-  "caption": "Filters",
-  "mobile": true
- },
- {
-  "src": "/screens/scholarship-matcher/04.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Detail sheet",
-  "mobile": true
- },
- {
-  "src": "/screens/scholarship-matcher/05.webp",
-  "w": 373,
-  "h": 781,
-  "caption": "Shortlist",
-  "mobile": true
- },
- {
-  "src": "/screens/scholarship-matcher/06.webp",
-  "w": 1318,
-  "h": 1117,
-  "caption": "Detail why it matches",
-  "mobile": false
  }
 ]

@@ -12,33 +12,5 @@
   "h": 644,
   "caption": "List",
   "mobile": true
- },
- {
-  "src": "/screens/list-view/03.webp",
-  "w": 375,
-  "h": 644,
-  "caption": "Cards",
-  "mobile": true
- },
- {
-  "src": "/screens/list-view/04.webp",
-  "w": 375,
-  "h": 644,
-  "caption": "Actions menu",
-  "mobile": true
- },
- {
-  "src": "/screens/list-view/05.webp",
-  "w": 375,
-  "h": 644,
-  "caption": "Delete confirm",
-  "mobile": true
- },
- {
-  "src": "/screens/list-view/06.webp",
-  "w": 1040,
-  "h": 734,
-  "caption": "Search oak highlight",
-  "mobile": false
  }
 ]

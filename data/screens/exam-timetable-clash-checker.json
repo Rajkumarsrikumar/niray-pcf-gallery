@@ -3,42 +3,21 @@
   "src": "/screens/exam-timetable-clash-checker/01.webp",
   "w": 1012,
   "h": 817,
-  "caption": "Timetable",
-  "mobile": false
- },
- {
-  "src": "/screens/exam-timetable-clash-checker/02.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Timetable",
-  "mobile": true
- },
- {
-  "src": "/screens/exam-timetable-clash-checker/03.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Exam sheet",
-  "mobile": true
- },
- {
-  "src": "/screens/exam-timetable-clash-checker/04.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Issues",
-  "mobile": true
- },
- {
-  "src": "/screens/exam-timetable-clash-checker/05.webp",
-  "w": 1012,
-  "h": 817,
   "caption": "Exam detail capacity",
   "mobile": false
  },
  {
-  "src": "/screens/exam-timetable-clash-checker/06.webp",
+  "src": "/screens/exam-timetable-clash-checker/02.webp",
   "w": 1012,
   "h": 817,
-  "caption": "Room added capacity fixed",
+  "caption": "Timetable",
   "mobile": false
+ },
+ {
+  "src": "/screens/exam-timetable-clash-checker/03.webp",
+  "w": 375,
+  "h": 746,
+  "caption": "Timetable",
+  "mobile": true
  }
 ]

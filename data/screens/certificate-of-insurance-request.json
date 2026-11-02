@@ -1,58 +1,30 @@
 [
  {
   "src": "/screens/certificate-of-insurance-request/01.webp",
+  "w": 986,
+  "h": 1183,
+  "caption": "Coverage applied",
+  "mobile": false
+ },
+ {
+  "src": "/screens/certificate-of-insurance-request/02.webp",
   "w": 1012,
   "h": 936,
   "caption": "Holder default",
   "mobile": false
  },
  {
-  "src": "/screens/certificate-of-insurance-request/02.webp",
-  "w": 371,
-  "h": 2250,
-  "caption": "Coverage",
-  "mobile": true
- },
- {
   "src": "/screens/certificate-of-insurance-request/03.webp",
-  "w": 371,
-  "h": 1475,
-  "caption": "Holder",
-  "mobile": true
- },
- {
-  "src": "/screens/certificate-of-insurance-request/04.webp",
-  "w": 371,
-  "h": 1750,
-  "caption": "Review",
-  "mobile": true
- },
- {
-  "src": "/screens/certificate-of-insurance-request/05.webp",
   "w": 1012,
   "h": 936,
   "caption": "Holder selected",
   "mobile": false
  },
  {
-  "src": "/screens/certificate-of-insurance-request/06.webp",
+  "src": "/screens/certificate-of-insurance-request/04.webp",
   "w": 1012,
   "h": 954,
   "caption": "Project delivery",
-  "mobile": false
- },
- {
-  "src": "/screens/certificate-of-insurance-request/07.webp",
-  "w": 1012,
-  "h": 954,
-  "caption": "Coverage before",
-  "mobile": false
- },
- {
-  "src": "/screens/certificate-of-insurance-request/08.webp",
-  "w": 986,
-  "h": 1183,
-  "caption": "Coverage applied",
   "mobile": false
  }
 ]

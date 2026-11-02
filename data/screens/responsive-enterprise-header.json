@@ -9,36 +9,8 @@
  {
   "src": "/screens/responsive-enterprise-header/02.webp",
   "w": 375,
-  "h": 760,
-  "caption": "Overview",
-  "mobile": true
- },
- {
-  "src": "/screens/responsive-enterprise-header/03.webp",
-  "w": 375,
-  "h": 760,
-  "caption": "Drawer",
-  "mobile": true
- },
- {
-  "src": "/screens/responsive-enterprise-header/04.webp",
-  "w": 375,
-  "h": 760,
-  "caption": "B drawer bottom",
-  "mobile": true
- },
- {
-  "src": "/screens/responsive-enterprise-header/05.webp",
-  "w": 375,
-  "h": 760,
+  "h": 694,
   "caption": "Search",
-  "mobile": true
- },
- {
-  "src": "/screens/responsive-enterprise-header/06.webp",
-  "w": 375,
-  "h": 760,
-  "caption": "Notifications",
   "mobile": true
  }
 ]

@@ -8,37 +8,16 @@
  },
  {
   "src": "/screens/stepper/02.webp",
-  "w": 355,
-  "h": 652,
-  "caption": "Compact",
-  "mobile": true
- },
- {
-  "src": "/screens/stepper/03.webp",
-  "w": 375,
-  "h": 760,
-  "caption": "Compact expanded",
-  "mobile": true
- },
- {
-  "src": "/screens/stepper/04.webp",
   "w": 1012,
   "h": 296,
   "caption": "Hover completed step",
   "mobile": false
  },
  {
-  "src": "/screens/stepper/05.webp",
-  "w": 1012,
-  "h": 296,
-  "caption": "Clicked back to account",
-  "mobile": false
- },
- {
-  "src": "/screens/stepper/06.webp",
-  "w": 1012,
-  "h": 272,
-  "caption": "Next to optional step",
-  "mobile": false
+  "src": "/screens/stepper/03.webp",
+  "w": 355,
+  "h": 652,
+  "caption": "Compact",
+  "mobile": true
  }
 ]
