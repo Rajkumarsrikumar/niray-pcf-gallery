@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/pallet-load-planner/01.webp",
+  "w": 1012,
+  "h": 936,
+  "caption": "Pattern default",
+  "mobile": false,
+  "v": "60fc7ecc"
+ },
+ {
+  "src": "/screens/pallet-load-planner/02.webp",
+  "w": 399,
+  "h": 1606,
+  "caption": "Pattern",
+  "mobile": true,
+  "v": "7d5cc886"
+ },
+ {
+  "src": "/screens/pallet-load-planner/03.webp",
+  "w": 399,
+  "h": 1606,
+  "caption": "Setup open",
+  "mobile": true,
+  "v": "9d2b56f8"
+ },
+ {
+  "src": "/screens/pallet-load-planner/04.webp",
+  "w": 1012,
+  "h": 936,
+  "caption": "Interlocked even layer",
+  "mobile": false,
+  "v": "fa1f6ec1"
+ },
+ {
+  "src": "/screens/pallet-load-planner/05.webp",
+  "w": 1012,
+  "h": 936,
+  "caption": "Alternative pattern",
+  "mobile": false,
+  "v": "717a1fa1"
+ },
+ {
+  "src": "/screens/pallet-load-planner/06.webp",
+  "w": 1012,
+  "h": 936,
+  "caption": "Stack 3d pallet",
+  "mobile": false,
+  "v": "759d1263"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/energy-consumption-monitor/01.webp",
+  "w": 1012,
+  "h": 896,
+  "caption": "Overview default",
+  "mobile": false,
+  "v": "97b3c750"
+ },
+ {
+  "src": "/screens/energy-consumption-monitor/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "a3b951f1"
+ },
+ {
+  "src": "/screens/energy-consumption-monitor/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Detail sheet",
+  "mobile": true,
+  "v": "2753a420"
+ },
+ {
+  "src": "/screens/energy-consumption-monitor/04.webp",
+  "w": 1012,
+  "h": 897,
+  "caption": "Line detail panel",
+  "mobile": false,
+  "v": "bc8570c2"
+ },
+ {
+  "src": "/screens/energy-consumption-monitor/05.webp",
+  "w": 1012,
+  "h": 897,
+  "caption": "Anomalies panel",
+  "mobile": false,
+  "v": "63b0b454"
+ },
+ {
+  "src": "/screens/energy-consumption-monitor/06.webp",
+  "w": 1012,
+  "h": 893,
+  "caption": "Acknowledge note required",
+  "mobile": false,
+  "v": "5d300d83"
+ }
+]

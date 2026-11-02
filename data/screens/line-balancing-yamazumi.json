@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/line-balancing-yamazumi/01.webp",
+  "w": 1012,
+  "h": 782,
+  "caption": "Default",
+  "mobile": false,
+  "v": "e99899cb"
+ },
+ {
+  "src": "/screens/line-balancing-yamazumi/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Station cards",
+  "mobile": true,
+  "v": "1647122f"
+ },
+ {
+  "src": "/screens/line-balancing-yamazumi/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "B station expanded",
+  "mobile": true,
+  "v": "3d7307e8"
+ },
+ {
+  "src": "/screens/line-balancing-yamazumi/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "C after move",
+  "mobile": true,
+  "v": "6262294c"
+ },
+ {
+  "src": "/screens/line-balancing-yamazumi/05.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "D proposal",
+  "mobile": true,
+  "v": "a391e500"
+ },
+ {
+  "src": "/screens/line-balancing-yamazumi/06.webp",
+  "w": 1012,
+  "h": 782,
+  "caption": "Select element detail",
+  "mobile": false,
+  "v": "27948992"
+ }
+]

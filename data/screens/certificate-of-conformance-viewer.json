@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/certificate-of-conformance-viewer/01.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "List default",
+  "mobile": false,
+  "v": "10902f10"
+ },
+ {
+  "src": "/screens/certificate-of-conformance-viewer/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "List",
+  "mobile": true,
+  "v": "2a8c220a"
+ },
+ {
+  "src": "/screens/certificate-of-conformance-viewer/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Certificate sheet",
+  "mobile": true,
+  "v": "c0b4bd8e"
+ },
+ {
+  "src": "/screens/certificate-of-conformance-viewer/04.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Certificate customer spec fail",
+  "mobile": false,
+  "v": "f9bb2b11"
+ },
+ {
+  "src": "/screens/certificate-of-conformance-viewer/05.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Individual values expanded",
+  "mobile": false,
+  "v": "a99dd981"
+ },
+ {
+  "src": "/screens/certificate-of-conformance-viewer/06.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Query validation",
+  "mobile": false,
+  "v": "adadef8d"
+ }
+]

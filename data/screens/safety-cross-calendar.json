@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/safety-cross-calendar/01.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Default",
+  "mobile": false,
+  "v": "a255d258"
+ },
+ {
+  "src": "/screens/safety-cross-calendar/02.webp",
+  "w": 415,
+  "h": 1768,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "a82547d7"
+ },
+ {
+  "src": "/screens/safety-cross-calendar/03.webp",
+  "w": 375,
+  "h": 900,
+  "caption": "Day detail",
+  "mobile": true,
+  "v": "3a831d7d"
+ },
+ {
+  "src": "/screens/safety-cross-calendar/04.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Day detail recordable",
+  "mobile": false,
+  "v": "924a92bb"
+ },
+ {
+  "src": "/screens/safety-cross-calendar/05.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Keyboard focus",
+  "mobile": false,
+  "v": "7c9321da"
+ },
+ {
+  "src": "/screens/safety-cross-calendar/06.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Calendar grid layout",
+  "mobile": false,
+  "v": "aefc5948"
+ }
+]

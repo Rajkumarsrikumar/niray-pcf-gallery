@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/tool-life-tracker/01.webp",
+  "w": 1012,
+  "h": 857,
+  "caption": "Grid default",
+  "mobile": false,
+  "v": "cfb90eff"
+ },
+ {
+  "src": "/screens/tool-life-tracker/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Grid",
+  "mobile": true,
+  "v": "3affac25"
+ },
+ {
+  "src": "/screens/tool-life-tracker/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Detail sheet",
+  "mobile": true,
+  "v": "0d6bbcff"
+ },
+ {
+  "src": "/screens/tool-life-tracker/04.webp",
+  "w": 1012,
+  "h": 857,
+  "caption": "Mould detail panel",
+  "mobile": false,
+  "v": "8dd1c7cd"
+ },
+ {
+  "src": "/screens/tool-life-tracker/05.webp",
+  "w": 1012,
+  "h": 857,
+  "caption": "Validation quantity required",
+  "mobile": false,
+  "v": "34c0a141"
+ },
+ {
+  "src": "/screens/tool-life-tracker/06.webp",
+  "w": 1012,
+  "h": 857,
+  "caption": "Expired drill detail",
+  "mobile": false,
+  "v": "78e198ef"
+ }
+]
