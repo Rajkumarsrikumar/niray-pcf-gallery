@@ -9,50 +9,8 @@
  {
   "src": "/screens/claim-reserve-worksheet/02.webp",
   "w": 375,
-  "h": 812,
+  "h": 746,
   "caption": "Overview",
   "mobile": true
- },
- {
-  "src": "/screens/claim-reserve-worksheet/03.webp",
-  "w": 335,
-  "h": 2400,
-  "caption": "Cards",
-  "mobile": true
- },
- {
-  "src": "/screens/claim-reserve-worksheet/04.webp",
-  "w": 335,
-  "h": 1703,
-  "caption": "Summary",
-  "mobile": true
- },
- {
-  "src": "/screens/claim-reserve-worksheet/05.webp",
-  "w": 335,
-  "h": 2400,
-  "caption": "History",
-  "mobile": true
- },
- {
-  "src": "/screens/claim-reserve-worksheet/06.webp",
-  "w": 1320,
-  "h": 1151,
-  "caption": "Referral required",
-  "mobile": false
- },
- {
-  "src": "/screens/claim-reserve-worksheet/07.webp",
-  "w": 1320,
-  "h": 1258,
-  "caption": "Coverage limit blocked",
-  "mobile": false
- },
- {
-  "src": "/screens/claim-reserve-worksheet/08.webp",
-  "w": 1320,
-  "h": 1245,
-  "caption": "Ready to submit referral",
-  "mobile": false
  }
 ]

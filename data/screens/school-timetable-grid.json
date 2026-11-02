@@ -3,56 +3,28 @@
   "src": "/screens/school-timetable-grid/01.webp",
   "w": 1012,
   "h": 897,
-  "caption": "Class view",
+  "caption": "Cover candidates",
   "mobile": false
  },
  {
   "src": "/screens/school-timetable-grid/02.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Overview",
-  "mobile": true
+  "w": 1012,
+  "h": 897,
+  "caption": "Class view",
+  "mobile": false
  },
  {
   "src": "/screens/school-timetable-grid/03.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Cover sheet",
-  "mobile": true
- },
- {
-  "src": "/screens/school-timetable-grid/04.webp",
   "w": 1012,
   "h": 897,
   "caption": "Teacher view absence",
   "mobile": false
  },
  {
-  "src": "/screens/school-timetable-grid/05.webp",
-  "w": 1012,
-  "h": 897,
-  "caption": "Cover candidates",
-  "mobile": false
- },
- {
-  "src": "/screens/school-timetable-grid/06.webp",
-  "w": 1012,
-  "h": 897,
-  "caption": "Cover assigned",
-  "mobile": false
- },
- {
-  "src": "/screens/school-timetable-grid/07.webp",
-  "w": 1012,
-  "h": 897,
-  "caption": "Master view day",
-  "mobile": false
- },
- {
-  "src": "/screens/school-timetable-grid/08.webp",
-  "w": 1012,
-  "h": 897,
-  "caption": "Clash list",
-  "mobile": false
+  "src": "/screens/school-timetable-grid/04.webp",
+  "w": 375,
+  "h": 746,
+  "caption": "Overview",
+  "mobile": true
  }
 ]

@@ -1,58 +1,30 @@
 [
  {
   "src": "/screens/financial-aid-award-viewer/01.webp",
+  "w": 1039,
+  "h": 2120,
+  "caption": "Submitted locked",
+  "mobile": false
+ },
+ {
+  "src": "/screens/financial-aid-award-viewer/02.webp",
   "w": 1012,
   "h": 2086,
   "caption": "Default",
   "mobile": false
  },
  {
-  "src": "/screens/financial-aid-award-viewer/02.webp",
-  "w": 1012,
-  "h": 2281,
-  "caption": "Decisions made",
-  "mobile": false
- },
- {
   "src": "/screens/financial-aid-award-viewer/03.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Loan reduce",
-  "mobile": true
- },
- {
-  "src": "/screens/financial-aid-award-viewer/04.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Overview",
-  "mobile": true
- },
- {
-  "src": "/screens/financial-aid-award-viewer/05.webp",
-  "w": 1366,
+  "w": 1072,
   "h": 1500,
   "caption": "Loans reduce details hold",
   "mobile": false
  },
  {
-  "src": "/screens/financial-aid-award-viewer/06.webp",
-  "w": 1039,
-  "h": 1582,
-  "caption": "Loans tab keyboard",
-  "mobile": false
- },
- {
-  "src": "/screens/financial-aid-award-viewer/07.webp",
-  "w": 1366,
-  "h": 1500,
-  "caption": "Ready to submit",
-  "mobile": false
- },
- {
-  "src": "/screens/financial-aid-award-viewer/08.webp",
-  "w": 1039,
-  "h": 2120,
-  "caption": "Submitted locked",
-  "mobile": false
+  "src": "/screens/financial-aid-award-viewer/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Loan reduce",
+  "mobile": true
  }
 ]

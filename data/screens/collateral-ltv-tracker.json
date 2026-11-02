@@ -3,15 +3,15 @@
   "src": "/screens/collateral-ltv-tracker/01.webp",
   "w": 1012,
   "h": 954,
-  "caption": "Default",
+  "caption": "Detail drawer second charge",
   "mobile": false
  },
  {
   "src": "/screens/collateral-ltv-tracker/02.webp",
-  "w": 399,
-  "h": 2106,
-  "caption": "Overview",
-  "mobile": true
+  "w": 1012,
+  "h": 954,
+  "caption": "Default",
+  "mobile": false
  },
  {
   "src": "/screens/collateral-ltv-tracker/03.webp",
@@ -19,40 +19,5 @@
   "h": 812,
   "caption": "Detail",
   "mobile": true
- },
- {
-  "src": "/screens/collateral-ltv-tracker/04.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Edit",
-  "mobile": true
- },
- {
-  "src": "/screens/collateral-ltv-tracker/05.webp",
-  "w": 1012,
-  "h": 954,
-  "caption": "Detail drawer second charge",
-  "mobile": false
- },
- {
-  "src": "/screens/collateral-ltv-tracker/06.webp",
-  "w": 1012,
-  "h": 954,
-  "caption": "Revaluation form",
-  "mobile": false
- },
- {
-  "src": "/screens/collateral-ltv-tracker/07.webp",
-  "w": 1012,
-  "h": 954,
-  "caption": "Revaluation saved history",
-  "mobile": false
- },
- {
-  "src": "/screens/collateral-ltv-tracker/08.webp",
-  "w": 1012,
-  "h": 954,
-  "caption": "Keyboard row focus",
-  "mobile": false
  }
 ]

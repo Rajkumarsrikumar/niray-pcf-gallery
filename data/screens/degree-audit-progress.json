@@ -1,9 +1,9 @@
 [
  {
   "src": "/screens/degree-audit-progress/01.webp",
-  "w": 1012,
-  "h": 2400,
-  "caption": "Default",
+  "w": 998,
+  "h": 1234,
+  "caption": "Keyboard focus",
   "mobile": false
  },
  {
@@ -15,41 +15,13 @@
  },
  {
   "src": "/screens/degree-audit-progress/03.webp",
-  "w": 373,
-  "h": 2400,
-  "caption": "Overview",
-  "mobile": true
- },
- {
-  "src": "/screens/degree-audit-progress/04.webp",
-  "w": 373,
-  "h": 1932,
-  "caption": "Expanded",
-  "mobile": true
- },
- {
-  "src": "/screens/degree-audit-progress/05.webp",
-  "w": 373,
-  "h": 1559,
-  "caption": "Unmet",
-  "mobile": true
- },
- {
-  "src": "/screens/degree-audit-progress/06.webp",
   "w": 998,
   "h": 1384,
   "caption": "Requirement detail failed grade",
   "mobile": false
  },
  {
-  "src": "/screens/degree-audit-progress/07.webp",
-  "w": 998,
-  "h": 1234,
-  "caption": "Keyboard focus",
-  "mobile": false
- },
- {
-  "src": "/screens/degree-audit-progress/08.webp",
+  "src": "/screens/degree-audit-progress/04.webp",
   "w": 998,
   "h": 958,
   "caption": "Filter unmet",

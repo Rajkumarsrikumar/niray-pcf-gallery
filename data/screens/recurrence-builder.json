@@ -2,43 +2,15 @@
  {
   "src": "/screens/recurrence-builder/01.webp",
   "w": 758,
-  "h": 957,
-  "caption": "Default",
-  "mobile": false
- },
- {
-  "src": "/screens/recurrence-builder/02.webp",
-  "w": 341,
-  "h": 1170,
-  "caption": "Monthly",
-  "mobile": true
- },
- {
-  "src": "/screens/recurrence-builder/03.webp",
-  "w": 341,
-  "h": 1052,
-  "caption": "Weekly",
-  "mobile": true
- },
- {
-  "src": "/screens/recurrence-builder/04.webp",
-  "w": 758,
   "h": 908,
   "caption": "Weekly mwf skip",
   "mobile": false
  },
  {
-  "src": "/screens/recurrence-builder/05.webp",
+  "src": "/screens/recurrence-builder/02.webp",
   "w": 758,
-  "h": 1062,
-  "caption": "Monthly nth weekday",
-  "mobile": false
- },
- {
-  "src": "/screens/recurrence-builder/06.webp",
-  "w": 758,
-  "h": 1004,
-  "caption": "Day31 hint",
+  "h": 957,
+  "caption": "Default",
   "mobile": false
  }
 ]

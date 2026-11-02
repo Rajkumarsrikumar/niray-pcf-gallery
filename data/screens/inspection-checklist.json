@@ -8,37 +8,23 @@
  },
  {
   "src": "/screens/inspection-checklist/02.webp",
-  "w": 373,
-  "h": 700,
-  "caption": "Section",
-  "mobile": true
- },
- {
-  "src": "/screens/inspection-checklist/03.webp",
-  "w": 373,
-  "h": 700,
-  "caption": "Refrigerant fail",
-  "mobile": true
- },
- {
-  "src": "/screens/inspection-checklist/04.webp",
   "w": 1050,
   "h": 860,
   "caption": "Measurements tolerance fail",
   "mobile": false
  },
  {
-  "src": "/screens/inspection-checklist/05.webp",
+  "src": "/screens/inspection-checklist/03.webp",
   "w": 1050,
   "h": 860,
   "caption": "Complete validation",
   "mobile": false
  },
  {
-  "src": "/screens/inspection-checklist/06.webp",
-  "w": 1050,
-  "h": 860,
-  "caption": "Completed result",
-  "mobile": false
+  "src": "/screens/inspection-checklist/04.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "Section",
+  "mobile": true
  }
 ]

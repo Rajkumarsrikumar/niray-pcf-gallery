@@ -5,54 +5,5 @@
   "h": 1036,
   "caption": "Default",
   "mobile": false
- },
- {
-  "src": "/screens/financial-spreading-grid/02.webp",
-  "w": 405,
-  "h": 2400,
-  "caption": "Statements",
-  "mobile": true
- },
- {
-  "src": "/screens/financial-spreading-grid/03.webp",
-  "w": 405,
-  "h": 2400,
-  "caption": "Ratios",
-  "mobile": true
- },
- {
-  "src": "/screens/financial-spreading-grid/04.webp",
-  "w": 405,
-  "h": 2268,
-  "caption": "Flags",
-  "mobile": true
- },
- {
-  "src": "/screens/financial-spreading-grid/05.webp",
-  "w": 405,
-  "h": 2400,
-  "caption": "Edited",
-  "mobile": true
- },
- {
-  "src": "/screens/financial-spreading-grid/06.webp",
-  "w": 1012,
-  "h": 1054,
-  "caption": "Ratios dscr detail",
-  "mobile": false
- },
- {
-  "src": "/screens/financial-spreading-grid/07.webp",
-  "w": 1012,
-  "h": 1054,
-  "caption": "Interim annualised breach",
-  "mobile": false
- },
- {
-  "src": "/screens/financial-spreading-grid/08.webp",
-  "w": 1012,
-  "h": 1036,
-  "caption": "Cell edited",
-  "mobile": false
  }
 ]

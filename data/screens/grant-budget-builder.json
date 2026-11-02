@@ -15,30 +15,16 @@
  },
  {
   "src": "/screens/grant-budget-builder/03.webp",
-  "w": 375,
-  "h": 800,
-  "caption": "Collapsed",
-  "mobile": true
- },
- {
-  "src": "/screens/grant-budget-builder/04.webp",
-  "w": 375,
-  "h": 800,
-  "caption": "Expanded",
-  "mobile": true
- },
- {
-  "src": "/screens/grant-budget-builder/05.webp",
-  "w": 375,
-  "h": 800,
-  "caption": "B summary",
-  "mobile": true
- },
- {
-  "src": "/screens/grant-budget-builder/06.webp",
   "w": 1050,
   "h": 664,
   "caption": "Add line flags",
   "mobile": false
+ },
+ {
+  "src": "/screens/grant-budget-builder/04.webp",
+  "w": 375,
+  "h": 734,
+  "caption": "Collapsed",
+  "mobile": true
  }
 ]

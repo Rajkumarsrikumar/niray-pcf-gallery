@@ -3,42 +3,28 @@
   "src": "/screens/hierarchy-tree-grid/01.webp",
   "w": 1020,
   "h": 581,
-  "caption": "Default",
-  "mobile": false
- },
- {
-  "src": "/screens/hierarchy-tree-grid/02.webp",
-  "w": 355,
-  "h": 661,
-  "caption": "Root",
-  "mobile": true
- },
- {
-  "src": "/screens/hierarchy-tree-grid/03.webp",
-  "w": 355,
-  "h": 661,
-  "caption": "Drilldown",
-  "mobile": true
- },
- {
-  "src": "/screens/hierarchy-tree-grid/04.webp",
-  "w": 1020,
-  "h": 581,
-  "caption": "Expanded sorted rollups",
-  "mobile": false
- },
- {
-  "src": "/screens/hierarchy-tree-grid/05.webp",
-  "w": 1020,
-  "h": 581,
   "caption": "Row actions menu",
   "mobile": false
  },
  {
-  "src": "/screens/hierarchy-tree-grid/06.webp",
+  "src": "/screens/hierarchy-tree-grid/02.webp",
+  "w": 1020,
+  "h": 581,
+  "caption": "Default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/hierarchy-tree-grid/03.webp",
   "w": 1020,
   "h": 581,
   "caption": "Keyboard focus",
   "mobile": false
+ },
+ {
+  "src": "/screens/hierarchy-tree-grid/04.webp",
+  "w": 355,
+  "h": 661,
+  "caption": "Root",
+  "mobile": true
  }
 ]

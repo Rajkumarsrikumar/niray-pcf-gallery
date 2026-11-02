@@ -1,7 +1,7 @@
 [
  {
   "src": "/screens/resource-scheduler/01.webp",
-  "w": 1012,
+  "w": 830,
   "h": 737,
   "caption": "Week default",
   "mobile": false
@@ -11,34 +11,6 @@
   "w": 365,
   "h": 720,
   "caption": "Day list",
-  "mobile": true
- },
- {
-  "src": "/screens/resource-scheduler/03.webp",
-  "w": 365,
-  "h": 720,
-  "caption": "Free slot sheet",
-  "mobile": true
- },
- {
-  "src": "/screens/resource-scheduler/04.webp",
-  "w": 375,
-  "h": 800,
-  "caption": "Booking sheet",
-  "mobile": true
- },
- {
-  "src": "/screens/resource-scheduler/05.webp",
-  "w": 365,
-  "h": 720,
-  "caption": "Thursday absence",
-  "mobile": true
- },
- {
-  "src": "/screens/resource-scheduler/06.webp",
-  "w": 365,
-  "h": 720,
-  "caption": "Week agenda",
   "mobile": true
  }
 ]

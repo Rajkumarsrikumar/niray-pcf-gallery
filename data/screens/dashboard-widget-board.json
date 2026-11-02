@@ -8,37 +8,23 @@
  },
  {
   "src": "/screens/dashboard-widget-board/02.webp",
-  "w": 375,
-  "h": 728,
-  "caption": "Overview",
-  "mobile": true
- },
- {
-  "src": "/screens/dashboard-widget-board/03.webp",
-  "w": 375,
-  "h": 728,
-  "caption": "Customise",
-  "mobile": true
- },
- {
-  "src": "/screens/dashboard-widget-board/04.webp",
   "w": 1054,
   "h": 1336,
   "caption": "Interactions selected collapsed",
   "mobile": false
  },
  {
-  "src": "/screens/dashboard-widget-board/05.webp",
+  "src": "/screens/dashboard-widget-board/03.webp",
   "w": 1054,
   "h": 1639,
   "caption": "Customise mode hidden panel",
   "mobile": false
  },
  {
-  "src": "/screens/dashboard-widget-board/06.webp",
-  "w": 1054,
-  "h": 1639,
-  "caption": "Drag reorder in progress",
-  "mobile": false
+  "src": "/screens/dashboard-widget-board/04.webp",
+  "w": 375,
+  "h": 728,
+  "caption": "Overview",
+  "mobile": true
  }
 ]

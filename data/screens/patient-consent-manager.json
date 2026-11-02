@@ -2,43 +2,22 @@
  {
   "src": "/screens/patient-consent-manager/01.webp",
   "w": 1005,
-  "h": 903,
-  "caption": "Register",
-  "mobile": false
- },
- {
-  "src": "/screens/patient-consent-manager/02.webp",
-  "w": 357,
-  "h": 702,
-  "caption": "List",
-  "mobile": true
- },
- {
-  "src": "/screens/patient-consent-manager/03.webp",
-  "w": 375,
-  "h": 780,
-  "caption": "Detail sheet",
-  "mobile": true
- },
- {
-  "src": "/screens/patient-consent-manager/04.webp",
-  "w": 375,
-  "h": 767,
-  "caption": "Sign screen",
-  "mobile": true
- },
- {
-  "src": "/screens/patient-consent-manager/05.webp",
-  "w": 1005,
   "h": 942,
   "caption": "Detail proxy witnessed scopes",
   "mobile": false
  },
  {
-  "src": "/screens/patient-consent-manager/06.webp",
+  "src": "/screens/patient-consent-manager/02.webp",
   "w": 1005,
-  "h": 950,
-  "caption": "Sign new version drawn",
+  "h": 903,
+  "caption": "Register",
   "mobile": false
+ },
+ {
+  "src": "/screens/patient-consent-manager/03.webp",
+  "w": 357,
+  "h": 702,
+  "caption": "List",
+  "mobile": true
  }
 ]

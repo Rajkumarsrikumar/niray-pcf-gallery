@@ -2,43 +2,22 @@
  {
   "src": "/screens/geo-location-picker/01.webp",
   "w": 1012,
+  "h": 637,
+  "caption": "Typed dms parsed",
+  "mobile": false
+ },
+ {
+  "src": "/screens/geo-location-picker/02.webp",
+  "w": 1012,
   "h": 613,
   "caption": "Saved value",
   "mobile": false
  },
  {
-  "src": "/screens/geo-location-picker/02.webp",
+  "src": "/screens/geo-location-picker/03.webp",
   "w": 355,
   "h": 733,
   "caption": "Details",
   "mobile": true
- },
- {
-  "src": "/screens/geo-location-picker/03.webp",
-  "w": 355,
-  "h": 733,
-  "caption": "Nearby",
-  "mobile": true
- },
- {
-  "src": "/screens/geo-location-picker/04.webp",
-  "w": 355,
-  "h": 733,
-  "caption": "Tap",
-  "mobile": true
- },
- {
-  "src": "/screens/geo-location-picker/05.webp",
-  "w": 1012,
-  "h": 613,
-  "caption": "Snap suggestion",
-  "mobile": false
- },
- {
-  "src": "/screens/geo-location-picker/06.webp",
-  "w": 1012,
-  "h": 637,
-  "caption": "Typed dms parsed",
-  "mobile": false
  }
 ]

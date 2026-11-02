@@ -3,42 +3,28 @@
   "src": "/screens/interactive-chart/01.webp",
   "w": 916,
   "h": 616,
-  "caption": "Combo tooltip",
+  "caption": "Zoomed range data labels",
   "mobile": false
  },
  {
   "src": "/screens/interactive-chart/02.webp",
-  "w": 362,
-  "h": 656,
-  "caption": "Tap selected",
-  "mobile": true
+  "w": 916,
+  "h": 616,
+  "caption": "Combo tooltip",
+  "mobile": false
  },
  {
   "src": "/screens/interactive-chart/03.webp",
-  "w": 362,
-  "h": 656,
-  "caption": "B table",
-  "mobile": true
- },
- {
-  "src": "/screens/interactive-chart/04.webp",
   "w": 916,
   "h": 616,
   "caption": "Point selected keyboard",
   "mobile": false
  },
  {
-  "src": "/screens/interactive-chart/05.webp",
-  "w": 916,
-  "h": 616,
-  "caption": "Zoomed range data labels",
-  "mobile": false
- },
- {
-  "src": "/screens/interactive-chart/06.webp",
-  "w": 916,
-  "h": 616,
-  "caption": "Table view sorted",
-  "mobile": false
+  "src": "/screens/interactive-chart/04.webp",
+  "w": 362,
+  "h": 656,
+  "caption": "Tap selected",
+  "mobile": true
  }
 ]

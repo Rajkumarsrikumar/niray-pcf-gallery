@@ -1,7 +1,7 @@
 import Link from "next/link";
 import AddToCart from "../AddToCart";
 import Icon from "../Icon";
-import { PRICE, allPacks, formatPrice, isAvailable, packComponents, themeFor } from "@/lib/catalog";
+import { PRICE, allPacks, formatPrice, isAvailable, packComponents, packPreviews, themeFor, thumbOf } from "@/lib/catalog";
 
 export const metadata = { title: "Industry packs | Niray PCF Gallery" };
 
@@ -24,6 +24,14 @@ export default function Packs() {
                 </div>
                 <h2 className="mt-8 text-2xl font-extrabold">{p.name}</h2>
                 <p className="mt-1 text-sm opacity-85">{t.blurb}</p>
+                {packPreviews(p, 6).length > 0 && (
+                  <div className="mt-6 grid grid-cols-3 gap-3">
+                    {packPreviews(p, 6).map((s) => (
+                      // eslint-disable-next-line @next/next/no-img-element
+                      <img key={s.src} src={thumbOf(s.src)} alt={s.caption} loading="lazy" className="aspect-[4/3] w-full rounded-lg bg-white object-cover object-left-top shadow-md ring-1 ring-black/10" />
+                    ))}
+                  </div>
+                )}
               </Link>
               <div className="p-6">
                 <div className="flex gap-6 text-sm">

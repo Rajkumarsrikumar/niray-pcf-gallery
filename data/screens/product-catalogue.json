@@ -9,36 +9,8 @@
  {
   "src": "/screens/product-catalogue/02.webp",
   "w": 375,
-  "h": 780,
+  "h": 714,
   "caption": "Overview",
-  "mobile": true
- },
- {
-  "src": "/screens/product-catalogue/03.webp",
-  "w": 375,
-  "h": 714,
-  "caption": "Category added",
-  "mobile": true
- },
- {
-  "src": "/screens/product-catalogue/04.webp",
-  "w": 375,
-  "h": 780,
-  "caption": "Filter sheet",
-  "mobile": true
- },
- {
-  "src": "/screens/product-catalogue/05.webp",
-  "w": 375,
-  "h": 714,
-  "caption": "Cart sheet",
-  "mobile": true
- },
- {
-  "src": "/screens/product-catalogue/06.webp",
-  "w": 375,
-  "h": 780,
-  "caption": "Quick view",
   "mobile": true
  }
 ]

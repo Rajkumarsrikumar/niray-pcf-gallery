@@ -5,40 +5,5 @@
   "h": 761,
   "caption": "Running timeline",
   "mobile": false
- },
- {
-  "src": "/screens/records-request-tracker/02.webp",
-  "w": 357,
-  "h": 1300,
-  "caption": "Overview",
-  "mobile": true
- },
- {
-  "src": "/screens/records-request-tracker/03.webp",
-  "w": 357,
-  "h": 1300,
-  "caption": "Actions sheet",
-  "mobile": true
- },
- {
-  "src": "/screens/records-request-tracker/04.webp",
-  "w": 357,
-  "h": 1300,
-  "caption": "Extend sheet",
-  "mobile": true
- },
- {
-  "src": "/screens/records-request-tracker/05.webp",
-  "w": 1050,
-  "h": 760,
-  "caption": "Calendar working days",
-  "mobile": false
- },
- {
-  "src": "/screens/records-request-tracker/06.webp",
-  "w": 1050,
-  "h": 760,
-  "caption": "Records validation",
-  "mobile": false
  }
 ]

@@ -3,56 +3,21 @@
   "src": "/screens/loan-amortization-explorer/01.webp",
   "w": 1012,
   "h": 954,
-  "caption": "Default summary",
+  "caption": "Chart keyboard year",
   "mobile": false
  },
  {
   "src": "/screens/loan-amortization-explorer/02.webp",
-  "w": 375,
-  "h": 900,
-  "caption": "Overview",
-  "mobile": true
+  "w": 1012,
+  "h": 954,
+  "caption": "Default summary",
+  "mobile": false
  },
  {
   "src": "/screens/loan-amortization-explorer/03.webp",
-  "w": 375,
-  "h": 900,
-  "caption": "B chart",
-  "mobile": true
- },
- {
-  "src": "/screens/loan-amortization-explorer/04.webp",
-  "w": 375,
-  "h": 900,
-  "caption": "C compare",
-  "mobile": true
- },
- {
-  "src": "/screens/loan-amortization-explorer/05.webp",
-  "w": 1012,
-  "h": 954,
-  "caption": "Extra and lump sum savings",
-  "mobile": false
- },
- {
-  "src": "/screens/loan-amortization-explorer/06.webp",
   "w": 1012,
   "h": 954,
   "caption": "Schedule by year expanded",
-  "mobile": false
- },
- {
-  "src": "/screens/loan-amortization-explorer/07.webp",
-  "w": 1012,
-  "h": 954,
-  "caption": "Schedule by payment",
-  "mobile": false
- },
- {
-  "src": "/screens/loan-amortization-explorer/08.webp",
-  "w": 1012,
-  "h": 954,
-  "caption": "Chart keyboard year",
   "mobile": false
  }
 ]

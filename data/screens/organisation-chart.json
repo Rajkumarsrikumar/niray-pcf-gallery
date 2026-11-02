@@ -1,44 +1,23 @@
 [
  {
   "src": "/screens/organisation-chart/01.webp",
+  "w": 1020,
+  "h": 661,
+  "caption": "Expanded selected details",
+  "mobile": false
+ },
+ {
+  "src": "/screens/organisation-chart/02.webp",
   "w": 1012,
   "h": 677,
   "caption": "Chart default",
   "mobile": false
  },
  {
-  "src": "/screens/organisation-chart/02.webp",
+  "src": "/screens/organisation-chart/03.webp",
   "w": 365,
   "h": 684,
   "caption": "M 1 drill",
   "mobile": true
- },
- {
-  "src": "/screens/organisation-chart/03.webp",
-  "w": 365,
-  "h": 684,
-  "caption": "M 2 drill team",
-  "mobile": true
- },
- {
-  "src": "/screens/organisation-chart/04.webp",
-  "w": 365,
-  "h": 684,
-  "caption": "M 3 sheet",
-  "mobile": true
- },
- {
-  "src": "/screens/organisation-chart/05.webp",
-  "w": 375,
-  "h": 760,
-  "caption": "M 4 list",
-  "mobile": true
- },
- {
-  "src": "/screens/organisation-chart/06.webp",
-  "w": 1020,
-  "h": 661,
-  "caption": "Expanded selected details",
-  "mobile": false
  }
 ]

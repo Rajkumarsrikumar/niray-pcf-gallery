@@ -8,37 +8,16 @@
  },
  {
   "src": "/screens/kanban-board/02.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Overview",
-  "mobile": true
+  "w": 820,
+  "h": 697,
+  "caption": "Drag blocked wip",
+  "mobile": false
  },
  {
   "src": "/screens/kanban-board/03.webp",
   "w": 375,
-  "h": 755,
-  "caption": "Move sheet",
+  "h": 746,
+  "caption": "Overview",
   "mobile": true
- },
- {
-  "src": "/screens/kanban-board/04.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Filters open",
-  "mobile": true
- },
- {
-  "src": "/screens/kanban-board/05.webp",
-  "w": 1360,
-  "h": 689,
-  "caption": "Drag valid target",
-  "mobile": false
- },
- {
-  "src": "/screens/kanban-board/06.webp",
-  "w": 1012,
-  "h": 697,
-  "caption": "Drag blocked wip",
-  "mobile": false
  }
 ]

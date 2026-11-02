@@ -8,37 +8,23 @@
  },
  {
   "src": "/screens/event-calendar/02.webp",
-  "w": 339,
-  "h": 728,
-  "caption": "Month",
-  "mobile": true
- },
- {
-  "src": "/screens/event-calendar/03.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Day",
-  "mobile": true
- },
- {
-  "src": "/screens/event-calendar/04.webp",
-  "w": 339,
-  "h": 728,
-  "caption": "Details sheet",
-  "mobile": true
- },
- {
-  "src": "/screens/event-calendar/05.webp",
   "w": 1012,
   "h": 837,
   "caption": "Event details",
   "mobile": false
  },
  {
-  "src": "/screens/event-calendar/06.webp",
+  "src": "/screens/event-calendar/03.webp",
   "w": 1041,
   "h": 801,
   "caption": "Week view",
   "mobile": false
+ },
+ {
+  "src": "/screens/event-calendar/04.webp",
+  "w": 339,
+  "h": 728,
+  "caption": "Month",
+  "mobile": true
  }
 ]

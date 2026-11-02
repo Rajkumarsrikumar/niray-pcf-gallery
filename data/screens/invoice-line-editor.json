@@ -1,44 +1,16 @@
 [
  {
   "src": "/screens/invoice-line-editor/01.webp",
-  "w": 1022,
-  "h": 965,
-  "caption": "Quote",
+  "w": 1040,
+  "h": 560,
+  "caption": "Product search",
   "mobile": false
  },
  {
   "src": "/screens/invoice-line-editor/02.webp",
-  "w": 375,
-  "h": 834,
-  "caption": "Collapsed",
-  "mobile": true
- },
- {
-  "src": "/screens/invoice-line-editor/03.webp",
-  "w": 375,
-  "h": 900,
-  "caption": "Expanded",
-  "mobile": true
- },
- {
-  "src": "/screens/invoice-line-editor/04.webp",
-  "w": 375,
-  "h": 834,
-  "caption": "Search",
-  "mobile": true
- },
- {
-  "src": "/screens/invoice-line-editor/05.webp",
-  "w": 375,
-  "h": 900,
-  "caption": "Total bar",
-  "mobile": true
- },
- {
-  "src": "/screens/invoice-line-editor/06.webp",
-  "w": 1040,
-  "h": 560,
-  "caption": "Product search",
+  "w": 1022,
+  "h": 965,
+  "caption": "Quote",
   "mobile": false
  }
 ]

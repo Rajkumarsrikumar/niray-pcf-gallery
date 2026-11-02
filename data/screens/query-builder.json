@@ -8,34 +8,13 @@
  },
  {
   "src": "/screens/query-builder/02.webp",
-  "w": 375,
-  "h": 1765,
-  "caption": "Cards",
-  "mobile": true
- },
- {
-  "src": "/screens/query-builder/03.webp",
-  "w": 375,
-  "h": 900,
-  "caption": "Top",
-  "mobile": true
- },
- {
-  "src": "/screens/query-builder/04.webp",
-  "w": 366,
-  "h": 830,
-  "caption": "Preview open",
-  "mobile": true
- },
- {
-  "src": "/screens/query-builder/05.webp",
   "w": 1012,
   "h": 954,
   "caption": "Fetchxml preview",
   "mobile": false
  },
  {
-  "src": "/screens/query-builder/06.webp",
+  "src": "/screens/query-builder/03.webp",
   "w": 744,
   "h": 978,
   "caption": "Overview",

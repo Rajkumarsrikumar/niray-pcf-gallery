@@ -42,3 +42,14 @@ export type Screen = { src: string; w: number; h: number; caption: string; mobil
 export const screensFor = (slug: string): Screen[] => (screens as Record<string, Screen[]>)[slug] ?? [];
 /** Small preview written by scripts/make-thumbs.py, for cards and thumbnail strips. */
 export const thumbOf = (src: string) => src.replace(/\.webp$/, ".thumb.webp");
+
+/** Lead screenshots from a pack's components (one per component, desktop shots first), for pack cards and pages. */
+export type PackPreview = Screen & { slug: string; name: string };
+export const packPreviews = (p: Pack, n = Infinity): PackPreview[] => {
+  const leads = p.components.flatMap((i) => {
+    const s = screensFor(i.slug)[0];
+    const c = allComponents.find((x) => x.slug === i.slug);
+    return s && c ? [{ ...s, slug: c.slug, name: c.name }] : [];
+  });
+  return [...leads.filter((s) => !s.mobile), ...leads.filter((s) => s.mobile)].slice(0, n);
+};

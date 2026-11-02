@@ -2,57 +2,29 @@
  {
   "src": "/screens/fleet-defect-report/01.webp",
   "w": 1038,
+  "h": 900,
+  "caption": "Submitted defects locked",
+  "mobile": false
+ },
+ {
+  "src": "/screens/fleet-defect-report/02.webp",
+  "w": 1038,
   "h": 1150,
   "caption": "In progress",
   "mobile": false
  },
  {
-  "src": "/screens/fleet-defect-report/02.webp",
-  "w": 357,
-  "h": 939,
-  "caption": "Step vehicle",
-  "mobile": true
- },
- {
   "src": "/screens/fleet-defect-report/03.webp",
-  "w": 357,
-  "h": 1572,
-  "caption": "Section defect",
-  "mobile": true
- },
- {
-  "src": "/screens/fleet-defect-report/04.webp",
-  "w": 357,
-  "h": 1070,
-  "caption": "Review",
-  "mobile": true
- },
- {
-  "src": "/screens/fleet-defect-report/05.webp",
   "w": 1038,
   "h": 346,
   "caption": "Vehicle picker search",
   "mobile": false
  },
  {
-  "src": "/screens/fleet-defect-report/06.webp",
+  "src": "/screens/fleet-defect-report/04.webp",
   "w": 1038,
   "h": 1000,
   "caption": "Zone filter rear vor",
-  "mobile": false
- },
- {
-  "src": "/screens/fleet-defect-report/07.webp",
-  "w": 1038,
-  "h": 900,
-  "caption": "Submitted defects locked",
-  "mobile": false
- },
- {
-  "src": "/screens/fleet-defect-report/08.webp",
-  "w": 758,
-  "h": 1100,
-  "caption": "Carried vor odo warning",
   "mobile": false
  }
 ]

@@ -1,44 +1,23 @@
 [
  {
   "src": "/screens/smart-address-input/01.webp",
-  "w": 1012,
-  "h": 854,
-  "caption": "Billing populated",
-  "mobile": false
- },
- {
-  "src": "/screens/smart-address-input/02.webp",
-  "w": 359,
-  "h": 1116,
-  "caption": "Overview",
-  "mobile": true
- },
- {
-  "src": "/screens/smart-address-input/03.webp",
-  "w": 375,
-  "h": 800,
-  "caption": "Search",
-  "mobile": true
- },
- {
-  "src": "/screens/smart-address-input/04.webp",
-  "w": 383,
-  "h": 1206,
-  "caption": "Picked",
-  "mobile": true
- },
- {
-  "src": "/screens/smart-address-input/05.webp",
   "w": 916,
   "h": 656,
   "caption": "Search saved addresses",
   "mobile": false
  },
  {
-  "src": "/screens/smart-address-input/06.webp",
-  "w": 1012,
+  "src": "/screens/smart-address-input/02.webp",
+  "w": 930,
   "h": 854,
-  "caption": "Shipping same as billing",
+  "caption": "Billing populated",
   "mobile": false
+ },
+ {
+  "src": "/screens/smart-address-input/03.webp",
+  "w": 375,
+  "h": 734,
+  "caption": "Search",
+  "mobile": true
  }
 ]

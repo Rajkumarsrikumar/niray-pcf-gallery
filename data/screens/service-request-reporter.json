@@ -1,44 +1,30 @@
 [
  {
   "src": "/screens/service-request-reporter/01.webp",
+  "w": 930,
+  "h": 954,
+  "caption": "Emergency blocked",
+  "mobile": false
+ },
+ {
+  "src": "/screens/service-request-reporter/02.webp",
   "w": 1012,
   "h": 796,
   "caption": "Category tiles",
   "mobile": false
  },
  {
-  "src": "/screens/service-request-reporter/02.webp",
-  "w": 415,
-  "h": 806,
-  "caption": "Categories",
-  "mobile": true
- },
- {
   "src": "/screens/service-request-reporter/03.webp",
-  "w": 415,
-  "h": 997,
-  "caption": "Location",
-  "mobile": true
- },
- {
-  "src": "/screens/service-request-reporter/04.webp",
-  "w": 415,
-  "h": 806,
-  "caption": "Photo required",
-  "mobile": true
- },
- {
-  "src": "/screens/service-request-reporter/05.webp",
-  "w": 1012,
+  "w": 930,
   "h": 954,
   "caption": "Category types selected",
   "mobile": false
  },
  {
-  "src": "/screens/service-request-reporter/06.webp",
-  "w": 1012,
-  "h": 954,
-  "caption": "Emergency blocked",
-  "mobile": false
+  "src": "/screens/service-request-reporter/04.webp",
+  "w": 415,
+  "h": 740,
+  "caption": "Categories",
+  "mobile": true
  }
 ]

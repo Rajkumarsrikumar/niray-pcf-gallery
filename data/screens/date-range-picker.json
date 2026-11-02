@@ -1,44 +1,9 @@
 [
  {
   "src": "/screens/date-range-picker/01.webp",
-  "w": 1012,
-  "h": 556,
-  "caption": "Inline default",
-  "mobile": false
- },
- {
-  "src": "/screens/date-range-picker/02.webp",
   "w": 375,
-  "h": 812,
+  "h": 746,
   "caption": "Inline one month",
   "mobile": true
- },
- {
-  "src": "/screens/date-range-picker/03.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Popup field closed",
-  "mobile": true
- },
- {
-  "src": "/screens/date-range-picker/04.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Popup bottom sheet",
-  "mobile": true
- },
- {
-  "src": "/screens/date-range-picker/05.webp",
-  "w": 1012,
-  "h": 556,
-  "caption": "Start picked hover preview",
-  "mobile": false
- },
- {
-  "src": "/screens/date-range-picker/06.webp",
-  "w": 1012,
-  "h": 556,
-  "caption": "Range selected",
-  "mobile": false
  }
 ]
