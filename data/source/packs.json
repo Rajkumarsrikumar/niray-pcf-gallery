@@ -887,9 +887,9 @@
   "packName": "Niray Manufacturing PCF Pack",
   "slug": "manufacturing-pcf-pack",
   "industry": "Manufacturing",
-  "status": "in progress",
+  "status": "complete",
   "componentsPlanned": 30,
-  "componentsBuilt": 27,
+  "componentsBuilt": 30,
   "price": null,
   "components": [
    {
@@ -1084,22 +1084,243 @@
    {
     "order": 28,
     "component": "RoutingOperationsEditor",
-    "slug": null,
+    "slug": "routing-operations-editor",
     "subCategory": "Engineering",
     "status": "planned"
    },
    {
     "order": 29,
     "component": "TierMeetingBoard",
-    "slug": null,
+    "slug": "tier-meeting-board",
     "subCategory": "Lean",
     "status": "planned"
    },
    {
     "order": 30,
     "component": "CapacityLoadHeatmap",
-    "slug": null,
+    "slug": "capacity-load-heatmap",
     "subCategory": "Planning",
+    "status": "planned"
+   }
+  ]
+ },
+ {
+  "packName": "Niray Real Estate & Facilities PCF Pack",
+  "slug": "real-estate-and-facilities-pcf-pack",
+  "industry": "Real Estate & Facilities",
+  "status": "in progress",
+  "componentsPlanned": 30,
+  "componentsBuilt": 1,
+  "price": null,
+  "components": [
+   {
+    "order": 1,
+    "component": "RentRollAnalyzer",
+    "slug": "rent-roll-analyzer",
+    "subCategory": "Leasing & Revenue",
+    "status": "pending-sync"
+   },
+   {
+    "order": 2,
+    "component": "CamReconciliationWorksheet",
+    "slug": null,
+    "subCategory": "Leasing & Revenue",
+    "status": "planned"
+   },
+   {
+    "order": 3,
+    "component": "LeaseCriticalDatesTracker",
+    "slug": null,
+    "subCategory": "Lease Administration",
+    "status": "planned"
+   },
+   {
+    "order": 4,
+    "component": "TenantMaintenanceRequestPortal",
+    "slug": null,
+    "subCategory": "Property Operations",
+    "status": "planned"
+   },
+   {
+    "order": 5,
+    "component": "RentalApplicationWizard",
+    "slug": null,
+    "subCategory": "Leasing & Revenue",
+    "status": "planned"
+   },
+   {
+    "order": 6,
+    "component": "UnitAvailabilityFinder",
+    "slug": null,
+    "subCategory": "Leasing & Revenue",
+    "status": "planned"
+   },
+   {
+    "order": 7,
+    "component": "MoveInOutInspection",
+    "slug": null,
+    "subCategory": "Property Operations",
+    "status": "planned"
+   },
+   {
+    "order": 8,
+    "component": "SecurityDepositDisposition",
+    "slug": null,
+    "subCategory": "Property Operations",
+    "status": "planned"
+   },
+   {
+    "order": 9,
+    "component": "RentEscalationScheduleBuilder",
+    "slug": null,
+    "subCategory": "Lease Administration",
+    "status": "planned"
+   },
+   {
+    "order": 10,
+    "component": "TenantLedgerStatement",
+    "slug": null,
+    "subCategory": "Leasing & Revenue",
+    "status": "planned"
+   },
+   {
+    "order": 11,
+    "component": "FacilitiesHelpdeskTriage",
+    "slug": null,
+    "subCategory": "Facilities Management",
+    "status": "planned"
+   },
+   {
+    "order": 12,
+    "component": "LeaseAbstractForm",
+    "slug": null,
+    "subCategory": "Lease Administration",
+    "status": "planned"
+   },
+   {
+    "order": 13,
+    "component": "OccupancyUtilisationHeatmap",
+    "slug": null,
+    "subCategory": "Workplace & Space",
+    "status": "planned"
+   },
+   {
+    "order": 14,
+    "component": "MoveManagementPlanner",
+    "slug": null,
+    "subCategory": "Workplace & Space",
+    "status": "planned"
+   },
+   {
+    "order": 15,
+    "component": "VisitorPreRegistration",
+    "slug": null,
+    "subCategory": "Workplace & Space",
+    "status": "planned"
+   },
+   {
+    "order": 16,
+    "component": "ParkingPermitManager",
+    "slug": null,
+    "subCategory": "Property Operations",
+    "status": "planned"
+   },
+   {
+    "order": 17,
+    "component": "PropertyComparablesAnalyzer",
+    "slug": null,
+    "subCategory": "Valuation & Investment",
+    "status": "planned"
+   },
+   {
+    "order": 18,
+    "component": "NoiProFormaModeler",
+    "slug": null,
+    "subCategory": "Valuation & Investment",
+    "status": "planned"
+   },
+   {
+    "order": 19,
+    "component": "PropertyListingDetail",
+    "slug": null,
+    "subCategory": "Sales & Marketing",
+    "status": "planned"
+   },
+   {
+    "order": 20,
+    "component": "CapexReserveStudy",
+    "slug": null,
+    "subCategory": "Asset Management",
+    "status": "planned"
+   },
+   {
+    "order": 21,
+    "component": "HoaViolationTracker",
+    "slug": null,
+    "subCategory": "Community Associations",
+    "status": "planned"
+   },
+   {
+    "order": 22,
+    "component": "BuildingEnergyBenchmark",
+    "slug": null,
+    "subCategory": "Sustainability",
+    "status": "planned"
+   },
+   {
+    "order": 23,
+    "component": "KeyAccessControlRegister",
+    "slug": null,
+    "subCategory": "Facilities Management",
+    "status": "planned"
+   },
+   {
+    "order": 24,
+    "component": "ContractorComplianceTracker",
+    "slug": null,
+    "subCategory": "Facilities Management",
+    "status": "planned"
+   },
+   {
+    "order": 25,
+    "component": "PermitToWorkIssuer",
+    "slug": null,
+    "subCategory": "Facilities Management",
+    "status": "planned"
+   },
+   {
+    "order": 26,
+    "component": "TenantImprovementAllowanceTracker",
+    "slug": null,
+    "subCategory": "Lease Administration",
+    "status": "planned"
+   },
+   {
+    "order": 27,
+    "component": "StatutoryComplianceMatrix",
+    "slug": null,
+    "subCategory": "Facilities Management",
+    "status": "planned"
+   },
+   {
+    "order": 28,
+    "component": "BomaAreaCalculator",
+    "slug": null,
+    "subCategory": "Lease Administration",
+    "status": "planned"
+   },
+   {
+    "order": 29,
+    "component": "LeaseDealEconomicsCalculator",
+    "slug": null,
+    "subCategory": "Leasing & Revenue",
+    "status": "planned"
+   },
+   {
+    "order": 30,
+    "component": "UtilityRebillingRubs",
+    "slug": null,
+    "subCategory": "Property Operations",
     "status": "planned"
    }
   ]

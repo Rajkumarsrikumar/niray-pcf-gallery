@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/routing-operations-editor/01.webp",
+  "w": 1012,
+  "h": 937,
+  "caption": "Operations default",
+  "mobile": false,
+  "v": "76bf5672"
+ },
+ {
+  "src": "/screens/routing-operations-editor/02.webp",
+  "w": 399,
+  "h": 2400,
+  "caption": "Operations",
+  "mobile": true,
+  "v": "a2684af4"
+ },
+ {
+  "src": "/screens/routing-operations-editor/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Edit operation",
+  "mobile": true,
+  "v": "a9702f00"
+ },
+ {
+  "src": "/screens/routing-operations-editor/04.webp",
+  "w": 1012,
+  "h": 937,
+  "caption": "Edit operation 30",
+  "mobile": false,
+  "v": "367aed56"
+ },
+ {
+  "src": "/screens/routing-operations-editor/05.webp",
+  "w": 1012,
+  "h": 937,
+  "caption": "Alternate work centre",
+  "mobile": false,
+  "v": "5c444de1"
+ },
+ {
+  "src": "/screens/routing-operations-editor/06.webp",
+  "w": 1012,
+  "h": 936,
+  "caption": "Lead time gantt",
+  "mobile": false,
+  "v": "3d9df2c9"
+ }
+]

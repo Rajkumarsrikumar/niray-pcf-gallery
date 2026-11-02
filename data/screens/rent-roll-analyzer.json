@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/rent-roll-analyzer/01.webp",
+  "w": 1012,
+  "h": 1437,
+  "caption": "Default",
+  "mobile": false,
+  "v": "fd197ac2"
+ },
+ {
+  "src": "/screens/rent-roll-analyzer/02.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "858ad30a"
+ },
+ {
+  "src": "/screens/rent-roll-analyzer/03.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "B cards",
+  "mobile": true,
+  "v": "b850959c"
+ },
+ {
+  "src": "/screens/rent-roll-analyzer/04.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Detail view",
+  "mobile": true,
+  "v": "52a9938d"
+ },
+ {
+  "src": "/screens/rent-roll-analyzer/05.webp",
+  "w": 1012,
+  "h": 1437,
+  "caption": "Detail panel arrears",
+  "mobile": false,
+  "v": "a2fd87bc"
+ },
+ {
+  "src": "/screens/rent-roll-analyzer/06.webp",
+  "w": 1012,
+  "h": 1437,
+  "caption": "Flag and note",
+  "mobile": false,
+  "v": "e2ea7a98"
+ }
+]

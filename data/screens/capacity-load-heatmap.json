@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/capacity-load-heatmap/01.webp",
+  "w": 1038,
+  "h": 1052,
+  "caption": "Heatmap",
+  "mobile": false,
+  "v": "716dec8c"
+ },
+ {
+  "src": "/screens/capacity-load-heatmap/02.webp",
+  "w": 391,
+  "h": 2105,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "9bd349de"
+ },
+ {
+  "src": "/screens/capacity-load-heatmap/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "B week detail",
+  "mobile": true,
+  "v": "8775fb4d"
+ },
+ {
+  "src": "/screens/capacity-load-heatmap/04.webp",
+  "w": 1038,
+  "h": 1571,
+  "caption": "Cell detail overloaded",
+  "mobile": false,
+  "v": "f4da1fe3"
+ },
+ {
+  "src": "/screens/capacity-load-heatmap/05.webp",
+  "w": 1038,
+  "h": 1605,
+  "caption": "Whatif week pattern",
+  "mobile": false,
+  "v": "b6b5ac4a"
+ },
+ {
+  "src": "/screens/capacity-load-heatmap/06.webp",
+  "w": 1038,
+  "h": 1605,
+  "caption": "Whatif all weeks",
+  "mobile": false,
+  "v": "3889fd38"
+ }
+]
