@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/program-pathway-explorer/01.webp",
+  "w": 1012,
+  "h": 1673,
+  "caption": "Default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/program-pathway-explorer/02.webp",
+  "w": 373,
+  "h": 2400,
+  "caption": "Overview",
+  "mobile": true
+ },
+ {
+  "src": "/screens/program-pathway-explorer/03.webp",
+  "w": 373,
+  "h": 2400,
+  "caption": "Filters",
+  "mobile": true
+ },
+ {
+  "src": "/screens/program-pathway-explorer/04.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "B detail sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/program-pathway-explorer/05.webp",
+  "w": 373,
+  "h": 1218,
+  "caption": "C compare",
+  "mobile": true
+ },
+ {
+  "src": "/screens/program-pathway-explorer/06.webp",
+  "w": 1318,
+  "h": 2400,
+  "caption": "Detail overview",
+  "mobile": false
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/assignment-submission-panel/01.webp",
+  "w": 1005,
+  "h": 1027,
+  "caption": "Submit",
+  "mobile": false
+ },
+ {
+  "src": "/screens/assignment-submission-panel/02.webp",
+  "w": 341,
+  "h": 2065,
+  "caption": "Submit",
+  "mobile": true
+ },
+ {
+  "src": "/screens/assignment-submission-panel/03.webp",
+  "w": 341,
+  "h": 760,
+  "caption": "History",
+  "mobile": true
+ },
+ {
+  "src": "/screens/assignment-submission-panel/04.webp",
+  "w": 1005,
+  "h": 1208,
+  "caption": "File validation",
+  "mobile": false
+ },
+ {
+  "src": "/screens/assignment-submission-panel/05.webp",
+  "w": 1005,
+  "h": 1212,
+  "caption": "Confirm submission",
+  "mobile": false
+ },
+ {
+  "src": "/screens/assignment-submission-panel/06.webp",
+  "w": 1005,
+  "h": 962,
+  "caption": "Submission receipt",
+  "mobile": false
+ }
+]

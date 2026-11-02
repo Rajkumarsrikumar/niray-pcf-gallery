@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/transfer-credit-evaluator/01.webp",
+  "w": 1050,
+  "h": 1779,
+  "caption": "Worklist",
+  "mobile": false
+ },
+ {
+  "src": "/screens/transfer-credit-evaluator/02.webp",
+  "w": 373,
+  "h": 2400,
+  "caption": "Worklist",
+  "mobile": true
+ },
+ {
+  "src": "/screens/transfer-credit-evaluator/03.webp",
+  "w": 345,
+  "h": 972,
+  "caption": "Decision",
+  "mobile": true
+ },
+ {
+  "src": "/screens/transfer-credit-evaluator/04.webp",
+  "w": 373,
+  "h": 2400,
+  "caption": "Requirements",
+  "mobile": true
+ },
+ {
+  "src": "/screens/transfer-credit-evaluator/05.webp",
+  "w": 1014,
+  "h": 527,
+  "caption": "Review course checks",
+  "mobile": false
+ },
+ {
+  "src": "/screens/transfer-credit-evaluator/06.webp",
+  "w": 1014,
+  "h": 593,
+  "caption": "Decision validation",
+  "mobile": false
+ }
+]

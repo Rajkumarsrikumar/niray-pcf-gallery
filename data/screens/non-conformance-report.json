@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/non-conformance-report/01.webp",
+  "w": 998,
+  "h": 957,
+  "caption": "Details",
+  "mobile": false
+ },
+ {
+  "src": "/screens/non-conformance-report/02.webp",
+  "w": 373,
+  "h": 1654,
+  "caption": "Details",
+  "mobile": true
+ },
+ {
+  "src": "/screens/non-conformance-report/03.webp",
+  "w": 373,
+  "h": 1537,
+  "caption": "Containment",
+  "mobile": true
+ },
+ {
+  "src": "/screens/non-conformance-report/04.webp",
+  "w": 373,
+  "h": 1149,
+  "caption": "Capa",
+  "mobile": true
+ },
+ {
+  "src": "/screens/non-conformance-report/05.webp",
+  "w": 998,
+  "h": 1307,
+  "caption": "Defect picker",
+  "mobile": false
+ },
+ {
+  "src": "/screens/non-conformance-report/06.webp",
+  "w": 998,
+  "h": 769,
+  "caption": "Containment",
+  "mobile": false
+ }
+]

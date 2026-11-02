@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/production-schedule-sequencer/01.webp",
+  "w": 1012,
+  "h": 689,
+  "caption": "Default timeline",
+  "mobile": false
+ },
+ {
+  "src": "/screens/production-schedule-sequencer/02.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Sequence list",
+  "mobile": true
+ },
+ {
+  "src": "/screens/production-schedule-sequencer/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Order detail",
+  "mobile": true
+ },
+ {
+  "src": "/screens/production-schedule-sequencer/04.webp",
+  "w": 351,
+  "h": 682,
+  "caption": "Kpis toolbar",
+  "mobile": true
+ },
+ {
+  "src": "/screens/production-schedule-sequencer/05.webp",
+  "w": 1012,
+  "h": 823,
+  "caption": "Order selected detail due marker",
+  "mobile": false
+ },
+ {
+  "src": "/screens/production-schedule-sequencer/06.webp",
+  "w": 1012,
+  "h": 879,
+  "caption": "Drag reorder on timeline",
+  "mobile": false
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/downtime-event-logger/01.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Capture running",
+  "mobile": false
+ },
+ {
+  "src": "/screens/downtime-event-logger/02.webp",
+  "w": 399,
+  "h": 1751,
+  "caption": "Capture",
+  "mobile": true
+ },
+ {
+  "src": "/screens/downtime-event-logger/03.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Line down timer",
+  "mobile": false
+ },
+ {
+  "src": "/screens/downtime-event-logger/04.webp",
+  "w": 1012,
+  "h": 630,
+  "caption": "Reason and comment",
+  "mobile": false
+ },
+ {
+  "src": "/screens/downtime-event-logger/05.webp",
+  "w": 1012,
+  "h": 485,
+  "caption": "Assign pending search",
+  "mobile": false
+ },
+ {
+  "src": "/screens/downtime-event-logger/06.webp",
+  "w": 1012,
+  "h": 539,
+  "caption": "Planned keyboard focus",
+  "mobile": false
+ }
+]
