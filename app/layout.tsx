@@ -24,7 +24,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Motion><CartProvider>
           <Header />
           <main>{children}</main>
-          <footer className="mt-24 bg-ink text-slate-300">
+          <footer className="mt-24 bg-ink pb-[calc(64px+env(safe-area-inset-bottom))] text-slate-300 lg:pb-0">
             <div className="mx-auto grid max-w-7xl gap-8 px-4 py-12 sm:grid-cols-2 lg:grid-cols-4">
               <div>
                 <Logo dark />

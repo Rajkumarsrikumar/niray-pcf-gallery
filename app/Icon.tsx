@@ -17,6 +17,9 @@ const paths: Record<string, string> = {
   arrow: "M5 12h14m-6-6 6 6-6 6",
   layers: "M12 3l9 5-9 5-9-5 9-5zm-9 9 9 5 9-5M3 16l9 5 9-5",
   menu: "M4 6h16M4 12h16M4 18h16",
+  home: "M3 11l9-7 9 7M5 9.5V20h5v-6h4v6h5V9.5",
+  tag: "M3 12V4h8l10 10-8 8zM7.5 8.5h.01",
+  pencil: "M4 20h4L19 9l-4-4L4 16zM14 6l4 4",
 };
 export default function Icon({ name, className = "h-5 w-5" }: { name: string; className?: string }) {
   return (
