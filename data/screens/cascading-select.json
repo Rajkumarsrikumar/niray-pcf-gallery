@@ -1,34 +1,26 @@
 [
  {
   "src": "/screens/cascading-select/01.webp",
-  "w": 1400,
-  "h": 281,
-  "caption": "Global search reverse fill",
+  "w": 1148,
+  "h": 359,
+  "caption": "Choosing a country",
   "mobile": false,
-  "v": "ad108bf0"
+  "v": "96230a96"
  },
  {
   "src": "/screens/cascading-select/02.webp",
-  "w": 1400,
-  "h": 281,
-  "caption": "Default",
+  "w": 1148,
+  "h": 270,
+  "caption": "All levels chosen",
   "mobile": false,
-  "v": "243b6839"
+  "v": "362cf511"
  },
  {
   "src": "/screens/cascading-select/03.webp",
-  "w": 552,
-  "h": 665,
-  "caption": "A stacked",
-  "mobile": false,
-  "v": "393d9821"
- },
- {
-  "src": "/screens/cascading-select/04.webp",
-  "w": 552,
-  "h": 785,
-  "caption": "B list open",
-  "mobile": false,
-  "v": "33fe959e"
+  "w": 390,
+  "h": 472,
+  "caption": "Phone, all levels chosen",
+  "mobile": true,
+  "v": "193bdcaa"
  }
 ]
