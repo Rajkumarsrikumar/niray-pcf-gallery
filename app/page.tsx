@@ -14,7 +14,9 @@ const included = [
 
 export default function Home() {
   const available = allComponents.filter(isAvailable);
-  const heroSlugs = ["card-controls-panel", "school-timetable-grid", "benefit-eligibility-screener", "claim-reserve-worksheet", "polling-place-finder"];
+  // Ten of the strongest screenshots, spread across the industries.
+  const heroSlugs = ["kanban-board", "card-controls-panel", "production-schedule-sequencer", "attendance-register", "variance-waterfall-chart",
+    "patient-flow-queue", "gantt-timeline", "property-tax-bill-explainer", "pivot-data-explorer", "territory-mapper"];
   const picks = heroSlugs
     .map((s) => allComponents.find((c) => c.slug === s))
     .filter(Boolean)

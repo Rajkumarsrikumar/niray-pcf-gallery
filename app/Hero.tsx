@@ -1,27 +1,26 @@
 "use client";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { AnimatePresence, motion, useReducedMotion } from "framer-motion";
 import Icon from "./Icon";
 
 export type HeroPick = { slug: string; name: string; industry: string; color: string; on: string; src: string };
 type Chip = { label: string; href: string; color: string };
 
-/** Home hero: a big search, industry shortcuts, and a deck of real component screenshots that deals itself. */
+/** Home hero: a big search, industry shortcuts, and a showcase of real component screenshots. */
 export default function Hero({ picks, chips, total, ready }: { picks: HeroPick[]; chips: Chip[]; total: number; ready: number }) {
   const router = useRouter();
   const reduce = useReducedMotion();
   const [q, setQ] = useState("");
   const [i, setI] = useState(0);
+  const [dir, setDir] = useState(1);
   const [paused, setPaused] = useState(false);
-  useEffect(() => {
-    if (paused || reduce || picks.length < 2) return;
-    const t = setInterval(() => setI((x) => (x + 1) % picks.length), 4200);
-    return () => clearInterval(t);
-  }, [paused, reduce, picks.length]);
+  const n = picks.length;
+  const step = (d: number) => { setDir(d); setI((x) => (x + d + n) % n); };
+  const jump = (k: number) => { setDir(k >= i ? 1 : -1); setI(k); };
   const go = (e: React.FormEvent) => { e.preventDefault(); router.push(`/components${q.trim() ? `?q=${encodeURIComponent(q.trim())}` : ""}`); };
-  const order = picks.map((_, k) => picks[(i + k) % picks.length]).slice(0, 3);
+  const cur = picks[i] ?? picks[0];
 
   return (
     <section className="relative overflow-hidden border-b border-line bg-paper">
@@ -61,42 +60,52 @@ export default function Hero({ picks, chips, total, ready }: { picks: HeroPick[]
           </dl>
         </div>
 
-        {/* the deck */}
-        <div className="relative mx-auto w-full max-w-[600px]" onMouseEnter={() => setPaused(true)} onMouseLeave={() => setPaused(false)} onFocus={() => setPaused(true)} onBlur={() => setPaused(false)}>
-          <div className="relative aspect-[4/3.3]">
-            <AnimatePresence initial={false}>
-              {order.slice().reverse().map((p) => {
-                const depth = order.indexOf(p);
-                return (
-                  <motion.div key={p.slug} layout
-                    initial={{ opacity: 0, y: 40, scale: 0.9 }}
-                    animate={{ opacity: depth === 2 ? 0.5 : 1, y: depth * -22, scale: 1 - depth * 0.06, rotate: depth === 0 ? 0 : depth % 2 ? 2.5 : -2.5 }}
-                    exit={{ opacity: 0, x: -120, rotate: -8, transition: { duration: 0.35 } }}
-                    drag={depth === 0 ? "x" : false} dragConstraints={{ left: 0, right: 0 }} dragElastic={0.6}
-                    onDragEnd={(_, info) => { if (Math.abs(info.offset.x) > 80) setI((x) => (x + 1) % picks.length); }}
-                    style={{ zIndex: 10 - depth, transformOrigin: "50% 100%" }}
-                    className="absolute inset-x-0 bottom-0 overflow-hidden rounded-2xl border border-line bg-white shadow-[0_30px_60px_-30px_rgba(0,59,92,0.55)]">
-                    <div className="aspect-[4/2.75] w-full bg-white p-3">
-                      {/* the whole screenshot is shown (contain), so no part of the component is cut off; cards further back stay blank so they read as a clean stack */}
-                      {/* eslint-disable-next-line @next/next/no-img-element */}
-                      <img src={p.src} alt={depth === 0 ? `${p.name} screenshot` : ""} draggable={false} className={`h-full w-full object-contain ${depth === 0 ? "" : "invisible"}`} />
-                    </div>
-                    <div className="flex items-center gap-3 border-t border-line px-5 py-4">
-                      <span className="min-w-0 flex-1">
-                        <span className="block text-xs font-medium" style={{ color: p.color === "#8DC63F" ? "#3E7A12" : p.color }}>{p.industry}</span>
-                        <span className="block truncate text-lg font-bold">{p.name}</span>
-                      </span>
-                      {depth === 0 && <Link href={`/components/${p.slug}`} className="shrink-0 rounded-lg bg-ink px-4 py-2 text-sm font-semibold text-white hover:bg-tile-blue">View</Link>}
-                    </div>
-                  </motion.div>
-                );
-              })}
+        {/* the showcase: one screenshot at a time on a clean sheet, two quiet layers behind hint at the rest */}
+        <div className="relative mx-auto w-full max-w-[620px]" onMouseEnter={() => setPaused(true)} onMouseLeave={() => setPaused(false)} onFocus={() => setPaused(true)} onBlur={() => setPaused(false)}>
+          <div className="relative pt-6 sm:pt-7">
+            <div aria-hidden className="absolute inset-x-[12%] top-0 h-24 rounded-[20px] border border-line bg-white/60" />
+            <div aria-hidden className="absolute inset-x-[6%] top-3 h-24 rounded-[20px] border border-line bg-white/90 sm:top-3.5" />
+            <AnimatePresence mode="popLayout" initial={false} custom={dir}>
+              <motion.div key={cur.slug} custom={dir}
+                initial={{ opacity: 0, x: dir * 28 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: dir * -28 }}
+                transition={{ duration: reduce ? 0 : 0.45, ease: [0.22, 1, 0.36, 1] }}
+                drag="x" dragConstraints={{ left: 0, right: 0 }} dragElastic={0.35}
+                onDragEnd={(_, info) => { if (Math.abs(info.offset.x) > 70) step(info.offset.x < 0 ? 1 : -1); }}
+                className="relative cursor-grab rounded-[20px] border border-line bg-white p-2.5 shadow-[0_40px_80px_-44px_rgba(0,59,92,0.55)] active:cursor-grabbing sm:p-3.5">
+                <div className="aspect-[16/10] w-full overflow-hidden rounded-xl bg-white">
+                  {/* the whole screenshot is shown (contain), so no part of the component is cut off */}
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img src={cur.src} alt={`${cur.name} screenshot`} draggable={false} className="h-full w-full object-contain" />
+                </div>
+              </motion.div>
             </AnimatePresence>
           </div>
-          <div className="mt-5 flex items-center justify-center gap-2" role="tablist" aria-label="Featured components">
+
+          <div className="mt-6 flex items-end gap-4">
+            <div className="min-w-0 flex-1">
+              <p className="flex items-center gap-2 text-[13px] font-medium text-ink-soft"><i className="h-2 w-2 rounded-full" style={{ background: cur.color }} />{cur.industry}</p>
+              <Link href={`/components/${cur.slug}`} className="mt-1 block truncate text-xl font-bold tracking-[-0.02em] text-ink hover:text-tile-blue sm:text-2xl">{cur.name}</Link>
+            </div>
+            <div className="flex shrink-0 gap-2">
+              <button onClick={() => step(-1)} aria-label="Previous component" className="grid h-10 w-10 place-items-center rounded-full border border-line bg-white text-ink transition-colors hover:border-ink">
+                <Icon name="arrow" className="h-4 w-4 rotate-180" />
+              </button>
+              <button onClick={() => step(1)} aria-label="Next component" className="grid h-10 w-10 place-items-center rounded-full bg-ink text-white transition-colors hover:bg-tile-blue">
+                <Icon name="arrow" className="h-4 w-4" />
+              </button>
+            </div>
+          </div>
+
+          {/* one segment per component: filled behind, filling now, empty ahead */}
+          <div className="mt-5 flex gap-1.5" role="tablist" aria-label="Featured components">
             {picks.map((p, k) => (
-              <button key={p.slug} role="tab" aria-selected={k === i} aria-label={p.name} onClick={() => setI(k)}
-                className={`h-2 rounded-full transition-all ${k === i ? "w-7 bg-ink" : "w-2 bg-ink/20 hover:bg-ink/40"}`} />
+              <button key={p.slug} role="tab" aria-selected={k === i} aria-label={p.name} title={p.name} onClick={() => jump(k)} className="group flex-1 py-2">
+                <span className="relative block h-[3px] overflow-hidden rounded-full bg-ink/10 transition-colors group-hover:bg-ink/25">
+                  {k < i && <span className="absolute inset-0 bg-ink/45" />}
+                  {k === i && <span key={i} className="hero-timer absolute inset-y-0 left-0" onAnimationEnd={() => step(1)}
+                    style={{ background: cur.color === "#8DC63F" ? "#3E7A12" : cur.color, animationPlayState: paused || reduce || n < 2 ? "paused" : "running" }} />}
+                </span>
+              </button>
             ))}
           </div>
         </div>
