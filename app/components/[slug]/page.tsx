@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import AddToCart from "../../AddToCart";
+import { Comments, EngageBar } from "../../Engagement";
 import Icon from "../../Icon";
 import ProductArt from "../../ProductArt";
 import ProductCard from "../../ProductCard";
@@ -77,6 +78,7 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
           </div>
           <h1 className="mt-4 text-4xl font-extrabold leading-[1.05] tracking-[-0.03em] text-ink sm:text-5xl">{c.name}</h1>
           <p className="mt-3 text-lg leading-relaxed text-ink-soft">{c.tagline}</p>
+          <div className="mt-4"><EngageBar kind="component" slug={c.slug} /></div>
           {pack && <p className="mt-2 text-sm text-ink-faint">Also in the <Link href={`/packs/${pack.slug}`} className="font-semibold text-tile-blue hover:underline">{pack.name}</Link></p>}
 
           <div className="-mx-4 mt-6 border-y border-ink/15 bg-white p-5 sm:mx-0 sm:rounded-lg sm:border sm:p-6">
@@ -139,6 +141,8 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
           ]}
         />
       </div>
+
+      <Comments kind="component" slug={c.slug} title={c.name} />
 
       {related.length > 0 && (
         <section className="mt-16">
