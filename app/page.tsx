@@ -12,7 +12,7 @@ const siteJsonLd = {
   "@graph": [
     {
       "@type": "Organization", "@id": "https://niraypcfgallery.com/#org", name: "Niray IT Solutions Pte. Ltd.",
-      url: "https://www.nirayitsolutions.com", logo: "https://niraypcfgallery.com/brand/nmark.png", email: "info@nirayitsolutions.com",
+      url: "https://www.nirayitsolutions.com", logo: { "@type": "ImageObject", url: "https://niraypcfgallery.com/icon.png", width: 512, height: 512 }, image: "https://niraypcfgallery.com/icon.png", email: "info@nirayitsolutions.com",
       sameAs: ["https://www.nirayitsolutions.com"],
     },
     {
