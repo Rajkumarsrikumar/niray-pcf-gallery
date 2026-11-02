@@ -4,27 +4,31 @@
   "w": 1034,
   "h": 754,
   "caption": "Sheet",
-  "mobile": false
+  "mobile": false,
+  "v": "92c654df"
  },
  {
   "src": "/screens/barcode-label-studio/02.webp",
   "w": 1012,
   "h": 636,
   "caption": "Vcard contact",
-  "mobile": false
+  "mobile": false,
+  "v": "153a077e"
  },
  {
   "src": "/screens/barcode-label-studio/03.webp",
   "w": 1034,
   "h": 418,
   "caption": "Wifi valid code",
-  "mobile": false
+  "mobile": false,
+  "v": "0da8742b"
  },
  {
   "src": "/screens/barcode-label-studio/04.webp",
   "w": 1034,
   "h": 309,
   "caption": "Ean13 check digit added",
-  "mobile": false
+  "mobile": false,
+  "v": "a5d8b40b"
  }
 ]

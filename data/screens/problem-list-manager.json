@@ -4,27 +4,31 @@
   "w": 1055,
   "h": 940,
   "caption": "Code search synonym",
-  "mobile": false
+  "mobile": false,
+  "v": "857508ff"
  },
  {
   "src": "/screens/problem-list-manager/02.webp",
   "w": 1055,
   "h": 940,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "a6e36e1b"
  },
  {
   "src": "/screens/problem-list-manager/03.webp",
   "w": 1050,
   "h": 1266,
   "caption": "Resolved with undo toast",
-  "mobile": false
+  "mobile": false,
+  "v": "63e921d5"
  },
  {
   "src": "/screens/problem-list-manager/04.webp",
   "w": 1055,
   "h": 940,
   "caption": "Grouped category high priority",
-  "mobile": false
+  "mobile": false,
+  "v": "002f9db1"
  }
 ]

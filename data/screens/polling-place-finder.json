@@ -4,27 +4,31 @@
   "w": 929,
   "h": 860,
   "caption": "Matched open now",
-  "mobile": false
+  "mobile": false,
+  "v": "ebad2908"
  },
  {
   "src": "/screens/polling-place-finder/02.webp",
   "w": 1012,
   "h": 954,
   "caption": "Election day moved",
-  "mobile": false
+  "mobile": false,
+  "v": "d4b8d369"
  },
  {
   "src": "/screens/polling-place-finder/03.webp",
   "w": 1012,
   "h": 836,
   "caption": "Boundary choice",
-  "mobile": false
+  "mobile": false,
+  "v": "6e8a212e"
  },
  {
   "src": "/screens/polling-place-finder/04.webp",
   "w": 929,
   "h": 952,
   "caption": "Early voting filter closing soon",
-  "mobile": false
+  "mobile": false,
+  "v": "44c81bb4"
  }
 ]

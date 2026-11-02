@@ -4,27 +4,31 @@
   "w": 998,
   "h": 1150,
   "caption": "Ballot ready",
-  "mobile": false
+  "mobile": false,
+  "v": "641b66c3"
  },
  {
   "src": "/screens/participatory-budget-allocator/02.webp",
   "w": 998,
   "h": 1150,
   "caption": "Rules blocked and validation",
-  "mobile": false
+  "mobile": false,
+  "v": "58d2d54f"
  },
  {
   "src": "/screens/participatory-budget-allocator/03.webp",
   "w": 998,
   "h": 1150,
   "caption": "Submitted receipt",
-  "mobile": false
+  "mobile": false,
+  "v": "c00e8ebe"
  },
  {
   "src": "/screens/participatory-budget-allocator/04.webp",
   "w": 373,
   "h": 740,
   "caption": "List",
-  "mobile": true
+  "mobile": true,
+  "v": "3595e2a4"
  }
 ]

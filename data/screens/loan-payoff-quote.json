@@ -4,20 +4,23 @@
   "w": 1012,
   "h": 856,
   "caption": "Default quote",
-  "mobile": false
+  "mobile": false,
+  "v": "7ca3c9aa"
  },
  {
   "src": "/screens/loan-payoff-quote/02.webp",
   "w": 1012,
   "h": 856,
   "caption": "Waived fee and optional",
-  "mobile": false
+  "mobile": false,
+  "v": "353b3f5e"
  },
  {
   "src": "/screens/loan-payoff-quote/03.webp",
   "w": 1012,
   "h": 917,
   "caption": "Daily schedule chart",
-  "mobile": false
+  "mobile": false,
+  "v": "e0a97002"
  }
 ]

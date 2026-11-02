@@ -4,20 +4,23 @@
   "w": 1000,
   "h": 660,
   "caption": "Default heatmap",
-  "mobile": false
+  "mobile": false,
+  "v": "0ce2ff8a"
  },
  {
   "src": "/screens/pivot-data-explorer/02.webp",
   "w": 1000,
   "h": 660,
   "caption": "Cell selected drill through",
-  "mobile": false
+  "mobile": false,
+  "v": "aa03be13"
  },
  {
   "src": "/screens/pivot-data-explorer/03.webp",
   "w": 359,
   "h": 700,
   "caption": "Cards",
-  "mobile": true
+  "mobile": true,
+  "v": "36208e54"
  }
 ]

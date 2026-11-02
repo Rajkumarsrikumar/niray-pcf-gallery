@@ -4,27 +4,31 @@
   "w": 764,
   "h": 826,
   "caption": "Populated",
-  "mobile": false
+  "mobile": false,
+  "v": "11120c59"
  },
  {
   "src": "/screens/comments-panel/02.webp",
   "w": 764,
   "h": 826,
   "caption": "Thread reaction picker",
-  "mobile": false
+  "mobile": false,
+  "v": "d393bbe5"
  },
  {
   "src": "/screens/comments-panel/03.webp",
   "w": 791,
   "h": 954,
   "caption": "More actions menu",
-  "mobile": false
+  "mobile": false,
+  "v": "20735768"
  },
  {
   "src": "/screens/comments-panel/04.webp",
   "w": 375,
   "h": 694,
   "caption": "Overview",
-  "mobile": true
+  "mobile": true,
+  "v": "3d5d6aef"
  }
 ]

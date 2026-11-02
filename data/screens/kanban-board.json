@@ -4,20 +4,23 @@
   "w": 1360,
   "h": 689,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "703bf051"
  },
  {
   "src": "/screens/kanban-board/02.webp",
   "w": 820,
   "h": 697,
   "caption": "Drag blocked wip",
-  "mobile": false
+  "mobile": false,
+  "v": "9fd2c81f"
  },
  {
   "src": "/screens/kanban-board/03.webp",
   "w": 375,
   "h": 746,
   "caption": "Overview",
-  "mobile": true
+  "mobile": true,
+  "v": "126032d0"
  }
 ]

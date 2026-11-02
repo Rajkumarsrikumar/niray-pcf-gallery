@@ -4,27 +4,31 @@
   "w": 1041,
   "h": 801,
   "caption": "Month",
-  "mobile": false
+  "mobile": false,
+  "v": "87084e74"
  },
  {
   "src": "/screens/event-calendar/02.webp",
   "w": 1012,
   "h": 837,
   "caption": "Event details",
-  "mobile": false
+  "mobile": false,
+  "v": "f22bded5"
  },
  {
   "src": "/screens/event-calendar/03.webp",
   "w": 1041,
   "h": 801,
   "caption": "Week view",
-  "mobile": false
+  "mobile": false,
+  "v": "a35e5863"
  },
  {
   "src": "/screens/event-calendar/04.webp",
   "w": 339,
   "h": 728,
   "caption": "Month",
-  "mobile": true
+  "mobile": true,
+  "v": "5194bc0d"
  }
 ]

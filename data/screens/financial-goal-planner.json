@@ -4,20 +4,23 @@
   "w": 1318,
   "h": 1634,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "39b8dda5"
  },
  {
   "src": "/screens/financial-goal-planner/02.webp",
   "w": 792,
   "h": 769,
   "caption": "Chart tooltip",
-  "mobile": false
+  "mobile": false,
+  "v": "e4acbd6a"
  },
  {
   "src": "/screens/financial-goal-planner/03.webp",
   "w": 375,
   "h": 747,
   "caption": "Edit sheet",
-  "mobile": true
+  "mobile": true,
+  "v": "be71442f"
  }
 ]

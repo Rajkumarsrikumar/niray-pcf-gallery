@@ -4,20 +4,23 @@
   "w": 1052,
   "h": 934,
   "caption": "Board",
-  "mobile": false
+  "mobile": false,
+  "v": "48e57314"
  },
  {
   "src": "/screens/bed-management-board/02.webp",
   "w": 1052,
   "h": 934,
   "caption": "Placing highlights",
-  "mobile": false
+  "mobile": false,
+  "v": "3ae6f6ce"
  },
  {
   "src": "/screens/bed-management-board/03.webp",
   "w": 335,
   "h": 723,
   "caption": "List",
-  "mobile": true
+  "mobile": true,
+  "v": "785ed84a"
  }
 ]

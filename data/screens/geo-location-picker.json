@@ -4,20 +4,23 @@
   "w": 1012,
   "h": 637,
   "caption": "Typed dms parsed",
-  "mobile": false
+  "mobile": false,
+  "v": "8e6c737c"
  },
  {
   "src": "/screens/geo-location-picker/02.webp",
   "w": 1012,
   "h": 613,
   "caption": "Saved value",
-  "mobile": false
+  "mobile": false,
+  "v": "a6fefb65"
  },
  {
   "src": "/screens/geo-location-picker/03.webp",
   "w": 355,
   "h": 733,
   "caption": "Details",
-  "mobile": true
+  "mobile": true,
+  "v": "776d29f1"
  }
 ]

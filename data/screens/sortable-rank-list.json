@@ -4,20 +4,23 @@
   "w": 611,
   "h": 1211,
   "caption": "Reorder",
-  "mobile": false
+  "mobile": false,
+  "v": "289caf8d"
  },
  {
   "src": "/screens/sortable-rank-list/02.webp",
   "w": 1391,
   "h": 953,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "a25c2d23"
  },
  {
   "src": "/screens/sortable-rank-list/03.webp",
   "w": 611,
   "h": 1097,
   "caption": "Rank top3",
-  "mobile": false
+  "mobile": false,
+  "v": "78c5f8ea"
  }
 ]

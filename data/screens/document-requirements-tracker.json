@@ -4,27 +4,31 @@
   "w": 1004,
   "h": 881,
   "caption": "After upload submitted",
-  "mobile": false
+  "mobile": false,
+  "v": "8627f61d"
  },
  {
   "src": "/screens/document-requirements-tracker/02.webp",
   "w": 1004,
   "h": 881,
   "caption": "Applicant overview",
-  "mobile": false
+  "mobile": false,
+  "v": "d0e7ad6e"
  },
  {
   "src": "/screens/document-requirements-tracker/03.webp",
   "w": 1004,
   "h": 881,
   "caption": "Rejected details upload validation",
-  "mobile": false
+  "mobile": false,
+  "v": "84625794"
  },
  {
   "src": "/screens/document-requirements-tracker/04.webp",
   "w": 375,
   "h": 738,
   "caption": "Cards",
-  "mobile": true
+  "mobile": true,
+  "v": "878a5362"
  }
 ]

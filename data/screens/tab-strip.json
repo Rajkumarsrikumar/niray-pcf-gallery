@@ -4,13 +4,15 @@
   "w": 1012,
   "h": 216,
   "caption": "More menu open",
-  "mobile": false
+  "mobile": false,
+  "v": "7ed32103"
  },
  {
   "src": "/screens/tab-strip/02.webp",
   "w": 375,
   "h": 746,
   "caption": "Dropdown expanded",
-  "mobile": true
+  "mobile": true,
+  "v": "5cf1c371"
  }
 ]

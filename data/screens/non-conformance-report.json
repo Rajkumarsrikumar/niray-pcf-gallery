@@ -4,20 +4,23 @@
   "w": 998,
   "h": 769,
   "caption": "Containment",
-  "mobile": false
+  "mobile": false,
+  "v": "d2c67a64"
  },
  {
   "src": "/screens/non-conformance-report/02.webp",
   "w": 998,
   "h": 957,
   "caption": "Details",
-  "mobile": false
+  "mobile": false,
+  "v": "c9fd06a9"
  },
  {
   "src": "/screens/non-conformance-report/03.webp",
   "w": 998,
   "h": 1307,
   "caption": "Defect picker",
-  "mobile": false
+  "mobile": false,
+  "v": "66a5f959"
  }
 ]

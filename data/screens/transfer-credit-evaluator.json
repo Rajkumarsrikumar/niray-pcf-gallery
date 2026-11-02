@@ -4,20 +4,23 @@
   "w": 1014,
   "h": 593,
   "caption": "Decision validation",
-  "mobile": false
+  "mobile": false,
+  "v": "e73e94a6"
  },
  {
   "src": "/screens/transfer-credit-evaluator/02.webp",
   "w": 1050,
   "h": 1779,
   "caption": "Worklist",
-  "mobile": false
+  "mobile": false,
+  "v": "b392046a"
  },
  {
   "src": "/screens/transfer-credit-evaluator/03.webp",
   "w": 1014,
   "h": 527,
   "caption": "Review course checks",
-  "mobile": false
+  "mobile": false,
+  "v": "5db5dcce"
  }
 ]

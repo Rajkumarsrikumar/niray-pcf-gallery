@@ -4,27 +4,31 @@
   "w": 998,
   "h": 605,
   "caption": "Instalments sequential",
-  "mobile": false
+  "mobile": false,
+  "v": "72a3dbe1"
  },
  {
   "src": "/screens/property-tax-bill-explainer/02.webp",
   "w": 1012,
   "h": 954,
   "caption": "Summary",
-  "mobile": false
+  "mobile": false,
+  "v": "09f43aec"
  },
  {
   "src": "/screens/property-tax-bill-explainer/03.webp",
   "w": 998,
   "h": 1126,
   "caption": "B summary control",
-  "mobile": false
+  "mobile": false,
+  "v": "eab273fb"
  },
  {
   "src": "/screens/property-tax-bill-explainer/04.webp",
   "w": 998,
   "h": 1048,
   "caption": "Levies school expanded",
-  "mobile": false
+  "mobile": false,
+  "v": "dae4668c"
  }
 ]

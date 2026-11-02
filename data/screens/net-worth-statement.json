@@ -4,27 +4,31 @@
   "w": 1284,
   "h": 367,
   "caption": "Trend tooltip ratios",
-  "mobile": false
+  "mobile": false,
+  "v": "8fef9c99"
  },
  {
   "src": "/screens/net-worth-statement/02.webp",
   "w": 1318,
   "h": 1728,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "797c4914"
  },
  {
   "src": "/screens/net-worth-statement/03.webp",
   "w": 1318,
   "h": 971,
   "caption": "Search harbour",
-  "mobile": false
+  "mobile": false,
+  "v": "001ed8e3"
  },
  {
   "src": "/screens/net-worth-statement/04.webp",
   "w": 375,
   "h": 747,
   "caption": "Edit sheet",
-  "mobile": true
+  "mobile": true,
+  "v": "dcc69066"
  }
 ]

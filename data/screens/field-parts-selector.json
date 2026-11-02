@@ -4,27 +4,31 @@
   "w": 698,
   "h": 1000,
   "caption": "No prices fits only",
-  "mobile": false
+  "mobile": false,
+  "v": "5dd1fae1"
  },
  {
   "src": "/screens/field-parts-selector/02.webp",
   "w": 1038,
   "h": 851,
   "caption": "Saved value",
-  "mobile": false
+  "mobile": false,
+  "v": "b7ee9908"
  },
  {
   "src": "/screens/field-parts-selector/03.webp",
   "w": 1012,
   "h": 810,
   "caption": "Search substitute detail",
-  "mobile": false
+  "mobile": false,
+  "v": "00053aee"
  },
  {
   "src": "/screens/field-parts-selector/04.webp",
   "w": 375,
   "h": 735,
   "caption": "Sheet",
-  "mobile": true
+  "mobile": true,
+  "v": "6520cbd5"
  }
 ]

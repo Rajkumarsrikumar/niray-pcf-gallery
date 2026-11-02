@@ -4,27 +4,31 @@
   "w": 1068,
   "h": 877,
   "caption": "Speaker request validation",
-  "mobile": false
+  "mobile": false,
+  "v": "c34c6b68"
  },
  {
   "src": "/screens/public-meeting-agenda/02.webp",
   "w": 1068,
   "h": 877,
   "caption": "Overview hearing",
-  "mobile": false
+  "mobile": false,
+  "v": "2c566534"
  },
  {
   "src": "/screens/public-meeting-agenda/03.webp",
   "w": 750,
   "h": 1412,
   "caption": "List",
-  "mobile": false
+  "mobile": false,
+  "v": "0459af60"
  },
  {
   "src": "/screens/public-meeting-agenda/04.webp",
   "w": 750,
   "h": 1467,
   "caption": "Sheet votes",
-  "mobile": false
+  "mobile": false,
+  "v": "a454b006"
  }
 ]

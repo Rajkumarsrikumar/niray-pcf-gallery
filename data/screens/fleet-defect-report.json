@@ -4,27 +4,31 @@
   "w": 1038,
   "h": 900,
   "caption": "Submitted defects locked",
-  "mobile": false
+  "mobile": false,
+  "v": "fa35d4b3"
  },
  {
   "src": "/screens/fleet-defect-report/02.webp",
   "w": 1038,
   "h": 1150,
   "caption": "In progress",
-  "mobile": false
+  "mobile": false,
+  "v": "16da4022"
  },
  {
   "src": "/screens/fleet-defect-report/03.webp",
   "w": 1038,
   "h": 346,
   "caption": "Vehicle picker search",
-  "mobile": false
+  "mobile": false,
+  "v": "d0227768"
  },
  {
   "src": "/screens/fleet-defect-report/04.webp",
   "w": 1038,
   "h": 1000,
   "caption": "Zone filter rear vor",
-  "mobile": false
+  "mobile": false,
+  "v": "1be8ccbc"
  }
 ]

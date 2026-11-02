@@ -4,27 +4,31 @@
   "w": 1012,
   "h": 766,
   "caption": "Runout pass image step",
-  "mobile": false
+  "mobile": false,
+  "v": "bb4ffce1"
  },
  {
   "src": "/screens/work-instruction-viewer/02.webp",
   "w": 1012,
   "h": 869,
   "caption": "Guided torque step",
-  "mobile": false
+  "mobile": false,
+  "v": "f95d3ab0"
  },
  {
   "src": "/screens/work-instruction-viewer/03.webp",
   "w": 1012,
   "h": 1030,
   "caption": "Out of spec deviation required",
-  "mobile": false
+  "mobile": false,
+  "v": "6099c764"
  },
  {
   "src": "/screens/work-instruction-viewer/04.webp",
   "w": 375,
   "h": 746,
   "caption": "Step",
-  "mobile": true
+  "mobile": true,
+  "v": "991800a0"
  }
 ]

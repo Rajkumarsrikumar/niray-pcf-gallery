@@ -4,20 +4,23 @@
   "w": 1012,
   "h": 954,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "a7a8cae9"
  },
  {
   "src": "/screens/collections-arrangement-planner/02.webp",
   "w": 1012,
   "h": 954,
   "caption": "Detail broken plan",
-  "mobile": false
+  "mobile": false,
+  "v": "02dd54dc"
  },
  {
   "src": "/screens/collections-arrangement-planner/03.webp",
   "w": 375,
   "h": 812,
   "caption": "Detail",
-  "mobile": true
+  "mobile": true,
+  "v": "440ed2fb"
  }
 ]

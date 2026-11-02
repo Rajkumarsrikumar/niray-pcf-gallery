@@ -4,27 +4,31 @@
   "w": 1012,
   "h": 797,
   "caption": "Home",
-  "mobile": false
+  "mobile": false,
+  "v": "98e5f815"
  },
  {
   "src": "/screens/help-centre-knowledge-base/02.webp",
   "w": 750,
   "h": 1388,
   "caption": "Typeahead",
-  "mobile": false
+  "mobile": false,
+  "v": "d55cf898"
  },
  {
   "src": "/screens/help-centre-knowledge-base/03.webp",
   "w": 750,
   "h": 1388,
   "caption": "Article",
-  "mobile": false
+  "mobile": false,
+  "v": "e94cc5fe"
  },
  {
   "src": "/screens/help-centre-knowledge-base/04.webp",
   "w": 976,
   "h": 797,
   "caption": "Typeahead typo tolerant",
-  "mobile": false
+  "mobile": false,
+  "v": "76472455"
  }
 ]

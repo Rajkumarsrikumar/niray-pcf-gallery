@@ -4,27 +4,31 @@
   "w": 1012,
   "h": 756,
   "caption": "Cover tiers",
-  "mobile": false
+  "mobile": false,
+  "v": "40c4e70c"
  },
  {
   "src": "/screens/insurance-quote-builder/02.webp",
   "w": 1012,
   "h": 757,
   "caption": "Motor quote",
-  "mobile": false
+  "mobile": false,
+  "v": "3d19e285"
  },
  {
   "src": "/screens/insurance-quote-builder/03.webp",
   "w": 1012,
   "h": 757,
   "caption": "Tailor extras discounts",
-  "mobile": false
+  "mobile": false,
+  "v": "42f06851"
  },
  {
   "src": "/screens/insurance-quote-builder/04.webp",
   "w": 375,
   "h": 746,
   "caption": "Questions sticky total",
-  "mobile": true
+  "mobile": true,
+  "v": "0573d739"
  }
 ]

@@ -4,20 +4,23 @@
   "w": 1020,
   "h": 661,
   "caption": "Expanded selected details",
-  "mobile": false
+  "mobile": false,
+  "v": "c42b2f03"
  },
  {
   "src": "/screens/organisation-chart/02.webp",
   "w": 1012,
   "h": 677,
   "caption": "Chart default",
-  "mobile": false
+  "mobile": false,
+  "v": "4d7c0c29"
  },
  {
   "src": "/screens/organisation-chart/03.webp",
   "w": 365,
   "h": 684,
   "caption": "M 1 drill",
-  "mobile": true
+  "mobile": true,
+  "v": "d5f2fff7"
  }
 ]

@@ -4,20 +4,23 @@
   "w": 1012,
   "h": 272,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "6fd5b158"
  },
  {
   "src": "/screens/stepper/02.webp",
   "w": 1012,
   "h": 296,
   "caption": "Hover completed step",
-  "mobile": false
+  "mobile": false,
+  "v": "e7b04e03"
  },
  {
   "src": "/screens/stepper/03.webp",
   "w": 355,
   "h": 652,
   "caption": "Compact",
-  "mobile": true
+  "mobile": true,
+  "v": "1e850bac"
  }
 ]

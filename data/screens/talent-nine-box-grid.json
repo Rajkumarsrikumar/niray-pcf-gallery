@@ -4,20 +4,23 @@
   "w": 1012,
   "h": 954,
   "caption": "Detail panel",
-  "mobile": false
+  "mobile": false,
+  "v": "59f0ead7"
  },
  {
   "src": "/screens/talent-nine-box-grid/02.webp",
   "w": 1064,
   "h": 940,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "b0174203"
  },
  {
   "src": "/screens/talent-nine-box-grid/03.webp",
   "w": 375,
   "h": 746,
   "caption": "Overview",
-  "mobile": true
+  "mobile": true,
+  "v": "4a42763b"
  }
 ]

@@ -4,27 +4,31 @@
   "w": 1012,
   "h": 954,
   "caption": "Reason duplicate blockers",
-  "mobile": false
+  "mobile": false,
+  "v": "106141ce"
  },
  {
   "src": "/screens/transaction-dispute-form/02.webp",
   "w": 1012,
   "h": 954,
   "caption": "Transactions",
-  "mobile": false
+  "mobile": false,
+  "v": "64e9a9dd"
  },
  {
   "src": "/screens/transaction-dispute-form/03.webp",
   "w": 1012,
   "h": 954,
   "caption": "Search select duplicates",
-  "mobile": false
+  "mobile": false,
+  "v": "59b1c6e4"
  },
  {
   "src": "/screens/transaction-dispute-form/04.webp",
   "w": 375,
   "h": 746,
   "caption": "Transactions",
-  "mobile": true
+  "mobile": true,
+  "v": "30658af9"
  }
 ]

@@ -4,27 +4,31 @@
   "w": 998,
   "h": 1500,
   "caption": "Compare three products",
-  "mobile": false
+  "mobile": false,
+  "v": "44e2fd4e"
  },
  {
   "src": "/screens/account-product-comparator/02.webp",
   "w": 1012,
   "h": 954,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "0ce483d8"
  },
  {
   "src": "/screens/account-product-comparator/03.webp",
   "w": 998,
   "h": 1500,
   "caption": "Control",
-  "mobile": false
+  "mobile": false,
+  "v": "6a37c23c"
  },
  {
   "src": "/screens/account-product-comparator/04.webp",
   "w": 375,
   "h": 746,
   "caption": "Profile sheet",
-  "mobile": true
+  "mobile": true,
+  "v": "0dcf08b8"
  }
 ]

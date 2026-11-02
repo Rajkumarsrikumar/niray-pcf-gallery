@@ -4,27 +4,31 @@
   "w": 1050,
   "h": 1020,
   "caption": "Budget",
-  "mobile": false
+  "mobile": false,
+  "v": "7665af9a"
  },
  {
   "src": "/screens/grant-budget-builder/02.webp",
   "w": 1012,
   "h": 854,
   "caption": "Focus row",
-  "mobile": false
+  "mobile": false,
+  "v": "78a7cd84"
  },
  {
   "src": "/screens/grant-budget-builder/03.webp",
   "w": 1050,
   "h": 664,
   "caption": "Add line flags",
-  "mobile": false
+  "mobile": false,
+  "v": "250cb690"
  },
  {
   "src": "/screens/grant-budget-builder/04.webp",
   "w": 375,
   "h": 734,
   "caption": "Collapsed",
-  "mobile": true
+  "mobile": true,
+  "v": "68da00ba"
  }
 ]

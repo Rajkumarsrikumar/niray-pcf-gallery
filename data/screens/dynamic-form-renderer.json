@@ -4,27 +4,31 @@
   "w": 925,
   "h": 900,
   "caption": "Conditional rules",
-  "mobile": false
+  "mobile": false,
+  "v": "98154bc2"
  },
  {
   "src": "/screens/dynamic-form-renderer/02.webp",
   "w": 925,
   "h": 854,
   "caption": "Sections populated",
-  "mobile": false
+  "mobile": false,
+  "v": "35e3b363"
  },
  {
   "src": "/screens/dynamic-form-renderer/03.webp",
   "w": 925,
   "h": 900,
   "caption": "Repeater calculated totals",
-  "mobile": false
+  "mobile": false,
+  "v": "cbef748d"
  },
  {
   "src": "/screens/dynamic-form-renderer/04.webp",
   "w": 375,
   "h": 694,
   "caption": "Wizard step1",
-  "mobile": true
+  "mobile": true,
+  "v": "98613b4f"
  }
 ]

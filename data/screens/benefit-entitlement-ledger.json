@@ -4,27 +4,31 @@
   "w": 1318,
   "h": 561,
   "caption": "Cards overview",
-  "mobile": false
+  "mobile": false,
+  "v": "91504217"
  },
  {
   "src": "/screens/benefit-entitlement-ledger/02.webp",
   "w": 1318,
   "h": 1180,
   "caption": "Detail panel respite",
-  "mobile": false
+  "mobile": false,
+  "v": "25f6519a"
  },
  {
   "src": "/screens/benefit-entitlement-ledger/03.webp",
   "w": 1318,
   "h": 1533,
   "caption": "Pending approved panel",
-  "mobile": false
+  "mobile": false,
+  "v": "c3642e71"
  },
  {
   "src": "/screens/benefit-entitlement-ledger/04.webp",
   "w": 1318,
   "h": 1355,
   "caption": "Exhausted reverse confirm",
-  "mobile": false
+  "mobile": false,
+  "v": "bc1aa67f"
  }
 ]

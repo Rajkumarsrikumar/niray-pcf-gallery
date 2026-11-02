@@ -4,13 +4,15 @@
   "w": 1012,
   "h": 216,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "d267113c"
  },
  {
   "src": "/screens/responsive-enterprise-header/02.webp",
   "w": 375,
   "h": 694,
   "caption": "Search",
-  "mobile": true
+  "mobile": true,
+  "v": "6251e39e"
  }
 ]

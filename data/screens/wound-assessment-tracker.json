@@ -4,27 +4,31 @@
   "w": 1012,
   "h": 735,
   "caption": "History overdue surgical",
-  "mobile": false
+  "mobile": false,
+  "v": "0c0c4513"
  },
  {
   "src": "/screens/wound-assessment-tracker/02.webp",
   "w": 1012,
   "h": 954,
   "caption": "Overview deteriorating",
-  "mobile": false
+  "mobile": false,
+  "v": "a6da9f35"
  },
  {
   "src": "/screens/wound-assessment-tracker/03.webp",
   "w": 1012,
   "h": 785,
   "caption": "Healing trend reference curve",
-  "mobile": false
+  "mobile": false,
+  "v": "27990048"
  },
  {
   "src": "/screens/wound-assessment-tracker/04.webp",
   "w": 1012,
   "h": 841,
   "caption": "Assessment saved overview",
-  "mobile": false
+  "mobile": false,
+  "v": "598cb8c1"
  }
 ]

@@ -4,13 +4,15 @@
   "w": 998,
   "h": 1258,
   "caption": "Reject comment required",
-  "mobile": false
+  "mobile": false,
+  "v": "3d5ab8be"
  },
  {
   "src": "/screens/approval-journey-tracker/02.webp",
   "w": 998,
   "h": 1251,
   "caption": "Journey",
-  "mobile": false
+  "mobile": false,
+  "v": "8a65eb88"
  }
 ]

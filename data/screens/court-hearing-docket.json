@@ -4,27 +4,31 @@
   "w": 1068,
   "h": 877,
   "caption": "Judge view workload",
-  "mobile": false
+  "mobile": false,
+  "v": "8af5b37b"
  },
  {
   "src": "/screens/court-hearing-docket/02.webp",
   "w": 1068,
   "h": 877,
   "caption": "Docket list",
-  "mobile": false
+  "mobile": false,
+  "v": "27fcd6d8"
  },
  {
   "src": "/screens/court-hearing-docket/03.webp",
   "w": 1068,
   "h": 877,
   "caption": "Detail panel conflicts",
-  "mobile": false
+  "mobile": false,
+  "v": "8b04117e"
  },
  {
   "src": "/screens/court-hearing-docket/04.webp",
   "w": 375,
   "h": 746,
   "caption": "Agenda",
-  "mobile": true
+  "mobile": true,
+  "v": "4e956bc5"
  }
 ]

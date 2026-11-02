@@ -4,20 +4,23 @@
   "w": 1012,
   "h": 817,
   "caption": "Exam detail capacity",
-  "mobile": false
+  "mobile": false,
+  "v": "32fe3633"
  },
  {
   "src": "/screens/exam-timetable-clash-checker/02.webp",
   "w": 1012,
   "h": 817,
   "caption": "Timetable",
-  "mobile": false
+  "mobile": false,
+  "v": "94ab5a84"
  },
  {
   "src": "/screens/exam-timetable-clash-checker/03.webp",
   "w": 375,
   "h": 746,
   "caption": "Timetable",
-  "mobile": true
+  "mobile": true,
+  "v": "7b0a7487"
  }
 ]

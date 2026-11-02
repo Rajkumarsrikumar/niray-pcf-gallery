@@ -4,27 +4,31 @@
   "w": 738,
   "h": 468,
   "caption": "Critical hazard placard",
-  "mobile": false
+  "mobile": false,
+  "v": "6faee16a"
  },
  {
   "src": "/screens/damage-assessment-form/02.webp",
   "w": 1040,
   "h": 1899,
   "caption": "Populated",
-  "mobile": false
+  "mobile": false,
+  "v": "7ddc8860"
  },
  {
   "src": "/screens/damage-assessment-form/03.webp",
   "w": 738,
   "h": 501,
   "caption": "Matrix keyboard",
-  "mobile": false
+  "mobile": false,
+  "v": "b04eee4c"
  },
  {
   "src": "/screens/damage-assessment-form/04.webp",
   "w": 375,
   "h": 812,
   "caption": "Step1",
-  "mobile": true
+  "mobile": true,
+  "v": "26a404e0"
  }
 ]

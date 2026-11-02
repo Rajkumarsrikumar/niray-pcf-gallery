@@ -4,27 +4,31 @@
   "w": 1021,
   "h": 1349,
   "caption": "Default prefilled",
-  "mobile": false
+  "mobile": false,
+  "v": "dc5b192a"
  },
  {
   "src": "/screens/underwriting-risk-scorecard/02.webp",
   "w": 667,
   "h": 1291,
   "caption": "Keyboard radio joisted masonry",
-  "mobile": false
+  "mobile": false,
+  "v": "15ee100d"
  },
  {
   "src": "/screens/underwriting-risk-scorecard/03.webp",
   "w": 1021,
   "h": 1412,
   "caption": "Round trip saved value",
-  "mobile": false
+  "mobile": false,
+  "v": "290487f6"
  },
  {
   "src": "/screens/underwriting-risk-scorecard/04.webp",
   "w": 375,
   "h": 746,
   "caption": "Overview",
-  "mobile": true
+  "mobile": true,
+  "v": "229f0d95"
  }
 ]

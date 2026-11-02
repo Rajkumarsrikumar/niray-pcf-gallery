@@ -4,13 +4,15 @@
   "w": 1038,
   "h": 1125,
   "caption": "Bant populated",
-  "mobile": false
+  "mobile": false,
+  "v": "71ee5874"
  },
  {
   "src": "/screens/lead-qualification-panel/02.webp",
   "w": 375,
   "h": 734,
   "caption": "Overview",
-  "mobile": true
+  "mobile": true,
+  "v": "58fa68d2"
  }
 ]

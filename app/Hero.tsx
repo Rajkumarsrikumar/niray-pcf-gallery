@@ -76,8 +76,11 @@ export default function Hero({ picks, chips, total, ready }: { picks: HeroPick[]
                     onDragEnd={(_, info) => { if (Math.abs(info.offset.x) > 80) setI((x) => (x + 1) % picks.length); }}
                     style={{ zIndex: 10 - depth, transformOrigin: "50% 100%" }}
                     className="absolute inset-x-0 bottom-0 overflow-hidden rounded-2xl border border-line bg-white shadow-[0_30px_60px_-30px_rgba(0,59,92,0.55)]">
-                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img src={p.src} alt={depth === 0 ? `${p.name} screenshot` : ""} draggable={false} className="aspect-[4/2.75] w-full bg-paper object-cover object-top" />
+                    <div className="aspect-[4/2.75] w-full bg-white p-3">
+                      {/* the whole screenshot is shown (contain), so no part of the component is cut off; cards further back stay blank so they read as a clean stack */}
+                      {/* eslint-disable-next-line @next/next/no-img-element */}
+                      <img src={p.src} alt={depth === 0 ? `${p.name} screenshot` : ""} draggable={false} className={`h-full w-full object-contain ${depth === 0 ? "" : "invisible"}`} />
+                    </div>
                     <div className="flex items-center gap-3 border-t border-line px-5 py-4">
                       <span className="min-w-0 flex-1">
                         <span className="block text-xs font-medium" style={{ color: p.color === "#8DC63F" ? "#3E7A12" : p.color }}>{p.industry}</span>

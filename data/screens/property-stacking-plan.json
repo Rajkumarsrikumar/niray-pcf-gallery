@@ -4,27 +4,31 @@
   "w": 1100,
   "h": 1279,
   "caption": "Status default",
-  "mobile": false
+  "mobile": false,
+  "v": "8da8494b"
  },
  {
   "src": "/screens/property-stacking-plan/02.webp",
   "w": 1100,
   "h": 1279,
   "caption": "Unit details",
-  "mobile": false
+  "mobile": false,
+  "v": "4351c547"
  },
  {
   "src": "/screens/property-stacking-plan/03.webp",
   "w": 1100,
   "h": 1279,
   "caption": "Expiry bands expiring filter",
-  "mobile": false
+  "mobile": false,
+  "v": "55cb2184"
  },
  {
   "src": "/screens/property-stacking-plan/04.webp",
   "w": 375,
   "h": 746,
   "caption": "List",
-  "mobile": true
+  "mobile": true,
+  "v": "3d3c1ca9"
  }
 ]

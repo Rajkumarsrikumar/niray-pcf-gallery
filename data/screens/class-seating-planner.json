@@ -4,13 +4,15 @@
   "w": 1012,
   "h": 854,
   "caption": "Saved plan issues",
-  "mobile": false
+  "mobile": false,
+  "v": "8c88fc98"
  },
  {
   "src": "/screens/class-seating-planner/02.webp",
   "w": 375,
   "h": 746,
   "caption": "Room",
-  "mobile": true
+  "mobile": true,
+  "v": "0b558376"
  }
 ]

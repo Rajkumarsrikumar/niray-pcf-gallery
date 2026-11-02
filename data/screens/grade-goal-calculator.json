@@ -4,13 +4,15 @@
   "w": 1012,
   "h": 954,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "0d9bb04d"
  },
  {
   "src": "/screens/grade-goal-calculator/02.webp",
   "w": 978,
   "h": 1185,
   "caption": "Control",
-  "mobile": false
+  "mobile": false,
+  "v": "75787fdf"
  }
 ]

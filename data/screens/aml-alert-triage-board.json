@@ -4,20 +4,23 @@
   "w": 1012,
   "h": 854,
   "caption": "Disposition validation",
-  "mobile": false
+  "mobile": false,
+  "v": "10bdd013"
  },
  {
   "src": "/screens/aml-alert-triage-board/02.webp",
   "w": 1012,
   "h": 854,
   "caption": "Queue detail",
-  "mobile": false
+  "mobile": false,
+  "v": "187ba532"
  },
  {
   "src": "/screens/aml-alert-triage-board/03.webp",
   "w": 375,
   "h": 734,
   "caption": "Queue",
-  "mobile": true
+  "mobile": true,
+  "v": "2cd14b38"
  }
 ]

@@ -4,20 +4,23 @@
   "w": 1012,
   "h": 804,
   "caption": "Checklist",
-  "mobile": false
+  "mobile": false,
+  "v": "46a55ebe"
  },
  {
   "src": "/screens/guided-tour-studio/02.webp",
   "w": 1090,
   "h": 474,
   "caption": "Spotlight search",
-  "mobile": false
+  "mobile": false,
+  "v": "2d55b337"
  },
  {
   "src": "/screens/guided-tour-studio/03.webp",
   "w": 375,
   "h": 694,
   "caption": "Checklist",
-  "mobile": true
+  "mobile": true,
+  "v": "eef66d7d"
  }
 ]

@@ -4,20 +4,23 @@
   "w": 998,
   "h": 1130,
   "caption": "Results why expanded",
-  "mobile": false
+  "mobile": false,
+  "v": "8faafe51"
  },
  {
   "src": "/screens/benefit-eligibility-screener/02.webp",
   "w": 355,
   "h": 712,
   "caption": "Live bar open",
-  "mobile": true
+  "mobile": true,
+  "v": "4561c0fb"
  },
  {
   "src": "/screens/benefit-eligibility-screener/03.webp",
   "w": 355,
   "h": 712,
   "caption": "Income",
-  "mobile": true
+  "mobile": true,
+  "v": "c7f7d64a"
  }
 ]

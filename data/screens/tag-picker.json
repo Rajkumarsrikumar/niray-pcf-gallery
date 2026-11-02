@@ -4,20 +4,23 @@
   "w": 600,
   "h": 560,
   "caption": "Flyout open groups",
-  "mobile": false
+  "mobile": false,
+  "v": "2dd7b4f7"
  },
  {
   "src": "/screens/tag-picker/02.webp",
   "w": 600,
   "h": 560,
   "caption": "Search highlight auto",
-  "mobile": false
+  "mobile": false,
+  "v": "5d09ff29"
  },
  {
   "src": "/screens/tag-picker/03.webp",
   "w": 375,
   "h": 746,
   "caption": "Bottom sheet",
-  "mobile": true
+  "mobile": true,
+  "v": "12021949"
  }
 ]

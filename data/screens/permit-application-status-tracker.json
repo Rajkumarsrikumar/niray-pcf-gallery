@@ -4,20 +4,23 @@
   "w": 979,
   "h": 1444,
   "caption": "Correction responded",
-  "mobile": false
+  "mobile": false,
+  "v": "74c34160"
  },
  {
   "src": "/screens/permit-application-status-tracker/02.webp",
   "w": 979,
   "h": 1420,
   "caption": "Corrections paused clock",
-  "mobile": false
+  "mobile": false,
+  "v": "04871f45"
  },
  {
   "src": "/screens/permit-application-status-tracker/03.webp",
   "w": 341,
   "h": 643,
   "caption": "List",
-  "mobile": true
+  "mobile": true,
+  "v": "23f33d7f"
  }
 ]

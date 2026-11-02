@@ -4,20 +4,23 @@
   "w": 1060,
   "h": 800,
   "caption": "Room selected",
-  "mobile": false
+  "mobile": false,
+  "v": "b6c01fb6"
  },
  {
   "src": "/screens/space-booking-floor-plan/02.webp",
   "w": 750,
   "h": 1492,
   "caption": "Plan",
-  "mobile": false
+  "mobile": false,
+  "v": "860dadd8"
  },
  {
   "src": "/screens/space-booking-floor-plan/03.webp",
   "w": 750,
   "h": 1452,
   "caption": "Filters open",
-  "mobile": false
+  "mobile": false,
+  "v": "37551f1a"
  }
 ]

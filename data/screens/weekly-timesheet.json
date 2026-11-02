@@ -4,20 +4,23 @@
   "w": 1050,
   "h": 510,
   "caption": "Next week copied hhmm",
-  "mobile": false
+  "mobile": false,
+  "v": "36c48c06"
  },
  {
   "src": "/screens/weekly-timesheet/02.webp",
   "w": 1050,
   "h": 611,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "2260585d"
  },
  {
   "src": "/screens/weekly-timesheet/03.webp",
   "w": 1050,
   "h": 837,
   "caption": "Remove row undo",
-  "mobile": false
+  "mobile": false,
+  "v": "55a6a044"
  }
 ]

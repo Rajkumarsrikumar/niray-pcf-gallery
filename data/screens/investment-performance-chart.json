@@ -4,13 +4,15 @@
   "w": 998,
   "h": 979,
   "caption": "Growth since inception hover",
-  "mobile": false
+  "mobile": false,
+  "v": "5fd8fda4"
  },
  {
   "src": "/screens/investment-performance-chart/02.webp",
   "w": 1012,
   "h": 954,
   "caption": "Default 1y",
-  "mobile": false
+  "mobile": false,
+  "v": "658f8d01"
  }
 ]

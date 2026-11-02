@@ -4,20 +4,23 @@
   "w": 1018,
   "h": 798,
   "caption": "B control only",
-  "mobile": false
+  "mobile": false,
+  "v": "806d0370"
  },
  {
   "src": "/screens/vendor-comparison-matrix/02.webp",
   "w": 1012,
   "h": 936,
   "caption": "Matrix default",
-  "mobile": false
+  "mobile": false,
+  "v": "7eca60f9"
  },
  {
   "src": "/screens/vendor-comparison-matrix/03.webp",
   "w": 1018,
   "h": 900,
   "caption": "Cards",
-  "mobile": false
+  "mobile": false,
+  "v": "d340115b"
  }
 ]

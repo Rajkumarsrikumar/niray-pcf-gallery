@@ -4,27 +4,31 @@
   "w": 1072,
   "h": 661,
   "caption": "Details docked",
-  "mobile": false
+  "mobile": false,
+  "v": "1194f0ac"
  },
  {
   "src": "/screens/sla-countdown-tracker/02.webp",
   "w": 1012,
   "h": 677,
   "caption": "Table overview",
-  "mobile": false
+  "mobile": false,
+  "v": "f9b28ba2"
  },
  {
   "src": "/screens/sla-countdown-tracker/03.webp",
   "w": 1012,
   "h": 677,
   "caption": "Search and sort due date",
-  "mobile": false
+  "mobile": false,
+  "v": "0e948217"
  },
  {
   "src": "/screens/sla-countdown-tracker/04.webp",
   "w": 375,
   "h": 732,
   "caption": "Cards",
-  "mobile": true
+  "mobile": true,
+  "v": "185c0813"
  }
 ]

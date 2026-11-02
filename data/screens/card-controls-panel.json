@@ -4,27 +4,31 @@
   "w": 1012,
   "h": 936,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "47f456dd"
  },
  {
   "src": "/screens/card-controls-panel/02.webp",
   "w": 1012,
   "h": 937,
   "caption": "Card frozen",
-  "mobile": false
+  "mobile": false,
+  "v": "8fb8bd88"
  },
  {
   "src": "/screens/card-controls-panel/03.webp",
   "w": 1012,
   "h": 936,
   "caption": "Channels",
-  "mobile": false
+  "mobile": false,
+  "v": "4bf399e1"
  },
  {
   "src": "/screens/card-controls-panel/04.webp",
   "w": 375,
   "h": 746,
   "caption": "Limits",
-  "mobile": true
+  "mobile": true,
+  "v": "faa76fbf"
  }
 ]

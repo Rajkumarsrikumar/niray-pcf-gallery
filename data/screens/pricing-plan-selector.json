@@ -4,27 +4,31 @@
   "w": 1050,
   "h": 1000,
   "caption": "Annual business configured",
-  "mobile": false
+  "mobile": false,
+  "v": "cf005c5e"
  },
  {
   "src": "/screens/pricing-plan-selector/02.webp",
   "w": 1050,
   "h": 1000,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "f86ba872"
  },
  {
   "src": "/screens/pricing-plan-selector/03.webp",
   "w": 1018,
   "h": 720,
   "caption": "Comparison differences",
-  "mobile": false
+  "mobile": false,
+  "v": "89d99357"
  },
  {
   "src": "/screens/pricing-plan-selector/04.webp",
   "w": 341,
   "h": 740,
   "caption": "Carousel",
-  "mobile": true
+  "mobile": true,
+  "v": "418b55f8"
  }
 ]

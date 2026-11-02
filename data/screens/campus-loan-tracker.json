@@ -4,13 +4,15 @@
   "w": 1012,
   "h": 954,
   "caption": "Side panel holds queue",
-  "mobile": false
+  "mobile": false,
+  "v": "a4cb8d76"
  },
  {
   "src": "/screens/campus-loan-tracker/02.webp",
   "w": 1012,
   "h": 954,
   "caption": "Staff circulation",
-  "mobile": false
+  "mobile": false,
+  "v": "f8c21829"
  }
 ]

@@ -4,20 +4,23 @@
   "w": 1072,
   "h": 621,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "0b22bb0e"
  },
  {
   "src": "/screens/advanced-editable-grid/02.webp",
   "w": 1012,
   "h": 637,
   "caption": "Inline edit validation",
-  "mobile": false
+  "mobile": false,
+  "v": "fbd4b08f"
  },
  {
   "src": "/screens/advanced-editable-grid/03.webp",
   "w": 355,
   "h": 721,
   "caption": "Cards",
-  "mobile": true
+  "mobile": true,
+  "v": "22cecf94"
  }
 ]
