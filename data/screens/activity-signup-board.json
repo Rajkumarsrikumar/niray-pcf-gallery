@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/activity-signup-board/01.webp",
+  "w": 1050,
+  "h": 1986,
+  "caption": "Board",
+  "mobile": false
+ },
+ {
+  "src": "/screens/activity-signup-board/02.webp",
+  "w": 1050,
+  "h": 870,
+  "caption": "Schedule",
+  "mobile": false
+ },
+ {
+  "src": "/screens/activity-signup-board/03.webp",
+  "w": 373,
+  "h": 2400,
+  "caption": "Board",
+  "mobile": true
+ },
+ {
+  "src": "/screens/activity-signup-board/04.webp",
+  "w": 373,
+  "h": 861,
+  "caption": "Schedule",
+  "mobile": true
+ },
+ {
+  "src": "/screens/activity-signup-board/05.webp",
+  "w": 373,
+  "h": 865,
+  "caption": "Mine",
+  "mobile": true
+ },
+ {
+  "src": "/screens/activity-signup-board/06.webp",
+  "w": 356,
+  "h": 290,
+  "caption": "Card details",
+  "mobile": true
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/class-waitlist-manager/01.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Default bio",
+  "mobile": false
+ },
+ {
+  "src": "/screens/class-waitlist-manager/02.webp",
+  "w": 399,
+  "h": 2299,
+  "caption": "Overview",
+  "mobile": true
+ },
+ {
+  "src": "/screens/class-waitlist-manager/03.webp",
+  "w": 399,
+  "h": 2255,
+  "caption": "After promote",
+  "mobile": true
+ },
+ {
+  "src": "/screens/class-waitlist-manager/04.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Student details credit overload",
+  "mobile": false
+ },
+ {
+  "src": "/screens/class-waitlist-manager/05.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Expire then promote",
+  "mobile": false
+ },
+ {
+  "src": "/screens/class-waitlist-manager/06.webp",
+  "w": 1053,
+  "h": 934,
+  "caption": "Capacity raised offers out",
+  "mobile": false
+ }
+]
