@@ -573,6 +573,18 @@
    {
     "slug": "preventive-maintenance-planner",
     "subCategory": "Maintenance"
+   },
+   {
+    "slug": "first-article-inspection",
+    "subCategory": "Quality"
+   },
+   {
+    "slug": "gauge-calibration-register",
+    "subCategory": "Quality"
+   },
+   {
+    "slug": "engineering-change-order",
+    "subCategory": "Engineering"
    }
   ],
   "price": null
