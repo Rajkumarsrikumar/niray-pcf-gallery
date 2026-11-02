@@ -4,20 +4,23 @@
   "w": 1042,
   "h": 648,
   "caption": "Holdings search",
-  "mobile": false
+  "mobile": false,
+  "v": "7b11e753"
  },
  {
   "src": "/screens/portfolio-allocation-viewer/02.webp",
   "w": 1012,
   "h": 936,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "73fa84e9"
  },
  {
   "src": "/screens/portfolio-allocation-viewer/03.webp",
   "w": 1012,
   "h": 954,
   "caption": "Bar chart bands",
-  "mobile": false
+  "mobile": false,
+  "v": "f4eb22f2"
  }
 ]

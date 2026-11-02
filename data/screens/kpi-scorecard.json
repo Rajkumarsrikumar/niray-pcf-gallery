@@ -4,27 +4,31 @@
   "w": 780,
   "h": 694,
   "caption": "Pair",
-  "mobile": false
+  "mobile": false,
+  "v": "e5908538"
  },
  {
   "src": "/screens/kpi-scorecard/02.webp",
   "w": 767,
   "h": 860,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "61617c96"
  },
  {
   "src": "/screens/kpi-scorecard/03.webp",
   "w": 1038,
   "h": 860,
   "caption": "Select detail panel",
-  "mobile": false
+  "mobile": false,
+  "v": "d6dd618e"
  },
  {
   "src": "/screens/kpi-scorecard/04.webp",
   "w": 375,
   "h": 694,
   "caption": "Overview",
-  "mobile": true
+  "mobile": true,
+  "v": "b2c902c1"
  }
 ]

@@ -4,27 +4,31 @@
   "w": 750,
   "h": 1492,
   "caption": "Accordion",
-  "mobile": false
+  "mobile": false,
+  "v": "bb298b89"
  },
  {
   "src": "/screens/product-configurator/02.webp",
   "w": 994,
   "h": 1621,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "4cc35dcb"
  },
  {
   "src": "/screens/product-configurator/03.webp",
   "w": 750,
   "h": 1492,
   "caption": "Expanded",
-  "mobile": false
+  "mobile": false,
+  "v": "67bcf8f2"
  },
  {
   "src": "/screens/product-configurator/04.webp",
   "w": 994,
   "h": 1715,
   "caption": "Conflict auto resolved",
-  "mobile": false
+  "mobile": false,
+  "v": "050a59c5"
  }
 ]

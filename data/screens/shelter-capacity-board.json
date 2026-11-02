@@ -4,27 +4,31 @@
   "w": 1001,
   "h": 762,
   "caption": "Detail drawer staff",
-  "mobile": false
+  "mobile": false,
+  "v": "019d40ef"
  },
  {
   "src": "/screens/shelter-capacity-board/02.webp",
   "w": 1001,
   "h": 762,
   "caption": "Board",
-  "mobile": false
+  "mobile": false,
+  "v": "5f877578"
  },
  {
   "src": "/screens/shelter-capacity-board/03.webp",
   "w": 1001,
   "h": 762,
   "caption": "Checkin blocked at capacity",
-  "mobile": false
+  "mobile": false,
+  "v": "82c16dff"
  },
  {
   "src": "/screens/shelter-capacity-board/04.webp",
   "w": 375,
   "h": 732,
   "caption": "Bottom sheet",
-  "mobile": true
+  "mobile": true,
+  "v": "d5997916"
  }
 ]

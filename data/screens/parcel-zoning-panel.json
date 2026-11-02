@@ -4,27 +4,31 @@
   "w": 1316,
   "h": 837,
   "caption": "Finder search",
-  "mobile": false
+  "mobile": false,
+  "v": "247dda3d"
  },
  {
   "src": "/screens/parcel-zoning-panel/02.webp",
   "w": 1012,
   "h": 854,
   "caption": "Summary",
-  "mobile": false
+  "mobile": false,
+  "v": "0f184bf7"
  },
  {
   "src": "/screens/parcel-zoning-panel/03.webp",
   "w": 1316,
   "h": 837,
   "caption": "Uses overlay rules",
-  "mobile": false
+  "mobile": false,
+  "v": "dd40e816"
  },
  {
   "src": "/screens/parcel-zoning-panel/04.webp",
   "w": 375,
   "h": 766,
   "caption": "Summary",
-  "mobile": true
+  "mobile": true,
+  "v": "e9ef35ac"
  }
 ]

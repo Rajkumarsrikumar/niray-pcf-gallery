@@ -4,20 +4,23 @@
   "w": 848,
   "h": 402,
   "caption": "Prefix scope records",
-  "mobile": false
+  "mobile": false,
+  "v": "ec126d34"
  },
  {
   "src": "/screens/command-palette/02.webp",
   "w": 848,
   "h": 668,
   "caption": "Open recent suggested",
-  "mobile": false
+  "mobile": false,
+  "v": "63d5ca1f"
  },
  {
   "src": "/screens/command-palette/03.webp",
   "w": 375,
   "h": 812,
   "caption": "Screen search",
-  "mobile": true
+  "mobile": true,
+  "v": "53353290"
  }
 ]

@@ -4,20 +4,23 @@
   "w": 1064,
   "h": 612,
   "caption": "Annotated",
-  "mobile": false
+  "mobile": false,
+  "v": "d431c276"
  },
  {
   "src": "/screens/image-annotator/02.webp",
   "w": 1064,
   "h": 612,
   "caption": "Filter zoom",
-  "mobile": false
+  "mobile": false,
+  "v": "c48827ea"
  },
  {
   "src": "/screens/image-annotator/03.webp",
   "w": 351,
   "h": 650,
   "caption": "Collapsed",
-  "mobile": true
+  "mobile": true,
+  "v": "6dad405b"
  }
 ]

@@ -4,20 +4,23 @@
   "w": 1040,
   "h": 1153,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "fe5aba13"
  },
  {
   "src": "/screens/insured-asset-schedule/02.webp",
   "w": 1040,
   "h": 1415,
   "caption": "Expanded underinsured property",
-  "mobile": false
+  "mobile": false,
+  "v": "b6fbc241"
  },
  {
   "src": "/screens/insured-asset-schedule/03.webp",
   "w": 1040,
   "h": 1537,
   "caption": "Endorsement added valuables",
-  "mobile": false
+  "mobile": false,
+  "v": "5992e044"
  }
 ]

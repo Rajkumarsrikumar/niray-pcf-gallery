@@ -4,13 +4,15 @@
   "w": 1038,
   "h": 1150,
   "caption": "Overview",
-  "mobile": false
+  "mobile": false,
+  "v": "824fc018"
  },
  {
   "src": "/screens/customer360-panel/02.webp",
   "w": 1038,
   "h": 1150,
   "caption": "Opportunities sorted",
-  "mobile": false
+  "mobile": false,
+  "v": "e810ac89"
  }
 ]

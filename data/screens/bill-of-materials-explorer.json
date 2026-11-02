@@ -4,13 +4,15 @@
   "w": 1328,
   "h": 849,
   "caption": "B width",
-  "mobile": false
+  "mobile": false,
+  "v": "c5e2c12a"
  },
  {
   "src": "/screens/bill-of-materials-explorer/02.webp",
   "w": 1012,
   "h": 936,
   "caption": "Tree default",
-  "mobile": false
+  "mobile": false,
+  "v": "f9686935"
  }
 ]

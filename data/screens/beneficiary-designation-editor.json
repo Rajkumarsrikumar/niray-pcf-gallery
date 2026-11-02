@@ -4,13 +4,15 @@
   "w": 1004,
   "h": 848,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "57a5d8e5"
  },
  {
   "src": "/screens/beneficiary-designation-editor/02.webp",
   "w": 1004,
   "h": 1050,
   "caption": "Minor detail expanded",
-  "mobile": false
+  "mobile": false,
+  "v": "9ec196b6"
  }
 ]

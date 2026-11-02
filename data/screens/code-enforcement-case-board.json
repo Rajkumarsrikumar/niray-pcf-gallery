@@ -4,20 +4,23 @@
   "w": 1336,
   "h": 797,
   "caption": "Detail result missing",
-  "mobile": false
+  "mobile": false,
+  "v": "444ae57e"
  },
  {
   "src": "/screens/code-enforcement-case-board/02.webp",
   "w": 1336,
   "h": 797,
   "caption": "Board",
-  "mobile": false
+  "mobile": false,
+  "v": "ca4d6460"
  },
  {
   "src": "/screens/code-enforcement-case-board/03.webp",
   "w": 364,
   "h": 766,
   "caption": "Stage tabs",
-  "mobile": true
+  "mobile": true,
+  "v": "993f7c4b"
  }
 ]

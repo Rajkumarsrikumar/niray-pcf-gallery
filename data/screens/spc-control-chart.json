@@ -4,20 +4,23 @@
   "w": 1012,
   "h": 954,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "0c8d08b1"
  },
  {
   "src": "/screens/spc-control-chart/02.webp",
   "w": 1012,
   "h": 954,
   "caption": "Hero wide saved annotations",
-  "mobile": false
+  "mobile": false,
+  "v": "3179bf65"
  },
  {
   "src": "/screens/spc-control-chart/03.webp",
   "w": 391,
   "h": 794,
   "caption": "Signals",
-  "mobile": true
+  "mobile": true,
+  "v": "44fa326b"
  }
 ]

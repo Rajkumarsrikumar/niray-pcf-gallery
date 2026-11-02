@@ -4,13 +4,15 @@
   "w": 1002,
   "h": 762,
   "caption": "Scoring",
-  "mobile": false
+  "mobile": false,
+  "v": "a5217abc"
  },
  {
   "src": "/screens/grant-review-scoring-panel/02.webp",
   "w": 1002,
   "h": 762,
   "caption": "Declaration required",
-  "mobile": false
+  "mobile": false,
+  "v": "33a5e01e"
  }
 ]

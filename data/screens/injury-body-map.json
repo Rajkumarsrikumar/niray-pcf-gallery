@@ -4,20 +4,23 @@
   "w": 1012,
   "h": 676,
   "caption": "Details editor",
-  "mobile": false
+  "mobile": false,
+  "v": "009eb2da"
  },
  {
   "src": "/screens/injury-body-map/02.webp",
   "w": 1036,
   "h": 676,
   "caption": "Populated",
-  "mobile": false
+  "mobile": false,
+  "v": "9f44bc85"
  },
  {
   "src": "/screens/injury-body-map/03.webp",
   "w": 375,
   "h": 744,
   "caption": "Bottom sheet",
-  "mobile": true
+  "mobile": true,
+  "v": "5ef82b11"
  }
 ]

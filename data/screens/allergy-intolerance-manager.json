@@ -4,13 +4,15 @@
   "w": 1046,
   "h": 513,
   "caption": "Register",
-  "mobile": false
+  "mobile": false,
+  "v": "681719ec"
  },
  {
   "src": "/screens/allergy-intolerance-manager/02.webp",
   "w": 1046,
   "h": 921,
   "caption": "Allergen search synonym",
-  "mobile": false
+  "mobile": false,
+  "v": "1fc5dd81"
  }
 ]

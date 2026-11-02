@@ -4,13 +4,15 @@
   "w": 1012,
   "h": 854,
   "caption": "Running job detail",
-  "mobile": false
+  "mobile": false,
+  "v": "07254c78"
  },
  {
   "src": "/screens/production-order-operator-panel/02.webp",
   "w": 375,
   "h": 746,
   "caption": "Pause sheet",
-  "mobile": true
+  "mobile": true,
+  "v": "a105f327"
  }
 ]

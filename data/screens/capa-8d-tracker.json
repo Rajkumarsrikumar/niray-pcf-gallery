@@ -4,20 +4,23 @@
   "w": 1038,
   "h": 801,
   "caption": "Overview sample",
-  "mobile": false
+  "mobile": false,
+  "v": "443d3cff"
  },
  {
   "src": "/screens/capa-8d-tracker/02.webp",
   "w": 1038,
   "h": 854,
   "caption": "Discipline d4 in progress",
-  "mobile": false
+  "mobile": false,
+  "v": "ecbc4f72"
  },
  {
   "src": "/screens/capa-8d-tracker/03.webp",
   "w": 1038,
   "h": 1345,
   "caption": "Root cause 5why fishbone",
-  "mobile": false
+  "mobile": false,
+  "v": "5a710754"
  }
 ]

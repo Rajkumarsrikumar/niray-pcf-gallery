@@ -4,20 +4,23 @@
   "w": 1043,
   "h": 1275,
   "caption": "Certificate wide",
-  "mobile": false
+  "mobile": false,
+  "v": "f2b8f647"
  },
  {
   "src": "/screens/licence-certificate-viewer/02.webp",
   "w": 1043,
   "h": 1130,
   "caption": "History internal",
-  "mobile": false
+  "mobile": false,
+  "v": "8427b999"
  },
  {
   "src": "/screens/licence-certificate-viewer/03.webp",
   "w": 375,
   "h": 639,
   "caption": "Wallet",
-  "mobile": true
+  "mobile": true,
+  "v": "85ed7ccf"
  }
 ]

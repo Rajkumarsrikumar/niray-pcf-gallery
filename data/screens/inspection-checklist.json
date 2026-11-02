@@ -4,27 +4,31 @@
   "w": 1050,
   "h": 860,
   "caption": "Saved progress",
-  "mobile": false
+  "mobile": false,
+  "v": "6b458009"
  },
  {
   "src": "/screens/inspection-checklist/02.webp",
   "w": 1050,
   "h": 860,
   "caption": "Measurements tolerance fail",
-  "mobile": false
+  "mobile": false,
+  "v": "188124b1"
  },
  {
   "src": "/screens/inspection-checklist/03.webp",
   "w": 1050,
   "h": 860,
   "caption": "Complete validation",
-  "mobile": false
+  "mobile": false,
+  "v": "7eac6a82"
  },
  {
   "src": "/screens/inspection-checklist/04.webp",
   "w": 373,
   "h": 700,
   "caption": "Section",
-  "mobile": true
+  "mobile": true,
+  "v": "bf2421e4"
  }
 ]

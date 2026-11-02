@@ -4,27 +4,31 @@
   "w": 998,
   "h": 900,
   "caption": "Validation and score",
-  "mobile": false
+  "mobile": false,
+  "v": "647e0fb0"
  },
  {
   "src": "/screens/survey-matrix/02.webp",
   "w": 998,
   "h": 900,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "a2904ed9"
  },
  {
   "src": "/screens/survey-matrix/03.webp",
   "w": 998,
   "h": 900,
   "caption": "Answering interaction",
-  "mobile": false
+  "mobile": false,
+  "v": "490af12c"
  },
  {
   "src": "/screens/survey-matrix/04.webp",
   "w": 375,
   "h": 746,
   "caption": "Cards",
-  "mobile": true
+  "mobile": true,
+  "v": "2bac8c0d"
  }
 ]

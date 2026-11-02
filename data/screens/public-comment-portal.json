@@ -4,27 +4,31 @@
   "w": 998,
   "h": 760,
   "caption": "Open consultations",
-  "mobile": false
+  "mobile": false,
+  "v": "0164c6d3"
  },
  {
   "src": "/screens/public-comment-portal/02.webp",
   "w": 998,
   "h": 760,
   "caption": "Form filled",
-  "mobile": false
+  "mobile": false,
+  "v": "16c6cbaf"
  },
  {
   "src": "/screens/public-comment-portal/03.webp",
   "w": 998,
   "h": 760,
   "caption": "Submitted confirmation",
-  "mobile": false
+  "mobile": false,
+  "v": "e8950341"
  },
  {
   "src": "/screens/public-comment-portal/04.webp",
   "w": 357,
   "h": 700,
   "caption": "List",
-  "mobile": true
+  "mobile": true,
+  "v": "ae7d8d00"
  }
 ]

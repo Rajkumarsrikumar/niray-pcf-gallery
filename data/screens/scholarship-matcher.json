@@ -4,20 +4,23 @@
   "w": 1318,
   "h": 1117,
   "caption": "Detail why it matches",
-  "mobile": false
+  "mobile": false,
+  "v": "d4ba5316"
  },
  {
   "src": "/screens/scholarship-matcher/02.webp",
   "w": 1012,
   "h": 1286,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "9b545df3"
  },
  {
   "src": "/screens/scholarship-matcher/03.webp",
   "w": 373,
   "h": 812,
   "caption": "Overview",
-  "mobile": true
+  "mobile": true,
+  "v": "bcee474c"
  }
 ]

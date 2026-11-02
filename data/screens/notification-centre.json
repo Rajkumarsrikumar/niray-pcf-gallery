@@ -4,27 +4,31 @@
   "w": 740,
   "h": 730,
   "caption": "Snooze menu",
-  "mobile": false
+  "mobile": false,
+  "v": "6d206ba2"
  },
  {
   "src": "/screens/notification-centre/02.webp",
   "w": 740,
   "h": 661,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "1dd7e9ad"
  },
  {
   "src": "/screens/notification-centre/03.webp",
   "w": 740,
   "h": 661,
   "caption": "Expanded custom actions",
-  "mobile": false
+  "mobile": false,
+  "v": "6f6b90f9"
  },
  {
   "src": "/screens/notification-centre/04.webp",
   "w": 355,
   "h": 721,
   "caption": "List",
-  "mobile": true
+  "mobile": true,
+  "v": "b2197d6d"
  }
 ]

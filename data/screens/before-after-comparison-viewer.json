@@ -4,20 +4,23 @@
   "w": 991,
   "h": 940,
   "caption": "Zoom and finding popover",
-  "mobile": false
+  "mobile": false,
+  "v": "1c92e986"
  },
  {
   "src": "/screens/before-after-comparison-viewer/02.webp",
   "w": 1012,
   "h": 944,
   "caption": "Slider default",
-  "mobile": false
+  "mobile": false,
+  "v": "137b1c93"
  },
  {
   "src": "/screens/before-after-comparison-viewer/03.webp",
   "w": 375,
   "h": 734,
   "caption": "Overview",
-  "mobile": true
+  "mobile": true,
+  "v": "010d2b9e"
  }
 ]

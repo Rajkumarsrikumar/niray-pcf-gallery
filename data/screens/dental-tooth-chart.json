@@ -4,27 +4,31 @@
   "w": 1068,
   "h": 539,
   "caption": "Sample chart",
-  "mobile": false
+  "mobile": false,
+  "v": "d7bb03d4"
  },
  {
   "src": "/screens/dental-tooth-chart/02.webp",
   "w": 1068,
   "h": 914,
   "caption": "Tooth detail 16",
-  "mobile": false
+  "mobile": false,
+  "v": "a13fda74"
  },
  {
   "src": "/screens/dental-tooth-chart/03.webp",
   "w": 1012,
   "h": 936,
   "caption": "Palette charting",
-  "mobile": false
+  "mobile": false,
+  "v": "0a55fc90"
  },
  {
   "src": "/screens/dental-tooth-chart/04.webp",
   "w": 363,
   "h": 782,
   "caption": "Quadrant",
-  "mobile": true
+  "mobile": true,
+  "v": "f0166030"
  }
 ]

@@ -4,20 +4,23 @@
   "w": 1012,
   "h": 954,
   "caption": "Detail drawer second charge",
-  "mobile": false
+  "mobile": false,
+  "v": "cd322173"
  },
  {
   "src": "/screens/collateral-ltv-tracker/02.webp",
   "w": 1012,
   "h": 954,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "7d3d4731"
  },
  {
   "src": "/screens/collateral-ltv-tracker/03.webp",
   "w": 375,
   "h": 812,
   "caption": "Detail",
-  "mobile": true
+  "mobile": true,
+  "v": "85bcc314"
  }
 ]

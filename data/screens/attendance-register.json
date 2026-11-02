@@ -4,27 +4,31 @@
   "w": 1012,
   "h": 757,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "2c095e33"
  },
  {
   "src": "/screens/attendance-register/02.webp",
   "w": 1012,
   "h": 757,
   "caption": "Keyboard roll call late cutoff",
-  "mobile": false
+  "mobile": false,
+  "v": "d7ca503a"
  },
  {
   "src": "/screens/attendance-register/03.webp",
   "w": 1012,
   "h": 757,
   "caption": "Submit validation issues",
-  "mobile": false
+  "mobile": false,
+  "v": "107dad90"
  },
  {
   "src": "/screens/attendance-register/04.webp",
   "w": 375,
   "h": 746,
   "caption": "Overview",
-  "mobile": true
+  "mobile": true,
+  "v": "3c58a280"
  }
 ]

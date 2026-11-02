@@ -4,20 +4,23 @@
   "w": 1005,
   "h": 1212,
   "caption": "Confirm submission",
-  "mobile": false
+  "mobile": false,
+  "v": "f06d37bb"
  },
  {
   "src": "/screens/assignment-submission-panel/02.webp",
   "w": 1005,
   "h": 1027,
   "caption": "Submit",
-  "mobile": false
+  "mobile": false,
+  "v": "8c279c2e"
  },
  {
   "src": "/screens/assignment-submission-panel/03.webp",
   "w": 1005,
   "h": 962,
   "caption": "Submission receipt",
-  "mobile": false
+  "mobile": false,
+  "v": "496c31a7"
  }
 ]

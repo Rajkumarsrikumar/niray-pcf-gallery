@@ -4,20 +4,23 @@
   "w": 930,
   "h": 854,
   "caption": "Spanish text",
-  "mobile": false
+  "mobile": false,
+  "v": "92b2e981"
  },
  {
   "src": "/screens/accessibility-language-toolbar/02.webp",
   "w": 930,
   "h": 854,
   "caption": "Language menu status badges",
-  "mobile": false
+  "mobile": false,
+  "v": "abfec272"
  },
  {
   "src": "/screens/accessibility-language-toolbar/03.webp",
   "w": 375,
   "h": 694,
   "caption": "Collapsed",
-  "mobile": true
+  "mobile": true,
+  "v": "9d24afeb"
  }
 ]

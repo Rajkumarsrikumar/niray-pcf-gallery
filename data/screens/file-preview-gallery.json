@@ -4,27 +4,31 @@
   "w": 1012,
   "h": 854,
   "caption": "Grid default",
-  "mobile": false
+  "mobile": false,
+  "v": "83b99014"
  },
  {
   "src": "/screens/file-preview-gallery/02.webp",
   "w": 1000,
   "h": 820,
   "caption": "List view sorted selected",
-  "mobile": false
+  "mobile": false,
+  "v": "f169a8e5"
  },
  {
   "src": "/screens/file-preview-gallery/03.webp",
   "w": 519,
   "h": 854,
   "caption": "Search leeds",
-  "mobile": false
+  "mobile": false,
+  "v": "cc033fe2"
  },
  {
   "src": "/screens/file-preview-gallery/04.webp",
   "w": 375,
   "h": 746,
   "caption": "List",
-  "mobile": true
+  "mobile": true,
+  "v": "3764e626"
  }
 ]

@@ -4,27 +4,31 @@
   "w": 998,
   "h": 1234,
   "caption": "Keyboard focus",
-  "mobile": false
+  "mobile": false,
+  "v": "e9ca2951"
  },
  {
   "src": "/screens/degree-audit-progress/02.webp",
   "w": 1000,
   "h": 1324,
   "caption": "Width",
-  "mobile": false
+  "mobile": false,
+  "v": "74b823d0"
  },
  {
   "src": "/screens/degree-audit-progress/03.webp",
   "w": 998,
   "h": 1384,
   "caption": "Requirement detail failed grade",
-  "mobile": false
+  "mobile": false,
+  "v": "71fa46a5"
  },
  {
   "src": "/screens/degree-audit-progress/04.webp",
   "w": 998,
   "h": 958,
   "caption": "Filter unmet",
-  "mobile": false
+  "mobile": false,
+  "v": "6273d14c"
  }
 ]

@@ -4,27 +4,31 @@
   "w": 1024,
   "h": 351,
   "caption": "Alert popover acknowledge",
-  "mobile": false
+  "mobile": false,
+  "v": "876bd437"
  },
  {
   "src": "/screens/patient-banner/02.webp",
   "w": 1024,
   "h": 231,
   "caption": "Banner",
-  "mobile": false
+  "mobile": false,
+  "v": "5be34689"
  },
  {
   "src": "/screens/patient-banner/03.webp",
   "w": 1052,
   "h": 391,
   "caption": "Allergy popover",
-  "mobile": false
+  "mobile": false,
+  "v": "f7b29a8e"
  },
  {
   "src": "/screens/patient-banner/04.webp",
   "w": 1012,
   "h": 366,
   "caption": "Keyboard isolation acknowledged",
-  "mobile": false
+  "mobile": false,
+  "v": "198114b3"
  }
 ]

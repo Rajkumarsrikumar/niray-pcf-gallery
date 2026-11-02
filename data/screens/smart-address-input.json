@@ -4,20 +4,23 @@
   "w": 916,
   "h": 656,
   "caption": "Search saved addresses",
-  "mobile": false
+  "mobile": false,
+  "v": "acf1fa4c"
  },
  {
   "src": "/screens/smart-address-input/02.webp",
   "w": 930,
   "h": 854,
   "caption": "Billing populated",
-  "mobile": false
+  "mobile": false,
+  "v": "53402fac"
  },
  {
   "src": "/screens/smart-address-input/03.webp",
   "w": 375,
   "h": 734,
   "caption": "Search",
-  "mobile": true
+  "mobile": true,
+  "v": "1a6cdb5a"
  }
 ]

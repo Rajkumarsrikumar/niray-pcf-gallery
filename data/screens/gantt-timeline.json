@@ -4,20 +4,23 @@
   "w": 1050,
   "h": 600,
   "caption": "Drag in progress",
-  "mobile": false
+  "mobile": false,
+  "v": "a80b5018"
  },
  {
   "src": "/screens/gantt-timeline/02.webp",
   "w": 1050,
   "h": 600,
   "caption": "Week hierarchy",
-  "mobile": false
+  "mobile": false,
+  "v": "bc4b419e"
  },
  {
   "src": "/screens/gantt-timeline/03.webp",
   "w": 357,
   "h": 640,
   "caption": "Agenda",
-  "mobile": true
+  "mobile": true,
+  "v": "2d038986"
  }
 ]

@@ -4,27 +4,31 @@
   "w": 1400,
   "h": 850,
   "caption": "Filter 4 stars",
-  "mobile": false
+  "mobile": false,
+  "v": "d176fa71"
  },
  {
   "src": "/screens/ratings-reviews-summary/02.webp",
   "w": 1400,
   "h": 1345,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "66e9f83c"
  },
  {
   "src": "/screens/ratings-reviews-summary/03.webp",
   "w": 1400,
   "h": 1033,
   "caption": "Search sort",
-  "mobile": false
+  "mobile": false,
+  "v": "89e61012"
  },
  {
   "src": "/screens/ratings-reviews-summary/04.webp",
   "w": 1400,
   "h": 1260,
   "caption": "Helpful readmore rate",
-  "mobile": false
+  "mobile": false,
+  "v": "b305b706"
  }
 ]

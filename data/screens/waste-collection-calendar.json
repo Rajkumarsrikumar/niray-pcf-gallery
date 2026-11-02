@@ -4,27 +4,31 @@
   "w": 998,
   "h": 1051,
   "caption": "Next collections",
-  "mobile": false
+  "mobile": false,
+  "v": "a39bc3cf"
  },
  {
   "src": "/screens/waste-collection-calendar/02.webp",
   "w": 1012,
   "h": 954,
   "caption": "B viewport",
-  "mobile": false
+  "mobile": false,
+  "v": "7bf2a823"
  },
  {
   "src": "/screens/waste-collection-calendar/03.webp",
   "w": 998,
   "h": 1243,
   "caption": "Calendar thanksgiving shift",
-  "mobile": false
+  "mobile": false,
+  "v": "8f0a6eab"
  },
  {
   "src": "/screens/waste-collection-calendar/04.webp",
   "w": 391,
   "h": 777,
   "caption": "Address search",
-  "mobile": true
+  "mobile": true,
+  "v": "03cac83a"
  }
 ]

@@ -4,27 +4,31 @@
   "w": 938,
   "h": 760,
   "caption": "Documents stale and missing",
-  "mobile": false
+  "mobile": false,
+  "v": "4c1c9cfa"
  },
  {
   "src": "/screens/kyc-verification-panel/02.webp",
   "w": 1012,
   "h": 797,
   "caption": "Summary in progress",
-  "mobile": false
+  "mobile": false,
+  "v": "d9cb8b71"
  },
  {
   "src": "/screens/kyc-verification-panel/03.webp",
   "w": 938,
   "h": 760,
   "caption": "Screening potential match",
-  "mobile": false
+  "mobile": false,
+  "v": "3f4157f8"
  },
  {
   "src": "/screens/kyc-verification-panel/04.webp",
   "w": 375,
   "h": 694,
   "caption": "Summary",
-  "mobile": true
+  "mobile": true,
+  "v": "b8148dfd"
  }
 ]

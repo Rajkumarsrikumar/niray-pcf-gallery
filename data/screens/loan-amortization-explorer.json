@@ -4,20 +4,23 @@
   "w": 1012,
   "h": 954,
   "caption": "Chart keyboard year",
-  "mobile": false
+  "mobile": false,
+  "v": "9a15c8fa"
  },
  {
   "src": "/screens/loan-amortization-explorer/02.webp",
   "w": 1012,
   "h": 954,
   "caption": "Default summary",
-  "mobile": false
+  "mobile": false,
+  "v": "8af5a4e2"
  },
  {
   "src": "/screens/loan-amortization-explorer/03.webp",
   "w": 1012,
   "h": 954,
   "caption": "Schedule by year expanded",
-  "mobile": false
+  "mobile": false,
+  "v": "3f5308a9"
  }
 ]

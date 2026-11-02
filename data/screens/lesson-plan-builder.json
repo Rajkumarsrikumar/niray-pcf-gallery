@@ -4,13 +4,15 @@
   "w": 1050,
   "h": 1370,
   "caption": "Sequence",
-  "mobile": false
+  "mobile": false,
+  "v": "1a21d325"
  },
  {
   "src": "/screens/lesson-plan-builder/02.webp",
   "w": 1050,
   "h": 1395,
   "caption": "Add segment validation",
-  "mobile": false
+  "mobile": false,
+  "v": "4d4c960d"
  }
 ]

@@ -4,20 +4,23 @@
   "w": 1012,
   "h": 817,
   "caption": "Word diff and selection",
-  "mobile": false
+  "mobile": false,
+  "v": "e392c6a2"
  },
  {
   "src": "/screens/audit-trail-viewer/02.webp",
   "w": 1012,
   "h": 817,
   "caption": "Timeline",
-  "mobile": false
+  "mobile": false,
+  "v": "ad5fda63"
  },
  {
   "src": "/screens/audit-trail-viewer/03.webp",
   "w": 365,
   "h": 724,
   "caption": "Timeline",
-  "mobile": true
+  "mobile": true,
+  "v": "7e615d04"
  }
 ]

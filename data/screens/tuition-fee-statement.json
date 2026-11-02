@@ -4,27 +4,31 @@
   "w": 1051,
   "h": 2132,
   "caption": "Other amount pay",
-  "mobile": false
+  "mobile": false,
+  "v": "78c77e9b"
  },
  {
   "src": "/screens/tuition-fee-statement/02.webp",
   "w": 1051,
   "h": 1841,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "cd9f4ad0"
  },
  {
   "src": "/screens/tuition-fee-statement/03.webp",
   "w": 1051,
   "h": 1358,
   "caption": "Keyboard spring tab",
-  "mobile": false
+  "mobile": false,
+  "v": "4659c1d8"
  },
  {
   "src": "/screens/tuition-fee-statement/04.webp",
   "w": 401,
   "h": 652,
   "caption": "Other amount pay",
-  "mobile": true
+  "mobile": true,
+  "v": "eae94d78"
  }
 ]

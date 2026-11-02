@@ -4,27 +4,31 @@
   "w": 1050,
   "h": 1737,
   "caption": "Cart validation issues",
-  "mobile": false
+  "mobile": false,
+  "v": "049ca8f6"
  },
  {
   "src": "/screens/course-schedule-builder/02.webp",
   "w": 1050,
   "h": 1496,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "dd0e4c20"
  },
  {
   "src": "/screens/course-schedule-builder/03.webp",
   "w": 1050,
   "h": 1547,
   "caption": "Time conflicts",
-  "mobile": false
+  "mobile": false,
+  "v": "f51adc0c"
  },
  {
   "src": "/screens/course-schedule-builder/04.webp",
   "w": 1050,
   "h": 1834,
   "caption": "Waitlist overload prereq",
-  "mobile": false
+  "mobile": false,
+  "v": "15578127"
  }
 ]

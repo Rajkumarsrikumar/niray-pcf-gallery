@@ -4,13 +4,15 @@
   "w": 1111,
   "h": 720,
   "caption": "Composite",
-  "mobile": false
+  "mobile": false,
+  "v": "101168ef"
  },
  {
   "src": "/screens/field-dispatch-map/02.webp",
   "w": 357,
   "h": 720,
   "caption": "Jobs",
-  "mobile": true
+  "mobile": true,
+  "v": "f78c74b2"
  }
 ]

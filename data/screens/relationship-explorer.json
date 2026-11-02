@@ -4,20 +4,23 @@
   "w": 1041,
   "h": 640,
   "caption": "Radial default",
-  "mobile": false
+  "mobile": false,
+  "v": "564edd6f"
  },
  {
   "src": "/screens/relationship-explorer/02.webp",
   "w": 1041,
   "h": 640,
   "caption": "Select details panel",
-  "mobile": false
+  "mobile": false,
+  "v": "67ab6a62"
  },
  {
   "src": "/screens/relationship-explorer/03.webp",
   "w": 357,
   "h": 640,
   "caption": "List",
-  "mobile": true
+  "mobile": true,
+  "v": "6fb0de62"
  }
 ]

@@ -4,20 +4,23 @@
   "w": 1012,
   "h": 977,
   "caption": "Schedule new plan",
-  "mobile": false
+  "mobile": false,
+  "v": "1605fc4a"
  },
  {
   "src": "/screens/premium-payment-planner/02.webp",
   "w": 1012,
   "h": 976,
   "caption": "Plan comparison",
-  "mobile": false
+  "mobile": false,
+  "v": "3ad16589"
  },
  {
   "src": "/screens/premium-payment-planner/03.webp",
   "w": 1012,
   "h": 977,
   "caption": "Schedule missed payment",
-  "mobile": false
+  "mobile": false,
+  "v": "d09f6c26"
  }
 ]

@@ -4,20 +4,23 @@
   "w": 1005,
   "h": 942,
   "caption": "Detail proxy witnessed scopes",
-  "mobile": false
+  "mobile": false,
+  "v": "efd1e1c0"
  },
  {
   "src": "/screens/patient-consent-manager/02.webp",
   "w": 1005,
   "h": 903,
   "caption": "Register",
-  "mobile": false
+  "mobile": false,
+  "v": "a93f5466"
  },
  {
   "src": "/screens/patient-consent-manager/03.webp",
   "w": 357,
   "h": 702,
   "caption": "List",
-  "mobile": true
+  "mobile": true,
+  "v": "3ec42966"
  }
 ]

@@ -4,20 +4,23 @@
   "w": 1012,
   "h": 854,
   "caption": "Confirmation submitted",
-  "mobile": false
+  "mobile": false,
+  "v": "c4ed7d6b"
  },
  {
   "src": "/screens/supplier-po-collaboration/02.webp",
   "w": 1012,
   "h": 854,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "3f9f75e2"
  },
  {
   "src": "/screens/supplier-po-collaboration/03.webp",
   "w": 375,
   "h": 746,
   "caption": "List",
-  "mobile": true
+  "mobile": true,
+  "v": "61a1cf7a"
  }
 ]

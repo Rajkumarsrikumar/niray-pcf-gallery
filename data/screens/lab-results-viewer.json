@@ -4,20 +4,23 @@
   "w": 1050,
   "h": 749,
   "caption": "Abnormal only 3 days",
-  "mobile": false
+  "mobile": false,
+  "v": "edc493dd"
  },
  {
   "src": "/screens/lab-results-viewer/02.webp",
   "w": 1052,
   "h": 934,
   "caption": "Cumulative",
-  "mobile": false
+  "mobile": false,
+  "v": "079e3655"
  },
  {
   "src": "/screens/lab-results-viewer/03.webp",
   "w": 1050,
   "h": 1315,
   "caption": "Critical result detail",
-  "mobile": false
+  "mobile": false,
+  "v": "004e3a08"
  }
 ]

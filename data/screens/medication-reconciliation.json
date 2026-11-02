@@ -4,27 +4,31 @@
   "w": 1320,
   "h": 844,
   "caption": "Hero",
-  "mobile": false
+  "mobile": false,
+  "v": "fd3cafb4"
  },
  {
   "src": "/screens/medication-reconciliation/02.webp",
   "w": 1020,
   "h": 944,
   "caption": "Review pending",
-  "mobile": false
+  "mobile": false,
+  "v": "b4da356a"
  },
  {
   "src": "/screens/medication-reconciliation/03.webp",
   "w": 998,
   "h": 2081,
   "caption": "B control",
-  "mobile": false
+  "mobile": false,
+  "v": "f42bdd9b"
  },
  {
   "src": "/screens/medication-reconciliation/04.webp",
   "w": 365,
   "h": 784,
   "caption": "Overview",
-  "mobile": true
+  "mobile": true,
+  "v": "8a9e8a7a"
  }
 ]

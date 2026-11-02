@@ -4,20 +4,23 @@
   "w": 1012,
   "h": 936,
   "caption": "Detail breach waiver requested",
-  "mobile": false
+  "mobile": false,
+  "v": "3bc4c871"
  },
  {
   "src": "/screens/covenant-compliance-monitor/02.webp",
   "w": 1012,
   "h": 936,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "f58ef3af"
  },
  {
   "src": "/screens/covenant-compliance-monitor/03.webp",
   "w": 375,
   "h": 812,
   "caption": "Waiver form",
-  "mobile": true
+  "mobile": true,
+  "v": "bc08c93c"
  }
 ]

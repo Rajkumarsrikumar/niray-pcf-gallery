@@ -4,13 +4,15 @@
   "w": 1050,
   "h": 870,
   "caption": "Schedule",
-  "mobile": false
+  "mobile": false,
+  "v": "2c44d9a1"
  },
  {
   "src": "/screens/activity-signup-board/02.webp",
   "w": 1050,
   "h": 1986,
   "caption": "Board",
-  "mobile": false
+  "mobile": false,
+  "v": "beb7327d"
  }
 ]

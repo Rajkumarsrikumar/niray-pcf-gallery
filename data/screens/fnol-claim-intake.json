@@ -4,27 +4,31 @@
   "w": 1012,
   "h": 757,
   "caption": "Injury and police",
-  "mobile": false
+  "mobile": false,
+  "v": "417a15d5"
  },
  {
   "src": "/screens/fnol-claim-intake/02.webp",
   "w": 1012,
   "h": 757,
   "caption": "Policy prefill",
-  "mobile": false
+  "mobile": false,
+  "v": "623126b2"
  },
  {
   "src": "/screens/fnol-claim-intake/03.webp",
   "w": 1012,
   "h": 757,
   "caption": "Loss auto branch",
-  "mobile": false
+  "mobile": false,
+  "v": "674d3296"
  },
  {
   "src": "/screens/fnol-claim-intake/04.webp",
   "w": 375,
   "h": 746,
   "caption": "Policy step",
-  "mobile": true
+  "mobile": true,
+  "v": "0f3431df"
  }
 ]

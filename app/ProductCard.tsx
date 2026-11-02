@@ -5,13 +5,15 @@ import { PRICE, formatPrice, isAvailable, screensFor, themeFor, thumbOf, type Co
 
 export default function ProductCard({ c }: { c: Component }) {
   const t = themeFor(c.industry);
-  const shot = screensFor(c.slug).find((s) => !s.mobile);
+  // Prefer a desktop shot; components with only a phone shot show it centred instead of the placeholder art.
+  const shots = screensFor(c.slug);
+  const shot = shots.find((s) => !s.mobile) ?? shots[0];
   return (
     <article className="group relative flex flex-col">
       <div className="relative overflow-hidden rounded-2xl border border-line bg-paper transition-shadow duration-300 group-hover:shadow-[0_18px_40px_-22px_rgba(0,59,92,0.55)]">
         {shot ? (
           // eslint-disable-next-line @next/next/no-img-element
-          <img src={thumbOf(shot.src)} alt="" loading="lazy" decoding="async" className="aspect-[4/3] w-full object-cover object-top transition-transform duration-500 group-hover:scale-[1.03]" />
+          <img src={thumbOf(shot.src)} alt="" loading="lazy" decoding="async" className={`aspect-[4/3] w-full transition-transform duration-500 group-hover:scale-[1.03] ${shot.mobile ? "object-contain p-3" : "object-cover object-top"}`} />
         ) : (
           <div className="aspect-[4/3] overflow-hidden"><ProductArt c={c} /></div>
         )}

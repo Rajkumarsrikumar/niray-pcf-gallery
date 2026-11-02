@@ -4,20 +4,23 @@
   "w": 1318,
   "h": 860,
   "caption": "Relationship matrix warning",
-  "mobile": false
+  "mobile": false,
+  "v": "aa17826b"
  },
  {
   "src": "/screens/household-composition-editor/02.webp",
   "w": 1366,
   "h": 954,
   "caption": "Member edit panel",
-  "mobile": false
+  "mobile": false,
+  "v": "09f7754b"
  },
  {
   "src": "/screens/household-composition-editor/03.webp",
   "w": 375,
   "h": 694,
   "caption": "Members",
-  "mobile": true
+  "mobile": true,
+  "v": "9c4280f3"
  }
 ]

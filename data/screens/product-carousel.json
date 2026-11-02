@@ -4,20 +4,23 @@
   "w": 1012,
   "h": 506,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "0ec51bb6"
  },
  {
   "src": "/screens/product-carousel/02.webp",
   "w": 1012,
   "h": 506,
   "caption": "Next page arrow",
-  "mobile": false
+  "mobile": false,
+  "v": "b9fe79f3"
  },
  {
   "src": "/screens/product-carousel/03.webp",
   "w": 375,
   "h": 746,
   "caption": "Preselected bound value",
-  "mobile": true
+  "mobile": true,
+  "v": "9aae83b8"
  }
 ]

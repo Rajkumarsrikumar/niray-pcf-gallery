@@ -4,27 +4,31 @@
   "w": 1031,
   "h": 900,
   "caption": "Hero",
-  "mobile": false
+  "mobile": false,
+  "v": "e8d86183"
  },
  {
   "src": "/screens/clinical-scoring-instrument/02.webp",
   "w": 998,
   "h": 1511,
   "caption": "Phq9 saved value",
-  "mobile": false
+  "mobile": false,
+  "v": "3aa83a29"
  },
  {
   "src": "/screens/clinical-scoring-instrument/03.webp",
   "w": 1012,
   "h": 252,
   "caption": "Instrument picker",
-  "mobile": false
+  "mobile": false,
+  "v": "628924bc"
  },
  {
   "src": "/screens/clinical-scoring-instrument/04.webp",
   "w": 375,
   "h": 485,
   "caption": "Summary sheet",
-  "mobile": true
+  "mobile": true,
+  "v": "c2e71422"
  }
 ]

@@ -4,27 +4,31 @@
   "w": 1056,
   "h": 646,
   "caption": "Input order late",
-  "mobile": false
+  "mobile": false,
+  "v": "937ae167"
  },
  {
   "src": "/screens/route-visit-planner/02.webp",
   "w": 1056,
   "h": 646,
   "caption": "Optimised route",
-  "mobile": false
+  "mobile": false,
+  "v": "952afbe6"
  },
  {
   "src": "/screens/route-visit-planner/03.webp",
   "w": 1056,
   "h": 646,
   "caption": "List view filter skipped",
-  "mobile": false
+  "mobile": false,
+  "v": "1a7cae5d"
  },
  {
   "src": "/screens/route-visit-planner/04.webp",
   "w": 361,
   "h": 713,
   "caption": "Itinerary",
-  "mobile": true
+  "mobile": true,
+  "v": "a4780ea6"
  }
 ]

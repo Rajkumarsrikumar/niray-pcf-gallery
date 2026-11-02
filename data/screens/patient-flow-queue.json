@@ -4,13 +4,15 @@
   "w": 1050,
   "h": 760,
   "caption": "Details drawer",
-  "mobile": false
+  "mobile": false,
+  "v": "764735f1"
  },
  {
   "src": "/screens/patient-flow-queue/02.webp",
   "w": 357,
   "h": 760,
   "caption": "List",
-  "mobile": true
+  "mobile": true,
+  "v": "2c3f2c21"
  }
 ]

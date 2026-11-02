@@ -4,13 +4,15 @@
   "w": 1050,
   "h": 1312,
   "caption": "Summary",
-  "mobile": false
+  "mobile": false,
+  "v": "27e662e2"
  },
  {
   "src": "/screens/report-card-viewer/02.webp",
   "w": 1050,
   "h": 1169,
   "caption": "Subjects list",
-  "mobile": false
+  "mobile": false,
+  "v": "525d1681"
  }
 ]

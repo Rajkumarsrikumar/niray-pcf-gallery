@@ -4,27 +4,31 @@
   "w": 1012,
   "h": 647,
   "caption": "Territory selected details",
-  "mobile": false
+  "mobile": false,
+  "v": "7b83b751"
  },
  {
   "src": "/screens/territory-mapper/02.webp",
   "w": 1012,
   "h": 647,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "9e68f333"
  },
  {
   "src": "/screens/territory-mapper/03.webp",
   "w": 1012,
   "h": 677,
   "caption": "Accounts unassigned",
-  "mobile": false
+  "mobile": false,
+  "v": "e934d9ad"
  },
  {
   "src": "/screens/territory-mapper/04.webp",
   "w": 355,
   "h": 633,
   "caption": "Map",
-  "mobile": true
+  "mobile": true,
+  "v": "eb495916"
  }
 ]

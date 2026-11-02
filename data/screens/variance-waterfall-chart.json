@@ -4,27 +4,31 @@
   "w": 1012,
   "h": 677,
   "caption": "Revenue bridge",
-  "mobile": false
+  "mobile": false,
+  "v": "4a9dc385"
  },
  {
   "src": "/screens/variance-waterfall-chart/02.webp",
   "w": 956,
   "h": 657,
   "caption": "Select tooltip detail",
-  "mobile": false
+  "mobile": false,
+  "v": "4cf10cb1"
  },
  {
   "src": "/screens/variance-waterfall-chart/03.webp",
   "w": 956,
   "h": 657,
   "caption": "Drill down breadcrumb",
-  "mobile": false
+  "mobile": false,
+  "v": "77ab09b7"
  },
  {
   "src": "/screens/variance-waterfall-chart/04.webp",
   "w": 363,
   "h": 734,
   "caption": "Overview",
-  "mobile": true
+  "mobile": true,
+  "v": "5c089d31"
  }
 ]

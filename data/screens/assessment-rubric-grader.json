@@ -4,27 +4,31 @@
   "w": 1298,
   "h": 1312,
   "caption": "Reset confirm",
-  "mobile": false
+  "mobile": false,
+  "v": "3503c43e"
  },
  {
   "src": "/screens/assessment-rubric-grader/02.webp",
   "w": 1012,
   "h": 1306,
   "caption": "Saved marking",
-  "mobile": false
+  "mobile": false,
+  "v": "8032cce3"
  },
  {
   "src": "/screens/assessment-rubric-grader/03.webp",
   "w": 1012,
   "h": 1349,
   "caption": "Complete comment bank finetune",
-  "mobile": false
+  "mobile": false,
+  "v": "b12ed854"
  },
  {
   "src": "/screens/assessment-rubric-grader/04.webp",
   "w": 1012,
   "h": 1550,
   "caption": "Moderation compare",
-  "mobile": false
+  "mobile": false,
+  "v": "702dcbd0"
  }
 ]

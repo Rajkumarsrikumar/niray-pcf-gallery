@@ -4,13 +4,15 @@
   "w": 1012,
   "h": 954,
   "caption": "Alert raised assigned",
-  "mobile": false
+  "mobile": false,
+  "v": "f61744b1"
  },
  {
   "src": "/screens/student-early-alert-panel/02.webp",
   "w": 1012,
   "h": 954,
   "caption": "Default",
-  "mobile": false
+  "mobile": false,
+  "v": "933aa772"
  }
 ]

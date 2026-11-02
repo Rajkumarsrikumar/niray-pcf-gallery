@@ -4,13 +4,15 @@
   "w": 1050,
   "h": 849,
   "caption": "Matrix",
-  "mobile": false
+  "mobile": false,
+  "v": "08050e09"
  },
  {
   "src": "/screens/skills-competency-matrix/02.webp",
   "w": 1055,
   "h": 860,
   "caption": "Rating picker",
-  "mobile": false
+  "mobile": false,
+  "v": "d209a975"
  }
 ]
