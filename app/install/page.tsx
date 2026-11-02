@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export const metadata = { title: "How to install | Niray PCF Gallery", description: "How to import a Niray PCF managed solution and add the code component to Canvas apps, Model-driven apps and Power Pages.", alternates: { canonical: "/install" } };
+export const metadata = { keywords: ["install PCF control", "import PCF managed solution", "add code component to canvas app", "add PCF control to model-driven form", "PCF in Power Pages"], title: "How to install a PCF control in Power Apps & Power Pages | Niray", description: "How to import a Niray PCF managed solution and add the code component to Canvas apps, Model-driven apps and Power Pages.", alternates: { canonical: "/install" } };
 
 const steps = [
   { h: "Import the managed solution", b: "Import the managed solution you received into your environment from Solutions → Import solution." },
