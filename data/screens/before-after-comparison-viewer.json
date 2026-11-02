@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/before-after-comparison-viewer/01.webp",
+  "w": 1012,
+  "h": 944,
+  "caption": "Slider default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/before-after-comparison-viewer/02.webp",
+  "w": 375,
+  "h": 800,
+  "caption": "Overview",
+  "mobile": true
+ },
+ {
+  "src": "/screens/before-after-comparison-viewer/03.webp",
+  "w": 1165,
+  "h": 734,
+  "caption": "Composite",
+  "mobile": false
+ },
+ {
+  "src": "/screens/before-after-comparison-viewer/04.webp",
+  "w": 375,
+  "h": 800,
+  "caption": "B side by side stacked",
+  "mobile": true
+ },
+ {
+  "src": "/screens/before-after-comparison-viewer/05.webp",
+  "w": 375,
+  "h": 800,
+  "caption": "Pair sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/before-after-comparison-viewer/06.webp",
+  "w": 991,
+  "h": 940,
+  "caption": "Zoom and finding popover",
+  "mobile": false
+ }
+]

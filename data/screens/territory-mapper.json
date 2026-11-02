@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/territory-mapper/01.webp",
+  "w": 1012,
+  "h": 647,
+  "caption": "Default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/territory-mapper/02.webp",
+  "w": 355,
+  "h": 633,
+  "caption": "Map",
+  "mobile": true
+ },
+ {
+  "src": "/screens/territory-mapper/03.webp",
+  "w": 355,
+  "h": 633,
+  "caption": "Sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/territory-mapper/04.webp",
+  "w": 355,
+  "h": 633,
+  "caption": "List",
+  "mobile": true
+ },
+ {
+  "src": "/screens/territory-mapper/05.webp",
+  "w": 1012,
+  "h": 647,
+  "caption": "Territory selected details",
+  "mobile": false
+ },
+ {
+  "src": "/screens/territory-mapper/06.webp",
+  "w": 1012,
+  "h": 677,
+  "caption": "Accounts unassigned",
+  "mobile": false
+ }
+]

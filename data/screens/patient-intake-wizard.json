@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/patient-intake-wizard/01.webp",
+  "w": 1038,
+  "h": 958,
+  "caption": "Step1 prefilled",
+  "mobile": false
+ },
+ {
+  "src": "/screens/patient-intake-wizard/02.webp",
+  "w": 375,
+  "h": 1982,
+  "caption": "Step",
+  "mobile": true
+ },
+ {
+  "src": "/screens/patient-intake-wizard/03.webp",
+  "w": 375,
+  "h": 1982,
+  "caption": "Steps sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/patient-intake-wizard/04.webp",
+  "w": 1038,
+  "h": 707,
+  "caption": "Insurance conditional validation",
+  "mobile": false
+ },
+ {
+  "src": "/screens/patient-intake-wizard/05.webp",
+  "w": 1038,
+  "h": 1070,
+  "caption": "Medical history repeat",
+  "mobile": false
+ },
+ {
+  "src": "/screens/patient-intake-wizard/06.webp",
+  "w": 1038,
+  "h": 735,
+  "caption": "Medications allergies",
+  "mobile": false
+ }
+]

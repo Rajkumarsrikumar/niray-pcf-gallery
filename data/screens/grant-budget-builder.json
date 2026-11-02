@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/grant-budget-builder/01.webp",
+  "w": 1050,
+  "h": 1020,
+  "caption": "Budget",
+  "mobile": false
+ },
+ {
+  "src": "/screens/grant-budget-builder/02.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Focus row",
+  "mobile": false
+ },
+ {
+  "src": "/screens/grant-budget-builder/03.webp",
+  "w": 375,
+  "h": 800,
+  "caption": "Collapsed",
+  "mobile": true
+ },
+ {
+  "src": "/screens/grant-budget-builder/04.webp",
+  "w": 375,
+  "h": 800,
+  "caption": "Expanded",
+  "mobile": true
+ },
+ {
+  "src": "/screens/grant-budget-builder/05.webp",
+  "w": 375,
+  "h": 800,
+  "caption": "B summary",
+  "mobile": true
+ },
+ {
+  "src": "/screens/grant-budget-builder/06.webp",
+  "w": 1050,
+  "h": 664,
+  "caption": "Add line flags",
+  "mobile": false
+ }
+]

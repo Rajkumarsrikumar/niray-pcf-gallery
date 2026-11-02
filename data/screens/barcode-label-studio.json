@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/barcode-label-studio/01.webp",
+  "w": 1012,
+  "h": 636,
+  "caption": "Vcard contact",
+  "mobile": false
+ },
+ {
+  "src": "/screens/barcode-label-studio/02.webp",
+  "w": 1034,
+  "h": 754,
+  "caption": "Sheet",
+  "mobile": false
+ },
+ {
+  "src": "/screens/barcode-label-studio/03.webp",
+  "w": 337,
+  "h": 1089,
+  "caption": "Vcard",
+  "mobile": true
+ },
+ {
+  "src": "/screens/barcode-label-studio/04.webp",
+  "w": 1034,
+  "h": 418,
+  "caption": "Wifi valid code",
+  "mobile": false
+ },
+ {
+  "src": "/screens/barcode-label-studio/05.webp",
+  "w": 1034,
+  "h": 309,
+  "caption": "Ean13 check digit added",
+  "mobile": false
+ },
+ {
+  "src": "/screens/barcode-label-studio/06.webp",
+  "w": 1034,
+  "h": 261,
+  "caption": "Code39 uppercased low contrast",
+  "mobile": false
+ }
+]

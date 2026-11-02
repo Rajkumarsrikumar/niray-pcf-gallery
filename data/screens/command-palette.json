@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/command-palette/01.webp",
+  "w": 848,
+  "h": 668,
+  "caption": "Open recent suggested",
+  "mobile": false
+ },
+ {
+  "src": "/screens/command-palette/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Trigger",
+  "mobile": true
+ },
+ {
+  "src": "/screens/command-palette/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Screen search",
+  "mobile": true
+ },
+ {
+  "src": "/screens/command-palette/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Details",
+  "mobile": true
+ },
+ {
+  "src": "/screens/command-palette/05.webp",
+  "w": 1366,
+  "h": 900,
+  "caption": "Search highlight preview",
+  "mobile": false
+ },
+ {
+  "src": "/screens/command-palette/06.webp",
+  "w": 848,
+  "h": 402,
+  "caption": "Prefix scope records",
+  "mobile": false
+ }
+]

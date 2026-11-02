@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/budget-utilisation-tracker/01.webp",
+  "w": 1318,
+  "h": 1188,
+  "caption": "Wide",
+  "mobile": false
+ },
+ {
+  "src": "/screens/budget-utilisation-tracker/02.webp",
+  "w": 998,
+  "h": 1808,
+  "caption": "Selected",
+  "mobile": false
+ },
+ {
+  "src": "/screens/budget-utilisation-tracker/03.webp",
+  "w": 375,
+  "h": 714,
+  "caption": "Overview",
+  "mobile": true
+ },
+ {
+  "src": "/screens/budget-utilisation-tracker/04.webp",
+  "w": 375,
+  "h": 714,
+  "caption": "Sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/budget-utilisation-tracker/05.webp",
+  "w": 998,
+  "h": 1243,
+  "caption": "Filter underspent by category",
+  "mobile": false
+ },
+ {
+  "src": "/screens/budget-utilisation-tracker/06.webp",
+  "w": 968,
+  "h": 609,
+  "caption": "Burn chart tooltip",
+  "mobile": false
+ }
+]

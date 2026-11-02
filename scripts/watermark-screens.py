@@ -4,13 +4,16 @@ and write public/screens/<slug>/NN.webp plus data/screens/<slug>.json.
 Usage: python3 -I scripts/watermark-screens.py <package.tgz> [<package.tgz> ...]
 """
 import io, json, os, re, sys, tarfile
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont, ImageStat
 
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
 MARK = Image.open(os.path.join(ROOT, "public", "brand", "nmark.png")).convert("RGBA")
-FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
-MAX_SHOTS = 8
-SKIP = re.compile(r"(output|log|harness|panel-outputs|invalid|error)", re.I)
+FONT = next(p for p in ("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", "/System/Library/Fonts/Supplemental/Arial Bold.ttf") if os.path.exists(p))
+MAX_SHOTS = 6
+MIN_W, MIN_H = 300, 200
+MAX_NEAR_WHITE = 0.97
+MIN_STDDEV = 6
+SKIP = re.compile(r"(output|log|harness|panel-outputs|invalid|error|empty|disabled|readonly|read-only|loading|blank|placeholder)", re.I)
 
 SLUGS = {c["component"]: c["slug"] for c in json.load(open(os.path.join(ROOT, "data", "components.json")))}
 
@@ -42,6 +45,26 @@ def crop_harness(img):
     while bottom > 200 and all(sum(px[x, bottom - 1]) > 735 for x in range(0, img.width, 7)):
         bottom -= 1
     return img.crop((0, 0, img.width, min(img.height, bottom + 16)))
+
+def is_decent(img):
+    """Rejects tiny shots and ones that are nearly blank."""
+    if img.width < MIN_W or img.height < MIN_H:
+        return False
+    grey = img.convert("L")
+    near_white = sum(grey.histogram()[243:]) / (grey.width * grey.height)
+    return near_white <= MAX_NEAR_WHITE and ImageStat.Stat(grey).stddev[0] >= MIN_STDDEV
+
+def pick(candidates):
+    """Best desktop shot first, capped at MAX_SHOTS, keeping at least one mobile shot when there is one."""
+    first_desktop = next((c for c in candidates if not c["mobile"]), None)
+    if first_desktop:
+        candidates = [first_desktop] + [c for c in candidates if c is not first_desktop]
+    chosen = candidates[:MAX_SHOTS]
+    if not any(c["mobile"] for c in chosen):
+        mobile = next((c for c in candidates if c["mobile"]), None)
+        if mobile:
+            chosen[-1] = mobile
+    return chosen
 
 def clean_caption(base):
     t = re.sub(r"^\d+[-_ ]*", "", base)
@@ -86,26 +109,39 @@ def process(tgz):
         comp = shots[0].name.split("/")[0].split("_")[0]
         slug = slugify(comp)
         ordered = sorted(shots, key=lambda m: rank(os.path.basename(m.name)))
-        outdir = os.path.join(ROOT, "public", "screens", slug)
-        if os.path.isdir(outdir):
-            for f in os.listdir(outdir):
-                os.remove(os.path.join(outdir, f))
-        os.makedirs(outdir, exist_ok=True)
-        meta, seen, i = [], set(), 0
+        candidates, seen = [], set()
         for m in ordered:
-            if i >= MAX_SHOTS:
-                break
-            img = Image.open(io.BytesIO(tf.extractfile(m).read()))
+            try:
+                img = Image.open(io.BytesIO(tf.extractfile(m).read()))
+                img.load()
+            except (OSError, ValueError):
+                continue
             if is_harness(img):
                 img = crop_harness(img)
-            base = os.path.splitext(os.path.basename(m.name))[0]
-            caption = clean_caption(base)
+            if not is_decent(img):
+                continue
+            caption = clean_caption(os.path.splitext(os.path.basename(m.name))[0])
             mobile = img.width < 500
             key = (caption.lower(), mobile)
             if key in seen:
                 continue
             seen.add(key)
-            i += 1
+            candidates.append({"img": img, "caption": caption, "mobile": mobile})
+        outdir = os.path.join(ROOT, "public", "screens", slug)
+        if os.path.isdir(outdir):
+            for f in os.listdir(outdir):
+                os.remove(os.path.join(outdir, f))
+        metafile = os.path.join(ROOT, "data", "screens", f"{slug}.json")
+        if not candidates:
+            if os.path.isdir(outdir):
+                os.rmdir(outdir)
+            if os.path.exists(metafile):
+                os.remove(metafile)
+            print(slug, "no decent screenshots of", len(shots)); return None
+        os.makedirs(outdir, exist_ok=True)
+        meta = []
+        for i, c in enumerate(pick(candidates), 1):
+            img = c["img"]
             if img.width > 1400:
                 img = img.resize((1400, int(img.height * 1400 / img.width)), Image.LANCZOS)
             if img.height > 2400:
@@ -113,9 +149,9 @@ def process(tgz):
             out = watermark(img)
             fn = f"{i:02d}.webp"
             out.save(os.path.join(outdir, fn), "WEBP", quality=78, method=6)
-            meta.append({"src": f"/screens/{slug}/{fn}", "w": out.width, "h": out.height, "caption": caption, "mobile": mobile})
+            meta.append({"src": f"/screens/{slug}/{fn}", "w": out.width, "h": out.height, "caption": c["caption"], "mobile": c["mobile"]})
         os.makedirs(os.path.join(ROOT, "data", "screens"), exist_ok=True)
-        json.dump(meta, open(os.path.join(ROOT, "data", "screens", f"{slug}.json"), "w"), indent=1)
+        json.dump(meta, open(metafile, "w"), indent=1)
         print(slug, len(meta), "of", len(shots))
         return slug
 

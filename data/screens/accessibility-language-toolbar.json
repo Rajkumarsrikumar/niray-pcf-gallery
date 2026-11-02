@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/accessibility-language-toolbar/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Toolbar default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/accessibility-language-toolbar/02.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Collapsed",
+  "mobile": true
+ },
+ {
+  "src": "/screens/accessibility-language-toolbar/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Settings sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/accessibility-language-toolbar/04.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "After low vision",
+  "mobile": true
+ },
+ {
+  "src": "/screens/accessibility-language-toolbar/05.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Language menu status badges",
+  "mobile": false
+ },
+ {
+  "src": "/screens/accessibility-language-toolbar/06.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Spanish text",
+  "mobile": false
+ }
+]

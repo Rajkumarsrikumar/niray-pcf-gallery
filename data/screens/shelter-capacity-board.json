@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/shelter-capacity-board/01.webp",
+  "w": 1001,
+  "h": 762,
+  "caption": "Board",
+  "mobile": false
+ },
+ {
+  "src": "/screens/shelter-capacity-board/02.webp",
+  "w": 375,
+  "h": 732,
+  "caption": "Bottom sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/shelter-capacity-board/03.webp",
+  "w": 375,
+  "h": 732,
+  "caption": "Overview",
+  "mobile": true
+ },
+ {
+  "src": "/screens/shelter-capacity-board/04.webp",
+  "w": 375,
+  "h": 732,
+  "caption": "Filters expanded",
+  "mobile": true
+ },
+ {
+  "src": "/screens/shelter-capacity-board/05.webp",
+  "w": 1001,
+  "h": 762,
+  "caption": "Detail drawer staff",
+  "mobile": false
+ },
+ {
+  "src": "/screens/shelter-capacity-board/06.webp",
+  "w": 1001,
+  "h": 762,
+  "caption": "Checkin blocked at capacity",
+  "mobile": false
+ }
+]

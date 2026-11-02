@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/job-completion-panel/01.webp",
+  "w": 1298,
+  "h": 2210,
+  "caption": "In progress",
+  "mobile": false
+ },
+ {
+  "src": "/screens/job-completion-panel/02.webp",
+  "w": 373,
+  "h": 961,
+  "caption": "Step1",
+  "mobile": true
+ },
+ {
+  "src": "/screens/job-completion-panel/03.webp",
+  "w": 373,
+  "h": 1178,
+  "caption": "Labour cards",
+  "mobile": true
+ },
+ {
+  "src": "/screens/job-completion-panel/04.webp",
+  "w": 373,
+  "h": 1062,
+  "caption": "Signoff",
+  "mobile": true
+ },
+ {
+  "src": "/screens/job-completion-panel/05.webp",
+  "w": 930,
+  "h": 367,
+  "caption": "Parts search",
+  "mobile": false
+ },
+ {
+  "src": "/screens/job-completion-panel/06.webp",
+  "w": 1298,
+  "h": 2400,
+  "caption": "Validation summary",
+  "mobile": false
+ }
+]

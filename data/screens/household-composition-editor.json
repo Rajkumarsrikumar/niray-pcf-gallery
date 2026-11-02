@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/household-composition-editor/01.webp",
+  "w": 1318,
+  "h": 860,
+  "caption": "Members overview",
+  "mobile": false
+ },
+ {
+  "src": "/screens/household-composition-editor/02.webp",
+  "w": 375,
+  "h": 714,
+  "caption": "Members",
+  "mobile": true
+ },
+ {
+  "src": "/screens/household-composition-editor/03.webp",
+  "w": 375,
+  "h": 714,
+  "caption": "Member sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/household-composition-editor/04.webp",
+  "w": 1366,
+  "h": 954,
+  "caption": "Member edit panel",
+  "mobile": false
+ },
+ {
+  "src": "/screens/household-composition-editor/05.webp",
+  "w": 1366,
+  "h": 954,
+  "caption": "Add member validation",
+  "mobile": false
+ },
+ {
+  "src": "/screens/household-composition-editor/06.webp",
+  "w": 1318,
+  "h": 860,
+  "caption": "Relationship matrix warning",
+  "mobile": false
+ }
+]

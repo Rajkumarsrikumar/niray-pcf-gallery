@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/inspection-booking-scheduler/01.webp",
+  "w": 1023,
+  "h": 774,
+  "caption": "Default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/inspection-booking-scheduler/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "List",
+  "mobile": true
+ },
+ {
+  "src": "/screens/inspection-booking-scheduler/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Step1",
+  "mobile": true
+ },
+ {
+  "src": "/screens/inspection-booking-scheduler/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Step2",
+  "mobile": true
+ },
+ {
+  "src": "/screens/inspection-booking-scheduler/05.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Done",
+  "mobile": true
+ },
+ {
+  "src": "/screens/inspection-booking-scheduler/06.webp",
+  "w": 1400,
+  "h": 669,
+  "caption": "Flow",
+  "mobile": false
+ }
+]

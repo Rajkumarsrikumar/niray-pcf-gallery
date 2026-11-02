@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/care-plan-goal-tracker/01.webp",
+  "w": 1012,
+  "h": 1037,
+  "caption": "Care team view",
+  "mobile": false
+ },
+ {
+  "src": "/screens/care-plan-goal-tracker/02.webp",
+  "w": 998,
+  "h": 1000,
+  "caption": "B control only",
+  "mobile": false
+ },
+ {
+  "src": "/screens/care-plan-goal-tracker/03.webp",
+  "w": 349,
+  "h": 1000,
+  "caption": "Filters open",
+  "mobile": true
+ },
+ {
+  "src": "/screens/care-plan-goal-tracker/04.webp",
+  "w": 349,
+  "h": 1000,
+  "caption": "List",
+  "mobile": true
+ },
+ {
+  "src": "/screens/care-plan-goal-tracker/05.webp",
+  "w": 349,
+  "h": 1000,
+  "caption": "Detail sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/care-plan-goal-tracker/06.webp",
+  "w": 349,
+  "h": 1000,
+  "caption": "B patient record",
+  "mobile": true
+ }
+]

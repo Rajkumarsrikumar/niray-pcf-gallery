@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/problem-list-manager/01.webp",
+  "w": 1055,
+  "h": 940,
+  "caption": "Default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/problem-list-manager/02.webp",
+  "w": 341,
+  "h": 1000,
+  "caption": "List",
+  "mobile": true
+ },
+ {
+  "src": "/screens/problem-list-manager/03.webp",
+  "w": 341,
+  "h": 1123,
+  "caption": "Editor sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/problem-list-manager/04.webp",
+  "w": 1055,
+  "h": 940,
+  "caption": "Code search synonym",
+  "mobile": false
+ },
+ {
+  "src": "/screens/problem-list-manager/05.webp",
+  "w": 1050,
+  "h": 1266,
+  "caption": "Resolved with undo toast",
+  "mobile": false
+ },
+ {
+  "src": "/screens/problem-list-manager/06.webp",
+  "w": 1055,
+  "h": 940,
+  "caption": "Grouped category high priority",
+  "mobile": false
+ }
+]

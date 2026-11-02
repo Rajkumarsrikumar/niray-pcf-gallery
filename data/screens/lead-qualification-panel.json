@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/lead-qualification-panel/01.webp",
+  "w": 1038,
+  "h": 1125,
+  "caption": "Bant populated",
+  "mobile": false
+ },
+ {
+  "src": "/screens/lead-qualification-panel/02.webp",
+  "w": 375,
+  "h": 800,
+  "caption": "Overview",
+  "mobile": true
+ },
+ {
+  "src": "/screens/lead-qualification-panel/03.webp",
+  "w": 375,
+  "h": 734,
+  "caption": "B collapsed",
+  "mobile": true
+ },
+ {
+  "src": "/screens/lead-qualification-panel/04.webp",
+  "w": 1038,
+  "h": 754,
+  "caption": "Required missing filter",
+  "mobile": false
+ },
+ {
+  "src": "/screens/lead-qualification-panel/05.webp",
+  "w": 1038,
+  "h": 1050,
+  "caption": "Meddic in progress notes",
+  "mobile": false
+ },
+ {
+  "src": "/screens/lead-qualification-panel/06.webp",
+  "w": 1038,
+  "h": 1050,
+  "caption": "Disqualify reason required",
+  "mobile": false
+ }
+]

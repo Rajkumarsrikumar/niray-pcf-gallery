@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/field-dispatch-map/01.webp",
+  "w": 998,
+  "h": 640,
+  "caption": "Split default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/field-dispatch-map/02.webp",
+  "w": 357,
+  "h": 720,
+  "caption": "Jobs",
+  "mobile": true
+ },
+ {
+  "src": "/screens/field-dispatch-map/03.webp",
+  "w": 357,
+  "h": 720,
+  "caption": "Job detail",
+  "mobile": true
+ },
+ {
+  "src": "/screens/field-dispatch-map/04.webp",
+  "w": 357,
+  "h": 720,
+  "caption": "Map sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/field-dispatch-map/05.webp",
+  "w": 1111,
+  "h": 720,
+  "caption": "Composite",
+  "mobile": false
+ },
+ {
+  "src": "/screens/field-dispatch-map/06.webp",
+  "w": 998,
+  "h": 640,
+  "caption": "Job recommendations",
+  "mobile": false
+ }
+]

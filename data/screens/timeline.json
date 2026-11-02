@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/timeline/01.webp",
+  "w": 1030,
+  "h": 854,
+  "caption": "Alternate default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/timeline/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Compact",
+  "mobile": true
+ },
+ {
+  "src": "/screens/timeline/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "B filter and select",
+  "mobile": true
+ },
+ {
+  "src": "/screens/timeline/04.webp",
+  "w": 1030,
+  "h": 854,
+  "caption": "Hover card",
+  "mobile": false
+ },
+ {
+  "src": "/screens/timeline/05.webp",
+  "w": 1030,
+  "h": 854,
+  "caption": "Selected event",
+  "mobile": false
+ },
+ {
+  "src": "/screens/timeline/06.webp",
+  "w": 790,
+  "h": 854,
+  "caption": "Left layout expanded details",
+  "mobile": false
+ }
+]

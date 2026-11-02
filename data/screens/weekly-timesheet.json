@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/weekly-timesheet/01.webp",
+  "w": 1050,
+  "h": 611,
+  "caption": "Default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/weekly-timesheet/02.webp",
+  "w": 341,
+  "h": 1038,
+  "caption": "Monday",
+  "mobile": true
+ },
+ {
+  "src": "/screens/weekly-timesheet/03.webp",
+  "w": 341,
+  "h": 1060,
+  "caption": "Holiday stepper",
+  "mobile": true
+ },
+ {
+  "src": "/screens/weekly-timesheet/04.webp",
+  "w": 1050,
+  "h": 679,
+  "caption": "Typing note and bad input",
+  "mobile": false
+ },
+ {
+  "src": "/screens/weekly-timesheet/05.webp",
+  "w": 1050,
+  "h": 837,
+  "caption": "Remove row undo",
+  "mobile": false
+ },
+ {
+  "src": "/screens/weekly-timesheet/06.webp",
+  "w": 1050,
+  "h": 510,
+  "caption": "Next week copied hhmm",
+  "mobile": false
+ }
+]

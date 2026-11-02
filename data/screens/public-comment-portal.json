@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/public-comment-portal/01.webp",
+  "w": 998,
+  "h": 760,
+  "caption": "Open consultations",
+  "mobile": false
+ },
+ {
+  "src": "/screens/public-comment-portal/02.webp",
+  "w": 357,
+  "h": 700,
+  "caption": "List",
+  "mobile": true
+ },
+ {
+  "src": "/screens/public-comment-portal/03.webp",
+  "w": 357,
+  "h": 700,
+  "caption": "Detail",
+  "mobile": true
+ },
+ {
+  "src": "/screens/public-comment-portal/04.webp",
+  "w": 357,
+  "h": 700,
+  "caption": "Comment sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/public-comment-portal/05.webp",
+  "w": 998,
+  "h": 760,
+  "caption": "Form filled",
+  "mobile": false
+ },
+ {
+  "src": "/screens/public-comment-portal/06.webp",
+  "w": 998,
+  "h": 760,
+  "caption": "Submitted confirmation",
+  "mobile": false
+ }
+]

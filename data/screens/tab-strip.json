@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/tab-strip/01.webp",
+  "w": 1012,
+  "h": 216,
+  "caption": "Default overflow",
+  "mobile": false
+ },
+ {
+  "src": "/screens/tab-strip/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dropdown collapsed",
+  "mobile": true
+ },
+ {
+  "src": "/screens/tab-strip/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dropdown expanded",
+  "mobile": true
+ },
+ {
+  "src": "/screens/tab-strip/04.webp",
+  "w": 1012,
+  "h": 216,
+  "caption": "More menu open",
+  "mobile": false
+ },
+ {
+  "src": "/screens/tab-strip/05.webp",
+  "w": 1012,
+  "h": 216,
+  "caption": "Overflow tab selected",
+  "mobile": false
+ },
+ {
+  "src": "/screens/tab-strip/06.webp",
+  "w": 1012,
+  "h": 216,
+  "caption": "Keyboard focus",
+  "mobile": false
+ }
+]
