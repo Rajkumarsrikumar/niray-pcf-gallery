@@ -5,6 +5,23 @@ import Hero, { type HeroPick } from "./Hero";
 import Reveal from "./Reveal";
 import { allComponents, allPacks, industries, industrySlug, isAvailable, packComponents, screensFor, themeFor } from "@/lib/catalog";
 
+export const metadata = { alternates: { canonical: "/" } };
+
+const siteJsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization", "@id": "https://niraypcfgallery.com/#org", name: "Niray IT Solutions Pte. Ltd.",
+      url: "https://www.nirayitsolutions.com", logo: "https://niraypcfgallery.com/brand/nmark.png", email: "info@nirayitsolutions.com",
+      sameAs: ["https://www.nirayitsolutions.com"],
+    },
+    {
+      "@type": "WebSite", "@id": "https://niraypcfgallery.com/#website", name: "Niray PCF Gallery", url: "https://niraypcfgallery.com/",
+      publisher: { "@id": "https://niraypcfgallery.com/#org" }, inLanguage: "en",
+    },
+  ],
+};
+
 const included = [
   { h: "A managed solution", b: "Import it into any environment. Upgrades install cleanly over the top." },
   { h: "A user manual for every component", b: "Setup steps for Canvas, Model-driven and Power Pages, with screenshots." },
@@ -33,6 +50,7 @@ export default function Home() {
 
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(siteJsonLd) }} />
       <Hero picks={heroPicks} chips={chips} total={allComponents.length} ready={available.length} />
 
       <section className="border-b border-line">

@@ -6,15 +6,18 @@ import "./globals.css";
 import Header from "./Header";
 import Logo from "./Logo";
 import { CartProvider } from "@/lib/cart";
-import { CONTACT } from "@/lib/catalog";
+import { CONTACT, allComponents } from "@/lib/catalog";
 
 const inter = Inter({ subsets: ["latin"], display: "swap", variable: "--font-inter" });
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://niraypcfgallery.com"),
-  openGraph: { siteName: "Niray PCF Gallery", type: "website" },
+  applicationName: "Niray PCF Gallery",
+  openGraph: { siteName: "Niray PCF Gallery", type: "website", locale: "en_SG", images: [{ url: "/brand/logo.png", alt: "Niray PCF Gallery" }] },
+  twitter: { card: "summary" },
+  robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1 } },
   title: "Niray PCF Gallery | Power Apps code components",
-  description: "Shop 178 production-ready Power Apps Component Framework (PCF) controls and industry packs for Canvas apps, Model-driven apps and Power Pages, by Niray IT Solutions.",
+  description: `Shop ${allComponents.length} production-ready Power Apps Component Framework (PCF) controls and industry packs for Canvas apps, Model-driven apps and Power Pages, by Niray IT Solutions.`,
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
