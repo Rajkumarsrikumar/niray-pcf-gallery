@@ -12,3 +12,8 @@ body { @apply bg-white text-ink antialiased; font-feature-settings: "cv11", "ss0
   background-size: 18px 18px;
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+
+/* home hero: the bar under the deck fills, then the next screenshot is dealt */
+@keyframes hero-timer { from { width: 0%; } to { width: 100%; } }
+.hero-timer { animation: hero-timer 4.6s linear forwards; }
+@media (prefers-reduced-motion: reduce) { .hero-timer { animation: none; width: 100%; } }
