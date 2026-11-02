@@ -1,26 +1,26 @@
 [
  {
   "src": "/screens/mega-menu/01.webp",
-  "w": 1012,
-  "h": 338,
-  "caption": "Mega flyout open",
+  "w": 1440,
+  "h": 372,
+  "caption": "Women mega flyout open",
   "mobile": false,
-  "v": "bb90f997"
+  "v": "d010312c"
  },
  {
   "src": "/screens/mega-menu/02.webp",
-  "w": 1012,
-  "h": 352,
-  "caption": "Keyboard navigation",
+  "w": 1440,
+  "h": 291,
+  "caption": "Men flyout",
   "mobile": false,
-  "v": "4615bf93"
+  "v": "5ff895e3"
  },
  {
   "src": "/screens/mega-menu/03.webp",
-  "w": 1012,
-  "h": 244,
-  "caption": "Dropdown layout",
-  "mobile": false,
-  "v": "3bab6133"
+  "w": 390,
+  "h": 367,
+  "caption": "Phone drawer",
+  "mobile": true,
+  "v": "d3ec10fc"
  }
 ]

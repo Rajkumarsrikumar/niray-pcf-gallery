@@ -1,10 +1,26 @@
 [
  {
   "src": "/screens/date-range-picker/01.webp",
+  "w": 908,
+  "h": 473,
+  "caption": "Two months with a range selected",
+  "mobile": false,
+  "v": "3d8bf043"
+ },
+ {
+  "src": "/screens/date-range-picker/02.webp",
+  "w": 908,
+  "h": 517,
+  "caption": "Popup under its input",
+  "mobile": false,
+  "v": "e5f9c666"
+ },
+ {
+  "src": "/screens/date-range-picker/03.webp",
   "w": 375,
   "h": 746,
   "caption": "Inline one month",
   "mobile": true,
-  "v": "50b4c87b"
+  "v": "93fe8c0a"
  }
 ]
