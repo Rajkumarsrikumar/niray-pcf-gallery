@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/product-carousel/01.webp",
+  "w": 1012,
+  "h": 506,
+  "caption": "Default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/product-carousel/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Preselected bound value",
+  "mobile": true
+ },
+ {
+  "src": "/screens/product-carousel/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "First page peek",
+  "mobile": true
+ },
+ {
+  "src": "/screens/product-carousel/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "After swipe",
+  "mobile": true
+ },
+ {
+  "src": "/screens/product-carousel/05.webp",
+  "w": 1012,
+  "h": 506,
+  "caption": "Card selected and hover",
+  "mobile": false
+ },
+ {
+  "src": "/screens/product-carousel/06.webp",
+  "w": 1012,
+  "h": 506,
+  "caption": "Next page arrow",
+  "mobile": false
+ }
+]

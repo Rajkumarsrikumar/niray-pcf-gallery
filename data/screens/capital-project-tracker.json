@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/capital-project-tracker/01.webp",
+  "w": 1012,
+  "h": 857,
+  "caption": "Portfolio",
+  "mobile": false
+ },
+ {
+  "src": "/screens/capital-project-tracker/02.webp",
+  "w": 1012,
+  "h": 857,
+  "caption": "Detail panel",
+  "mobile": false
+ },
+ {
+  "src": "/screens/capital-project-tracker/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "List",
+  "mobile": true
+ },
+ {
+  "src": "/screens/capital-project-tracker/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Detail",
+  "mobile": true
+ },
+ {
+  "src": "/screens/capital-project-tracker/05.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Timeline",
+  "mobile": true
+ },
+ {
+  "src": "/screens/capital-project-tracker/06.webp",
+  "w": 1012,
+  "h": 857,
+  "caption": "Filtered department",
+  "mobile": false
+ }
+]

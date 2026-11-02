@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/tag-picker/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Default saved value",
+  "mobile": false
+ },
+ {
+  "src": "/screens/tag-picker/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Field",
+  "mobile": true
+ },
+ {
+  "src": "/screens/tag-picker/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Bottom sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/tag-picker/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Sheet search pick",
+  "mobile": true
+ },
+ {
+  "src": "/screens/tag-picker/05.webp",
+  "w": 600,
+  "h": 560,
+  "caption": "Flyout open groups",
+  "mobile": false
+ },
+ {
+  "src": "/screens/tag-picker/06.webp",
+  "w": 600,
+  "h": 560,
+  "caption": "Search highlight auto",
+  "mobile": false
+ }
+]

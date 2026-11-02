@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/licence-certificate-viewer/01.webp",
+  "w": 1043,
+  "h": 1275,
+  "caption": "Certificate wide",
+  "mobile": false
+ },
+ {
+  "src": "/screens/licence-certificate-viewer/02.webp",
+  "w": 375,
+  "h": 639,
+  "caption": "Wallet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/licence-certificate-viewer/03.webp",
+  "w": 375,
+  "h": 1198,
+  "caption": "B conditions",
+  "mobile": true
+ },
+ {
+  "src": "/screens/licence-certificate-viewer/04.webp",
+  "w": 1043,
+  "h": 1295,
+  "caption": "Conditions acknowledge",
+  "mobile": false
+ },
+ {
+  "src": "/screens/licence-certificate-viewer/05.webp",
+  "w": 1043,
+  "h": 1130,
+  "caption": "History internal",
+  "mobile": false
+ },
+ {
+  "src": "/screens/licence-certificate-viewer/06.webp",
+  "w": 1043,
+  "h": 1130,
+  "caption": "Verify not current",
+  "mobile": false
+ }
+]

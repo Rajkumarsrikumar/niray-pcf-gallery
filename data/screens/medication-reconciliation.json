@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/medication-reconciliation/01.webp",
+  "w": 1020,
+  "h": 944,
+  "caption": "Review pending",
+  "mobile": false
+ },
+ {
+  "src": "/screens/medication-reconciliation/02.webp",
+  "w": 998,
+  "h": 2081,
+  "caption": "B control",
+  "mobile": false
+ },
+ {
+  "src": "/screens/medication-reconciliation/03.webp",
+  "w": 1320,
+  "h": 844,
+  "caption": "Hero",
+  "mobile": false
+ },
+ {
+  "src": "/screens/medication-reconciliation/04.webp",
+  "w": 365,
+  "h": 784,
+  "caption": "Overview",
+  "mobile": true
+ },
+ {
+  "src": "/screens/medication-reconciliation/05.webp",
+  "w": 365,
+  "h": 860,
+  "caption": "B modify expanded",
+  "mobile": true
+ },
+ {
+  "src": "/screens/medication-reconciliation/06.webp",
+  "w": 364,
+  "h": 860,
+  "caption": "C flag card",
+  "mobile": true
+ }
+]

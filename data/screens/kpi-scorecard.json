@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/kpi-scorecard/01.webp",
+  "w": 1038,
+  "h": 860,
+  "caption": "Default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/kpi-scorecard/02.webp",
+  "w": 375,
+  "h": 694,
+  "caption": "Overview",
+  "mobile": true
+ },
+ {
+  "src": "/screens/kpi-scorecard/03.webp",
+  "w": 375,
+  "h": 694,
+  "caption": "Sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/kpi-scorecard/04.webp",
+  "w": 780,
+  "h": 694,
+  "caption": "Pair",
+  "mobile": false
+ },
+ {
+  "src": "/screens/kpi-scorecard/05.webp",
+  "w": 1038,
+  "h": 860,
+  "caption": "Select detail panel",
+  "mobile": false
+ },
+ {
+  "src": "/screens/kpi-scorecard/06.webp",
+  "w": 1038,
+  "h": 860,
+  "caption": "Filter off track",
+  "mobile": false
+ }
+]

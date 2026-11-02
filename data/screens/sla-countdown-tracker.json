@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/sla-countdown-tracker/01.webp",
+  "w": 1012,
+  "h": 677,
+  "caption": "Table overview",
+  "mobile": false
+ },
+ {
+  "src": "/screens/sla-countdown-tracker/02.webp",
+  "w": 1072,
+  "h": 661,
+  "caption": "Details docked",
+  "mobile": false
+ },
+ {
+  "src": "/screens/sla-countdown-tracker/03.webp",
+  "w": 375,
+  "h": 732,
+  "caption": "Cards",
+  "mobile": true
+ },
+ {
+  "src": "/screens/sla-countdown-tracker/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/sla-countdown-tracker/05.webp",
+  "w": 1012,
+  "h": 677,
+  "caption": "Search and sort due date",
+  "mobile": false
+ },
+ {
+  "src": "/screens/sla-countdown-tracker/06.webp",
+  "w": 1012,
+  "h": 677,
+  "caption": "B no matches",
+  "mobile": false
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/product-configurator/01.webp",
+  "w": 994,
+  "h": 1621,
+  "caption": "Default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/product-configurator/02.webp",
+  "w": 750,
+  "h": 1532,
+  "caption": "Accordion",
+  "mobile": false
+ },
+ {
+  "src": "/screens/product-configurator/03.webp",
+  "w": 750,
+  "h": 1532,
+  "caption": "Expanded",
+  "mobile": false
+ },
+ {
+  "src": "/screens/product-configurator/04.webp",
+  "w": 750,
+  "h": 1624,
+  "caption": "Summary sheet",
+  "mobile": false
+ },
+ {
+  "src": "/screens/product-configurator/05.webp",
+  "w": 994,
+  "h": 1715,
+  "caption": "Conflict auto resolved",
+  "mobile": false
+ },
+ {
+  "src": "/screens/product-configurator/06.webp",
+  "w": 994,
+  "h": 1673,
+  "caption": "Stock and unavailable",
+  "mobile": false
+ }
+]

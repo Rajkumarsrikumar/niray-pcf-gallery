@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/enterprise-side-navigation/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Expanded selected",
+  "mobile": false
+ },
+ {
+  "src": "/screens/enterprise-side-navigation/02.webp",
+  "w": 328,
+  "h": 848,
+  "caption": "Expanded selected",
+  "mobile": true
+ },
+ {
+  "src": "/screens/enterprise-side-navigation/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Drawer",
+  "mobile": true
+ },
+ {
+  "src": "/screens/enterprise-side-navigation/04.webp",
+  "w": 328,
+  "h": 848,
+  "caption": "Search results",
+  "mobile": true
+ },
+ {
+  "src": "/screens/enterprise-side-navigation/05.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Search results",
+  "mobile": false
+ },
+ {
+  "src": "/screens/enterprise-side-navigation/06.webp",
+  "w": 328,
+  "h": 848,
+  "caption": "Pinned recent keyboard",
+  "mobile": true
+ }
+]

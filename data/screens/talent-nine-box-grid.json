@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/talent-nine-box-grid/01.webp",
+  "w": 1064,
+  "h": 940,
+  "caption": "Default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/talent-nine-box-grid/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Overview",
+  "mobile": true
+ },
+ {
+  "src": "/screens/talent-nine-box-grid/03.webp",
+  "w": 375,
+  "h": 746,
+  "caption": "Sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/talent-nine-box-grid/04.webp",
+  "w": 375,
+  "h": 746,
+  "caption": "Sheet moved",
+  "mobile": true
+ },
+ {
+  "src": "/screens/talent-nine-box-grid/05.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Detail panel",
+  "mobile": false
+ },
+ {
+  "src": "/screens/talent-nine-box-grid/06.webp",
+  "w": 1064,
+  "h": 940,
+  "caption": "Drag move reason required",
+  "mobile": false
+ }
+]

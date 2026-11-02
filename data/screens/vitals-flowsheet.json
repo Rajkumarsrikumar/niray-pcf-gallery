@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/vitals-flowsheet/01.webp",
+  "w": 1012,
+  "h": 796,
+  "caption": "Grid overdue",
+  "mobile": false
+ },
+ {
+  "src": "/screens/vitals-flowsheet/02.webp",
+  "w": 375,
+  "h": 766,
+  "caption": "Cards",
+  "mobile": true
+ },
+ {
+  "src": "/screens/vitals-flowsheet/03.webp",
+  "w": 375,
+  "h": 766,
+  "caption": "Card expanded",
+  "mobile": true
+ },
+ {
+  "src": "/screens/vitals-flowsheet/04.webp",
+  "w": 375,
+  "h": 766,
+  "caption": "Entry sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/vitals-flowsheet/05.webp",
+  "w": 375,
+  "h": 766,
+  "caption": "Trends",
+  "mobile": true
+ },
+ {
+  "src": "/screens/vitals-flowsheet/06.webp",
+  "w": 998,
+  "h": 760,
+  "caption": "Column detail keyboard",
+  "mobile": false
+ }
+]

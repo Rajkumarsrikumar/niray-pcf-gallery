@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/sortable-rank-list/01.webp",
+  "w": 1391,
+  "h": 953,
+  "caption": "Default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/sortable-rank-list/02.webp",
+  "w": 611,
+  "h": 1211,
+  "caption": "Reorder",
+  "mobile": false
+ },
+ {
+  "src": "/screens/sortable-rank-list/03.webp",
+  "w": 611,
+  "h": 1097,
+  "caption": "Rank top3",
+  "mobile": false
+ },
+ {
+  "src": "/screens/sortable-rank-list/04.webp",
+  "w": 1391,
+  "h": 965,
+  "caption": "Drag in progress",
+  "mobile": false
+ },
+ {
+  "src": "/screens/sortable-rank-list/05.webp",
+  "w": 1385,
+  "h": 953,
+  "caption": "Keyboard grabbed",
+  "mobile": false
+ },
+ {
+  "src": "/screens/sortable-rank-list/06.webp",
+  "w": 1385,
+  "h": 953,
+  "caption": "Type position",
+  "mobile": false
+ }
+]

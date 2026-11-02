@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/guided-tour-studio/01.webp",
+  "w": 1012,
+  "h": 804,
+  "caption": "Checklist",
+  "mobile": false
+ },
+ {
+  "src": "/screens/guided-tour-studio/02.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Checklist",
+  "mobile": true
+ },
+ {
+  "src": "/screens/guided-tour-studio/03.webp",
+  "w": 375,
+  "h": 714,
+  "caption": "Sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/guided-tour-studio/04.webp",
+  "w": 1366,
+  "h": 900,
+  "caption": "Welcome centered",
+  "mobile": false
+ },
+ {
+  "src": "/screens/guided-tour-studio/05.webp",
+  "w": 1090,
+  "h": 474,
+  "caption": "Spotlight search",
+  "mobile": false
+ },
+ {
+  "src": "/screens/guided-tour-studio/06.webp",
+  "w": 1366,
+  "h": 900,
+  "caption": "Spotlight left placement",
+  "mobile": false
+ }
+]

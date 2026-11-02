@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/ratings-reviews-summary/01.webp",
+  "w": 1400,
+  "h": 1345,
+  "caption": "Default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/ratings-reviews-summary/02.webp",
+  "w": 611,
+  "h": 2031,
+  "caption": "Overview",
+  "mobile": false
+ },
+ {
+  "src": "/screens/ratings-reviews-summary/03.webp",
+  "w": 611,
+  "h": 1374,
+  "caption": "Filtered",
+  "mobile": false
+ },
+ {
+  "src": "/screens/ratings-reviews-summary/04.webp",
+  "w": 1400,
+  "h": 850,
+  "caption": "Filter 4 stars",
+  "mobile": false
+ },
+ {
+  "src": "/screens/ratings-reviews-summary/05.webp",
+  "w": 1400,
+  "h": 1033,
+  "caption": "Search sort",
+  "mobile": false
+ },
+ {
+  "src": "/screens/ratings-reviews-summary/06.webp",
+  "w": 1400,
+  "h": 1260,
+  "caption": "Helpful readmore rate",
+  "mobile": false
+ }
+]

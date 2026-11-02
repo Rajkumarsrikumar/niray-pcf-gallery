@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/equipment-asset-panel/01.webp",
+  "w": 901,
+  "h": 761,
+  "caption": "Overview health",
+  "mobile": false
+ },
+ {
+  "src": "/screens/equipment-asset-panel/02.webp",
+  "w": 357,
+  "h": 900,
+  "caption": "Overview",
+  "mobile": true
+ },
+ {
+  "src": "/screens/equipment-asset-panel/03.webp",
+  "w": 901,
+  "h": 761,
+  "caption": "Maintenance schedule timeline",
+  "mobile": false
+ },
+ {
+  "src": "/screens/equipment-asset-panel/04.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Meters new reading oil overdue",
+  "mobile": false
+ },
+ {
+  "src": "/screens/equipment-asset-panel/05.webp",
+  "w": 901,
+  "h": 761,
+  "caption": "Meter reading validation",
+  "mobile": false
+ },
+ {
+  "src": "/screens/equipment-asset-panel/06.webp",
+  "w": 901,
+  "h": 761,
+  "caption": "Work orders quick action",
+  "mobile": false
+ }
+]

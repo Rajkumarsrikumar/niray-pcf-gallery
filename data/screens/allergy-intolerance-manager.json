@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/allergy-intolerance-manager/01.webp",
+  "w": 1046,
+  "h": 513,
+  "caption": "Register",
+  "mobile": false
+ },
+ {
+  "src": "/screens/allergy-intolerance-manager/02.webp",
+  "w": 375,
+  "h": 900,
+  "caption": "M banner",
+  "mobile": true
+ },
+ {
+  "src": "/screens/allergy-intolerance-manager/03.webp",
+  "w": 364,
+  "h": 900,
+  "caption": "M editor filled",
+  "mobile": true
+ },
+ {
+  "src": "/screens/allergy-intolerance-manager/04.webp",
+  "w": 365,
+  "h": 824,
+  "caption": "M editor search",
+  "mobile": true
+ },
+ {
+  "src": "/screens/allergy-intolerance-manager/05.webp",
+  "w": 371,
+  "h": 1009,
+  "caption": "M list",
+  "mobile": true
+ },
+ {
+  "src": "/screens/allergy-intolerance-manager/06.webp",
+  "w": 1046,
+  "h": 921,
+  "caption": "Allergen search synonym",
+  "mobile": false
+ }
+]

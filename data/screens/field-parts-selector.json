@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/field-parts-selector/01.webp",
+  "w": 1038,
+  "h": 851,
+  "caption": "Saved value",
+  "mobile": false
+ },
+ {
+  "src": "/screens/field-parts-selector/02.webp",
+  "w": 375,
+  "h": 800,
+  "caption": "Sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/field-parts-selector/03.webp",
+  "w": 1012,
+  "h": 810,
+  "caption": "Search substitute detail",
+  "mobile": false
+ },
+ {
+  "src": "/screens/field-parts-selector/04.webp",
+  "w": 1038,
+  "h": 867,
+  "caption": "Serials backorder request",
+  "mobile": false
+ },
+ {
+  "src": "/screens/field-parts-selector/05.webp",
+  "w": 1038,
+  "h": 867,
+  "caption": "Valid ready to save",
+  "mobile": false
+ },
+ {
+  "src": "/screens/field-parts-selector/06.webp",
+  "w": 698,
+  "h": 1000,
+  "caption": "No prices fits only",
+  "mobile": false
+ }
+]

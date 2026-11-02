@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/mega-menu/01.webp",
+  "w": 1012,
+  "h": 338,
+  "caption": "Mega flyout open",
+  "mobile": false
+ },
+ {
+  "src": "/screens/mega-menu/02.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Collapsed",
+  "mobile": true
+ },
+ {
+  "src": "/screens/mega-menu/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Drawer expanded",
+  "mobile": true
+ },
+ {
+  "src": "/screens/mega-menu/04.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Drawer root",
+  "mobile": true
+ },
+ {
+  "src": "/screens/mega-menu/05.webp",
+  "w": 1012,
+  "h": 352,
+  "caption": "Keyboard navigation",
+  "mobile": false
+ },
+ {
+  "src": "/screens/mega-menu/06.webp",
+  "w": 1012,
+  "h": 244,
+  "caption": "Dropdown layout",
+  "mobile": false
+ }
+]

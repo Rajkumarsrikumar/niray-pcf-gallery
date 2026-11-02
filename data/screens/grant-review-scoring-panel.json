@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/grant-review-scoring-panel/01.webp",
+  "w": 1002,
+  "h": 762,
+  "caption": "Declaration required",
+  "mobile": false
+ },
+ {
+  "src": "/screens/grant-review-scoring-panel/02.webp",
+  "w": 1002,
+  "h": 762,
+  "caption": "Scoring",
+  "mobile": false
+ },
+ {
+  "src": "/screens/grant-review-scoring-panel/03.webp",
+  "w": 399,
+  "h": 1024,
+  "caption": "Card",
+  "mobile": true
+ },
+ {
+  "src": "/screens/grant-review-scoring-panel/04.webp",
+  "w": 399,
+  "h": 1118,
+  "caption": "Details expanded",
+  "mobile": true
+ },
+ {
+  "src": "/screens/grant-review-scoring-panel/05.webp",
+  "w": 998,
+  "h": 760,
+  "caption": "Declaration validation",
+  "mobile": false
+ },
+ {
+  "src": "/screens/grant-review-scoring-panel/06.webp",
+  "w": 477,
+  "h": 281,
+  "caption": "Low score needs comment",
+  "mobile": true
+ }
+]

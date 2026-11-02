@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/dental-tooth-chart/01.webp",
+  "w": 1068,
+  "h": 539,
+  "caption": "Sample chart",
+  "mobile": false
+ },
+ {
+  "src": "/screens/dental-tooth-chart/02.webp",
+  "w": 363,
+  "h": 782,
+  "caption": "Quadrant",
+  "mobile": true
+ },
+ {
+  "src": "/screens/dental-tooth-chart/03.webp",
+  "w": 375,
+  "h": 794,
+  "caption": "Sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/dental-tooth-chart/04.webp",
+  "w": 363,
+  "h": 782,
+  "caption": "Tool tap",
+  "mobile": true
+ },
+ {
+  "src": "/screens/dental-tooth-chart/05.webp",
+  "w": 1068,
+  "h": 914,
+  "caption": "Tooth detail 16",
+  "mobile": false
+ },
+ {
+  "src": "/screens/dental-tooth-chart/06.webp",
+  "w": 1012,
+  "h": 936,
+  "caption": "Palette charting",
+  "mobile": false
+ }
+]

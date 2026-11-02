@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/medication-administration-record/01.webp",
+  "w": 991,
+  "h": 944,
+  "caption": "Chart 24h",
+  "mobile": false
+ },
+ {
+  "src": "/screens/medication-administration-record/02.webp",
+  "w": 365,
+  "h": 784,
+  "caption": "Round",
+  "mobile": true
+ },
+ {
+  "src": "/screens/medication-administration-record/03.webp",
+  "w": 379,
+  "h": 909,
+  "caption": "B completed expanded",
+  "mobile": true
+ },
+ {
+  "src": "/screens/medication-administration-record/04.webp",
+  "w": 375,
+  "h": 790,
+  "caption": "Bottom sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/medication-administration-record/05.webp",
+  "w": 365,
+  "h": 784,
+  "caption": "Chart",
+  "mobile": true
+ },
+ {
+  "src": "/screens/medication-administration-record/06.webp",
+  "w": 991,
+  "h": 944,
+  "caption": "Chart 72h",
+  "mobile": false
+ }
+]

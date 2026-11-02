@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/court-hearing-docket/01.webp",
+  "w": 1068,
+  "h": 877,
+  "caption": "Docket list",
+  "mobile": false
+ },
+ {
+  "src": "/screens/court-hearing-docket/02.webp",
+  "w": 375,
+  "h": 766,
+  "caption": "Agenda",
+  "mobile": true
+ },
+ {
+  "src": "/screens/court-hearing-docket/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Detail sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/court-hearing-docket/04.webp",
+  "w": 1068,
+  "h": 877,
+  "caption": "Detail panel conflicts",
+  "mobile": false
+ },
+ {
+  "src": "/screens/court-hearing-docket/05.webp",
+  "w": 1068,
+  "h": 877,
+  "caption": "Courtroom time grid",
+  "mobile": false
+ },
+ {
+  "src": "/screens/court-hearing-docket/06.webp",
+  "w": 1068,
+  "h": 877,
+  "caption": "Judge view workload",
+  "mobile": false
+ }
+]

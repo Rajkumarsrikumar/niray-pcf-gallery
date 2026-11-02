@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/insurance-coverage-card/01.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Primary coverage",
+  "mobile": false
+ },
+ {
+  "src": "/screens/insurance-coverage-card/02.webp",
+  "w": 998,
+  "h": 1169,
+  "caption": "B control",
+  "mobile": false
+ },
+ {
+  "src": "/screens/insurance-coverage-card/03.webp",
+  "w": 399,
+  "h": 1179,
+  "caption": "Collapsed",
+  "mobile": true
+ },
+ {
+  "src": "/screens/insurance-coverage-card/04.webp",
+  "w": 399,
+  "h": 1698,
+  "caption": "Expanded",
+  "mobile": true
+ },
+ {
+  "src": "/screens/insurance-coverage-card/05.webp",
+  "w": 998,
+  "h": 1109,
+  "caption": "Secondary coverage alerts",
+  "mobile": false
+ },
+ {
+  "src": "/screens/insurance-coverage-card/06.webp",
+  "w": 998,
+  "h": 1197,
+  "caption": "Estimate oop cap",
+  "mobile": false
+ }
+]

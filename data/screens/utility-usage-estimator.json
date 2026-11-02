@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/utility-usage-estimator/01.webp",
+  "w": 1038,
+  "h": 1029,
+  "caption": "Estimate saved value",
+  "mobile": false
+ },
+ {
+  "src": "/screens/utility-usage-estimator/02.webp",
+  "w": 349,
+  "h": 1724,
+  "caption": "Estimate",
+  "mobile": true
+ },
+ {
+  "src": "/screens/utility-usage-estimator/03.webp",
+  "w": 349,
+  "h": 1900,
+  "caption": "Breakdown",
+  "mobile": true
+ },
+ {
+  "src": "/screens/utility-usage-estimator/04.webp",
+  "w": 1038,
+  "h": 1210,
+  "caption": "High usage alert tier3",
+  "mobile": false
+ },
+ {
+  "src": "/screens/utility-usage-estimator/05.webp",
+  "w": 1038,
+  "h": 1268,
+  "caption": "Assistance discount whatif",
+  "mobile": false
+ },
+ {
+  "src": "/screens/utility-usage-estimator/06.webp",
+  "w": 1038,
+  "h": 1053,
+  "caption": "Usage mode commercial",
+  "mobile": false
+ }
+]

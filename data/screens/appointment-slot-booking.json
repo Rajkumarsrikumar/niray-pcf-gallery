@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/appointment-slot-booking/01.webp",
+  "w": 1003,
+  "h": 663,
+  "caption": "Service step",
+  "mobile": false
+ },
+ {
+  "src": "/screens/appointment-slot-booking/02.webp",
+  "w": 1003,
+  "h": 663,
+  "caption": "Clinician filters",
+  "mobile": false
+ },
+ {
+  "src": "/screens/appointment-slot-booking/03.webp",
+  "w": 1003,
+  "h": 663,
+  "caption": "Clinician any riverside",
+  "mobile": false
+ },
+ {
+  "src": "/screens/appointment-slot-booking/04.webp",
+  "w": 1003,
+  "h": 663,
+  "caption": "Time any clinician",
+  "mobile": false
+ },
+ {
+  "src": "/screens/appointment-slot-booking/05.webp",
+  "w": 1003,
+  "h": 663,
+  "caption": "Slot held",
+  "mobile": false
+ },
+ {
+  "src": "/screens/appointment-slot-booking/06.webp",
+  "w": 375,
+  "h": 728,
+  "caption": "Service",
+  "mobile": true
+ }
+]

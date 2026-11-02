@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/lab-results-viewer/01.webp",
+  "w": 1052,
+  "h": 934,
+  "caption": "Cumulative",
+  "mobile": false
+ },
+ {
+  "src": "/screens/lab-results-viewer/02.webp",
+  "w": 357,
+  "h": 2400,
+  "caption": "Overview",
+  "mobile": true
+ },
+ {
+  "src": "/screens/lab-results-viewer/03.webp",
+  "w": 357,
+  "h": 1184,
+  "caption": "B trend",
+  "mobile": true
+ },
+ {
+  "src": "/screens/lab-results-viewer/04.webp",
+  "w": 357,
+  "h": 1997,
+  "caption": "C table filters",
+  "mobile": true
+ },
+ {
+  "src": "/screens/lab-results-viewer/05.webp",
+  "w": 1050,
+  "h": 1315,
+  "caption": "Critical result detail",
+  "mobile": false
+ },
+ {
+  "src": "/screens/lab-results-viewer/06.webp",
+  "w": 1050,
+  "h": 749,
+  "caption": "Abnormal only 3 days",
+  "mobile": false
+ }
+]

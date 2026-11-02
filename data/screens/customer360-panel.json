@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/customer360-panel/01.webp",
+  "w": 1038,
+  "h": 1150,
+  "caption": "Overview",
+  "mobile": false
+ },
+ {
+  "src": "/screens/customer360-panel/02.webp",
+  "w": 375,
+  "h": 830,
+  "caption": "Overview",
+  "mobile": true
+ },
+ {
+  "src": "/screens/customer360-panel/03.webp",
+  "w": 375,
+  "h": 830,
+  "caption": "More menu",
+  "mobile": true
+ },
+ {
+  "src": "/screens/customer360-panel/04.webp",
+  "w": 375,
+  "h": 830,
+  "caption": "Opportunities",
+  "mobile": true
+ },
+ {
+  "src": "/screens/customer360-panel/05.webp",
+  "w": 1038,
+  "h": 1150,
+  "caption": "Health factors contacts selected",
+  "mobile": false
+ },
+ {
+  "src": "/screens/customer360-panel/06.webp",
+  "w": 1038,
+  "h": 1150,
+  "caption": "Opportunities sorted",
+  "mobile": false
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/citation-payment-panel/01.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Account overview",
+  "mobile": false
+ },
+ {
+  "src": "/screens/citation-payment-panel/02.webp",
+  "w": 365,
+  "h": 721,
+  "caption": "Overview",
+  "mobile": true
+ },
+ {
+  "src": "/screens/citation-payment-panel/03.webp",
+  "w": 365,
+  "h": 721,
+  "caption": "Expanded",
+  "mobile": true
+ },
+ {
+  "src": "/screens/citation-payment-panel/04.webp",
+  "w": 365,
+  "h": 721,
+  "caption": "Review sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/citation-payment-panel/05.webp",
+  "w": 1060,
+  "h": 944,
+  "caption": "Selection and fee breakdown",
+  "mobile": false
+ },
+ {
+  "src": "/screens/citation-payment-panel/06.webp",
+  "w": 688,
+  "h": 411,
+  "caption": "Collections detail",
+  "mobile": false
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/variance-waterfall-chart/01.webp",
+  "w": 1012,
+  "h": 677,
+  "caption": "Revenue bridge",
+  "mobile": false
+ },
+ {
+  "src": "/screens/variance-waterfall-chart/02.webp",
+  "w": 363,
+  "h": 734,
+  "caption": "Overview",
+  "mobile": true
+ },
+ {
+  "src": "/screens/variance-waterfall-chart/03.webp",
+  "w": 367,
+  "h": 917,
+  "caption": "Drill",
+  "mobile": true
+ },
+ {
+  "src": "/screens/variance-waterfall-chart/04.webp",
+  "w": 956,
+  "h": 657,
+  "caption": "Select tooltip detail",
+  "mobile": false
+ },
+ {
+  "src": "/screens/variance-waterfall-chart/05.webp",
+  "w": 956,
+  "h": 657,
+  "caption": "Drill down breadcrumb",
+  "mobile": false
+ },
+ {
+  "src": "/screens/variance-waterfall-chart/06.webp",
+  "w": 956,
+  "h": 657,
+  "caption": "Budget vs actual cost",
+  "mobile": false
+ }
+]

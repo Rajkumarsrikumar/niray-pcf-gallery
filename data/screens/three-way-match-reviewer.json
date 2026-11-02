@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/three-way-match-reviewer/01.webp",
+  "w": 1038,
+  "h": 1150,
+  "caption": "Overview",
+  "mobile": false
+ },
+ {
+  "src": "/screens/three-way-match-reviewer/02.webp",
+  "w": 375,
+  "h": 854,
+  "caption": "Collapsed",
+  "mobile": true
+ },
+ {
+  "src": "/screens/three-way-match-reviewer/03.webp",
+  "w": 375,
+  "h": 900,
+  "caption": "Expanded",
+  "mobile": true
+ },
+ {
+  "src": "/screens/three-way-match-reviewer/04.webp",
+  "w": 1038,
+  "h": 1571,
+  "caption": "Line detail price variance",
+  "mobile": false
+ },
+ {
+  "src": "/screens/three-way-match-reviewer/05.webp",
+  "w": 1038,
+  "h": 1598,
+  "caption": "Validation reason required",
+  "mobile": false
+ },
+ {
+  "src": "/screens/three-way-match-reviewer/06.webp",
+  "w": 1038,
+  "h": 1238,
+  "caption": "Exceptions filter resolutions",
+  "mobile": false
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/document-requirements-tracker/01.webp",
+  "w": 1004,
+  "h": 881,
+  "caption": "Applicant overview",
+  "mobile": false
+ },
+ {
+  "src": "/screens/document-requirements-tracker/02.webp",
+  "w": 375,
+  "h": 738,
+  "caption": "Cards",
+  "mobile": true
+ },
+ {
+  "src": "/screens/document-requirements-tracker/03.webp",
+  "w": 375,
+  "h": 775,
+  "caption": "Expanded",
+  "mobile": true
+ },
+ {
+  "src": "/screens/document-requirements-tracker/04.webp",
+  "w": 1004,
+  "h": 881,
+  "caption": "Rejected details upload validation",
+  "mobile": false
+ },
+ {
+  "src": "/screens/document-requirements-tracker/05.webp",
+  "w": 1004,
+  "h": 881,
+  "caption": "After upload submitted",
+  "mobile": false
+ },
+ {
+  "src": "/screens/document-requirements-tracker/06.webp",
+  "w": 1012,
+  "h": 897,
+  "caption": "Reviewer bulk and reject validation",
+  "mobile": false
+ }
+]

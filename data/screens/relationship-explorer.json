@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/relationship-explorer/01.webp",
+  "w": 1041,
+  "h": 640,
+  "caption": "Radial default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/relationship-explorer/02.webp",
+  "w": 357,
+  "h": 640,
+  "caption": "List",
+  "mobile": true
+ },
+ {
+  "src": "/screens/relationship-explorer/03.webp",
+  "w": 357,
+  "h": 640,
+  "caption": "Detail sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/relationship-explorer/04.webp",
+  "w": 357,
+  "h": 640,
+  "caption": "Map",
+  "mobile": true
+ },
+ {
+  "src": "/screens/relationship-explorer/05.webp",
+  "w": 357,
+  "h": 640,
+  "caption": "Filters sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/relationship-explorer/06.webp",
+  "w": 1041,
+  "h": 640,
+  "caption": "Select details panel",
+  "mobile": false
+ }
+]

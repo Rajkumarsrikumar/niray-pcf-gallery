@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/claim-settlement-calculator/01.webp",
+  "w": 1060,
+  "h": 952,
+  "caption": "Default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/claim-settlement-calculator/02.webp",
+  "w": 397,
+  "h": 1458,
+  "caption": "Overview",
+  "mobile": true
+ },
+ {
+  "src": "/screens/claim-settlement-calculator/03.webp",
+  "w": 397,
+  "h": 1662,
+  "caption": "Card edit",
+  "mobile": true
+ },
+ {
+  "src": "/screens/claim-settlement-calculator/04.webp",
+  "w": 375,
+  "h": 900,
+  "caption": "Breakdown",
+  "mobile": true
+ },
+ {
+  "src": "/screens/claim-settlement-calculator/05.webp",
+  "w": 1060,
+  "h": 952,
+  "caption": "Line detail expanded",
+  "mobile": false
+ },
+ {
+  "src": "/screens/claim-settlement-calculator/06.webp",
+  "w": 1060,
+  "h": 952,
+  "caption": "Edit age capped",
+  "mobile": false
+ }
+]

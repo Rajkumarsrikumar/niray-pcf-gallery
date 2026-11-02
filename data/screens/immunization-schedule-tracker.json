@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/immunization-schedule-tracker/01.webp",
+  "w": 1012,
+  "h": 857,
+  "caption": "Grid default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/immunization-schedule-tracker/02.webp",
+  "w": 397,
+  "h": 1459,
+  "caption": "Cards",
+  "mobile": true
+ },
+ {
+  "src": "/screens/immunization-schedule-tracker/03.webp",
+  "w": 375,
+  "h": 766,
+  "caption": "Bottom sheet record",
+  "mobile": true
+ },
+ {
+  "src": "/screens/immunization-schedule-tracker/04.webp",
+  "w": 375,
+  "h": 766,
+  "caption": "Due list",
+  "mobile": true
+ },
+ {
+  "src": "/screens/immunization-schedule-tracker/05.webp",
+  "w": 1012,
+  "h": 857,
+  "caption": "Dose detail panel",
+  "mobile": false
+ },
+ {
+  "src": "/screens/immunization-schedule-tracker/06.webp",
+  "w": 1025,
+  "h": 857,
+  "caption": "Record dose form",
+  "mobile": false
+ }
+]

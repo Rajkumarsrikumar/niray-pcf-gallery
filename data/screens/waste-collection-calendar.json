@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/waste-collection-calendar/01.webp",
+  "w": 998,
+  "h": 1051,
+  "caption": "Next collections",
+  "mobile": false
+ },
+ {
+  "src": "/screens/waste-collection-calendar/02.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "B viewport",
+  "mobile": false
+ },
+ {
+  "src": "/screens/waste-collection-calendar/03.webp",
+  "w": 391,
+  "h": 1731,
+  "caption": "Next",
+  "mobile": true
+ },
+ {
+  "src": "/screens/waste-collection-calendar/04.webp",
+  "w": 363,
+  "h": 1222,
+  "caption": "Calendar",
+  "mobile": true
+ },
+ {
+  "src": "/screens/waste-collection-calendar/05.webp",
+  "w": 391,
+  "h": 843,
+  "caption": "Address search",
+  "mobile": true
+ },
+ {
+  "src": "/screens/waste-collection-calendar/06.webp",
+  "w": 998,
+  "h": 1243,
+  "caption": "Calendar thanksgiving shift",
+  "mobile": false
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/public-meeting-agenda/01.webp",
+  "w": 1068,
+  "h": 877,
+  "caption": "Overview hearing",
+  "mobile": false
+ },
+ {
+  "src": "/screens/public-meeting-agenda/02.webp",
+  "w": 750,
+  "h": 1412,
+  "caption": "List",
+  "mobile": false
+ },
+ {
+  "src": "/screens/public-meeting-agenda/03.webp",
+  "w": 750,
+  "h": 1560,
+  "caption": "Sheet votes",
+  "mobile": false
+ },
+ {
+  "src": "/screens/public-meeting-agenda/04.webp",
+  "w": 1068,
+  "h": 877,
+  "caption": "Documents tab",
+  "mobile": false
+ },
+ {
+  "src": "/screens/public-meeting-agenda/05.webp",
+  "w": 1068,
+  "h": 877,
+  "caption": "Speakers stance",
+  "mobile": false
+ },
+ {
+  "src": "/screens/public-meeting-agenda/06.webp",
+  "w": 1068,
+  "h": 877,
+  "caption": "Speaker request validation",
+  "mobile": false
+ }
+]

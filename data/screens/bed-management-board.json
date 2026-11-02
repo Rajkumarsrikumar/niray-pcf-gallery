@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/bed-management-board/01.webp",
+  "w": 1052,
+  "h": 934,
+  "caption": "Board",
+  "mobile": false
+ },
+ {
+  "src": "/screens/bed-management-board/02.webp",
+  "w": 335,
+  "h": 723,
+  "caption": "List",
+  "mobile": true
+ },
+ {
+  "src": "/screens/bed-management-board/03.webp",
+  "w": 335,
+  "h": 723,
+  "caption": "Waiting sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/bed-management-board/04.webp",
+  "w": 335,
+  "h": 723,
+  "caption": "Placing",
+  "mobile": true
+ },
+ {
+  "src": "/screens/bed-management-board/05.webp",
+  "w": 1052,
+  "h": 934,
+  "caption": "Placing highlights",
+  "mobile": false
+ },
+ {
+  "src": "/screens/bed-management-board/06.webp",
+  "w": 1052,
+  "h": 934,
+  "caption": "Bed detail overdue discharge",
+  "mobile": false
+ }
+]

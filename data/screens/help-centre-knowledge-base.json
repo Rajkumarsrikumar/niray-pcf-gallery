@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/help-centre-knowledge-base/01.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Home",
+  "mobile": false
+ },
+ {
+  "src": "/screens/help-centre-knowledge-base/02.webp",
+  "w": 750,
+  "h": 1474,
+  "caption": "Typeahead",
+  "mobile": false
+ },
+ {
+  "src": "/screens/help-centre-knowledge-base/03.webp",
+  "w": 750,
+  "h": 1520,
+  "caption": "Article",
+  "mobile": false
+ },
+ {
+  "src": "/screens/help-centre-knowledge-base/04.webp",
+  "w": 976,
+  "h": 797,
+  "caption": "Typeahead typo tolerant",
+  "mobile": false
+ },
+ {
+  "src": "/screens/help-centre-knowledge-base/05.webp",
+  "w": 976,
+  "h": 797,
+  "caption": "Article reader toc",
+  "mobile": false
+ },
+ {
+  "src": "/screens/help-centre-knowledge-base/06.webp",
+  "w": 969,
+  "h": 797,
+  "caption": "Feedback comment",
+  "mobile": false
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/advanced-editable-grid/01.webp",
+  "w": 1072,
+  "h": 621,
+  "caption": "Default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/advanced-editable-grid/02.webp",
+  "w": 355,
+  "h": 721,
+  "caption": "Cards",
+  "mobile": true
+ },
+ {
+  "src": "/screens/advanced-editable-grid/03.webp",
+  "w": 355,
+  "h": 721,
+  "caption": "Row edit sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/advanced-editable-grid/04.webp",
+  "w": 355,
+  "h": 721,
+  "caption": "Sort filter sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/advanced-editable-grid/05.webp",
+  "w": 355,
+  "h": 721,
+  "caption": "Grouped sorted",
+  "mobile": true
+ },
+ {
+  "src": "/screens/advanced-editable-grid/06.webp",
+  "w": 1012,
+  "h": 637,
+  "caption": "Inline edit validation",
+  "mobile": false
+ }
+]
