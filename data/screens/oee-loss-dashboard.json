@@ -5,40 +5,5 @@
   "h": 721,
   "caption": "Overview",
   "mobile": false
- },
- {
-  "src": "/screens/oee-loss-dashboard/02.webp",
-  "w": 373,
-  "h": 1643,
-  "caption": "Overview",
-  "mobile": true
- },
- {
-  "src": "/screens/oee-loss-dashboard/03.webp",
-  "w": 373,
-  "h": 895,
-  "caption": "Losses",
-  "mobile": true
- },
- {
-  "src": "/screens/oee-loss-dashboard/04.webp",
-  "w": 373,
-  "h": 895,
-  "caption": "Trend",
-  "mobile": true
- },
- {
-  "src": "/screens/oee-loss-dashboard/05.webp",
-  "w": 373,
-  "h": 1073,
-  "caption": "Lines",
-  "mobile": true
- },
- {
-  "src": "/screens/oee-loss-dashboard/06.webp",
-  "w": 1050,
-  "h": 738,
-  "caption": "Filter shift date",
-  "mobile": false
  }
 ]

@@ -1,44 +1,16 @@
 [
  {
   "src": "/screens/classroom-observation-form/01.webp",
-  "w": 1012,
+  "w": 931,
   "h": 854,
   "caption": "Evidence populated",
   "mobile": false
  },
  {
   "src": "/screens/classroom-observation-form/02.webp",
-  "w": 375,
-  "h": 1856,
-  "caption": "Evidence",
-  "mobile": true
- },
- {
-  "src": "/screens/classroom-observation-form/03.webp",
-  "w": 375,
-  "h": 900,
-  "caption": "Ratings",
-  "mobile": true
- },
- {
-  "src": "/screens/classroom-observation-form/04.webp",
-  "w": 375,
-  "h": 1721,
-  "caption": "Summary",
-  "mobile": true
- },
- {
-  "src": "/screens/classroom-observation-form/05.webp",
-  "w": 1012,
+  "w": 930,
   "h": 854,
   "caption": "Compose evidence note",
-  "mobile": false
- },
- {
-  "src": "/screens/classroom-observation-form/06.webp",
-  "w": 1012,
-  "h": 854,
-  "caption": "Evidence filter student",
   "mobile": false
  }
 ]

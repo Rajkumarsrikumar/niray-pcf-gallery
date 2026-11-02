@@ -8,37 +8,9 @@
  },
  {
   "src": "/screens/preventive-maintenance-planner/02.webp",
-  "w": 1012,
-  "h": 854,
-  "caption": "Detail meter trigger",
-  "mobile": false
- },
- {
-  "src": "/screens/preventive-maintenance-planner/03.webp",
   "w": 375,
-  "h": 812,
+  "h": 746,
   "caption": "Due list",
   "mobile": true
- },
- {
-  "src": "/screens/preventive-maintenance-planner/04.webp",
-  "w": 375,
-  "h": 812,
-  "caption": "Detail sheet",
-  "mobile": true
- },
- {
-  "src": "/screens/preventive-maintenance-planner/05.webp",
-  "w": 375,
-  "h": 1206,
-  "caption": "Compliance",
-  "mobile": true
- },
- {
-  "src": "/screens/preventive-maintenance-planner/06.webp",
-  "w": 1012,
-  "h": 854,
-  "caption": "Keyboard navigation selection",
-  "mobile": false
  }
 ]
