@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/andon-line-board/01.webp",
+  "w": 1012,
+  "h": 898,
+  "caption": "Board default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/andon-line-board/02.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Call list",
+  "mobile": false
+ },
+ {
+  "src": "/screens/andon-line-board/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Call list",
+  "mobile": true
+ },
+ {
+  "src": "/screens/andon-line-board/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Bottom sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/andon-line-board/05.webp",
+  "w": 383,
+  "h": 866,
+  "caption": "Board tiles",
+  "mobile": true
+ },
+ {
+  "src": "/screens/andon-line-board/06.webp",
+  "w": 996,
+  "h": 952,
+  "caption": "Station panel open call",
+  "mobile": false
+ }
+]

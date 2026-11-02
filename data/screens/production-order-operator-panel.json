@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/production-order-operator-panel/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Default",
+  "mobile": false
+ },
+ {
+  "src": "/screens/production-order-operator-panel/02.webp",
+  "w": 357,
+  "h": 1085,
+  "caption": "List",
+  "mobile": true
+ },
+ {
+  "src": "/screens/production-order-operator-panel/03.webp",
+  "w": 357,
+  "h": 1168,
+  "caption": "Report",
+  "mobile": true
+ },
+ {
+  "src": "/screens/production-order-operator-panel/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Pause sheet",
+  "mobile": true
+ },
+ {
+  "src": "/screens/production-order-operator-panel/05.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Running job detail",
+  "mobile": false
+ },
+ {
+  "src": "/screens/production-order-operator-panel/06.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Scrap reason required",
+  "mobile": false
+ }
+]

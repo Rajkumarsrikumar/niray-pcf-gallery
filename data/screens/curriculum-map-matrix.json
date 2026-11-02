@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/curriculum-map-matrix/01.webp",
+  "w": 1050,
+  "h": 1295,
+  "caption": "Matrix",
+  "mobile": false
+ },
+ {
+  "src": "/screens/curriculum-map-matrix/02.webp",
+  "w": 341,
+  "h": 2086,
+  "caption": "By course",
+  "mobile": true
+ },
+ {
+  "src": "/screens/curriculum-map-matrix/03.webp",
+  "w": 341,
+  "h": 2400,
+  "caption": "By outcome",
+  "mobile": true
+ },
+ {
+  "src": "/screens/curriculum-map-matrix/04.webp",
+  "w": 1050,
+  "h": 1295,
+  "caption": "Keyboard edit focus",
+  "mobile": false
+ },
+ {
+  "src": "/screens/curriculum-map-matrix/05.webp",
+  "w": 1050,
+  "h": 1295,
+  "caption": "After save toast",
+  "mobile": false
+ },
+ {
+  "src": "/screens/curriculum-map-matrix/06.webp",
+  "w": 1050,
+  "h": 778,
+  "caption": "Filter gaps only",
+  "mobile": false
+ }
+]

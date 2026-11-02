@@ -389,7 +389,7 @@
   "slug": "education-pcf-pack",
   "name": "Niray Education PCF Pack",
   "industry": "Education",
-  "status": "in progress",
+  "status": "complete",
   "planned": 30,
   "components": [
    {
@@ -439,6 +439,140 @@
    {
     "slug": "financial-aid-award-viewer",
     "subCategory": "Student finance"
+   },
+   {
+    "slug": "scholarship-matcher",
+    "subCategory": "Student finance"
+   },
+   {
+    "slug": "program-pathway-explorer",
+    "subCategory": "Recruitment"
+   },
+   {
+    "slug": "standards-mastery-tracker",
+    "subCategory": "Teaching & assessment"
+   },
+   {
+    "slug": "behaviour-incident-logger",
+    "subCategory": "Pastoral care"
+   },
+   {
+    "slug": "class-seating-planner",
+    "subCategory": "Classroom"
+   },
+   {
+    "slug": "parent-conference-scheduler",
+    "subCategory": "Family engagement"
+   },
+   {
+    "slug": "learning-support-plan",
+    "subCategory": "Inclusion"
+   },
+   {
+    "slug": "exam-timetable-clash-checker",
+    "subCategory": "Examinations"
+   },
+   {
+    "slug": "lesson-plan-builder",
+    "subCategory": "Teaching"
+   },
+   {
+    "slug": "assignment-submission-panel",
+    "subCategory": "Teaching & assessment"
+   },
+   {
+    "slug": "curriculum-map-matrix",
+    "subCategory": "Curriculum"
+   },
+   {
+    "slug": "class-waitlist-manager",
+    "subCategory": "Registration"
+   },
+   {
+    "slug": "field-trip-permission-slip",
+    "subCategory": "Family engagement"
+   },
+   {
+    "slug": "campus-loan-tracker",
+    "subCategory": "Campus services"
+   },
+   {
+    "slug": "report-card-viewer",
+    "subCategory": "Records"
+   },
+   {
+    "slug": "transfer-credit-evaluator",
+    "subCategory": "Admissions"
+   },
+   {
+    "slug": "activity-signup-board",
+    "subCategory": "Student life"
+   },
+   {
+    "slug": "classroom-observation-form",
+    "subCategory": "Staff development"
+   }
+  ],
+  "price": null
+ },
+ {
+  "slug": "manufacturing-pcf-pack",
+  "name": "Niray Manufacturing PCF Pack",
+  "industry": "Manufacturing",
+  "status": "in progress",
+  "planned": 30,
+  "components": [
+   {
+    "slug": "oee-loss-dashboard",
+    "subCategory": "Production performance"
+   },
+   {
+    "slug": "spc-control-chart",
+    "subCategory": "Quality"
+   },
+   {
+    "slug": "non-conformance-report",
+    "subCategory": "Quality"
+   },
+   {
+    "slug": "capa-8d-tracker",
+    "subCategory": "Quality"
+   },
+   {
+    "slug": "andon-line-board",
+    "subCategory": "Shop floor"
+   },
+   {
+    "slug": "production-order-operator-panel",
+    "subCategory": "Shop floor"
+   },
+   {
+    "slug": "bill-of-materials-explorer",
+    "subCategory": "Engineering"
+   },
+   {
+    "slug": "downtime-event-logger",
+    "subCategory": "Production performance"
+   },
+   {
+    "slug": "work-instruction-viewer",
+    "subCategory": "Shop floor"
+   },
+   {
+    "slug": "supplier-po-collaboration",
+    "subCategory": "Supply chain"
+   },
+   {
+    "slug": "lot-genealogy-tracer",
+    "subCategory": "Traceability"
+   },
+   {
+    "slug": "production-schedule-sequencer",
+    "subCategory": "Planning"
+   },
+   {
+    "slug": "preventive-maintenance-planner",
+    "subCategory": "Maintenance"
    }
   ],
   "price": null

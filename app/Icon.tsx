@@ -4,6 +4,7 @@ const paths: Record<string, string> = {
   landmark: "M3 21h18M5 21V10m4 11V10m6 11V10m4 11V10M2 10l10-6 10 6z",
   bank: "M3 21h18M4 17h16M6 17v-6m4 6v-6m4 6v-6m4 6v-6M12 3l9 5H3z",
   cap: "M2 9l10-5 10 5-10 5zM6 11v5c0 1.5 3 3 6 3s6-1.5 6-3v-5",
+  factory: "M3 21h18M4 21V11l5 3V11l5 3V8l6 3v10M8 17h1m3 0h1m3 0h1",
   cart: "M3 4h2l2.4 11.2a2 2 0 0 0 2 1.6h7.7a2 2 0 0 0 2-1.5L21 8H6.2M10 21a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm8 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z",
   search: "M11 19a8 8 0 1 0 0-16 8 8 0 0 0 0 16zm10 2-4.3-4.3",
   check: "M5 12l5 5L20 7",

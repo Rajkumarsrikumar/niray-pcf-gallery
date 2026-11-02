@@ -666,9 +666,9 @@
   "packName": "Niray Education PCF Pack",
   "slug": "education-pcf-pack",
   "industry": "Education",
-  "status": "in progress",
+  "status": "complete",
   "componentsPlanned": 30,
-  "componentsBuilt": 10,
+  "componentsBuilt": 30,
   "components": [
    {
     "order": 1,
@@ -745,142 +745,363 @@
     "component": "TuitionFeeStatement",
     "slug": "tuition-fee-statement",
     "subCategory": "Student finance",
-    "status": "reserved"
+    "status": "pending-sync"
    },
    {
     "order": 12,
     "component": "FinancialAidAwardViewer",
     "slug": "financial-aid-award-viewer",
     "subCategory": "Student finance",
-    "status": "planned"
+    "status": "pending-sync"
    },
    {
     "order": 13,
     "component": "ScholarshipMatcher",
     "slug": "scholarship-matcher",
     "subCategory": "Student finance",
-    "status": "planned"
+    "status": "pending-sync"
    },
    {
     "order": 14,
     "component": "ProgramPathwayExplorer",
     "slug": "program-pathway-explorer",
     "subCategory": "Recruitment",
-    "status": "planned"
+    "status": "pending-sync"
    },
    {
     "order": 15,
     "component": "StandardsMasteryTracker",
     "slug": "standards-mastery-tracker",
     "subCategory": "Teaching & assessment",
-    "status": "planned"
+    "status": "pending-sync"
    },
    {
     "order": 16,
     "component": "BehaviourIncidentLogger",
     "slug": "behaviour-incident-logger",
     "subCategory": "Pastoral care",
-    "status": "planned"
+    "status": "pending-sync"
    },
    {
     "order": 17,
     "component": "ClassSeatingPlanner",
     "slug": "class-seating-planner",
     "subCategory": "Classroom",
-    "status": "planned"
+    "status": "pending-sync"
    },
    {
     "order": 18,
     "component": "ParentConferenceScheduler",
     "slug": "parent-conference-scheduler",
     "subCategory": "Family engagement",
-    "status": "planned"
+    "status": "pending-sync"
    },
    {
     "order": 19,
     "component": "LearningSupportPlan",
     "slug": "learning-support-plan",
     "subCategory": "Inclusion",
-    "status": "planned"
+    "status": "pending-sync"
    },
    {
     "order": 20,
     "component": "ExamTimetableClashChecker",
     "slug": "exam-timetable-clash-checker",
     "subCategory": "Examinations",
-    "status": "planned"
+    "status": "pending-sync"
    },
    {
     "order": 21,
     "component": "LessonPlanBuilder",
     "slug": "lesson-plan-builder",
     "subCategory": "Teaching",
-    "status": "planned"
+    "status": "pending-sync"
    },
    {
     "order": 22,
     "component": "AssignmentSubmissionPanel",
     "slug": "assignment-submission-panel",
     "subCategory": "Teaching & assessment",
-    "status": "planned"
+    "status": "pending-sync"
    },
    {
     "order": 23,
     "component": "CurriculumMapMatrix",
     "slug": "curriculum-map-matrix",
     "subCategory": "Curriculum",
-    "status": "planned"
+    "status": "pending-sync"
    },
    {
     "order": 24,
     "component": "ClassWaitlistManager",
     "slug": "class-waitlist-manager",
     "subCategory": "Registration",
-    "status": "planned"
+    "status": "pending-sync"
    },
    {
     "order": 25,
     "component": "FieldTripPermissionSlip",
     "slug": "field-trip-permission-slip",
     "subCategory": "Family engagement",
-    "status": "planned"
+    "status": "pending-sync"
    },
    {
     "order": 26,
     "component": "CampusLoanTracker",
     "slug": "campus-loan-tracker",
     "subCategory": "Campus services",
-    "status": "planned"
+    "status": "pending-sync"
    },
    {
     "order": 27,
     "component": "ReportCardViewer",
     "slug": "report-card-viewer",
     "subCategory": "Records",
-    "status": "planned"
+    "status": "pending-sync"
    },
    {
     "order": 28,
     "component": "TransferCreditEvaluator",
     "slug": "transfer-credit-evaluator",
     "subCategory": "Admissions",
-    "status": "planned"
+    "status": "pending-sync"
    },
    {
     "order": 29,
     "component": "ActivitySignupBoard",
     "slug": "activity-signup-board",
     "subCategory": "Student life",
-    "status": "planned"
+    "status": "pending-sync"
    },
    {
     "order": 30,
     "component": "ClassroomObservationForm",
     "slug": "classroom-observation-form",
     "subCategory": "Staff development",
-    "status": "planned"
+    "status": "pending-sync"
    }
   ],
   "price": null
+ },
+ {
+  "packName": "Niray Manufacturing PCF Pack",
+  "slug": "manufacturing-pcf-pack",
+  "industry": "Manufacturing",
+  "status": "in progress",
+  "componentsPlanned": 30,
+  "componentsBuilt": 13,
+  "price": null,
+  "components": [
+   {
+    "order": 1,
+    "component": "OeeLossDashboard",
+    "slug": "oee-loss-dashboard",
+    "subCategory": "Production performance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 2,
+    "component": "SpcControlChart",
+    "slug": "spc-control-chart",
+    "subCategory": "Quality",
+    "status": "pending-sync"
+   },
+   {
+    "order": 3,
+    "component": "NonConformanceReport",
+    "slug": "non-conformance-report",
+    "subCategory": "Quality",
+    "status": "pending-sync"
+   },
+   {
+    "order": 4,
+    "component": "CapaEightDTracker",
+    "slug": "capa-8d-tracker",
+    "subCategory": "Quality",
+    "status": "pending-sync"
+   },
+   {
+    "order": 5,
+    "component": "AndonLineBoard",
+    "slug": "andon-line-board",
+    "subCategory": "Shop floor",
+    "status": "pending-sync"
+   },
+   {
+    "order": 6,
+    "component": "ProductionOrderOperatorPanel",
+    "slug": "production-order-operator-panel",
+    "subCategory": "Shop floor",
+    "status": "pending-sync"
+   },
+   {
+    "order": 7,
+    "component": "BillOfMaterialsExplorer",
+    "slug": "bill-of-materials-explorer",
+    "subCategory": "Engineering",
+    "status": "pending-sync"
+   },
+   {
+    "order": 8,
+    "component": "DowntimeEventLogger",
+    "slug": "downtime-event-logger",
+    "subCategory": "Production performance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 9,
+    "component": "WorkInstructionViewer",
+    "slug": "work-instruction-viewer",
+    "subCategory": "Shop floor",
+    "status": "pending-sync"
+   },
+   {
+    "order": 10,
+    "component": "SupplierPoCollaboration",
+    "slug": "supplier-po-collaboration",
+    "subCategory": "Supply chain",
+    "status": "pending-sync"
+   },
+   {
+    "order": 11,
+    "component": "LotGenealogyTracer",
+    "slug": "lot-genealogy-tracer",
+    "subCategory": "Traceability",
+    "status": "pending-sync"
+   },
+   {
+    "order": 12,
+    "component": "ProductionScheduleSequencer",
+    "slug": "production-schedule-sequencer",
+    "subCategory": "Planning",
+    "status": "pending-sync"
+   },
+   {
+    "order": 13,
+    "component": "PreventiveMaintenancePlanner",
+    "slug": "preventive-maintenance-planner",
+    "subCategory": "Maintenance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 14,
+    "component": "FirstArticleInspection",
+    "slug": null,
+    "subCategory": "Quality",
+    "status": "reserved"
+   },
+   {
+    "order": 15,
+    "component": "GaugeCalibrationRegister",
+    "slug": null,
+    "subCategory": "Quality",
+    "status": "planned"
+   },
+   {
+    "order": 16,
+    "component": "EngineeringChangeOrder",
+    "slug": null,
+    "subCategory": "Engineering",
+    "status": "planned"
+   },
+   {
+    "order": 17,
+    "component": "WarrantyClaimPortal",
+    "slug": null,
+    "subCategory": "After-sales",
+    "status": "planned"
+   },
+   {
+    "order": 18,
+    "component": "SparePartsIllustratedCatalogue",
+    "slug": null,
+    "subCategory": "After-sales",
+    "status": "planned"
+   },
+   {
+    "order": 19,
+    "component": "MrpTimePhasedGrid",
+    "slug": null,
+    "subCategory": "Planning",
+    "status": "planned"
+   },
+   {
+    "order": 20,
+    "component": "LineBalancingYamazumi",
+    "slug": null,
+    "subCategory": "Lean",
+    "status": "planned"
+   },
+   {
+    "order": 21,
+    "component": "EKanbanLoopBoard",
+    "slug": null,
+    "subCategory": "Lean",
+    "status": "planned"
+   },
+   {
+    "order": 22,
+    "component": "SafetyCrossCalendar",
+    "slug": null,
+    "subCategory": "EHS",
+    "status": "planned"
+   },
+   {
+    "order": 23,
+    "component": "LayeredProcessAudit",
+    "slug": null,
+    "subCategory": "Quality",
+    "status": "planned"
+   },
+   {
+    "order": 24,
+    "component": "ToolLifeTracker",
+    "slug": null,
+    "subCategory": "Maintenance",
+    "status": "planned"
+   },
+   {
+    "order": 25,
+    "component": "EnergyConsumptionMonitor",
+    "slug": null,
+    "subCategory": "Sustainability",
+    "status": "planned"
+   },
+   {
+    "order": 26,
+    "component": "CertificateOfConformanceViewer",
+    "slug": null,
+    "subCategory": "Quality",
+    "status": "planned"
+   },
+   {
+    "order": 27,
+    "component": "PalletLoadPlanner",
+    "slug": null,
+    "subCategory": "Logistics",
+    "status": "planned"
+   },
+   {
+    "order": 28,
+    "component": "RoutingOperationsEditor",
+    "slug": null,
+    "subCategory": "Engineering",
+    "status": "planned"
+   },
+   {
+    "order": 29,
+    "component": "TierMeetingBoard",
+    "slug": null,
+    "subCategory": "Lean",
+    "status": "planned"
+   },
+   {
+    "order": 30,
+    "component": "CapacityLoadHeatmap",
+    "slug": null,
+    "subCategory": "Planning",
+    "status": "planned"
+   }
+  ]
  }
 ]

@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/capa-8d-tracker/01.webp",
+  "w": 1038,
+  "h": 801,
+  "caption": "Overview sample",
+  "mobile": false
+ },
+ {
+  "src": "/screens/capa-8d-tracker/02.webp",
+  "w": 383,
+  "h": 1822,
+  "caption": "Overview",
+  "mobile": true
+ },
+ {
+  "src": "/screens/capa-8d-tracker/03.webp",
+  "w": 383,
+  "h": 2400,
+  "caption": "Actions",
+  "mobile": true
+ },
+ {
+  "src": "/screens/capa-8d-tracker/04.webp",
+  "w": 383,
+  "h": 2400,
+  "caption": "Root cause",
+  "mobile": true
+ },
+ {
+  "src": "/screens/capa-8d-tracker/05.webp",
+  "w": 1038,
+  "h": 854,
+  "caption": "Discipline d4 in progress",
+  "mobile": false
+ },
+ {
+  "src": "/screens/capa-8d-tracker/06.webp",
+  "w": 1038,
+  "h": 1345,
+  "caption": "Root cause 5why fishbone",
+  "mobile": false
+ }
+]

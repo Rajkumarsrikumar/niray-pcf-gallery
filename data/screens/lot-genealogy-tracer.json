@@ -1,0 +1,44 @@
+[
+ {
+  "src": "/screens/lot-genealogy-tracer/01.webp",
+  "w": 1012,
+  "h": 937,
+  "caption": "Graph both directions",
+  "mobile": false
+ },
+ {
+  "src": "/screens/lot-genealogy-tracer/02.webp",
+  "w": 375,
+  "h": 900,
+  "caption": "M 01 tree default",
+  "mobile": true
+ },
+ {
+  "src": "/screens/lot-genealogy-tracer/03.webp",
+  "w": 375,
+  "h": 900,
+  "caption": "M 02 detail below",
+  "mobile": true
+ },
+ {
+  "src": "/screens/lot-genealogy-tracer/04.webp",
+  "w": 341,
+  "h": 1400,
+  "caption": "M 03 recall cards",
+  "mobile": true
+ },
+ {
+  "src": "/screens/lot-genealogy-tracer/05.webp",
+  "w": 375,
+  "h": 900,
+  "caption": "M 04 graph scrolls horizontally",
+  "mobile": true
+ },
+ {
+  "src": "/screens/lot-genealogy-tracer/06.webp",
+  "w": 1012,
+  "h": 937,
+  "caption": "Graph node selected details",
+  "mobile": false
+ }
+]

@@ -1,0 +1,53 @@
+{
+ "name": "ClassSeatingPlanner",
+ "displayName": "Class Seating Planner",
+ "slug": "class-seating-planner",
+ "tagline": "Seating charts with rules, auto-arrange and a real phone layout – saved in one Dataverse column.",
+ "description": "A classroom seating chart planner for Power Apps and Power Pages. Draw the room from a preset or custom layout, drag or tap students into seats, keep students apart or together, honour front/back/aisle needs, lock seats and auto-arrange by mixed or similar attainment. Live rule checks, KPIs, teacher's view, print and a phone experience with bottom sheets.",
+ "features": [
+  "Pairs, rows, group tables, horseshoe or custom JSON room",
+  "Drag and drop plus tap-to-place on touch and keyboard",
+  "Separate / together / front / back / fixed-seat rules with live issue badges",
+  "Auto-arrange: mixed attainment, alphabetical, random, similar attainment",
+  "Lock seats, undo, clear, teacher's view, print",
+  "KPIs, roster filters, colour by attainment or desk group",
+  "Phone tabs with seat and student bottom sheets",
+  "Outputs: counts, violations, desk groups, selection, isValid; browser change event"
+ ],
+ "industry": "Education",
+ "pack": "Niray Education PCF Pack",
+ "category": "Education",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps",
+  "Power Pages"
+ ],
+ "tags": [
+  "education",
+  "k12",
+  "seating-plan",
+  "seating-chart",
+  "classroom",
+  "drag-and-drop",
+  "rules",
+  "separation",
+  "auto-arrange",
+  "mixed-attainment",
+  "teacher",
+  "print",
+  "mobile"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "pending-sync",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-01",
+ "schemaName": "niray_Niray.ClassSeatingPlanner",
+ "react": "16.14.0 (bundled)",
+ "controlType": "standard",
+ "userManual": "ClassSeatingPlanner-User-Manual.docx",
+ "screenshotCount": 5,
+ "price": null
+}
