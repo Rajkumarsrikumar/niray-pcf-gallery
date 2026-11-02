@@ -1,6 +1,6 @@
 "use client";
 import Link from "next/link";
-import { useRouter } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 import { useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import Icon from "./Icon";
@@ -18,14 +18,12 @@ export default function Header() {
   const { items, setOpen } = useCart();
   const router = useRouter();
   const [q, setQ] = useState("");
-  const [menu, setMenu] = useState(false);
-  const submit = (e: React.FormEvent) => { e.preventDefault(); router.push(`/components${q.trim() ? `?q=${encodeURIComponent(q.trim())}` : ""}`); setMenu(false); };
+    const submit = (e: React.FormEvent) => { e.preventDefault(); router.push(`/components${q.trim() ? `?q=${encodeURIComponent(q.trim())}` : ""}`);  };
   return (
     <>
       <div className="bg-ink px-4 py-2 text-center text-xs font-medium text-white/85">Every component comes as a managed solution with a user manual, emailed to you as soon as payment is received.</div>
       <header className="sticky top-0 z-30 border-b border-line bg-white/90 backdrop-blur">
         <div className="mx-auto flex max-w-7xl items-center gap-3 px-4 py-3 sm:gap-6">
-          <button className="lg:hidden" onClick={() => setMenu(!menu)} aria-label="Menu" aria-expanded={menu}><Icon name={menu ? "x" : "menu"} className="h-6 w-6 text-brand-navy" /></button>
           <Link href="/" className="shrink-0" aria-label="Niray PCF Gallery home"><Logo /></Link>
           <form onSubmit={submit} className="relative hidden flex-1 md:block" role="search">
             <Icon name="search" className="absolute left-3.5 top-1/2 h-4 w-4 -translate-y-1/2 text-slate-400" />
@@ -35,23 +33,14 @@ export default function Header() {
           <nav className="hidden items-center gap-5 text-sm font-medium text-ink-soft lg:flex">
             {nav.map((n) => <Link key={n.href} href={n.href} className="whitespace-nowrap hover:text-ink">{n.label}</Link>)}
           </nav>
-          <button onClick={() => setOpen(true)} className="relative ml-auto rounded-full p-2 text-brand-navy hover:bg-slate-100 md:ml-0" aria-label={`Basket, ${items.length} items`}>
+          <Link href="/components" aria-label="Search components" className="ml-auto rounded-full p-2 text-brand-navy hover:bg-slate-100 md:hidden"><Icon name="search" className="h-6 w-6" /></Link>
+          <button onClick={() => setOpen(true)} className="relative rounded-full p-2 text-brand-navy hover:bg-slate-100 md:ml-0" aria-label={`Basket, ${items.length} items`}>
             <Icon name="cart" className="h-6 w-6" />
             <AnimatePresence>{items.length > 0 && <motion.span key={items.length} initial={{ scale: 0.4 }} animate={{ scale: 1 }} exit={{ scale: 0 }} className="absolute -right-0.5 -top-0.5 grid h-5 min-w-5 place-items-center rounded-full bg-tile-blue px-1 text-[11px] font-bold text-white">{items.length}</motion.span>}</AnimatePresence>
           </button>
         </div>
-        {menu && (
-          <div className="border-t border-slate-100 px-4 pb-4 lg:hidden">
-            <form onSubmit={submit} className="relative mt-3 md:hidden" role="search">
-              <Icon name="search" className="absolute left-3.5 top-1/2 h-4 w-4 -translate-y-1/2 text-slate-400" />
-              <input value={q} onChange={(e) => setQ(e.target.value)} placeholder="Search components" aria-label="Search components" className="w-full rounded-full border border-slate-200 bg-slate-50 py-2.5 pl-10 pr-4 text-sm" />
-            </form>
-            <nav className="mt-2 flex flex-col">
-              {nav.map((n) => <Link key={n.href} href={n.href} onClick={() => setMenu(false)} className="border-b border-slate-100 py-3 font-medium text-brand-navy">{n.label}</Link>)}
-            </nav>
-          </div>
-        )}
       </header>
+      <BottomNav />
       <CartDrawer />
     </>
   );
@@ -97,5 +86,36 @@ function CartDrawer() {
     </motion.div>
     )}
     </AnimatePresence>
+  );
+}
+
+/** Phones and tablets: the main links sit in a bar at the bottom of the screen, within thumb reach. */
+const tabs = [
+  { href: "/", label: "Home", icon: "home" },
+  { href: "/components", label: "Shop", icon: "grid" },
+  { href: "/packs", label: "Packs", icon: "layers" },
+  { href: "/pricing", label: "Pricing", icon: "tag" },
+  { href: "/custom", label: "Custom", icon: "pencil" },
+];
+function BottomNav() {
+  const path = usePathname();
+  return (
+    <nav aria-label="Main" className="fixed inset-x-0 bottom-0 z-40 border-t border-line bg-white/95 pb-[env(safe-area-inset-bottom)] backdrop-blur lg:hidden">
+      <ul className="mx-auto flex max-w-2xl">
+        {tabs.map((t) => {
+          const on = t.href === "/" ? path === "/" : path.startsWith(t.href);
+          return (
+            <li key={t.href} className="flex-1">
+              <Link href={t.href} aria-current={on ? "page" : undefined}
+                className={`relative flex flex-col items-center gap-1 pb-2 pt-2.5 text-[11px] font-medium transition-colors ${on ? "text-ink" : "text-ink-faint hover:text-ink-soft"}`}>
+                {on && <span className="absolute inset-x-1/4 top-0 h-[2px] rounded-full bg-tile-blue" />}
+                <Icon name={t.icon} className="h-[22px] w-[22px]" />
+                {t.label}
+              </Link>
+            </li>
+          );
+        })}
+      </ul>
+    </nav>
   );
 }
