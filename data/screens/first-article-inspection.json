@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/first-article-inspection/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Characteristics default",
+  "mobile": false,
+  "v": "ad74d2ba"
+ },
+ {
+  "src": "/screens/first-article-inspection/02.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Detail fail with ncr",
+  "mobile": false,
+  "v": "9f0219c8"
+ },
+ {
+  "src": "/screens/first-article-inspection/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Cards",
+  "mobile": true,
+  "v": "6b3a538c"
+ },
+ {
+  "src": "/screens/first-article-inspection/04.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Expanded card",
+  "mobile": true,
+  "v": "e2ae597d"
+ },
+ {
+  "src": "/screens/first-article-inspection/05.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Drawing map",
+  "mobile": true,
+  "v": "b9546d65"
+ },
+ {
+  "src": "/screens/first-article-inspection/06.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Keyboard entry and gauge",
+  "mobile": false,
+  "v": "d128bcf2"
+ }
+]

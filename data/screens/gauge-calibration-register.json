@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/gauge-calibration-register/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Register default",
+  "mobile": false,
+  "v": "eadcb365"
+ },
+ {
+  "src": "/screens/gauge-calibration-register/02.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Impact view default",
+  "mobile": false,
+  "v": "aa0fdf62"
+ },
+ {
+  "src": "/screens/gauge-calibration-register/03.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Oot gauge detail",
+  "mobile": false,
+  "v": "a0d28c60"
+ },
+ {
+  "src": "/screens/gauge-calibration-register/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Register cards",
+  "mobile": true,
+  "v": "a72bd560"
+ },
+ {
+  "src": "/screens/gauge-calibration-register/05.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Detail sheet",
+  "mobile": true,
+  "v": "0191c159"
+ },
+ {
+  "src": "/screens/gauge-calibration-register/06.webp",
+  "w": 375,
+  "h": 1256,
+  "caption": "B impact",
+  "mobile": true,
+  "v": "00785668"
+ }
+]

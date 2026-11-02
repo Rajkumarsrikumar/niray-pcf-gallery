@@ -889,7 +889,7 @@
   "industry": "Manufacturing",
   "status": "in progress",
   "componentsPlanned": 30,
-  "componentsBuilt": 13,
+  "componentsBuilt": 16,
   "price": null,
   "components": [
    {
@@ -986,21 +986,21 @@
    {
     "order": 14,
     "component": "FirstArticleInspection",
-    "slug": null,
+    "slug": "first-article-inspection",
     "subCategory": "Quality",
     "status": "reserved"
    },
    {
     "order": 15,
     "component": "GaugeCalibrationRegister",
-    "slug": null,
+    "slug": "gauge-calibration-register",
     "subCategory": "Quality",
     "status": "planned"
    },
    {
     "order": 16,
     "component": "EngineeringChangeOrder",
-    "slug": null,
+    "slug": "engineering-change-order",
     "subCategory": "Engineering",
     "status": "planned"
    },
