@@ -3,7 +3,7 @@ import AddToCart from "../AddToCart";
 import Icon from "../Icon";
 import { PRICE, allPacks, formatPrice, isAvailable, packComponents, packPreviews, themeFor, thumbOf } from "@/lib/catalog";
 
-export const metadata = { title: "Industry packs | Niray PCF Gallery" };
+export const metadata = { title: "Industry packs | Niray PCF Gallery", description: "Industry packs of Power Apps PCF code components for healthcare, financial services, education, government, manufacturing and more.", alternates: { canonical: "/packs" } };
 
 export default function Packs() {
   return (

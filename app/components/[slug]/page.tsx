@@ -16,7 +16,15 @@ export function generateStaticParams() {
 
 export function generateMetadata({ params }: { params: { slug: string } }) {
   const c = getComponent(params.slug);
-  return c ? { title: `${c.name} – Power Apps PCF component | Niray IT Solutions`, description: c.tagline, keywords: c.tags } : {};
+  if (!c) return {};
+  const shot = screensFor(c.slug).find((x) => !x.mobile) ?? screensFor(c.slug)[0];
+  return {
+    title: `${c.name} – Power Apps PCF component | Niray IT Solutions`,
+    description: `${c.tagline.replace(/\.\s*$/, "")}. A ready-to-import PCF code component for Power Apps and Power Pages, with managed solution and user manual.`,
+    keywords: c.tags,
+    alternates: { canonical: `/components/${c.slug}` },
+    openGraph: { title: `${c.name} – Power Apps PCF component`, description: c.tagline, url: `/components/${c.slug}`, ...(shot ? { images: [{ url: shot.src }] } : {}) },
+  };
 }
 
 export default function ProductPage({ params }: { params: { slug: string } }) {
@@ -30,7 +38,18 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
   const jsonLd = {
     "@context": "https://schema.org", "@type": "SoftwareApplication", name: c.name, description: c.tagline,
     applicationCategory: "BusinessApplication", operatingSystem: "Microsoft Power Platform", softwareVersion: c.componentVersion,
+    url: `https://niraypcfgallery.com/components/${c.slug}`,
+    ...(shots[0] ? { image: shots.map((s) => new URL(s.src, "https://niraypcfgallery.com").href) } : {}),
     publisher: { "@type": "Organization", name: "Niray IT Solutions Pte. Ltd.", url: "https://www.nirayitsolutions.com" },
+    ...(isAvailable(c) ? { offers: { "@type": "Offer", price: PRICE.component, priceCurrency: "SGD", availability: "https://schema.org/InStock", url: `https://niraypcfgallery.com/components/${c.slug}` } } : {}),
+  };
+  const crumbsLd = {
+    "@context": "https://schema.org", "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://niraypcfgallery.com/" },
+      { "@type": "ListItem", position: 2, name: "Components", item: "https://niraypcfgallery.com/components" },
+      { "@type": "ListItem", position: 3, name: c.name },
+    ],
   };
   const specs: [string, string | null | undefined][] = [
     ["Schema name", c.schemaName], ["Component version", c.componentVersion], ["Solution version", c.solutionVersion ?? "Added in next release"],
@@ -39,7 +58,7 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-6 sm:py-8">
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify([jsonLd, crumbsLd]) }} />
       <nav className="mb-5 flex flex-wrap items-center gap-1.5 text-sm text-ink-faint" aria-label="Breadcrumb">
         <Link href="/" className="hover:text-ink">Home</Link><span>/</span>
         <Link href="/components" className="hover:text-ink">Components</Link><span>/</span>

@@ -2,7 +2,7 @@ import Link from "next/link";
 import Icon from "../Icon";
 import { PRICE, formatPrice } from "@/lib/catalog";
 
-export const metadata = { title: "Pricing | Niray PCF Gallery" };
+export const metadata = { title: "Pricing | Niray PCF Gallery", description: `Power Apps PCF components from ${formatPrice(PRICE.component)} each, or ${formatPrice(PRICE.pack)} for a full industry pack. Each includes a managed solution and a user manual.`, alternates: { canonical: "/pricing" } };
 
 const tiers = [
   { name: "Single component", body: "One PCF control for your organisation.", items: ["Managed solution", "User manual", "12 months of updates"], cta: "/components", price: formatPrice(PRICE.component) },

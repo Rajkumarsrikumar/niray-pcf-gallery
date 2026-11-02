@@ -11,7 +11,12 @@ export function generateStaticParams() {
 
 export function generateMetadata({ params }: { params: { slug: string } }) {
   const p = getPack(params.slug);
-  return p ? { title: `${p.name} | Niray PCF Gallery` } : {};
+  if (!p) return {};
+  return {
+    title: `${p.name} | Niray PCF Gallery`,
+    description: `${p.name}: ${p.components.length} Power Apps PCF code components for ${p.industry}, for Canvas apps, Model-driven apps and Power Pages.`,
+    alternates: { canonical: `/packs/${p.slug}` },
+  };
 }
 
 export default function PackPage({ params }: { params: { slug: string } }) {
