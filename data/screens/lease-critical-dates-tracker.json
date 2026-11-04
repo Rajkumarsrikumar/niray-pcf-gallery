@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/lease-critical-dates-tracker/01.webp",
+  "w": 1012,
+  "h": 837,
+  "caption": "Timeline default",
+  "mobile": false,
+  "v": "efc2cd41"
+ },
+ {
+  "src": "/screens/lease-critical-dates-tracker/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Timeline rail",
+  "mobile": true,
+  "v": "3a27b43b"
+ },
+ {
+  "src": "/screens/lease-critical-dates-tracker/03.webp",
+  "w": 375,
+  "h": 1506,
+  "caption": "B",
+  "mobile": true,
+  "v": "ca05a0d6"
+ },
+ {
+  "src": "/screens/lease-critical-dates-tracker/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Detail sheet",
+  "mobile": true,
+  "v": "9725c528"
+ },
+ {
+  "src": "/screens/lease-critical-dates-tracker/05.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "List cards",
+  "mobile": true,
+  "v": "071876dc"
+ },
+ {
+  "src": "/screens/lease-critical-dates-tracker/06.webp",
+  "w": 375,
+  "h": 1506,
+  "caption": "Calendar agenda",
+  "mobile": true,
+  "v": "1d85de54"
+ }
+]

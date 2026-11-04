@@ -1110,7 +1110,7 @@
   "industry": "Real Estate & Facilities",
   "status": "in progress",
   "componentsPlanned": 30,
-  "componentsBuilt": 2,
+  "componentsBuilt": 4,
   "price": null,
   "components": [
    {
@@ -1130,14 +1130,14 @@
    {
     "order": 3,
     "component": "LeaseCriticalDatesTracker",
-    "slug": null,
+    "slug": "lease-critical-dates-tracker",
     "subCategory": "Lease Administration",
     "status": "planned"
    },
    {
     "order": 4,
     "component": "TenantMaintenanceRequestPortal",
-    "slug": null,
+    "slug": "tenant-maintenance-request-portal",
     "subCategory": "Property Operations",
     "status": "planned"
    },

@@ -659,6 +659,14 @@
    {
     "slug": "cam-reconciliation-worksheet",
     "subCategory": "Leasing & Revenue"
+   },
+   {
+    "slug": "lease-critical-dates-tracker",
+    "subCategory": "Lease Administration"
+   },
+   {
+    "slug": "tenant-maintenance-request-portal",
+    "subCategory": "Property Operations"
    }
   ],
   "price": null
