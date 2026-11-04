@@ -1110,7 +1110,7 @@
   "industry": "Real Estate & Facilities",
   "status": "in progress",
   "componentsPlanned": 30,
-  "componentsBuilt": 1,
+  "componentsBuilt": 2,
   "price": null,
   "components": [
    {
@@ -1123,7 +1123,7 @@
    {
     "order": 2,
     "component": "CamReconciliationWorksheet",
-    "slug": null,
+    "slug": "cam-reconciliation-worksheet",
     "subCategory": "Leasing & Revenue",
     "status": "planned"
    },

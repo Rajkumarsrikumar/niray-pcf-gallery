@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/cam-reconciliation-worksheet/01.webp",
+  "w": 1298,
+  "h": 868,
+  "caption": "Tenants worksheet",
+  "mobile": false,
+  "v": "500a285e"
+ },
+ {
+  "src": "/screens/cam-reconciliation-worksheet/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Cards",
+  "mobile": true,
+  "v": "ed127870"
+ },
+ {
+  "src": "/screens/cam-reconciliation-worksheet/03.webp",
+  "w": 391,
+  "h": 2122,
+  "caption": "B cards",
+  "mobile": true,
+  "v": "c390ec66"
+ },
+ {
+  "src": "/screens/cam-reconciliation-worksheet/04.webp",
+  "w": 391,
+  "h": 2095,
+  "caption": "Statement",
+  "mobile": true,
+  "v": "3de2b8ac"
+ },
+ {
+  "src": "/screens/cam-reconciliation-worksheet/05.webp",
+  "w": 1298,
+  "h": 676,
+  "caption": "Filter due sorted by balance",
+  "mobile": false,
+  "v": "f6357180"
+ },
+ {
+  "src": "/screens/cam-reconciliation-worksheet/06.webp",
+  "w": 1298,
+  "h": 452,
+  "caption": "Search tenant",
+  "mobile": false,
+  "v": "23b7554d"
+ }
+]
