@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/tenant-maintenance-request-portal/01.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Step1 location",
+  "mobile": false,
+  "v": "11f80834"
+ },
+ {
+  "src": "/screens/tenant-maintenance-request-portal/02.webp",
+  "w": 373,
+  "h": 1567,
+  "caption": "Step2",
+  "mobile": true,
+  "v": "fe19473a"
+ },
+ {
+  "src": "/screens/tenant-maintenance-request-portal/03.webp",
+  "w": 373,
+  "h": 1172,
+  "caption": "Request list",
+  "mobile": true,
+  "v": "4d70e23b"
+ },
+ {
+  "src": "/screens/tenant-maintenance-request-portal/04.webp",
+  "w": 373,
+  "h": 1427,
+  "caption": "B request detail",
+  "mobile": true,
+  "v": "d0d84a6c"
+ },
+ {
+  "src": "/screens/tenant-maintenance-request-portal/05.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Step2 category safety check",
+  "mobile": false,
+  "v": "d3d8da69"
+ },
+ {
+  "src": "/screens/tenant-maintenance-request-portal/06.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Emergency guidance escalation",
+  "mobile": false,
+  "v": "22a36371"
+ }
+]
