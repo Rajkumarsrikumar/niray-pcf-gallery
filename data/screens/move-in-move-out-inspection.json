@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/move-in-move-out-inspection/01.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "6d073b67"
+ },
+ {
+  "src": "/screens/move-in-move-out-inspection/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard bottom bar",
+  "mobile": true,
+  "v": "3c656bdb"
+ },
+ {
+  "src": "/screens/move-in-move-out-inspection/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Compare",
+  "mobile": true,
+  "v": "99ffd584"
+ },
+ {
+  "src": "/screens/move-in-move-out-inspection/04.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Inspections list",
+  "mobile": false,
+  "v": "b2e661e0"
+ },
+ {
+  "src": "/screens/move-in-move-out-inspection/05.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "List grouped sorted multiselect",
+  "mobile": false,
+  "v": "ea38d7d9"
+ },
+ {
+  "src": "/screens/move-in-move-out-inspection/06.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Compare rooms moveout in progress",
+  "mobile": false,
+  "v": "acf0c0f3"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/tenant-ledger-statement/01.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "01dfa918"
+ },
+ {
+  "src": "/screens/tenant-ledger-statement/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard bottom bar",
+  "mobile": true,
+  "v": "fed3dcb0"
+ },
+ {
+  "src": "/screens/tenant-ledger-statement/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Ledger",
+  "mobile": true,
+  "v": "3a1e7b71"
+ },
+ {
+  "src": "/screens/tenant-ledger-statement/04.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "Accounts list",
+  "mobile": false,
+  "v": "637ceb12"
+ },
+ {
+  "src": "/screens/tenant-ledger-statement/05.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "Accounts grouped sorted multiselect",
+  "mobile": false,
+  "v": "044fd9df"
+ },
+ {
+  "src": "/screens/tenant-ledger-statement/06.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "Bulk reminder confirmation",
+  "mobile": false,
+  "v": "f5e69b01"
+ }
+]

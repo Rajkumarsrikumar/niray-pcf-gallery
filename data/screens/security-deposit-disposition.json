@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/security-deposit-disposition/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "0ae48e68"
+ },
+ {
+  "src": "/screens/security-deposit-disposition/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard bottom bar",
+  "mobile": true,
+  "v": "f1a2b140"
+ },
+ {
+  "src": "/screens/security-deposit-disposition/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Statement",
+  "mobile": true,
+  "v": "37847565"
+ },
+ {
+  "src": "/screens/security-deposit-disposition/04.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "Dispositions list",
+  "mobile": false,
+  "v": "be10c61a"
+ },
+ {
+  "src": "/screens/security-deposit-disposition/05.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "List grouped sorted multiselect",
+  "mobile": false,
+  "v": "e331e8a8"
+ },
+ {
+  "src": "/screens/security-deposit-disposition/06.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "Bulk advance confirmation",
+  "mobile": false,
+  "v": "e41a5ebf"
+ }
+]

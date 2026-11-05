@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/unit-availability-finder/01.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "5d3e9cc8"
+ },
+ {
+  "src": "/screens/unit-availability-finder/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Overview bottom bar",
+  "mobile": true,
+  "v": "8e02e7a2"
+ },
+ {
+  "src": "/screens/unit-availability-finder/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Search",
+  "mobile": true,
+  "v": "66a8e907"
+ },
+ {
+  "src": "/screens/unit-availability-finder/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Board",
+  "mobile": true,
+  "v": "ab2283e0"
+ },
+ {
+  "src": "/screens/unit-availability-finder/05.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Demo search cards",
+  "mobile": false,
+  "v": "ff0aafbd"
+ },
+ {
+  "src": "/screens/unit-availability-finder/06.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Data dashboard csv",
+  "mobile": false,
+  "v": "9d94ee65"
+ }
+]

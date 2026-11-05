@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/rent-escalation-schedule-builder/01.webp",
+  "w": 1366,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "94b1bd95"
+ },
+ {
+  "src": "/screens/rent-escalation-schedule-builder/02.webp",
+  "w": 1366,
+  "h": 900,
+  "caption": "Dashboard bottom bar",
+  "mobile": false,
+  "v": "a9cf9c10"
+ },
+ {
+  "src": "/screens/rent-escalation-schedule-builder/03.webp",
+  "w": 1366,
+  "h": 900,
+  "caption": "Builder",
+  "mobile": false,
+  "v": "c67b53f1"
+ },
+ {
+  "src": "/screens/rent-escalation-schedule-builder/04.webp",
+  "w": 1366,
+  "h": 900,
+  "caption": "Leases list",
+  "mobile": false,
+  "v": "ed233bca"
+ },
+ {
+  "src": "/screens/rent-escalation-schedule-builder/05.webp",
+  "w": 1366,
+  "h": 900,
+  "caption": "List grouped sorted multiselect",
+  "mobile": false,
+  "v": "8509ea81"
+ },
+ {
+  "src": "/screens/rent-escalation-schedule-builder/06.webp",
+  "w": 1366,
+  "h": 900,
+  "caption": "Bulk advance confirmation",
+  "mobile": false,
+  "v": "2b25d4b8"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/facilities-helpdesk-triage/01.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "c06221ba"
+ },
+ {
+  "src": "/screens/facilities-helpdesk-triage/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard bottom bar",
+  "mobile": true,
+  "v": "3a25c084"
+ },
+ {
+  "src": "/screens/facilities-helpdesk-triage/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Triage",
+  "mobile": true,
+  "v": "6ef1e752"
+ },
+ {
+  "src": "/screens/facilities-helpdesk-triage/04.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "Triage queue critical first",
+  "mobile": false,
+  "v": "92a1a894"
+ },
+ {
+  "src": "/screens/facilities-helpdesk-triage/05.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "Triage card matrix priority routing",
+  "mobile": false,
+  "v": "091a2cf0"
+ },
+ {
+  "src": "/screens/facilities-helpdesk-triage/06.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "Bulk triage confirmation",
+  "mobile": false,
+  "v": "66e9719a"
+ }
+]
