@@ -727,6 +727,18 @@
    {
     "slug": "capex-reserve-study",
     "subCategory": "Asset Management"
+   },
+   {
+    "slug": "hoa-violation-tracker",
+    "subCategory": "Community Associations"
+   },
+   {
+    "slug": "key-access-control-register",
+    "subCategory": "Facilities Management"
+   },
+   {
+    "slug": "contractor-compliance-tracker",
+    "subCategory": "Facilities Management"
    }
   ],
   "price": null
