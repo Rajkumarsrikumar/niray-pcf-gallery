@@ -667,6 +667,34 @@
    {
     "slug": "tenant-maintenance-request-portal",
     "subCategory": "Property Operations"
+   },
+   {
+    "slug": "rental-application-wizard",
+    "subCategory": "Leasing & Revenue"
+   },
+   {
+    "slug": "unit-availability-finder",
+    "subCategory": "Leasing & Revenue"
+   },
+   {
+    "slug": "move-in-move-out-inspection",
+    "subCategory": "Property Operations"
+   },
+   {
+    "slug": "security-deposit-disposition",
+    "subCategory": "Property Operations"
+   },
+   {
+    "slug": "rent-escalation-schedule-builder",
+    "subCategory": "Lease Administration"
+   },
+   {
+    "slug": "tenant-ledger-statement",
+    "subCategory": "Leasing & Revenue"
+   },
+   {
+    "slug": "facilities-helpdesk-triage",
+    "subCategory": "Facilities Management"
    }
   ],
   "price": null

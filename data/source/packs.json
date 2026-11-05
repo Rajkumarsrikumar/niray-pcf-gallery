@@ -1110,7 +1110,7 @@
   "industry": "Real Estate & Facilities",
   "status": "in progress",
   "componentsPlanned": 30,
-  "componentsBuilt": 4,
+  "componentsBuilt": 11,
   "price": null,
   "components": [
    {
@@ -1144,49 +1144,49 @@
    {
     "order": 5,
     "component": "RentalApplicationWizard",
-    "slug": null,
+    "slug": "rental-application-wizard",
     "subCategory": "Leasing & Revenue",
     "status": "planned"
    },
    {
     "order": 6,
     "component": "UnitAvailabilityFinder",
-    "slug": null,
+    "slug": "unit-availability-finder",
     "subCategory": "Leasing & Revenue",
     "status": "planned"
    },
    {
     "order": 7,
     "component": "MoveInOutInspection",
-    "slug": null,
+    "slug": "move-in-move-out-inspection",
     "subCategory": "Property Operations",
     "status": "planned"
    },
    {
     "order": 8,
     "component": "SecurityDepositDisposition",
-    "slug": null,
+    "slug": "security-deposit-disposition",
     "subCategory": "Property Operations",
     "status": "planned"
    },
    {
     "order": 9,
     "component": "RentEscalationScheduleBuilder",
-    "slug": null,
+    "slug": "rent-escalation-schedule-builder",
     "subCategory": "Lease Administration",
     "status": "planned"
    },
    {
     "order": 10,
     "component": "TenantLedgerStatement",
-    "slug": null,
+    "slug": "tenant-ledger-statement",
     "subCategory": "Leasing & Revenue",
     "status": "planned"
    },
    {
     "order": 11,
     "component": "FacilitiesHelpdeskTriage",
-    "slug": null,
+    "slug": "facilities-helpdesk-triage",
     "subCategory": "Facilities Management",
     "status": "planned"
    },
