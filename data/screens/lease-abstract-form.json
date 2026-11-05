@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/lease-abstract-form/01.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "008e8ed9"
+ },
+ {
+  "src": "/screens/lease-abstract-form/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard bottom bar",
+  "mobile": true,
+  "v": "185052d6"
+ },
+ {
+  "src": "/screens/lease-abstract-form/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Abstract form",
+  "mobile": true,
+  "v": "e42b513b"
+ },
+ {
+  "src": "/screens/lease-abstract-form/04.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "Leases completeness scores",
+  "mobile": false,
+  "v": "baecc453"
+ },
+ {
+  "src": "/screens/lease-abstract-form/05.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "Abstract form sections",
+  "mobile": false,
+  "v": "ce3b7764"
+ },
+ {
+  "src": "/screens/lease-abstract-form/06.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "Field editor validation clause required",
+  "mobile": false,
+  "v": "c090883d"
+ }
+]

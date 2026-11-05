@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/move-management-planner/01.webp",
+  "w": 1012,
+  "h": 837,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "08932a04"
+ },
+ {
+  "src": "/screens/move-management-planner/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard bottom bar",
+  "mobile": true,
+  "v": "f747e99a"
+ },
+ {
+  "src": "/screens/move-management-planner/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Waves",
+  "mobile": true,
+  "v": "60ea65c9"
+ },
+ {
+  "src": "/screens/move-management-planner/04.webp",
+  "w": 1012,
+  "h": 837,
+  "caption": "Waves board limits",
+  "mobile": false,
+  "v": "df1ec641"
+ },
+ {
+  "src": "/screens/move-management-planner/05.webp",
+  "w": 1012,
+  "h": 837,
+  "caption": "Waves drag drop to wave 4",
+  "mobile": false,
+  "v": "22c46a9e"
+ },
+ {
+  "src": "/screens/move-management-planner/06.webp",
+  "w": 1012,
+  "h": 837,
+  "caption": "Moves list",
+  "mobile": false,
+  "v": "828a37d4"
+ }
+]
