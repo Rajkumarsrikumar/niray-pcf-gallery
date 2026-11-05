@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/parking-permit-manager/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "021f2b3e"
+ },
+ {
+  "src": "/screens/parking-permit-manager/02.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "M bay map",
+  "mobile": true,
+  "v": "d4228a72"
+ },
+ {
+  "src": "/screens/parking-permit-manager/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "M dashboard bottom bar",
+  "mobile": true,
+  "v": "ee928595"
+ },
+ {
+  "src": "/screens/parking-permit-manager/04.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "M detail overlay",
+  "mobile": true,
+  "v": "8e18a189"
+ },
+ {
+  "src": "/screens/parking-permit-manager/05.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "M form sheet validation",
+  "mobile": true,
+  "v": "a1ce6b5a"
+ },
+ {
+  "src": "/screens/parking-permit-manager/06.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Dashboard sample data",
+  "mobile": false,
+  "v": "e6f932d0"
+ }
+]

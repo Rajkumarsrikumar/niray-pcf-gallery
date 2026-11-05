@@ -1110,7 +1110,7 @@
   "industry": "Real Estate & Facilities",
   "status": "in progress",
   "componentsPlanned": 30,
-  "componentsBuilt": 15,
+  "componentsBuilt": 19,
   "price": null,
   "components": [
    {
@@ -1221,21 +1221,21 @@
    {
     "order": 16,
     "component": "ParkingPermitManager",
-    "slug": null,
+    "slug": "parking-permit-manager",
     "subCategory": "Property Operations",
     "status": "planned"
    },
    {
     "order": 17,
     "component": "PropertyComparablesAnalyzer",
-    "slug": null,
+    "slug": "property-comparables-analyzer",
     "subCategory": "Valuation & Investment",
     "status": "planned"
    },
    {
     "order": 18,
     "component": "NoiProFormaModeler",
-    "slug": null,
+    "slug": "noi-pro-forma-modeler",
     "subCategory": "Valuation & Investment",
     "status": "planned"
    },
@@ -1249,7 +1249,7 @@
    {
     "order": 20,
     "component": "CapexReserveStudy",
-    "slug": null,
+    "slug": "capex-reserve-study",
     "subCategory": "Asset Management",
     "status": "planned"
    },

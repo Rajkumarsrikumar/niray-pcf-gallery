@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/noi-pro-forma-modeler/01.webp",
+  "w": 1012,
+  "h": 837,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "5f4cc4b4"
+ },
+ {
+  "src": "/screens/noi-pro-forma-modeler/02.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Deals bottom bar",
+  "mobile": true,
+  "v": "00001c50"
+ },
+ {
+  "src": "/screens/noi-pro-forma-modeler/03.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Assumption cards",
+  "mobile": true,
+  "v": "49741079"
+ },
+ {
+  "src": "/screens/noi-pro-forma-modeler/04.webp",
+  "w": 1012,
+  "h": 837,
+  "caption": "Assumptions lines",
+  "mobile": false,
+  "v": "2b3c132a"
+ },
+ {
+  "src": "/screens/noi-pro-forma-modeler/05.webp",
+  "w": 1012,
+  "h": 837,
+  "caption": "Needs attention chip",
+  "mobile": false,
+  "v": "b23cc198"
+ },
+ {
+  "src": "/screens/noi-pro-forma-modeler/06.webp",
+  "w": 1012,
+  "h": 837,
+  "caption": "Line detail by year",
+  "mobile": false,
+  "v": "3f32fab9"
+ }
+]

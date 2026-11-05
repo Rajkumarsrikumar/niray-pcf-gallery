@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/property-comparables-analyzer/01.webp",
+  "w": 1012,
+  "h": 837,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "c500b31f"
+ },
+ {
+  "src": "/screens/property-comparables-analyzer/02.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Dashboard bottom bar",
+  "mobile": true,
+  "v": "8894e521"
+ },
+ {
+  "src": "/screens/property-comparables-analyzer/03.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Grid cards",
+  "mobile": true,
+  "v": "0f985252"
+ },
+ {
+  "src": "/screens/property-comparables-analyzer/04.webp",
+  "w": 1012,
+  "h": 837,
+  "caption": "Comparables list",
+  "mobile": false,
+  "v": "318655f3"
+ },
+ {
+  "src": "/screens/property-comparables-analyzer/05.webp",
+  "w": 1012,
+  "h": 837,
+  "caption": "Comparables flagged chip",
+  "mobile": false,
+  "v": "17003bcd"
+ },
+ {
+  "src": "/screens/property-comparables-analyzer/06.webp",
+  "w": 1012,
+  "h": 837,
+  "caption": "Comp detail adjustments flags",
+  "mobile": false,
+  "v": "33bcf124"
+ }
+]

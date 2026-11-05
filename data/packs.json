@@ -711,6 +711,22 @@
    {
     "slug": "visitor-pre-registration",
     "subCategory": "Workplace & Space"
+   },
+   {
+    "slug": "parking-permit-manager",
+    "subCategory": "Property Operations"
+   },
+   {
+    "slug": "property-comparables-analyzer",
+    "subCategory": "Valuation & Investment"
+   },
+   {
+    "slug": "noi-pro-forma-modeler",
+    "subCategory": "Valuation & Investment"
+   },
+   {
+    "slug": "capex-reserve-study",
+    "subCategory": "Asset Management"
    }
   ],
   "price": null
