@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/capex-reserve-study/01.webp",
+  "w": 1012,
+  "h": 837,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "2f94c83e"
+ },
+ {
+  "src": "/screens/capex-reserve-study/02.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Studies bottom bar",
+  "mobile": true,
+  "v": "d12cb483"
+ },
+ {
+  "src": "/screens/capex-reserve-study/03.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Component cards",
+  "mobile": true,
+  "v": "65f85176"
+ },
+ {
+  "src": "/screens/capex-reserve-study/04.webp",
+  "w": 1012,
+  "h": 837,
+  "caption": "Components inventory",
+  "mobile": false,
+  "v": "c6de371e"
+ },
+ {
+  "src": "/screens/capex-reserve-study/05.webp",
+  "w": 1012,
+  "h": 837,
+  "caption": "Due soon chip",
+  "mobile": false,
+  "v": "1d9a80cb"
+ },
+ {
+  "src": "/screens/capex-reserve-study/06.webp",
+  "w": 1012,
+  "h": 837,
+  "caption": "Grouped by category",
+  "mobile": false,
+  "v": "f8e6ac77"
+ }
+]
