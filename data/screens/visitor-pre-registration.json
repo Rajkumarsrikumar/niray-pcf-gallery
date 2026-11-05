@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/visitor-pre-registration/01.webp",
+  "w": 1012,
+  "h": 837,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "1c3ca4a5"
+ },
+ {
+  "src": "/screens/visitor-pre-registration/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard bottom bar",
+  "mobile": true,
+  "v": "b5c73ca8"
+ },
+ {
+  "src": "/screens/visitor-pre-registration/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Kiosk confirm",
+  "mobile": true,
+  "v": "d14a8577"
+ },
+ {
+  "src": "/screens/visitor-pre-registration/04.webp",
+  "w": 1012,
+  "h": 837,
+  "caption": "Visits list",
+  "mobile": false,
+  "v": "6bd73456"
+ },
+ {
+  "src": "/screens/visitor-pre-registration/05.webp",
+  "w": 1012,
+  "h": 837,
+  "caption": "Visits needs attention by site",
+  "mobile": false,
+  "v": "12418e84"
+ },
+ {
+  "src": "/screens/visitor-pre-registration/06.webp",
+  "w": 1012,
+  "h": 837,
+  "caption": "Approve blocked security flag",
+  "mobile": false,
+  "v": "265c3072"
+ }
+]

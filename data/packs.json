@@ -695,6 +695,22 @@
    {
     "slug": "facilities-helpdesk-triage",
     "subCategory": "Facilities Management"
+   },
+   {
+    "slug": "lease-abstract-form",
+    "subCategory": "Lease Administration"
+   },
+   {
+    "slug": "occupancy-utilisation-heatmap",
+    "subCategory": "Workplace & Space"
+   },
+   {
+    "slug": "move-management-planner",
+    "subCategory": "Workplace & Space"
+   },
+   {
+    "slug": "visitor-pre-registration",
+    "subCategory": "Workplace & Space"
    }
   ],
   "price": null

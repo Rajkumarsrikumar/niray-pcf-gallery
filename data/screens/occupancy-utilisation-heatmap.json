@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/occupancy-utilisation-heatmap/01.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "49b74ee3"
+ },
+ {
+  "src": "/screens/occupancy-utilisation-heatmap/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard bottom bar",
+  "mobile": true,
+  "v": "b12a6c97"
+ },
+ {
+  "src": "/screens/occupancy-utilisation-heatmap/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Heatmap days",
+  "mobile": true,
+  "v": "fc16578e"
+ },
+ {
+  "src": "/screens/occupancy-utilisation-heatmap/04.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "Heatmap zone day hour average",
+  "mobile": false,
+  "v": "de4881e0"
+ },
+ {
+  "src": "/screens/occupancy-utilisation-heatmap/05.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "Heatmap floors peak",
+  "mobile": false,
+  "v": "3eda38f4"
+ },
+ {
+  "src": "/screens/occupancy-utilisation-heatmap/06.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "Heatmap zone types by hour",
+  "mobile": false,
+  "v": "02bc87ef"
+ }
+]
