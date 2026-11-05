@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/contractor-compliance-tracker/01.webp",
+  "w": 1366,
+  "h": 860,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "3076aec8"
+ },
+ {
+  "src": "/screens/contractor-compliance-tracker/02.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Dashboard bottom bar",
+  "mobile": true,
+  "v": "e2af6275"
+ },
+ {
+  "src": "/screens/contractor-compliance-tracker/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Contractor cards",
+  "mobile": true,
+  "v": "fcdaccac"
+ },
+ {
+  "src": "/screens/contractor-compliance-tracker/04.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Document cards",
+  "mobile": true,
+  "v": "024b1049"
+ },
+ {
+  "src": "/screens/contractor-compliance-tracker/05.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Document detail",
+  "mobile": true,
+  "v": "66089f11"
+ },
+ {
+  "src": "/screens/contractor-compliance-tracker/06.webp",
+  "w": 1366,
+  "h": 860,
+  "caption": "Csv data mapped dashboard",
+  "mobile": false,
+  "v": "d488099b"
+ }
+]

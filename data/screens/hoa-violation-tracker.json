@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/hoa-violation-tracker/01.webp",
+  "w": 1012,
+  "h": 837,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "c334b05d"
+ },
+ {
+  "src": "/screens/hoa-violation-tracker/02.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Dashboard bottom bar",
+  "mobile": true,
+  "v": "b58eb940"
+ },
+ {
+  "src": "/screens/hoa-violation-tracker/03.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Case cards",
+  "mobile": true,
+  "v": "fb40ae44"
+ },
+ {
+  "src": "/screens/hoa-violation-tracker/04.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Case detail",
+  "mobile": true,
+  "v": "d3b95083"
+ },
+ {
+  "src": "/screens/hoa-violation-tracker/05.webp",
+  "w": 1012,
+  "h": 837,
+  "caption": "Csv data mapped dashboard",
+  "mobile": false,
+  "v": "6ec973a6"
+ },
+ {
+  "src": "/screens/hoa-violation-tracker/06.webp",
+  "w": 1012,
+  "h": 837,
+  "caption": "Cases list by urgency",
+  "mobile": false,
+  "v": "1c470786"
+ }
+]
