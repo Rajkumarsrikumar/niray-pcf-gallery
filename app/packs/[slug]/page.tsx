@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import AddToCart from "../../AddToCart";
 import Icon from "../../Icon";
 import ProductCard from "../../ProductCard";
+import { packKeywords } from "@/lib/seo";
 import { HEALTH_NOTICE, PRICE, allComponents, allPacks, formatPrice, getPack, isAvailable, packPreviews, themeFor, thumbOf } from "@/lib/catalog";
 
 export function generateStaticParams() {
@@ -13,8 +14,9 @@ export function generateMetadata({ params }: { params: { slug: string } }) {
   const p = getPack(params.slug);
   if (!p) return {};
   return {
-    title: `${p.name} | Niray PCF Gallery`,
+    title: `${p.name} – ${p.industry} Power Apps PCF controls | Niray`,
     description: `${p.name}: ${p.components.length} Power Apps PCF code components for ${p.industry}, for Canvas apps, Model-driven apps and Power Pages.`,
+    keywords: packKeywords(p),
     alternates: { canonical: `/packs/${p.slug}` },
   };
 }

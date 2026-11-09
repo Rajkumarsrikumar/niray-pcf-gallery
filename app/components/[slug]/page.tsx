@@ -8,6 +8,7 @@ import ScreenGallery from "../../ScreenGallery";
 import FreeDownload from "./FreeDownload";
 import Sections from "./Sections";
 import delivery from "@/data/delivery.json";
+import { componentKeywords } from "@/lib/seo";
 import { CONTACT, HEALTH_NOTICE, PRICE, formatPrice, allComponents, getComponent, isAvailable, packForComponent, screensFor, themeFor } from "@/lib/catalog";
 
 export function generateStaticParams() {
@@ -19,9 +20,9 @@ export function generateMetadata({ params }: { params: { slug: string } }) {
   if (!c) return {};
   const shot = screensFor(c.slug).find((x) => !x.mobile) ?? screensFor(c.slug)[0];
   return {
-    title: `${c.name} – Power Apps PCF component | Niray IT Solutions`,
-    description: `${c.tagline.replace(/\.\s*$/, "")}. A ready-to-import PCF code component for Power Apps and Power Pages, with managed solution and user manual.`,
-    keywords: c.tags,
+    title: `${c.name} – PCF control for Power Apps & Power Pages | Niray`,
+    description: `${c.tagline.replace(/\.\s*$/, "")}. ${c.name} is a ready-to-import PCF control for ${c.industry} Power Apps (Canvas, Model-driven) and Power Pages, with managed solution and user manual.`,
+    keywords: componentKeywords(c),
     alternates: { canonical: `/components/${c.slug}` },
     openGraph: { title: `${c.name} – Power Apps PCF component`, description: c.tagline, url: `/components/${c.slug}`, ...(shot ? { images: [{ url: shot.src }] } : {}) },
   };
@@ -37,7 +38,7 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
   const shots = screensFor(c.slug);
   const jsonLd = {
     "@context": "https://schema.org", "@type": "SoftwareApplication", name: c.name, description: c.tagline,
-    applicationCategory: "BusinessApplication", operatingSystem: "Microsoft Power Platform", softwareVersion: c.componentVersion,
+    applicationCategory: "BusinessApplication", keywords: componentKeywords(c).join(", "), operatingSystem: "Microsoft Power Platform", softwareVersion: c.componentVersion,
     url: `https://niraypcfgallery.com/components/${c.slug}`,
     ...(shots[0] ? { image: shots.map((s) => new URL(s.src, "https://niraypcfgallery.com").href) } : {}),
     publisher: { "@type": "Organization", name: "Niray IT Solutions Pte. Ltd.", url: "https://www.nirayitsolutions.com" },
