@@ -9,6 +9,7 @@ const files = delivery as Record<string, Entry>;
 
 export const canDeliver = (slug: string) => slug in files;
 export const deliveryEntry = (slug: string): Entry | undefined => files[slug];
+export const deliveryEntries = () => Object.entries(files);
 
 /** Short-lived R2 link to a component's managed zip or PDF manual, saved under its real file name. */
 export function downloadUrl(slug: string, file: "managed" | "manual") {
@@ -23,24 +24,35 @@ export function downloadUrl(slug: string, file: "managed" | "manual") {
  * e.g. https://library.example.com/PCF-Library/Final%20PCF/{file}. PCF_FILES_USER / PCF_FILES_PASSWORD add
  * HTTP Basic auth (WebDAV).
  */
-async function fetchFile(slug: string, entry: Entry, file: string) {
-  if (r2Configured()) {
-    const res = await fetch(r2Url(componentKey(entry.component, file)), { cache: "no-store" });
-    if (!res.ok) throw new Error(`R2 file ${file} returned ${res.status}`);
-    return Buffer.from(await res.arrayBuffer());
-  }
+export const libraryConfigured = () => Boolean(process.env.PCF_FILE_URL_TEMPLATE);
+
+/** One file from the VPS library. Returns null on 404. */
+export async function fetchFromLibrary(slug: string, component: string, file: string) {
   const template = process.env.PCF_FILE_URL_TEMPLATE;
   if (!template) throw new Error("PCF_FILE_URL_TEMPLATE is not set");
   const url = template
-    .replaceAll("{component}", encodeURIComponent(entry.component))
+    .replaceAll("{component}", encodeURIComponent(component))
     .replaceAll("{slug}", encodeURIComponent(slug))
     .replaceAll("{file}", encodeURIComponent(file));
   const user = process.env.PCF_FILES_USER;
   const headers: Record<string, string> = {};
   if (user) headers.Authorization = `Basic ${Buffer.from(`${user}:${process.env.PCF_FILES_PASSWORD ?? ""}`).toString("base64")}`;
   const res = await fetch(url, { headers, cache: "no-store" });
+  if (res.status === 404) return null;
   if (!res.ok) throw new Error(`Library file ${file} returned ${res.status}`);
   return Buffer.from(await res.arrayBuffer());
+}
+
+/** From R2 first; if it isn't in R2 yet, from the VPS library. */
+async function fetchFile(slug: string, entry: Entry, file: string) {
+  if (r2Configured()) {
+    const res = await fetch(r2Url(componentKey(entry.component, file)), { cache: "no-store" });
+    if (res.ok) return Buffer.from(await res.arrayBuffer());
+    if (res.status !== 404 || !libraryConfigured()) throw new Error(`R2 file ${file} returned ${res.status}`);
+  }
+  const data = await fetchFromLibrary(slug, entry.component, file);
+  if (!data) throw new Error(`Library file ${file} returned 404`);
+  return data;
 }
 
 /** Zip with exactly two files: the managed solution and the PDF user manual. */
