@@ -22,9 +22,10 @@ export type Presign = {
   expiresIn: number;
   now?: Date;
   query?: Record<string, string>;
+  method?: "GET" | "HEAD" | "PUT";
 };
 
-/** SigV4 query-string presigned GET URL (host is the only signed header). */
+/** SigV4 query-string presigned URL (host is the only signed header). GET unless p.method says otherwise. */
 export function presignGet(p: Presign) {
   const amzDate = (p.now ?? new Date()).toISOString().replace(/[-:]/g, "").replace(/\.\d{3}/, "");
   const date = amzDate.slice(0, 8);
@@ -38,7 +39,7 @@ export function presignGet(p: Presign) {
     "X-Amz-SignedHeaders": "host",
   };
   const query = Object.keys(params).sort().map((k) => `${enc(k)}=${enc(params[k])}`).join("&");
-  const canonical = ["GET", p.path, query, `host:${p.host}\n`, "host", "UNSIGNED-PAYLOAD"].join("\n");
+  const canonical = [p.method ?? "GET", p.path, query, `host:${p.host}\n`, "host", "UNSIGNED-PAYLOAD"].join("\n");
   const toSign = ["AWS4-HMAC-SHA256", amzDate, scope, sha256(canonical)].join("\n");
   const key = hmac(hmac(hmac(hmac(`AWS4${p.secretAccessKey}`, date), p.region), "s3"), "aws4_request");
   const signature = createHmac("sha256", key).update(toSign).digest("hex");
@@ -49,7 +50,7 @@ export const r2Configured = () =>
   Boolean(process.env.R2_ACCOUNT_ID && process.env.R2_ACCESS_KEY_ID && process.env.R2_SECRET_ACCESS_KEY && process.env.R2_BUCKET);
 
 /** Short-lived link to one private object. downloadName makes the browser save it under that file name. */
-export function r2Url(key: string, expiresIn = 300, downloadName?: string) {
+export function r2Url(key: string, expiresIn = 300, downloadName?: string, method: "GET" | "HEAD" | "PUT" = "GET") {
   if (!r2Configured()) throw new Error("R2 is not configured: set R2_ACCOUNT_ID, R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY and R2_BUCKET");
   return presignGet({
     host: `${process.env.R2_ACCOUNT_ID}.r2.cloudflarestorage.com`,
@@ -58,6 +59,7 @@ export function r2Url(key: string, expiresIn = 300, downloadName?: string) {
     accessKeyId: process.env.R2_ACCESS_KEY_ID!,
     secretAccessKey: process.env.R2_SECRET_ACCESS_KEY!,
     expiresIn,
+    method,
     query: downloadName ? { "response-content-disposition": `attachment; filename="${downloadName.replace(/"/g, "")}"` } : undefined,
   });
 }
