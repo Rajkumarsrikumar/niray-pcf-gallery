@@ -99,7 +99,7 @@ async function viaRest(url: string, token: string, command: (string | number)[])
   return data.result as Reply;
 }
 
-async function redis<T = unknown>(...command: (string | number)[]): Promise<T> {
+export async function redis<T = unknown>(...command: (string | number)[]): Promise<T> {
   const restUrl = process.env.KV_REST_API_URL || process.env.UPSTASH_REDIS_REST_URL;
   const restToken = process.env.KV_REST_API_TOKEN || process.env.UPSTASH_REDIS_REST_TOKEN;
   if (restUrl && restToken) return (await viaRest(restUrl, restToken, command)) as T;
