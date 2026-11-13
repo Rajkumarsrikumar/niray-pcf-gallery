@@ -1,0 +1,41 @@
+{
+ "name": "CrossSellWhitespaceMatrix",
+ "displayName": "Cross-Sell Whitespace Matrix",
+ "slug": "cross-sell-whitespace-matrix",
+ "tagline": "Account by product matrix for cross-sell and upsell planning: owned, in-pipeline, declined and whitespace cells, product penetration against a target, whitespace…",
+ "description": "Account by product matrix for cross-sell and upsell planning: owned, in-pipeline, declined and whitespace cells, product penetration against a target, whitespace potential, search, segment filter, product focus and tap-to-create actions raised to Power Fx.",
+ "features": [
+  "Owned, in-pipeline",
+  "Declined and whitespace cells",
+  "Product penetration against a target, whitespace potential, search, segment filter",
+  "Product focus and tap-to-create actions raised to Power Fx"
+ ],
+ "industry": "CRM & Sales",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "cross",
+  "sell",
+  "whitespace",
+  "matrix",
+  "crm",
+  "sales"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-12",
+ "schemaName": "pcfl_PCFLib.CrossSellWhitespaceMatrix",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "CrossSellWhitespaceMatrix_USER_GUIDE.docx",
+ "screenshotCount": 7,
+ "price": null
+}

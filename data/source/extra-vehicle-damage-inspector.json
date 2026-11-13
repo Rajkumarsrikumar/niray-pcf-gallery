@@ -1,0 +1,40 @@
+{
+ "name": "VehicleDamageInspector",
+ "displayName": "Vehicle Damage Inspector",
+ "slug": "vehicle-damage-inspector",
+ "tagline": "The Vehicle Damage Inspector replaces paper walk-around sheets.",
+ "description": "The Vehicle Damage Inspector replaces paper walk-around sheets. It shows a top-view drawing of a car, van or pickup. You tap the exact spot where you see damage, choose what kind of damage it is and how serious it is, and add a short note. Every damage item gets a numbered pin on the drawing and a card in the list underneath.",
+ "features": [
+  "A condition score from 0 to 100 with a grade (Excellent, Good, Fair, Poor)",
+  "A status line that tells you when the inspection is complete, or which items still need a note",
+  "Search, filters (severity, type, new only) and sorting for longer lists",
+  "A layout made for phones: the vehicle turns sideways so it fits the screen"
+ ],
+ "industry": "Field Service & Merchandising",
+ "pack": null,
+ "category": "Canvas app field control",
+ "hosts": [
+  "Canvas apps"
+ ],
+ "tags": [
+  "vehicle",
+  "damage",
+  "inspector",
+  "service",
+  "merchandising",
+  "canvas"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-05",
+ "schemaName": "pcfl_PCFLib.VehicleDamageInspector",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "VehicleDamageInspector_USER_GUIDE.docx",
+ "screenshotCount": 11,
+ "price": null
+}

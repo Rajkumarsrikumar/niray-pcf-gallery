@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/employment-history-editor/01.webp",
+  "w": 1340,
+  "h": 2010,
+  "caption": "Validation",
+  "mobile": false,
+  "v": "f9059773"
+ },
+ {
+  "src": "/screens/employment-history-editor/02.webp",
+  "w": 1340,
+  "h": 1460,
+  "caption": "Filled history with the timeline one",
+  "mobile": false,
+  "v": "39a1dd00"
+ },
+ {
+  "src": "/screens/employment-history-editor/03.webp",
+  "w": 1340,
+  "h": 1830,
+  "caption": "Adding a career break for the gap",
+  "mobile": false,
+  "v": "edf01175"
+ },
+ {
+  "src": "/screens/employment-history-editor/04.webp",
+  "w": 1340,
+  "h": 1740,
+  "caption": "Complete history",
+  "mobile": false,
+  "v": "9a588ad7"
+ },
+ {
+  "src": "/screens/employment-history-editor/05.webp",
+  "w": 1340,
+  "h": 1220,
+  "caption": "Orange accent overlap rule switched on and a",
+  "mobile": false,
+  "v": "3356f582"
+ },
+ {
+  "src": "/screens/employment-history-editor/06.webp",
+  "w": 780,
+  "h": 1390,
+  "caption": "Width",
+  "mobile": false,
+  "v": "70c11795"
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "src": "/screens/calendar-heatmap/01.webp",
+  "w": 1400,
+  "h": 619,
+  "caption": "A year of field service visits",
+  "mobile": false,
+  "v": "40054ec1"
+ },
+ {
+  "src": "/screens/calendar-heatmap/02.webp",
+  "w": 1400,
+  "h": 954,
+  "caption": "Thursday 13 August selected",
+  "mobile": false,
+  "v": "d5592a24"
+ },
+ {
+  "src": "/screens/calendar-heatmap/03.webp",
+  "w": 1400,
+  "h": 1448,
+  "caption": "Month view of August showing total hours per day",
+  "mobile": false,
+  "v": "5350c80a"
+ },
+ {
+  "src": "/screens/calendar-heatmap/04.webp",
+  "w": 1400,
+  "h": 934,
+  "caption": "Q3 Installation visits only with an orange",
+  "mobile": false,
+  "v": "df0749fb"
+ },
+ {
+  "src": "/screens/calendar-heatmap/05.webp",
+  "w": 780,
+  "h": 1534,
+  "caption": "Width",
+  "mobile": false,
+  "v": "c727aa59"
+ }
+]

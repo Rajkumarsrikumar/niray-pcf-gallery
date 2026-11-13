@@ -1,0 +1,40 @@
+{
+ "name": "AppointmentSlotPicker",
+ "displayName": "Appointment Slot Picker",
+ "slug": "appointment-slot-picker",
+ "tagline": "The Appointment Slot Picker turns a date-and-time field into a simple booking screen.",
+ "description": "The Appointment Slot Picker turns a date-and-time field into a simple booking screen. Instead of typing a date and a time, people pick a day from a strip that shows how many slots are still free, then tap a time slot. The control knows your opening hours, how long each appointment is, how many bookings one slot can take, which slots are already booked, public holidays and how much notice you need.",
+ "features": [
+  "Day strip with free-slot counts",
+  "Time slots grouped by morning / afternoon / evening",
+  "Capacity and existing bookings",
+  "Outlook calendar busy times, closed dates, lead time",
+  "First-available shortcut and slot outputs (local and UTC) for canvas Patch and Outlook events"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Canvas app field control",
+ "hosts": [
+  "Canvas apps"
+ ],
+ "tags": [
+  "appointment",
+  "slot",
+  "picker",
+  "cross-industry",
+  "canvas"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.1.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-27",
+ "schemaName": "pcfl_PCFLib.AppointmentSlotPicker",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "AppointmentSlotPicker_USER_GUIDE.docx",
+ "screenshotCount": 12,
+ "price": null
+}

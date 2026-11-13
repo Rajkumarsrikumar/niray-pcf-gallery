@@ -1,0 +1,44 @@
+{
+ "name": "WorkOrderDispatchQueue",
+ "displayName": "Work Order Dispatch Queue",
+ "slug": "work-order-dispatch-queue",
+ "tagline": "The Work Order Dispatch Queue is the dispatcher's live list of open field-service jobs.",
+ "description": "The Work Order Dispatch Queue is the dispatcher's live list of open field-service jobs. Every job is measured against its SLA due time: you see a countdown (\"Overdue 2h 30m\", \"45m left\"), a coloured badge (Breached, At risk, On track) and a bar showing how much of the SLA time has been used. Tiles across the top count open, breached, at-risk, unassigned and due-today jobs — and work as one-click filters.",
+ "features": [
+  "SLA countdown and breach / at-risk banding against a configurable threshold",
+  "Clickable KPI tiles (open, breached, at risk, unassigned, due today), search",
+  "Priority and region filters, sorting",
+  "Grouping with collapsible groups",
+  "Multi-select with bulk Assign / Escalate",
+  "Expandable job details",
+  "A phone card layout and Power Fx outputs and events for Patch"
+ ],
+ "industry": "Field Service & Merchandising",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "work",
+  "order",
+  "dispatch",
+  "queue",
+  "service",
+  "merchandising"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-05",
+ "schemaName": "pcfl_PCFLib.WorkOrderDispatchQueue",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "WorkOrderDispatchQueue_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

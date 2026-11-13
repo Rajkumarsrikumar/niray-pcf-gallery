@@ -1,0 +1,42 @@
+{
+ "name": "ServiceAttendanceTrendTile",
+ "displayName": "Service Attendance Trend Tile",
+ "slug": "service-attendance-trend-tile",
+ "tagline": "Compact attendance KPI tile for churches and community services: latest service headcount, change against the rolling average of recent services, seating capacity use…",
+ "description": "Compact attendance KPI tile for churches and community services: latest service headcount, change against the rolling average of recent services, seating capacity use with the 80% full rule, special-occasion handling, a tappable trend of recent services and a filter per service.",
+ "features": [
+  "Latest service headcount",
+  "Change against the rolling average of recent services",
+  "Seating capacity use with the 80% full rule, special-occasion handling",
+  "A tappable trend of recent services and a filter per service"
+ ],
+ "industry": "Nonprofit & Church Administration",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "service",
+  "attendance",
+  "trend",
+  "tile",
+  "nonprofit",
+  "church",
+  "administration"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-13",
+ "schemaName": "pcfl_PCFLib.ServiceAttendanceTrendTile",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "ServiceAttendanceTrendTile_USER_GUIDE.docx",
+ "screenshotCount": 7,
+ "price": null
+}

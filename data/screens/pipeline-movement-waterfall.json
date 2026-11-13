@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/pipeline-movement-waterfall/01.webp",
+  "w": 1400,
+  "h": 346,
+  "caption": "Before the columns are mapped the control",
+  "mobile": false,
+  "v": "b1495827"
+ },
+ {
+  "src": "/screens/pipeline-movement-waterfall/02.webp",
+  "w": 1400,
+  "h": 1251,
+  "caption": "Q4 FY26 pipeline bridge with 28 deals KPI tiles",
+  "mobile": false,
+  "v": "a4d67bdf"
+ },
+ {
+  "src": "/screens/pipeline-movement-waterfall/03.webp",
+  "w": 1400,
+  "h": 1346,
+  "caption": "Won selected",
+  "mobile": false,
+  "v": "7ffa3385"
+ },
+ {
+  "src": "/screens/pipeline-movement-waterfall/04.webp",
+  "w": 1400,
+  "h": 1313,
+  "caption": "Pushed out deals with one deal selected",
+  "mobile": false,
+  "v": "b30195d4"
+ },
+ {
+  "src": "/screens/pipeline-movement-waterfall/05.webp",
+  "w": 1400,
+  "h": 1117,
+  "caption": "Deals measure region breakdown filtered to",
+  "mobile": false,
+  "v": "8eeac0c6"
+ },
+ {
+  "src": "/screens/pipeline-movement-waterfall/06.webp",
+  "w": 800,
+  "h": 2400,
+  "caption": "Width",
+  "mobile": false,
+  "v": "6483af36"
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "src": "/screens/comparison-matrix/01.webp",
+  "w": 1400,
+  "h": 1377,
+  "caption": "Four quotes compared",
+  "mobile": false,
+  "v": "2b7240fe"
+ },
+ {
+  "src": "/screens/comparison-matrix/02.webp",
+  "w": 1400,
+  "h": 1528,
+  "caption": "Row groups best and weakest values the Best",
+  "mobile": false,
+  "v": "aedbd7e8"
+ },
+ {
+  "src": "/screens/comparison-matrix/03.webp",
+  "w": 1400,
+  "h": 1192,
+  "caption": "Differences only with a search for day and the",
+  "mobile": false,
+  "v": "d36f3c8d"
+ },
+ {
+  "src": "/screens/comparison-matrix/04.webp",
+  "w": 1340,
+  "h": 1184,
+  "caption": "Warnings for an unknown rule column and an",
+  "mobile": false,
+  "v": "7e8f239f"
+ },
+ {
+  "src": "/screens/comparison-matrix/05.webp",
+  "w": 820,
+  "h": 2400,
+  "caption": "Width",
+  "mobile": false,
+  "v": "d1d030ea"
+ }
+]

@@ -1,0 +1,45 @@
+{
+ "name": "DiscussionThread",
+ "displayName": "Discussion Thread",
+ "slug": "discussion-thread",
+ "tagline": "Discussion Thread puts a conversation right on the record it is about: a purchase request, work order, contract, case or event.",
+ "description": "Discussion Thread puts a conversation right on the record it is about: a purchase request, work order, contract, case or event. People post comments, questions, decisions and actions, reply, @mention colleagues, like and pin important points, and mark questions answered or actions done. The whole discussion is saved in one multi-line text column, so it works with SharePoint lists, Dataverse tables or a canvas collection without extra tables.",
+ "features": [
+  "Post comments, questions",
+  "Decisions and actions, reply",
+  "@mention people from a list, like",
+  "Mark questions answered / actions done",
+  "Edit or delete your own comments (optional time window) with Undo",
+  "Search with highlighted matches",
+  "Filter chips with counts, sort, day grouping",
+  "Show more for long text and older threads",
+  "Plain-text notes import, read-only, loading",
+  "Masked and malformed-value states and a phone layout, Outputs counts"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Canvas app field control",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "discussion",
+  "thread",
+  "cross-industry",
+  "canvas"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-30",
+ "schemaName": "pcfl_PCFLib.DiscussionThread",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "DiscussionThread_USER_GUIDE.docx",
+ "screenshotCount": 10,
+ "price": null
+}

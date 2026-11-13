@@ -1,0 +1,44 @@
+{
+ "name": "DonorRetentionCohortMatrix",
+ "displayName": "Donor Retention Cohort Matrix",
+ "slug": "donor-retention-cohort-matrix",
+ "tagline": "The Donor Retention Cohort Matrix shows whether the people who start giving to your church or charity keep giving.",
+ "description": "The Donor Retention Cohort Matrix shows whether the people who start giving to your church or charity keep giving. Every donor is placed in the year (or quarter) of their first gift - their cohort. Each row of the matrix is one cohort, and each column shows how many of those donors gave again one, two, three or more periods later.",
+ "features": [
+  "A cohort matrix of retention %",
+  "Donors or amount by year or quarter",
+  "Retention against target",
+  "LYBUNT / SYBUNT / new / retained donor segments",
+  "Fund and channel filters",
+  "Drill-down to the donors behind each cell and selection raised to Power Fx"
+ ],
+ "industry": "Nonprofit & Church Administration",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "donor",
+  "retention",
+  "cohort",
+  "matrix",
+  "nonprofit",
+  "church",
+  "administration"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-13",
+ "schemaName": "pcfl_PCFLib.DonorRetentionCohortMatrix",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "DonorRetentionCohortMatrix_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

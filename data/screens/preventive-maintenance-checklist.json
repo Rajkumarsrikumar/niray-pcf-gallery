@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/preventive-maintenance-checklist/01.webp",
+  "w": 1340,
+  "h": 2160,
+  "caption": "A quarterly FCU visit in progress",
+  "mobile": false,
+  "v": "bd5efd1d"
+ },
+ {
+  "src": "/screens/preventive-maintenance-checklist/02.webp",
+  "w": 1340,
+  "h": 1860,
+  "caption": "Finished sections collapsed",
+  "mobile": false,
+  "v": "e7d494c5"
+ },
+ {
+  "src": "/screens/preventive-maintenance-checklist/03.webp",
+  "w": 1340,
+  "h": 1856,
+  "caption": "The Fail filter shows only failed items here",
+  "mobile": false,
+  "v": "e348e1c6"
+ },
+ {
+  "src": "/screens/preventive-maintenance-checklist/04.webp",
+  "w": 1340,
+  "h": 1570,
+  "caption": "Every item answered",
+  "mobile": false,
+  "v": "39634fc3"
+ },
+ {
+  "src": "/screens/preventive-maintenance-checklist/05.webp",
+  "w": 1340,
+  "h": 2196,
+  "caption": "Signed off with result Pass with actions",
+  "mobile": false,
+  "v": "d2bb1c86"
+ },
+ {
+  "src": "/screens/preventive-maintenance-checklist/06.webp",
+  "w": 1400,
+  "h": 1463,
+  "caption": "Px",
+  "mobile": false,
+  "v": "b8fb97e0"
+ }
+]

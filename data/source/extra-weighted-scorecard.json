@@ -1,0 +1,42 @@
+{
+ "name": "WeightedScorecard",
+ "displayName": "Weighted Scorecard",
+ "slug": "weighted-scorecard",
+ "tagline": "The Weighted Scorecard turns a single multi-line text column into a complete evaluation form.",
+ "description": "The Weighted Scorecard turns a single multi-line text column into a complete evaluation form. Evaluators score each criterion on a simple scale, and the control works out the weighted total, shows it against the pass mark, and flags anything that needs attention: missing comments, unscored items and knock-out criteria that fail the whole evaluation on their own.",
+ "features": [
+  "Grouped",
+  "Weighted criteria scored on a configurable scale with N/A",
+  "Comments required for low scores, knock-out criteria",
+  "Live weighted total, pass/fail result",
+  "Search and filters",
+  "Optionally writes the total to a number column"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Model-driven / Dataverse field control",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "weighted",
+  "scorecard",
+  "cross-industry",
+  "model-driven",
+  "dataverse"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-29",
+ "schemaName": "pcfl_PCFLib.WeightedScorecard",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "WeightedScorecard_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

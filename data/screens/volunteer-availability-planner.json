@@ -1,0 +1,42 @@
+[
+ {
+  "src": "/screens/volunteer-availability-planner/01.webp",
+  "w": 1340,
+  "h": 1566,
+  "caption": "Four slots picked including the Sunday morning",
+  "mobile": false,
+  "v": "d438aa3f"
+ },
+ {
+  "src": "/screens/volunteer-availability-planner/02.webp",
+  "w": 1340,
+  "h": 1672,
+  "caption": "Ushering team rule",
+  "mobile": false,
+  "v": "b22e8cea"
+ },
+ {
+  "src": "/screens/volunteer-availability-planner/03.webp",
+  "w": 1340,
+  "h": 1530,
+  "caption": "On break until 31 January the times",
+  "mobile": false,
+  "v": "fe6edec3"
+ },
+ {
+  "src": "/screens/volunteer-availability-planner/04.webp",
+  "w": 780,
+  "h": 2382,
+  "caption": "Width",
+  "mobile": false,
+  "v": "6fb8dab3"
+ },
+ {
+  "src": "/screens/volunteer-availability-planner/05.webp",
+  "w": 1340,
+  "h": 1208,
+  "caption": "Custom days and service slots with an orange",
+  "mobile": false,
+  "v": "1db682c1"
+ }
+]

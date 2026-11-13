@@ -1,0 +1,41 @@
+{
+ "name": "PipelineFunnel",
+ "displayName": "Pipeline Funnel",
+ "slug": "pipeline-funnel",
+ "tagline": "Pipeline Funnel turns a list of records - opportunities, purchase requisitions, grant applications, job applicants, cases - into an interactive funnel.",
+ "description": "Pipeline Funnel turns a list of records - opportunities, purchase requisitions, grant applications, job applicants, cases - into an interactive funnel. Each bar is a stage. You see how many records sit in each stage, what they are worth, how many move on to the next stage and which ones are past their expected close date. Click a bar to see the records behind it and open them.",
+ "features": [
+  "Funnel or bar chart with a Count / Value / Weighted switch",
+  "Conversion between stages (\"64% reach Negotiate\")",
+  "Summary tiles: open pipeline, weighted value, win rate, average size, target coverage and records past their close date",
+  "Filters for owner, segment and close date, plus a search box",
+  "A drill-down list for the selected stage, with sorting, \"Past close date\" flags and an Open button",
+  "Lost stages kept out of the funnel and shown as a separate striped row",
+  "A phone layout that stacks each bar under its stage name"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "pipeline",
+  "funnel",
+  "cross-industry"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-30",
+ "schemaName": "pcfl_PCFLib.PipelineFunnel",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "PipelineFunnel_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

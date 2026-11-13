@@ -1,0 +1,42 @@
+{
+ "name": "RepeatingGroupEditor",
+ "displayName": "Repeating Group Editor (PCFLib)",
+ "slug": "repeating-group-editor",
+ "tagline": "Many forms need a list of things rather than a single answer: the people in a household, emergency contacts, previous jobs, the attendees you are registering for an…",
+ "description": "Many forms need a list of things rather than a single answer: the people in a household, emergency contacts, previous jobs, the attendees you are registering for an event. On a Power Pages form this normally means building a child table, a subgrid, table permissions and sign-in. Repeating Group Editor gives you the whole repeating section inside one text column: people add as many entries as they need, each entry has its own fields, and everything is checked while they type.",
+ "features": [
+  "Table on wide screens",
+  "Different fields and an orange accent",
+  "On a phone",
+  "When saved information cannot be read"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Power Pages code component",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps",
+  "Power Pages"
+ ],
+ "tags": [
+  "repeating",
+  "group",
+  "editor",
+  "cross-industry",
+  "power",
+  "pages"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-27",
+ "schemaName": "pcfl_PCFLib.RepeatingGroupEditor",
+ "react": null,
+ "controlType": "standard",
+ "userManual": "RepeatingGroupEditor_USER_GUIDE.docx",
+ "screenshotCount": 10,
+ "price": null
+}

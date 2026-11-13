@@ -1,0 +1,42 @@
+{
+ "name": "ApproverWorkloadBalancer",
+ "displayName": "Approver Workload Balancer",
+ "slug": "approver-workload-balancer",
+ "tagline": "The Approver Workload Balancer shows how many approval tasks each approver is holding, compared with how many they can handle (their capacity).",
+ "description": "The Approver Workload Balancer shows how many approval tasks each approver is holding, compared with how many they can handle (their capacity). Each approver has a load bar split into overdue, due soon, on track and no due date tasks. It flags approvers who are away, over capacity or busy, and tasks that have no approver at all.",
+ "features": [
+  "Per-approver load bars against capacity (overdue / due soon / on track), out-of-office approvers",
+  "Role and authority-limit aware reassignment with ranked suggestions",
+  "A one-click Balance proposal that moves tasks off away and overloaded approvers",
+  "A sortable task table that turns into cards on phones",
+  "Search and filters",
+  "Multi-select and Power Fx outputs and events (OnReassign, OnSelectionChange, OnApproverSelect)"
+ ],
+ "industry": "Approvals & Workflow",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "approver",
+  "workload",
+  "balancer",
+  "approvals",
+  "workflow"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-11",
+ "schemaName": "pcfl_PCFLib.ApproverWorkloadBalancer",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "ApproverWorkloadBalancer_USER_GUIDE.docx",
+ "screenshotCount": 10,
+ "price": null
+}

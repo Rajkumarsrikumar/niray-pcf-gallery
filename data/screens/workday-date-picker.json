@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/workday-date-picker/01.webp",
+  "w": 900,
+  "h": 892,
+  "caption": "Calendar open",
+  "mobile": false,
+  "v": "36dab4f9"
+ },
+ {
+  "src": "/screens/workday-date-picker/02.webp",
+  "w": 900,
+  "h": 288,
+  "caption": "After tapping +5",
+  "mobile": false,
+  "v": "b660436b"
+ },
+ {
+  "src": "/screens/workday-date-picker/03.webp",
+  "w": 900,
+  "h": 972,
+  "caption": "The chosen day is highlighted when you open the",
+  "mobile": false,
+  "v": "73b5966a"
+ },
+ {
+  "src": "/screens/workday-date-picker/04.webp",
+  "w": 900,
+  "h": 264,
+  "caption": "Typing",
+  "mobile": false,
+  "v": "6474c547"
+ },
+ {
+  "src": "/screens/workday-date-picker/05.webp",
+  "w": 900,
+  "h": 948,
+  "caption": "Lead time of 3 working days",
+  "mobile": false,
+  "v": "207e1dbe"
+ },
+ {
+  "src": "/screens/workday-date-picker/06.webp",
+  "w": 900,
+  "h": 1028,
+  "caption": "Auto move to the next working day with an",
+  "mobile": false,
+  "v": "bfde17f6"
+ }
+]

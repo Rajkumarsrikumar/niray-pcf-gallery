@@ -1,0 +1,32 @@
+{
+ "name": "EditableGrid",
+ "displayName": "Editable Grid (inline validation)",
+ "slug": "editable-grid",
+ "tagline": "Editable Grid shows a list of records — a view, a sub-grid or a canvas data source — as a table you can edit directly, like a spreadsheet.",
+ "description": "Editable Grid shows a list of records — a view, a sub-grid or a canvas data source — as a table you can edit directly, like a spreadsheet. You change the cells you need, the grid checks each value against the rules your app maker set, and you save all the changes in one go.",
+ "features": [],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "editable",
+  "cross-industry"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-27",
+ "schemaName": "pcfl_PCFLib.EditableGrid",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "EditableGrid_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

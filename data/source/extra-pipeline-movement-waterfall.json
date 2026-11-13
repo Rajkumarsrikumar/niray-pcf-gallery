@@ -1,0 +1,42 @@
+{
+ "name": "PipelineMovementWaterfall",
+ "displayName": "Pipeline Movement Waterfall",
+ "slug": "pipeline-movement-waterfall",
+ "tagline": "Pipeline Movement Waterfall shows how the sales pipeline changed during a period - a quarter, a month or a sales season.",
+ "description": "Pipeline Movement Waterfall shows how the sales pipeline changed during a period - a quarter, a month or a sales season. It starts from the pipeline that was open on day one, adds the deals that were created and the value that grew, takes away value that shrank, deals that were won, lost or pushed into a later period, and ends with the pipeline that is still open. Every bar can be tapped to see the deals behind it.",
+ "features": [
+  "Opening pipeline, new deals",
+  "Value increases and decreases",
+  "Lost and pushed-out deals and the closing pipeline as an interactive waterfall",
+  "Coverage against quota",
+  "Owner / region breakdown",
+  "Drill-down to the deals behind each movement and selection raised to Power Fx"
+ ],
+ "industry": "CRM & Sales",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "pipeline",
+  "movement",
+  "waterfall",
+  "crm",
+  "sales"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-12",
+ "schemaName": "pcfl_PCFLib.PipelineMovementWaterfall",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "PipelineMovementWaterfall_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

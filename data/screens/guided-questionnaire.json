@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/guided-questionnaire/01.webp",
+  "w": 1340,
+  "h": 567,
+  "caption": "Start screen with the introduction number of",
+  "mobile": false,
+  "v": "5133e126"
+ },
+ {
+  "src": "/screens/guided-questionnaire/02.webp",
+  "w": 1400,
+  "h": 948,
+  "caption": "A multiple choice question with the limit",
+  "mobile": false,
+  "v": "9f3c0316"
+ },
+ {
+  "src": "/screens/guided-questionnaire/03.webp",
+  "w": 1400,
+  "h": 1670,
+  "caption": "Sections layout",
+  "mobile": false,
+  "v": "1771ebc6"
+ },
+ {
+  "src": "/screens/guided-questionnaire/04.webp",
+  "w": 1400,
+  "h": 1690,
+  "caption": "Check your answers grouped by section with a",
+  "mobile": false,
+  "v": "76f369e2"
+ },
+ {
+  "src": "/screens/guided-questionnaire/05.webp",
+  "w": 1400,
+  "h": 627,
+  "caption": "Result banner",
+  "mobile": false,
+  "v": "6e859127"
+ },
+ {
+  "src": "/screens/guided-questionnaire/06.webp",
+  "w": 1340,
+  "h": 679,
+  "caption": "A knock out answer ends the Supplier",
+  "mobile": false,
+  "v": "b0fd571d"
+ }
+]

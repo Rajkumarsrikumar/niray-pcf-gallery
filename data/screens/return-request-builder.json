@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/return-request-builder/01.webp",
+  "w": 1340,
+  "h": 1832,
+  "caption": "The order SO 82",
+  "mobile": false,
+  "v": "92a3d3b8"
+ },
+ {
+  "src": "/screens/return-request-builder/02.webp",
+  "w": 1340,
+  "h": 2400,
+  "caption": "The drill is ticked marked as faulty and opened",
+  "mobile": false,
+  "v": "10b00062"
+ },
+ {
+  "src": "/screens/return-request-builder/03.webp",
+  "w": 1340,
+  "h": 2400,
+  "caption": "Two items returned for a refund",
+  "mobile": false,
+  "v": "c88d4004"
+ },
+ {
+  "src": "/screens/return-request-builder/04.webp",
+  "w": 1340,
+  "h": 2364,
+  "caption": "The request check lists the missing condition",
+  "mobile": false,
+  "v": "026f6120"
+ },
+ {
+  "src": "/screens/return-request-builder/05.webp",
+  "w": 1340,
+  "h": 1793,
+  "caption": "Store credit with an orange accent and a search",
+  "mobile": false,
+  "v": "125173c8"
+ },
+ {
+  "src": "/screens/return-request-builder/06.webp",
+  "w": 780,
+  "h": 2150,
+  "caption": "Width",
+  "mobile": false,
+  "v": "ef70ec8a"
+ }
+]

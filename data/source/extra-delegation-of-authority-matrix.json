@@ -1,0 +1,45 @@
+{
+ "name": "DelegationOfAuthorityMatrix",
+ "displayName": "Delegation of Authority Matrix",
+ "slug": "delegation-of-authority-matrix",
+ "tagline": "A delegation of authority (DoA) says who may approve which kind of document up to which amount.",
+ "description": "A delegation of authority (DoA) says who may approve which kind of document up to which amount. The Delegation of Authority Matrix shows those rules as a grid of roles and document types, checks them for problems, and answers the everyday question \"Who has to approve this?\" for any amount.",
+ "features": [
+  "Roles x document types grid with limit ranges",
+  "Approvers and acting delegates",
+  "Coverage checks (gaps from zero to a top authority, overlapping limits at the same level)",
+  "Expiry and lapsed-delegation warnings",
+  "A Who approves? simulator that highlights the approval chain for an amount",
+  "Rules list with sorting, search",
+  "Document-type / business-unit / state filters, issues view",
+  "Multi-select with Edit / Extend / Suspend actions",
+  "A phone accordion layout and Power Fx outputs and events"
+ ],
+ "industry": "Approvals & Workflow",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "delegation",
+  "authority",
+  "matrix",
+  "approvals",
+  "workflow"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-11",
+ "schemaName": "pcfl_PCFLib.DelegationOfAuthorityMatrix",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "DelegationOfAuthorityMatrix_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

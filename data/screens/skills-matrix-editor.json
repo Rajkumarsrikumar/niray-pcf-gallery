@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/skills-matrix-editor/01.webp",
+  "w": 1400,
+  "h": 1229,
+  "caption": "The add panel",
+  "mobile": false,
+  "v": "07b71047"
+ },
+ {
+  "src": "/screens/skills-matrix-editor/02.webp",
+  "w": 1400,
+  "h": 1856,
+  "caption": "A technician record",
+  "mobile": false,
+  "v": "fa4ba047"
+ },
+ {
+  "src": "/screens/skills-matrix-editor/03.webp",
+  "w": 1400,
+  "h": 1073,
+  "caption": "Below role filter selected with the Details",
+  "mobile": false,
+  "v": "5f7181d2"
+ },
+ {
+  "src": "/screens/skills-matrix-editor/04.webp",
+  "w": 1400,
+  "h": 1726,
+  "caption": "Rules in action",
+  "mobile": false,
+  "v": "9c1e246d"
+ },
+ {
+  "src": "/screens/skills-matrix-editor/05.webp",
+  "w": 1340,
+  "h": 2274,
+  "caption": "Volunteer skills with orange four custom levels",
+  "mobile": false,
+  "v": "203ca63b"
+ },
+ {
+  "src": "/screens/skills-matrix-editor/06.webp",
+  "w": 780,
+  "h": 1814,
+  "caption": "Width",
+  "mobile": false,
+  "v": "5542e87e"
+ }
+]

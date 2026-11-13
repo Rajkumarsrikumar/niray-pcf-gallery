@@ -1,0 +1,42 @@
+{
+ "name": "ApprovalAuditTrailExplorer",
+ "displayName": "Approval Audit Trail Explorer",
+ "slug": "approval-audit-trail-explorer",
+ "tagline": "The Approval Audit Trail Explorer shows the full history of your approval requests - who submitted, approved, rejected, edited, delegated or escalated each request, and…",
+ "description": "The Approval Audit Trail Explorer shows the full history of your approval requests - who submitted, approved, rejected, edited, delegated or escalated each request, and when - and checks that history for compliance problems. It reads any table, view or collection that has one row per audit event.",
+ "features": [
+  "Per-request timelines with field changes (old to new)",
+  "A sortable log that turns into cards on phones",
+  "Built-in compliance checks (self-approval, same approver on several stages, approval over authority limit, edits after approval, rubber-stamp approvals, acting after closure, out-of-hours actions, rejections without a reason) with severity, search",
+  "Action / actor / severity / date filters, multi-select",
+  "Flag / Mark reviewed / Open / Copy CSV actions and Power Fx outputs and events"
+ ],
+ "industry": "Approvals & Workflow",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "approval",
+  "audit",
+  "trail",
+  "explorer",
+  "approvals",
+  "workflow"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-11",
+ "schemaName": "pcfl_PCFLib.ApprovalAuditTrailExplorer",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "ApprovalAuditTrailExplorer_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/signature-pad/01.webp",
+  "w": 1180,
+  "h": 496,
+  "caption": "A signature has been drawn and saved",
+  "mobile": false,
+  "v": "ccf94601"
+ },
+ {
+  "src": "/screens/signature-pad/02.webp",
+  "w": 1180,
+  "h": 496,
+  "caption": "Undo removed the last stroke",
+  "mobile": false,
+  "v": "1457d87b"
+ },
+ {
+  "src": "/screens/signature-pad/03.webp",
+  "w": 1180,
+  "h": 496,
+  "caption": "Clear empties the box",
+  "mobile": false,
+  "v": "5a924cf9"
+ },
+ {
+  "src": "/screens/signature-pad/04.webp",
+  "w": 1180,
+  "h": 496,
+  "caption": "Typed signature",
+  "mobile": false,
+  "v": "27697d37"
+ },
+ {
+  "src": "/screens/signature-pad/05.webp",
+  "w": 1180,
+  "h": 496,
+  "caption": "Orange ink on a light background thicker pen",
+  "mobile": false,
+  "v": "14690155"
+ },
+ {
+  "src": "/screens/signature-pad/06.webp",
+  "w": 1180,
+  "h": 376,
+  "caption": "A shorter blue tinted pad for drivers with only",
+  "mobile": false,
+  "v": "028a15fb"
+ }
+]

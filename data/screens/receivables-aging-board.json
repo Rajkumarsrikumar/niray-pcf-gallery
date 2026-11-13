@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/receivables-aging-board/01.webp",
+  "w": 1400,
+  "h": 1246,
+  "caption": "The board with 30 open invoices for 11",
+  "mobile": false,
+  "v": "f9d3b145"
+ },
+ {
+  "src": "/screens/receivables-aging-board/02.webp",
+  "w": 1400,
+  "h": 670,
+  "caption": "Filtered to the 61 90 day bucket with",
+  "mobile": false,
+  "v": "ba7ce658"
+ },
+ {
+  "src": "/screens/receivables-aging-board/03.webp",
+  "w": 1400,
+  "h": 1413,
+  "caption": "Sentosa Leisure Holdings selected and expanded",
+  "mobile": false,
+  "v": "fbd4e2f5"
+ },
+ {
+  "src": "/screens/receivables-aging-board/04.webp",
+  "w": 1400,
+  "h": 972,
+  "caption": "Seven buckets from five boundaries",
+  "mobile": false,
+  "v": "2a6ad274"
+ },
+ {
+  "src": "/screens/receivables-aging-board/05.webp",
+  "w": 1400,
+  "h": 2098,
+  "caption": "Configuration notes",
+  "mobile": false,
+  "v": "ccce38b5"
+ },
+ {
+  "src": "/screens/receivables-aging-board/06.webp",
+  "w": 780,
+  "h": 2050,
+  "caption": "Width",
+  "mobile": false,
+  "v": "8f805ace"
+ }
+]

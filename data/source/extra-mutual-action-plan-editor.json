@@ -1,0 +1,48 @@
+{
+ "name": "MutualActionPlanEditor",
+ "displayName": "Mutual Action Plan Editor",
+ "slug": "mutual-action-plan-editor",
+ "tagline": "Buyer and seller mutual action plan for an opportunity, stored in one text column: milestones with phase, side (buyer / seller / joint), owner, due date, duration…",
+ "description": "Buyer and seller mutual action plan for an opportunity, stored in one text column: milestones with phase, side (buyer / seller / joint), owner, due date, duration, predecessor and buyer confirmation. Shows plan health against the target close date with a projected close and slip days, a timeline with a close-date marker, KPI filters, search, grouping, a validated add/edit form, back-scheduling from the close date with templates, start / done / blocked / reopen actions, a shift-open-dates re-plan, a readable plan summary for the buyer, a phone layout, and Power Fx outputs and events.",
+ "features": [
+  "Milestones with phase",
+  "Side (buyer / seller / joint), owner, due date, duration",
+  "Predecessor and buyer confirmation",
+  "Shows plan health against the target close date with a projected close and slip days",
+  "A timeline with a close-date marker, KPI filters, search, grouping",
+  "A validated add/edit form",
+  "Back-scheduling from the close date with templates",
+  "Start / done / blocked / reopen actions",
+  "A shift-open-dates re-plan",
+  "A readable plan summary for the buyer"
+ ],
+ "industry": "CRM & Sales",
+ "pack": null,
+ "category": "Model-driven / Dataverse field control",
+ "hosts": [
+  "Model-driven apps"
+ ],
+ "tags": [
+  "mutual",
+  "action",
+  "plan",
+  "editor",
+  "crm",
+  "sales",
+  "model-driven",
+  "dataverse"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-12",
+ "schemaName": "pcfl_PCFLib.MutualActionPlanEditor",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "MutualActionPlanEditor_USER_GUIDE.docx",
+ "screenshotCount": 10,
+ "price": null
+}

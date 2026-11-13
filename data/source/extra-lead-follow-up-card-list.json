@@ -1,0 +1,40 @@
+{
+ "name": "LeadFollowUpCardList",
+ "displayName": "Lead Follow-up Card List",
+ "slug": "lead-follow-up-card-list",
+ "tagline": "The Lead Follow-up Card List turns any list of leads into a \"who do I call next\" work list.",
+ "description": "The Lead Follow-up Card List turns any list of leads into a \"who do I call next\" work list. Each lead is a card with the contact, company, status, a Hot / Warm / Cold score badge, when the next follow-up is due and how long ago the lead was last contacted. Leads that have not been touched for too long get a Going cold warning, and every card has one-tap Call, Email, Log follow-up and Open buttons.",
+ "features": [
+  "Follow-up due buckets",
+  "Hot / warm / cold scoring, going-cold warnings, search",
+  "Grouping and quick call / email / log follow-up actions raised to Power Fx"
+ ],
+ "industry": "CRM & Sales",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "lead",
+  "follow",
+  "card",
+  "list",
+  "crm",
+  "sales"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-12",
+ "schemaName": "pcfl_PCFLib.LeadFollowUpCardList",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "LeadFollowUpCardList_USER_GUIDE.docx",
+ "screenshotCount": 7,
+ "price": null
+}

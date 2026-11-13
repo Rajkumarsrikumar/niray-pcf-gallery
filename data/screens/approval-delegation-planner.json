@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/approval-delegation-planner/01.webp",
+  "w": 1400,
+  "h": 955,
+  "caption": "Timeline with active scheduled expired and",
+  "mobile": false,
+  "v": "784281b6"
+ },
+ {
+  "src": "/screens/approval-delegation-planner/02.webp",
+  "w": 1400,
+  "h": 1255,
+  "caption": "Details and actions for the selected delegation",
+  "mobile": false,
+  "v": "bc860ac8"
+ },
+ {
+  "src": "/screens/approval-delegation-planner/03.webp",
+  "w": 1340,
+  "h": 2400,
+  "caption": "Validation",
+  "mobile": false,
+  "v": "ba3da253"
+ },
+ {
+  "src": "/screens/approval-delegation-planner/04.webp",
+  "w": 1400,
+  "h": 2037,
+  "caption": "Overlap warning with Save anyway",
+  "mobile": false,
+  "v": "d5b8c189"
+ },
+ {
+  "src": "/screens/approval-delegation-planner/05.webp",
+  "w": 1400,
+  "h": 1412,
+  "caption": "Saved overlap",
+  "mobile": false,
+  "v": "91617555"
+ },
+ {
+  "src": "/screens/approval-delegation-planner/06.webp",
+  "w": 1400,
+  "h": 1036,
+  "caption": "List view navy accent Scheduled filter",
+  "mobile": false,
+  "v": "7d15f337"
+ }
+]

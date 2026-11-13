@@ -1,0 +1,44 @@
+{
+ "name": "SmartAddressEditor",
+ "displayName": "Smart Address Editor",
+ "slug": "smart-address-editor",
+ "tagline": "The Smart Address Editor replaces a set of plain address columns (Street 1, Street 2, City, State, Postal code, Country) with one tidy, country-aware address block.",
+ "description": "The Smart Address Editor replaces a set of plain address columns (Street 1, Street 2, City, State, Postal code, Country) with one tidy, country-aware address block. Users can pick a saved address, paste a whole address from an email or website and have it split into the right columns, or type it field by field. The control checks the address as they go and shows a ready-to-use postal label.",
+ "features": [
+  "Smart box: search saved addresses (sites, depots, frequent customers) or paste a full address and press Enter / Fill to split it into the fields",
+  "Country-aware form: labels, required fields, State lists and postcode checks change with the country (Singapore, Malaysia, Australia, United Kingdom, United States, India, Other)",
+  "Singapore postal district: the district (D01-D28) and area are worked out from the postal code; wrong sectors are flagged",
+  "Territory rules: your own territories from districts, postcode ranges or prefixes, shown as a chip and available to flows and apps",
+  "Checks: required fields, postcode format, maximum line length, PO Box and unit-number rules, with a status badge (No address yet / N to fix / Complete)",
+  "Tidy up: fixes capitals and spacing (BLK 201 TAMPINES ST 21 becomes Blk 201 Tampines St 21), unit numbers (#5-12 becomes #05-12) and postcodes - automatically when you leave a field, or with the Tidy up button. Undo is always one click away",
+  "Postal label: formatted for the country, with Copy and Open in Maps",
+  "Two layouts: Form, or Compact (label with an Edit button) for busy forms"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Model-driven / Dataverse field control",
+ "hosts": [
+  "Model-driven apps"
+ ],
+ "tags": [
+  "smart",
+  "address",
+  "editor",
+  "cross-industry",
+  "model-driven",
+  "dataverse"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-29",
+ "schemaName": "pcfl_PCFLib.SmartAddressEditor",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "SmartAddressEditor_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

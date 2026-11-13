@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/stakeholder-influence-map/01.webp",
+  "w": 1400,
+  "h": 1131,
+  "caption": "The add form",
+  "mobile": false,
+  "v": "18de213a"
+ },
+ {
+  "src": "/screens/stakeholder-influence-map/02.webp",
+  "w": 1400,
+  "h": 1096,
+  "caption": "A populated map with the coverage score and",
+  "mobile": false,
+  "v": "91140d2e"
+ },
+ {
+  "src": "/screens/stakeholder-influence-map/03.webp",
+  "w": 1400,
+  "h": 819,
+  "caption": "Details for the selected stakeholder next to",
+  "mobile": false,
+  "v": "87891e15"
+ },
+ {
+  "src": "/screens/stakeholder-influence-map/04.webp",
+  "w": 1400,
+  "h": 1013,
+  "caption": "List view sorted by influence with Marcus Wong",
+  "mobile": false,
+  "v": "26f0589f"
+ },
+ {
+  "src": "/screens/stakeholder-influence-map/05.webp",
+  "w": 1400,
+  "h": 831,
+  "caption": "Reporting lines view who reports to whom in",
+  "mobile": false,
+  "v": "df01af82"
+ },
+ {
+  "src": "/screens/stakeholder-influence-map/06.webp",
+  "w": 1340,
+  "h": 274,
+  "caption": "A clear non destructive message for unreadable",
+  "mobile": false,
+  "v": "b38c8ba0"
+ }
+]

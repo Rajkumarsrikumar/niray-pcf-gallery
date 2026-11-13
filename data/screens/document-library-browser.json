@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/document-library-browser/01.webp",
+  "w": 1400,
+  "h": 2076,
+  "caption": "All documents in the list layout newest first",
+  "mobile": false,
+  "v": "2a7db8b4"
+ },
+ {
+  "src": "/screens/document-library-browser/02.webp",
+  "w": 1400,
+  "h": 806,
+  "caption": "The Contracts folder with the details of the",
+  "mobile": false,
+  "v": "427f6828"
+ },
+ {
+  "src": "/screens/document-library-browser/03.webp",
+  "w": 1400,
+  "h": 804,
+  "caption": "Three documents selected with the bulk actions",
+  "mobile": false,
+  "v": "9ad9ba2d"
+ },
+ {
+  "src": "/screens/document-library-browser/04.webp",
+  "w": 1400,
+  "h": 663,
+  "caption": "No documents match the search invoice",
+  "mobile": false,
+  "v": "d9c42cf7"
+ },
+ {
+  "src": "/screens/document-library-browser/05.webp",
+  "w": 1400,
+  "h": 1186,
+  "caption": "Grid layout with an orange accent filtered to",
+  "mobile": false,
+  "v": "927616e2"
+ },
+ {
+  "src": "/screens/document-library-browser/06.webp",
+  "w": 780,
+  "h": 2400,
+  "caption": "Width",
+  "mobile": false,
+  "v": "4d59b747"
+ }
+]

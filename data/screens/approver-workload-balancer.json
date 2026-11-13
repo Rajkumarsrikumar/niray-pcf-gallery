@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/approver-workload-balancer/01.webp",
+  "w": 1400,
+  "h": 291,
+  "caption": "Before data is connected",
+  "mobile": false,
+  "v": "8c0de943"
+ },
+ {
+  "src": "/screens/approver-workload-balancer/02.webp",
+  "w": 1400,
+  "h": 1623,
+  "caption": "Approvers view with the Approvals desk sample",
+  "mobile": false,
+  "v": "d7debe04"
+ },
+ {
+  "src": "/screens/approver-workload-balancer/03.webp",
+  "w": 1400,
+  "h": 1696,
+  "caption": "Two of Tan Mei Lings overdue tasks selected",
+  "mobile": false,
+  "v": "e6fd9136"
+ },
+ {
+  "src": "/screens/approver-workload-balancer/04.webp",
+  "w": 1400,
+  "h": 1244,
+  "caption": "Balance proposal",
+  "mobile": false,
+  "v": "ab7223a5"
+ },
+ {
+  "src": "/screens/approver-workload-balancer/05.webp",
+  "w": 1400,
+  "h": 1449,
+  "caption": "After Apply",
+  "mobile": false,
+  "v": "43dd2768"
+ },
+ {
+  "src": "/screens/approver-workload-balancer/06.webp",
+  "w": 1400,
+  "h": 1074,
+  "caption": "Task table filtered to Overdue sorted by due",
+  "mobile": false,
+  "v": "7c554f18"
+ }
+]

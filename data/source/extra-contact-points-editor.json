@@ -1,0 +1,44 @@
+{
+ "name": "ContactPointsEditor",
+ "displayName": "Contact Points Editor",
+ "slug": "contact-points-editor",
+ "tagline": "The Contact Points Editor keeps every way to reach a person or organisation in one place: mobile and office numbers, email addresses, WhatsApp, website and LinkedIn.",
+ "description": "The Contact Points Editor keeps every way to reach a person or organisation in one place: mobile and office numbers, email addresses, WhatsApp, website and LinkedIn. Each entry can have a label, one entry of each type is the primary, and any entry can be marked Do not contact. You can also choose the person's preferred channel.",
+ "features": [
+  "Mobile, phone, email, WhatsApp",
+  "Website and LinkedIn entries with labels",
+  "One primary per type, do-not-contact flags, preferred channel",
+  "Phone-number normalising with a default country code",
+  "Validation and duplicate detection",
+  "Type filters and search",
+  "Call/email/chat quick actions",
+  "Privacy masking and a phone card layout"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Canvas app field control",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "contact",
+  "points",
+  "editor",
+  "cross-industry",
+  "canvas"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-03",
+ "schemaName": "pcfl_PCFLib.ContactPointsEditor",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "ContactPointsEditor_USER_GUIDE.docx",
+ "screenshotCount": 7,
+ "price": null
+}

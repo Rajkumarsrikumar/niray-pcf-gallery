@@ -1,0 +1,37 @@
+{
+ "name": "SlaCountdown",
+ "displayName": "SLA Countdown Timer",
+ "slug": "sla-countdown",
+ "tagline": "SLA Countdown Timer turns a deadline (a Date and Time column such as Respond by or Due date) into a live countdown with a coloured status badge: On track, Due soon, At…",
+ "description": "SLA Countdown Timer turns a deadline (a Date and Time column such as Respond by or Due date) into a live countdown with a coloured status badge: On track, Due soon, At risk or Overdue.",
+ "features": [
+  "Clock style"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Model-driven / Dataverse field control",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "sla",
+  "countdown",
+  "cross-industry",
+  "model-driven",
+  "dataverse"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.2",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-21",
+ "schemaName": "pcfl_PCFLib.SlaCountdown",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "SlaCountdown_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

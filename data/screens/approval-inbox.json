@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/approval-inbox/01.webp",
+  "w": 1400,
+  "h": 913,
+  "caption": "The inbox with eight pending requests and the",
+  "mobile": false,
+  "v": "43f6c016"
+ },
+ {
+  "src": "/screens/approval-inbox/02.webp",
+  "w": 1400,
+  "h": 913,
+  "caption": "Reject without a reason",
+  "mobile": false,
+  "v": "19b6d4ec"
+ },
+ {
+  "src": "/screens/approval-inbox/03.webp",
+  "w": 1400,
+  "h": 913,
+  "caption": "PR has been approved",
+  "mobile": false,
+  "v": "1b160186"
+ },
+ {
+  "src": "/screens/approval-inbox/04.webp",
+  "w": 1400,
+  "h": 913,
+  "caption": "Two requests ticked and about to be rejected",
+  "mobile": false,
+  "v": "44827f4c"
+ },
+ {
+  "src": "/screens/approval-inbox/05.webp",
+  "w": 1400,
+  "h": 913,
+  "caption": "Grouped by due date sorted by amount with an",
+  "mobile": false,
+  "v": "d3cfbc41"
+ },
+ {
+  "src": "/screens/approval-inbox/06.webp",
+  "w": 810,
+  "h": 1464,
+  "caption": "Width",
+  "mobile": false,
+  "v": "433d71f5"
+ }
+]

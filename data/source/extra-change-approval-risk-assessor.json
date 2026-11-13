@@ -1,0 +1,44 @@
+{
+ "name": "ChangeApprovalRiskAssessor",
+ "displayName": "Change Approval Risk Assessor",
+ "slug": "change-approval-risk-assessor",
+ "tagline": "The Change Approval Risk Assessor turns a change request (RFC) into a short guided form.",
+ "description": "The Change Approval Risk Assessor turns a change request (RFC) into a short guided form. While the requester types, it works out how risky the change is (a score from 0 to 100: Low, Medium or High), checks the schedule (notice period, change freeze, business hours) and shows exactly who has to approve it - from a pre-approved standard change up to the Change Advisory Board (CAB) or the emergency board (ECAB).",
+ "features": [
+  "Change type",
+  "Affected services with tiers and owners, implementation window",
+  "Weighted risk questionnaire plus automatic risk factors (tier-1 services, business hours, downtime, users affected, change freeze, emergency) giving a live 0-100 risk score and level",
+  "Plans and evidence required by risk",
+  "Schedule checks (notice period, freeze periods, business hours) and the approval route it needs (pre-approved standard change, line manager, change manager, service owners, CAB or emergency CAB)",
+  "Stores the whole assessment (with a readable summary) as JSON in one text column"
+ ],
+ "industry": "Approvals & Workflow",
+ "pack": null,
+ "category": "Power Pages code component",
+ "hosts": [
+  "Power Pages"
+ ],
+ "tags": [
+  "change",
+  "approval",
+  "risk",
+  "assessor",
+  "approvals",
+  "workflow",
+  "power",
+  "pages"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-11",
+ "schemaName": "pcfl_PCFLib.ChangeApprovalRiskAssessor",
+ "react": null,
+ "controlType": "standard",
+ "userManual": "ChangeApprovalRiskAssessor_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

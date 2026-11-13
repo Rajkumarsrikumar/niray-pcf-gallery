@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/category-tree-picker/01.webp",
+  "w": 1340,
+  "h": 1272,
+  "caption": "A whole branch plus single items selected",
+  "mobile": false,
+  "v": "91353ca9"
+ },
+ {
+  "src": "/screens/category-tree-picker/02.webp",
+  "w": 1340,
+  "h": 926,
+  "caption": "Search with highlighted matches",
+  "mobile": false,
+  "v": "78ee0994"
+ },
+ {
+  "src": "/screens/category-tree-picker/03.webp",
+  "w": 1340,
+  "h": 1282,
+  "caption": "Maximum of 3 reached other items are locked",
+  "mobile": false,
+  "v": "a33ab128"
+ },
+ {
+  "src": "/screens/category-tree-picker/04.webp",
+  "w": 1340,
+  "h": 1286,
+  "caption": "Validation an old entry that is no longer",
+  "mobile": false,
+  "v": "5476229e"
+ },
+ {
+  "src": "/screens/category-tree-picker/05.webp",
+  "w": 1340,
+  "h": 1192,
+  "caption": "Service areas with an orange accent",
+  "mobile": false,
+  "v": "e7d6b281"
+ },
+ {
+  "src": "/screens/category-tree-picker/06.webp",
+  "w": 780,
+  "h": 1058,
+  "caption": "Width",
+  "mobile": false,
+  "v": "6280f59d"
+ }
+]

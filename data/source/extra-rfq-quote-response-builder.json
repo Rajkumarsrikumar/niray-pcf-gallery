@@ -1,0 +1,48 @@
+{
+ "name": "RfqQuoteResponseBuilder",
+ "displayName": "RFQ Quote Response Builder",
+ "slug": "rfq-quote-response-builder",
+ "tagline": "The RFQ Quote Response Builder is the form a supplier uses to answer a request for quotation (RFQ).",
+ "description": "The RFQ Quote Response Builder is the form a supplier uses to answer a request for quotation (RFQ). The buyer publishes the lines to be quoted; the supplier enters a unit price, discount and lead time for each line - or marks it No bid or offers an Alternative - and the control works out every line total, the delivery date, tax and the grand total as they type.",
+ "features": [
+  "Prices every requested line (unit price, discount, lead time, bid / no bid / alternative offer)",
+  "Flags prices above the buyer's target and deliveries later than the need-by date",
+  "Works out subtotal, delivery",
+  "Tax and grand total, captures currency, validity, Incoterms, payment terms",
+  "Contact and compliance declarations",
+  "Validates the quote before submission",
+  "Stores the whole response (with a readable summary) as JSON in one text column"
+ ],
+ "industry": "Procurement & Supply Chain",
+ "pack": null,
+ "category": "Power Pages code component",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps",
+  "Power Pages"
+ ],
+ "tags": [
+  "rfq",
+  "quote",
+  "response",
+  "builder",
+  "procurement",
+  "supply",
+  "chain",
+  "power",
+  "pages"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-06",
+ "schemaName": "pcfl_PCFLib.RfqQuoteResponseBuilder",
+ "react": null,
+ "controlType": "standard",
+ "userManual": "RfqQuoteResponseBuilder_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

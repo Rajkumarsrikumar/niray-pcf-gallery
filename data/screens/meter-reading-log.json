@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/meter-reading-log/01.webp",
+  "w": 1400,
+  "h": 476,
+  "caption": "A new meter with no readings yet",
+  "mobile": false,
+  "v": "5d06fede"
+ },
+ {
+  "src": "/screens/meter-reading-log/02.webp",
+  "w": 1400,
+  "h": 1347,
+  "caption": "Twelve months of electricity readings",
+  "mobile": false,
+  "v": "bddf4c04"
+ },
+ {
+  "src": "/screens/meter-reading-log/03.webp",
+  "w": 1400,
+  "h": 1095,
+  "caption": "Adding a reading",
+  "mobile": false,
+  "v": "9d30e8c4"
+ },
+ {
+  "src": "/screens/meter-reading-log/04.webp",
+  "w": 1400,
+  "h": 1095,
+  "caption": "A reading lower than the previous one is",
+  "mobile": false,
+  "v": "93fe0ccb"
+ },
+ {
+  "src": "/screens/meter-reading-log/05.webp",
+  "w": 1400,
+  "h": 937,
+  "caption": "Usage chart with the June spike selected",
+  "mobile": false,
+  "v": "b45702c4"
+ },
+ {
+  "src": "/screens/meter-reading-log/06.webp",
+  "w": 1400,
+  "h": 1356,
+  "caption": "Water meter with rollover a new meter and",
+  "mobile": false,
+  "v": "4dfdfef0"
+ }
+]

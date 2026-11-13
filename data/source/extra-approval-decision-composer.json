@@ -1,0 +1,46 @@
+{
+ "name": "ApprovalDecisionComposer",
+ "displayName": "Approval Decision Composer",
+ "slug": "approval-decision-composer",
+ "tagline": "The Approval Decision Composer is the approver's side of an approval.",
+ "description": "The Approval Decision Composer is the approver's side of an approval. It shows the request (title, amount, your authority limit and how long you have left), lets you pick an outcome, asks only for what that outcome needs, checks your organisation's rules, and records a clear, audit-ready decision note.",
+ "features": [
+  "Request header with amount",
+  "Authority-limit meter and SLA clock",
+  "Outcome picker (Approve, Approve with conditions, Request info, Reject, Delegate, Refer up) with keyboard radio navigation",
+  "Per-outcome reason codes",
+  "A conditions checklist with custom conditions",
+  "A searchable delegate picker",
+  "Comment templates and minimum comment length, conflict-of-interest declaration",
+  "Authority-limit rules (block, refer up or warn), review-and-confirm step",
+  "Undo window and a recorded-decision summary",
+  "Writes the outcome and a readable decision note to bound columns and raises OnSubmit / OnDecisionChange / OnUndo events with typed outputs"
+ ],
+ "industry": "Approvals & Workflow",
+ "pack": null,
+ "category": "Canvas app field control",
+ "hosts": [
+  "Canvas apps"
+ ],
+ "tags": [
+  "approval",
+  "decision",
+  "composer",
+  "approvals",
+  "workflow",
+  "canvas"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-11",
+ "schemaName": "pcfl_PCFLib.ApprovalDecisionComposer",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "ApprovalDecisionComposer_USER_GUIDE.docx",
+ "screenshotCount": 11,
+ "price": null
+}

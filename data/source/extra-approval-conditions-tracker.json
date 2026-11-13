@@ -1,0 +1,47 @@
+{
+ "name": "ApprovalConditionsTracker",
+ "displayName": "Approval Conditions Tracker",
+ "slug": "approval-conditions-tracker",
+ "tagline": "Many approvals are given subject to conditions - \"approved, provided three quotes are obtained\", \"pay only after the signed contract is on file\".",
+ "description": "Many approvals are given subject to conditions - \"approved, provided three quotes are obtained\", \"pay only after the signed contract is on file\". The Approval Conditions Tracker keeps those conditions on the approved record and follows each one to closure: who owns it, when it is due, what evidence was provided and who verified it.",
+ "features": [
+  "Each condition has a category, owner, due date",
+  "Blocking flag and evidence",
+  "Shows a release gate (Blocked / Clear), progress",
+  "Overdue and due-soon counts, KPI filters, search",
+  "Grouping by category or owner, sorting",
+  "A validated add/edit form with templates",
+  "A start / submit evidence / verify / waive / reopen workflow with segregation of duties and a per-condition history",
+  "A phone layout",
+  "Power Fx outputs and events"
+ ],
+ "industry": "Approvals & Workflow",
+ "pack": null,
+ "category": "Model-driven / Dataverse field control",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "approval",
+  "conditions",
+  "tracker",
+  "approvals",
+  "workflow",
+  "model-driven",
+  "dataverse"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-11",
+ "schemaName": "pcfl_PCFLib.ApprovalConditionsTracker",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "ApprovalConditionsTracker_USER_GUIDE.docx",
+ "screenshotCount": 10,
+ "price": null
+}

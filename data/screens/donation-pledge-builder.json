@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/donation-pledge-builder/01.webp",
+  "w": 1340,
+  "h": 2400,
+  "caption": "A new pledge",
+  "mobile": false,
+  "v": "57f1d0d2"
+ },
+ {
+  "src": "/screens/donation-pledge-builder/02.webp",
+  "w": 1400,
+  "h": 1672,
+  "caption": "A complete monthly pledge on a wide screen",
+  "mobile": false,
+  "v": "735f4cd8"
+ },
+ {
+  "src": "/screens/donation-pledge-builder/03.webp",
+  "w": 1340,
+  "h": 2400,
+  "caption": "Youth Ministry added and Split evenly tapped",
+  "mobile": false,
+  "v": "fb3e926f"
+ },
+ {
+  "src": "/screens/donation-pledge-builder/04.webp",
+  "w": 1340,
+  "h": 2400,
+  "caption": "Validation",
+  "mobile": false,
+  "v": "9c8f1bb9"
+ },
+ {
+  "src": "/screens/donation-pledge-builder/05.webp",
+  "w": 1400,
+  "h": 1512,
+  "caption": "Orange accent",
+  "mobile": false,
+  "v": "579b3e92"
+ },
+ {
+  "src": "/screens/donation-pledge-builder/06.webp",
+  "w": 780,
+  "h": 2000,
+  "caption": "Width",
+  "mobile": false,
+  "v": "695f668d"
+ }
+]

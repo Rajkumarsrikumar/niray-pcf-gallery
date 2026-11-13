@@ -1,0 +1,45 @@
+{
+ "name": "TimeZoneMeetingPlanner",
+ "displayName": "Time Zone Meeting Planner",
+ "slug": "time-zone-meeting-planner",
+ "tagline": "The Time Zone Meeting Planner helps you choose a meeting time for people in different countries.",
+ "description": "The Time Zone Meeting Planner helps you choose a meeting time for people in different countries. It shows one day as a timeline with a row for each time zone, so you can see at a glance what time it will be for everyone, and whether that is during their working day, in the evening, at night or at the weekend.",
+ "features": [
+  "A day timeline per zone with working hours",
+  "Night and weekend shading",
+  "A shared-working-time bar",
+  "Suggested times where everyone is in working hours (or the fewest people outside), add/remove/re-home zones, day navigation",
+  "Keyboard-operable slot picker",
+  "Per-zone summary with status and warnings",
+  "A phone list layout with filters",
+  "Stores the start as an ISO UTC date-time",
+  "No network or API key needed"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Canvas app field control",
+ "hosts": [
+  "Canvas apps"
+ ],
+ "tags": [
+  "time",
+  "zone",
+  "meeting",
+  "planner",
+  "cross-industry",
+  "canvas"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-04",
+ "schemaName": "pcfl_PCFLib.TimeZoneMeetingPlanner",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "TimeZoneMeetingPlanner_USER_GUIDE.docx",
+ "screenshotCount": 7,
+ "price": null
+}

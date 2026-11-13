@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/approval-cycle-time-analyzer/01.webp",
+  "w": 1340,
+  "h": 388,
+  "caption": "Before any data is connected",
+  "mobile": false,
+  "v": "98cbf1f1"
+ },
+ {
+  "src": "/screens/approval-cycle-time-analyzer/02.webp",
+  "w": 1400,
+  "h": 1181,
+  "caption": "Twelve purchase capex contract expense and",
+  "mobile": false,
+  "v": "4bd813ce"
+ },
+ {
+  "src": "/screens/approval-cycle-time-analyzer/03.webp",
+  "w": 1400,
+  "h": 1639,
+  "caption": "Two requests selected the Budget holder step of",
+  "mobile": false,
+  "v": "27ec626a"
+ },
+ {
+  "src": "/screens/approval-cycle-time-analyzer/04.webp",
+  "w": 1400,
+  "h": 628,
+  "caption": "Stages view",
+  "mobile": false,
+  "v": "d510e2b0"
+ },
+ {
+  "src": "/screens/approval-cycle-time-analyzer/05.webp",
+  "w": 1400,
+  "h": 835,
+  "caption": "Approvers view",
+  "mobile": false,
+  "v": "90d1e511"
+ },
+ {
+  "src": "/screens/approval-cycle-time-analyzer/06.webp",
+  "w": 1400,
+  "h": 1534,
+  "caption": "Grouped by request type per request scale",
+  "mobile": false,
+  "v": "58e39026"
+ }
+]

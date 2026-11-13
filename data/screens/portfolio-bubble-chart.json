@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/portfolio-bubble-chart/01.webp",
+  "w": 1400,
+  "h": 918,
+  "caption": "Overview",
+  "mobile": false,
+  "v": "2f4ccc83"
+ },
+ {
+  "src": "/screens/portfolio-bubble-chart/02.webp",
+  "w": 1400,
+  "h": 918,
+  "caption": "A selected bubble",
+  "mobile": false,
+  "v": "18435e9e"
+ },
+ {
+  "src": "/screens/portfolio-bubble-chart/03.webp",
+  "w": 1400,
+  "h": 918,
+  "caption": "Quick wins only zoomed in",
+  "mobile": false,
+  "v": "0fbb71dc"
+ },
+ {
+  "src": "/screens/portfolio-bubble-chart/04.webp",
+  "w": 1400,
+  "h": 1026,
+  "caption": "Table view filtered to Procurement and sorted",
+  "mobile": false,
+  "v": "b026253e"
+ },
+ {
+  "src": "/screens/portfolio-bubble-chart/05.webp",
+  "w": 1400,
+  "h": 1699,
+  "caption": "Configuration variation",
+  "mobile": false,
+  "v": "efbd4e1f"
+ },
+ {
+  "src": "/screens/portfolio-bubble-chart/06.webp",
+  "w": 780,
+  "h": 2180,
+  "caption": "Width",
+  "mobile": false,
+  "v": "98e6446f"
+ }
+]

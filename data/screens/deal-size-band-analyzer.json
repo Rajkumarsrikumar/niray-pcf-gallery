@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/deal-size-band-analyzer/01.webp",
+  "w": 1340,
+  "h": 424,
+  "caption": "Before the data is connected the control",
+  "mobile": false,
+  "v": "bb5766eb"
+ },
+ {
+  "src": "/screens/deal-size-band-analyzer/02.webp",
+  "w": 1400,
+  "h": 895,
+  "caption": "Typical view",
+  "mobile": false,
+  "v": "4af1f181"
+ },
+ {
+  "src": "/screens/deal-size-band-analyzer/03.webp",
+  "w": 1400,
+  "h": 1800,
+  "caption": "A band selected with its deals listed and one",
+  "mobile": false,
+  "v": "94c7eb7f"
+ },
+ {
+  "src": "/screens/deal-size-band-analyzer/04.webp",
+  "w": 1400,
+  "h": 1445,
+  "caption": "Your own bands bars by amount orange accent the",
+  "mobile": false,
+  "v": "5e221e57"
+ },
+ {
+  "src": "/screens/deal-size-band-analyzer/05.webp",
+  "w": 800,
+  "h": 2400,
+  "caption": "Width",
+  "mobile": false,
+  "v": "9ead7b32"
+ },
+ {
+  "src": "/screens/deal-size-band-analyzer/06.webp",
+  "w": 1400,
+  "h": 740,
+  "caption": "Opportunities from 12 owners in automatic",
+  "mobile": false,
+  "v": "71ccb5a0"
+ }
+]

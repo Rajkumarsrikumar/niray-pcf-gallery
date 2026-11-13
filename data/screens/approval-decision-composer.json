@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/approval-decision-composer/01.webp",
+  "w": 1340,
+  "h": 1056,
+  "caption": "Default state request header authority meter",
+  "mobile": false,
+  "v": "e90d893f"
+ },
+ {
+  "src": "/screens/approval-decision-composer/02.webp",
+  "w": 1340,
+  "h": 1994,
+  "caption": "Approve with conditions two standard",
+  "mobile": false,
+  "v": "1bd97ab3"
+ },
+ {
+  "src": "/screens/approval-decision-composer/03.webp",
+  "w": 1340,
+  "h": 1982,
+  "caption": "Reject without a reason code and with a",
+  "mobile": false,
+  "v": "de175c5b"
+ },
+ {
+  "src": "/screens/approval-decision-composer/04.webp",
+  "w": 1340,
+  "h": 976,
+  "caption": "Review step outcome numbered conditions",
+  "mobile": false,
+  "v": "41220f80"
+ },
+ {
+  "src": "/screens/approval-decision-composer/05.webp",
+  "w": 1340,
+  "h": 996,
+  "caption": "Submitted the recorded decision with who and",
+  "mobile": false,
+  "v": "60759b91"
+ },
+ {
+  "src": "/screens/approval-decision-composer/06.webp",
+  "w": 1340,
+  "h": 1930,
+  "caption": "Above the limit Refer up to the IT Director",
+  "mobile": false,
+  "v": "8e384f5b"
+ }
+]

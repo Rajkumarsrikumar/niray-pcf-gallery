@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/policy-acceptance-reader/01.webp",
+  "w": 1340,
+  "h": 1241,
+  "caption": "Reading the policy",
+  "mobile": false,
+  "v": "e7647721"
+ },
+ {
+  "src": "/screens/policy-acceptance-reader/02.webp",
+  "w": 1340,
+  "h": 1431,
+  "caption": "Search",
+  "mobile": false,
+  "v": "f2baf0db"
+ },
+ {
+  "src": "/screens/policy-acceptance-reader/03.webp",
+  "w": 1340,
+  "h": 1147,
+  "caption": "Typed name signature",
+  "mobile": false,
+  "v": "64f979d9"
+ },
+ {
+  "src": "/screens/policy-acceptance-reader/04.webp",
+  "w": 1340,
+  "h": 1167,
+  "caption": "Accepted",
+  "mobile": false,
+  "v": "3078eede"
+ },
+ {
+  "src": "/screens/policy-acceptance-reader/05.webp",
+  "w": 1340,
+  "h": 1212,
+  "caption": "Policy updated from 2",
+  "mobile": false,
+  "v": "28efcad6"
+ },
+ {
+  "src": "/screens/policy-acceptance-reader/06.webp",
+  "w": 780,
+  "h": 2057,
+  "caption": "Width",
+  "mobile": false,
+  "v": "6965bac9"
+ }
+]

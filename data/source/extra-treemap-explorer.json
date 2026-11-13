@@ -1,0 +1,41 @@
+{
+ "name": "TreemapExplorer",
+ "displayName": "Treemap Explorer",
+ "slug": "treemap-explorer",
+ "tagline": "Treemap Explorer turns a list of records into a map of rectangles.",
+ "description": "Treemap Explorer turns a list of records into a map of rectangles. Each rectangle (a tile) is sized by its share of the total, so the biggest categories stand out at once. Tap a tile to open it and see what it is made of, then open the records behind it.",
+ "features": [
+  "Squarified tiles sized by amount or count",
+  "Two-level drill-down (group, subgroup, records) with breadcrumbs",
+  "Colour by group or by variance against a target, search",
+  "Top-N with Other bucket, KPI strip",
+  "Details panel with top items",
+  "Ranked list view",
+  "Keyboard and touch navigation and a phone layout"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "treemap",
+  "explorer",
+  "cross-industry"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-03",
+ "schemaName": "pcfl_PCFLib.TreemapExplorer",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "TreemapExplorer_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

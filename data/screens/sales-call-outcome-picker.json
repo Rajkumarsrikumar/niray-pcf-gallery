@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/sales-call-outcome-picker/01.webp",
+  "w": 1180,
+  "h": 995,
+  "caption": "Meeting booked on Friday 13 Nov",
+  "mobile": false,
+  "v": "03ced93a"
+ },
+ {
+  "src": "/screens/sales-call-outcome-picker/02.webp",
+  "w": 1180,
+  "h": 1071,
+  "caption": "Not interested needs a call note before the",
+  "mobile": false,
+  "v": "67faacc5"
+ },
+ {
+  "src": "/screens/sales-call-outcome-picker/03.webp",
+  "w": 1180,
+  "h": 1047,
+  "caption": "Voicemail left attempt 4 of 6",
+  "mobile": false,
+  "v": "d01d0298"
+ },
+ {
+  "src": "/screens/sales-call-outcome-picker/04.webp",
+  "w": 1180,
+  "h": 1044,
+  "caption": "No answer on the sixth attempt",
+  "mobile": false,
+  "v": "d9adfcac"
+ },
+ {
+  "src": "/screens/sales-call-outcome-picker/05.webp",
+  "w": 1340,
+  "h": 846,
+  "caption": "Discovery call outcomes with an orange accent",
+  "mobile": false,
+  "v": "9f2fd61f"
+ },
+ {
+  "src": "/screens/sales-call-outcome-picker/06.webp",
+  "w": 780,
+  "h": 1140,
+  "caption": "Width",
+  "mobile": false,
+  "v": "da9ac2ba"
+ }
+]

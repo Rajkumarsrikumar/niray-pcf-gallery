@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/site-map-explorer/01.webp",
+  "w": 1400,
+  "h": 807,
+  "caption": "List + map layout with pins coloured by",
+  "mobile": false,
+  "v": "9d036520"
+ },
+ {
+  "src": "/screens/site-map-explorer/02.webp",
+  "w": 1400,
+  "h": 807,
+  "caption": "A selected store with its details card",
+  "mobile": false,
+  "v": "d1669be7"
+ },
+ {
+  "src": "/screens/site-map-explorer/03.webp",
+  "w": 1400,
+  "h": 807,
+  "caption": "Within 6 km of the depot Supermarket and",
+  "mobile": false,
+  "v": "a4392739"
+ },
+ {
+  "src": "/screens/site-map-explorer/04.webp",
+  "w": 1400,
+  "h": 733,
+  "caption": "No matches for the search with a colour map",
+  "mobile": false,
+  "v": "8eff31d0"
+ },
+ {
+  "src": "/screens/site-map-explorer/05.webp",
+  "w": 1400,
+  "h": 1120,
+  "caption": "List layout grouped by status orange accent",
+  "mobile": false,
+  "v": "c52f1e06"
+ },
+ {
+  "src": "/screens/site-map-explorer/06.webp",
+  "w": 1400,
+  "h": 1186,
+  "caption": "Width",
+  "mobile": false,
+  "v": "3f6ae956"
+ }
+]

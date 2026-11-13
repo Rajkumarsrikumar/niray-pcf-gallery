@@ -1,0 +1,42 @@
+{
+ "name": "AvailabilityGrid",
+ "displayName": "Availability Grid (PCFLib)",
+ "slug": "availability-grid",
+ "tagline": "The Availability Grid turns one text column into a weekly availability picker.",
+ "description": "The Availability Grid turns one text column into a weekly availability picker. People see the days of the week across the top and times (or named periods such as Morning and Evening) down the side, and simply tap or drag across the times they can usually help. Each time can be Available or Available if needed (a backup). The control adds up the hours, checks your rules and saves a readable summary such as \"Mon 09:00-12:00; Sat Morning\".",
+ "features": [
+  "Days x time slots (or named periods such as Morning / Evening) that people tap or drag to mark Available or Available if needed, brush toolbar",
+  "Whole-day and whole-time toggles, presets",
+  "Copy a day to weekdays or all days",
+  "Blocked times with reasons",
+  "Minimum / maximum hours and minimum days rules, Undo",
+  "A plain-English summary and a phone day-by-day layout",
+  "Stores readable text or JSON",
+  "Built for Power Pages basic and multistep forms (volunteer sign-up, job applications, interview and tutoring availability) and also works in model-driven and canvas apps"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": null,
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps",
+  "Power Pages"
+ ],
+ "tags": [
+  "availability",
+  "cross-industry"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": null,
+ "schemaName": "pcfl_PCFLib.AvailabilityGrid",
+ "react": null,
+ "controlType": "standard",
+ "userManual": "AvailabilityGrid_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

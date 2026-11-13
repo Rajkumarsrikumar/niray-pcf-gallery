@@ -1,0 +1,44 @@
+{
+ "name": "ReturnRequestBuilder",
+ "displayName": "Return Request Builder (PCFLib)",
+ "slug": "return-request-builder",
+ "tagline": "The Return Request Builder lets customers start a return on your portal without calling or emailing.",
+ "description": "The Return Request Builder lets customers start a return on your portal without calling or emailing. It shows the lines of their order, makes clear which items can still be returned, and guides them through quantity, reason, condition and a note for each item. Customers choose a refund, exchange or store credit and see an estimated refund before they submit.",
+ "features": [
+  "Lists the order's lines with return eligibility (return window, final sale)",
+  "Lets the customer pick items, quantities, a reason",
+  "The item condition and a note, choose refund",
+  "Exchange or store credit",
+  "Shows an estimated refund with restocking fee and evidence hints",
+  "Validates the request and saves it as JSON in one text column",
+  "No Web API or external services",
+  "Also works in model-driven and canvas apps"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Power Pages code component",
+ "hosts": [
+  "Power Pages"
+ ],
+ "tags": [
+  "return",
+  "request",
+  "builder",
+  "cross-industry",
+  "power",
+  "pages"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-03",
+ "schemaName": "pcfl_PCFLib.ReturnRequestBuilder",
+ "react": null,
+ "controlType": "standard",
+ "userManual": "ReturnRequestBuilder_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

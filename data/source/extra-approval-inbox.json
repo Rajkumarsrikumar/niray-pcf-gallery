@@ -1,0 +1,43 @@
+{
+ "name": "ApprovalInbox",
+ "displayName": "Approval Inbox",
+ "slug": "approval-inbox",
+ "tagline": "The Approval Inbox turns a list of requests into an inbox that approvers can work through quickly, much like an email inbox.",
+ "description": "The Approval Inbox turns a list of requests into an inbox that approvers can work through quickly, much like an email inbox. It shows what is waiting, what is overdue and how much money is involved, lets you open each request to read the details, and approve or reject it with a comment. You can also tick several requests and decide them together.",
+ "features": [
+  "Searchable list of requests with Pending / Overdue / Due soon / High value filters and counts",
+  "Sort and grouping",
+  "SLA due badges",
+  "A detail pane with comment",
+  "Approve / Reject (with required rejection reason)",
+  "Multi-select bulk approve / reject with confirmation",
+  "Auto-advance to the next request",
+  "Outputs for canvas Patch() or direct Web API status updates in model-driven apps",
+  "Phone layout switches to list then full-screen detail"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "approval",
+  "inbox",
+  "cross-industry"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-27",
+ "schemaName": "pcfl_PCFLib.ApprovalInbox",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "ApprovalInbox_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

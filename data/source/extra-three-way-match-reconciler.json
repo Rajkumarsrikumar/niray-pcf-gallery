@@ -1,0 +1,45 @@
+{
+ "name": "ThreeWayMatchReconciler",
+ "displayName": "Three-Way Match Reconciler",
+ "slug": "three-way-match-reconciler",
+ "tagline": "The Three-Way Match Reconciler is an accounts-payable workbench.",
+ "description": "The Three-Way Match Reconciler is an accounts-payable workbench. It puts every purchase-order line next to what was received (goods receipt) and what the supplier invoiced, checks quantities and prices against your tolerance rules, and tells you straight away which lines can be paid and which need attention.",
+ "features": [
+  "Quantity and price tolerance rules (3-way or 2-way)",
+  "Match result per line with variance value, PO roll-ups",
+  "Clickable KPI tiles, search, supplier filter, sorting, grouping",
+  "Multi-select with Approve for payment / Place on hold / Request credit note",
+  "Expandable check details",
+  "A phone card layout and Power Fx outputs and events for Patch"
+ ],
+ "industry": "Procurement & Supply Chain",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps",
+  "Power Pages"
+ ],
+ "tags": [
+  "three",
+  "way",
+  "match",
+  "reconciler",
+  "procurement",
+  "supply",
+  "chain"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-06",
+ "schemaName": "pcfl_PCFLib.ThreeWayMatchReconciler",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "ThreeWayMatchReconciler_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

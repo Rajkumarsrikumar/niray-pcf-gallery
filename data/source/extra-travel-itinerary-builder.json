@@ -1,0 +1,41 @@
+{
+ "name": "TravelItineraryBuilder",
+ "displayName": "Travel Itinerary Builder",
+ "slug": "travel-itinerary-builder",
+ "tagline": "The Travel Itinerary Builder turns the \"Where are you going?\" part of a travel request into one guided field.",
+ "description": "The Travel Itinerary Builder turns the \"Where are you going?\" part of a travel request into one guided field. Travellers pick the kind of trip, add each journey (a leg) by flight, rail, car or taxi, bus or ferry, and the control immediately shows the route, the number of nights away, hotel nights and an estimate of the daily allowance.",
+ "features": [
+  "One way",
+  "Return or multi-city trips with flight/rail/car/bus/ferry legs, city suggestions",
+  "Route map strip, hotel nights, daily-allowance estimate",
+  "Travel-policy checks (notice period, trip length, allowed modes and classes, route gaps) and justification",
+  "Stores the itinerary (with a summary) as JSON in one text column"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Power Pages code component",
+ "hosts": [
+  "Power Pages"
+ ],
+ "tags": [
+  "travel",
+  "itinerary",
+  "builder",
+  "cross-industry",
+  "power",
+  "pages"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-04",
+ "schemaName": "pcfl_PCFLib.TravelItineraryBuilder",
+ "react": null,
+ "controlType": "standard",
+ "userManual": "TravelItineraryBuilder_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

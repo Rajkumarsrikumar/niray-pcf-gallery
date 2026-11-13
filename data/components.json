@@ -402,6 +402,49 @@
   "price": null
  },
  {
+  "name": "Activity Timeline",
+  "component": "ActivityTimeline",
+  "slug": "activity-timeline",
+  "schemaName": "pcfl_PCFLib.ActivityTimeline",
+  "tagline": "Activity Timeline shows emails, phone calls, meetings, tasks, notes and site visits as a timeline instead of a long list.",
+  "description": "Activity Timeline shows emails, phone calls, meetings, tasks, notes and site visits as a timeline instead of a long list. Each activity is a card with a coloured icon for its type, a friendly date (\"Today 15:30\", \"Yesterday\", \"In 3 days\"), its status, owner, the customer or case it relates to and a short preview of the notes.",
+  "features": [
+   "Grouped by day, week",
+   "Month or type, search",
+   "Type chips with counts",
+   "KPI tiles (open, overdue, due soon, completed) that filter",
+   "Date-range and status filters",
+   "Overdue / due-soon business rules, expandable details",
+   "Open record and Mark complete quick actions",
+   "Keyboard and touch navigation",
+   "A designed phone layout and selection / action outputs"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "activity",
+   "timeline",
+   "cross-industry"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 9,
+  "dateBuilt": "2026-10-30",
+  "price": null
+ },
+ {
   "name": "Admissions Application Tracker",
   "component": "AdmissionsApplicationTracker",
   "slug": "admissions-application-tracker",
@@ -783,6 +826,359 @@
   "price": null
  },
  {
+  "name": "Appointment Slot Picker",
+  "component": "AppointmentSlotPicker",
+  "slug": "appointment-slot-picker",
+  "schemaName": "pcfl_PCFLib.AppointmentSlotPicker",
+  "tagline": "The Appointment Slot Picker turns a date-and-time field into a simple booking screen.",
+  "description": "The Appointment Slot Picker turns a date-and-time field into a simple booking screen. Instead of typing a date and a time, people pick a day from a strip that shows how many slots are still free, then tap a time slot. The control knows your opening hours, how long each appointment is, how many bookings one slot can take, which slots are already booked, public holidays and how much notice you need.",
+  "features": [
+   "Day strip with free-slot counts",
+   "Time slots grouped by morning / afternoon / evening",
+   "Capacity and existing bookings",
+   "Outlook calendar busy times, closed dates, lead time",
+   "First-available shortcut and slot outputs (local and UTC) for canvas Patch and Outlook events"
+  ],
+  "category": "Canvas app field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "appointment",
+   "slot",
+   "picker",
+   "cross-industry",
+   "canvas"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.1.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 12,
+  "dateBuilt": "2026-10-27",
+  "price": null
+ },
+ {
+  "name": "Approval Audit Trail Explorer",
+  "component": "ApprovalAuditTrailExplorer",
+  "slug": "approval-audit-trail-explorer",
+  "schemaName": "pcfl_PCFLib.ApprovalAuditTrailExplorer",
+  "tagline": "The Approval Audit Trail Explorer shows the full history of your approval requests - who submitted, approved, rejected, edited, delegated or escalated each request, and…",
+  "description": "The Approval Audit Trail Explorer shows the full history of your approval requests - who submitted, approved, rejected, edited, delegated or escalated each request, and when - and checks that history for compliance problems. It reads any table, view or collection that has one row per audit event.",
+  "features": [
+   "Per-request timelines with field changes (old to new)",
+   "A sortable log that turns into cards on phones",
+   "Built-in compliance checks (self-approval, same approver on several stages, approval over authority limit, edits after approval, rubber-stamp approvals, acting after closure, out-of-hours actions, rejections without a reason) with severity, search",
+   "Action / actor / severity / date filters, multi-select",
+   "Flag / Mark reviewed / Open / Copy CSV actions and Power Fx outputs and events"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Approvals & Workflow",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "approval",
+   "audit",
+   "trail",
+   "explorer",
+   "approvals",
+   "workflow"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 9,
+  "dateBuilt": "2026-11-11",
+  "price": null
+ },
+ {
+  "name": "Approval Conditions Tracker",
+  "component": "ApprovalConditionsTracker",
+  "slug": "approval-conditions-tracker",
+  "schemaName": "pcfl_PCFLib.ApprovalConditionsTracker",
+  "tagline": "Many approvals are given subject to conditions - \"approved, provided three quotes are obtained\", \"pay only after the signed contract is on file\".",
+  "description": "Many approvals are given subject to conditions - \"approved, provided three quotes are obtained\", \"pay only after the signed contract is on file\". The Approval Conditions Tracker keeps those conditions on the approved record and follows each one to closure: who owns it, when it is due, what evidence was provided and who verified it.",
+  "features": [
+   "Each condition has a category, owner, due date",
+   "Blocking flag and evidence",
+   "Shows a release gate (Blocked / Clear), progress",
+   "Overdue and due-soon counts, KPI filters, search",
+   "Grouping by category or owner, sorting",
+   "A validated add/edit form with templates",
+   "A start / submit evidence / verify / waive / reopen workflow with segregation of duties and a per-condition history",
+   "A phone layout",
+   "Power Fx outputs and events"
+  ],
+  "category": "Model-driven / Dataverse field control",
+  "subCategory": null,
+  "industry": "Approvals & Workflow",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "approval",
+   "conditions",
+   "tracker",
+   "approvals",
+   "workflow",
+   "model-driven",
+   "dataverse"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 10,
+  "dateBuilt": "2026-11-11",
+  "price": null
+ },
+ {
+  "name": "Approval Cycle Time Analyzer",
+  "component": "ApprovalCycleTimeAnalyzer",
+  "slug": "approval-cycle-time-analyzer",
+  "schemaName": "pcfl_PCFLib.ApprovalCycleTimeAnalyzer",
+  "tagline": "The Approval Cycle Time Analyzer shows how long approvals take and where they get stuck.",
+  "description": "The Approval Cycle Time Analyzer shows how long approvals take and where they get stuck. It reads a list of approval steps - one row for each time a request reaches a stage such as Line manager, Budget holder, Finance review or CFO - and draws one time bar per request. Each coloured part of the bar is the time spent at one stage; grey parts are hand-off waits between stages; a striped part is a step that is still waiting and keeps growing until someone acts.",
+  "features": [
+   "One stacked time bar per request (time at each stage plus hand-off waits, live ageing of open steps, target marker)",
+   "Stage and approver bottleneck views with median / P90 times",
+   "Calendar or business-hours clocks",
+   "Stage and end-to-end targets, search",
+   "Status / group / over-target filters, grouping, sorting, drill-down",
+   "Multi-select with Nudge / Escalate / Open actions",
+   "A phone card layout and Power Fx outputs and events"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Approvals & Workflow",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "approval",
+   "cycle",
+   "time",
+   "analyzer",
+   "approvals",
+   "workflow"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 9,
+  "dateBuilt": "2026-11-11",
+  "price": null
+ },
+ {
+  "name": "Approval Decision Composer",
+  "component": "ApprovalDecisionComposer",
+  "slug": "approval-decision-composer",
+  "schemaName": "pcfl_PCFLib.ApprovalDecisionComposer",
+  "tagline": "The Approval Decision Composer is the approver's side of an approval.",
+  "description": "The Approval Decision Composer is the approver's side of an approval. It shows the request (title, amount, your authority limit and how long you have left), lets you pick an outcome, asks only for what that outcome needs, checks your organisation's rules, and records a clear, audit-ready decision note.",
+  "features": [
+   "Request header with amount",
+   "Authority-limit meter and SLA clock",
+   "Outcome picker (Approve, Approve with conditions, Request info, Reject, Delegate, Refer up) with keyboard radio navigation",
+   "Per-outcome reason codes",
+   "A conditions checklist with custom conditions",
+   "A searchable delegate picker",
+   "Comment templates and minimum comment length, conflict-of-interest declaration",
+   "Authority-limit rules (block, refer up or warn), review-and-confirm step",
+   "Undo window and a recorded-decision summary",
+   "Writes the outcome and a readable decision note to bound columns and raises OnSubmit / OnDecisionChange / OnUndo events with typed outputs"
+  ],
+  "category": "Canvas app field control",
+  "subCategory": null,
+  "industry": "Approvals & Workflow",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "approval",
+   "decision",
+   "composer",
+   "approvals",
+   "workflow",
+   "canvas"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 11,
+  "dateBuilt": "2026-11-11",
+  "price": null
+ },
+ {
+  "name": "Approval Delegation Planner",
+  "component": "ApprovalDelegationPlanner",
+  "slug": "approval-delegation-planner",
+  "schemaName": "pcfl_PCFLib.ApprovalDelegationPlanner",
+  "tagline": "The Approval Delegation Planner lets an approver plan who approves on their behalf, for which approval types, from when to when and up to what amount - for annual leave…",
+  "description": "The Approval Delegation Planner lets an approver plan who approves on their behalf, for which approval types, from when to when and up to what amount - for annual leave, business travel, training or busy periods. Everything is shown on a timeline (one row per delegate) or as cards, and the planner checks your organisation's rules as you type.",
+  "features": [
+   "Timeline and list views, status filters with counts (active, scheduled, expired, cancelled, overlaps), search and sorting",
+   "Summary tiles: active now, scheduled, next handover and overlaps",
+   "A form with quick date ranges and a live count of calendar and working days",
+   "Rules: maximum length, a limit that can never exceed your own authority, a reason for the audit trail, no back-dated start, and overlapping delegations blocked, warned about or allowed",
+   "Extend 7 days, End today, Cancel, Repeat and Delete - each with Undo",
+   "A phone layout designed for small screens"
+  ],
+  "category": "Model-driven / Dataverse field control",
+  "subCategory": null,
+  "industry": "Approvals & Workflow",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps",
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "approval",
+   "delegation",
+   "planner",
+   "approvals",
+   "workflow",
+   "model-driven",
+   "dataverse"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 10,
+  "dateBuilt": "2026-11-11",
+  "price": null
+ },
+ {
+  "name": "Approval Flow Sankey",
+  "component": "ApprovalFlowSankey",
+  "slug": "approval-flow-sankey",
+  "schemaName": "pcfl_PCFLib.ApprovalFlowSankey",
+  "tagline": "Approval Flow Sankey shows how approval requests really move between stages.",
+  "description": "Approval Flow Sankey shows how approval requests really move between stages. Every request leaves a trail of moves – Submitted to Line manager, Line manager to Finance review, Finance review to CFO approval, and finally Approved, Rejected or Withdrawn. The control draws these moves as a Sankey diagram: each stage is a bar, and the ribbons between them are as wide as the number of requests (or the amount) that took that path.",
+  "features": [
+   "A Sankey flow diagram with ribbons sized by request count or amount",
+   "A phone-friendly stage ladder and an accessible flow table",
+   "Highlights rework loops (sent back to an earlier stage)",
+   "Slow hand-offs over an SLA",
+   "Approval / rejection rates and the bottleneck stage",
+   "Filter by segment, search requests",
+   "Hide thin flows",
+   "Drill into a flow or stage to list its requests",
+   "Open a record or copy the list",
+   "Power Fx outputs and events"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Approvals & Workflow",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "approval",
+   "flow",
+   "sankey",
+   "approvals",
+   "workflow"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 9,
+  "dateBuilt": "2026-11-11",
+  "price": null
+ },
+ {
+  "name": "Approval Inbox",
+  "component": "ApprovalInbox",
+  "slug": "approval-inbox",
+  "schemaName": "pcfl_PCFLib.ApprovalInbox",
+  "tagline": "The Approval Inbox turns a list of requests into an inbox that approvers can work through quickly, much like an email inbox.",
+  "description": "The Approval Inbox turns a list of requests into an inbox that approvers can work through quickly, much like an email inbox. It shows what is waiting, what is overdue and how much money is involved, lets you open each request to read the details, and approve or reject it with a comment. You can also tick several requests and decide them together.",
+  "features": [
+   "Searchable list of requests with Pending / Overdue / Due soon / High value filters and counts",
+   "Sort and grouping",
+   "SLA due badges",
+   "A detail pane with comment",
+   "Approve / Reject (with required rejection reason)",
+   "Multi-select bulk approve / reject with confirmation",
+   "Auto-advance to the next request",
+   "Outputs for canvas Patch() or direct Web API status updates in model-driven apps",
+   "Phone layout switches to list then full-screen detail"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "approval",
+   "inbox",
+   "cross-industry"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 9,
+  "dateBuilt": "2026-10-27",
+  "price": null
+ },
+ {
   "name": "Approval Journey Tracker",
   "component": "ApprovalJourneyTracker",
   "slug": "approval-journey-tracker",
@@ -841,6 +1237,91 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 10,
   "dateBuilt": "2026-10-27",
+  "price": null
+ },
+ {
+  "name": "Approval Route Designer",
+  "component": "ApprovalRouteDesigner",
+  "slug": "approval-route-designer",
+  "schemaName": "pcfl_PCFLib.ApprovalRouteDesigner",
+  "tagline": "The Approval Route Designer lets you set up who has to approve a request, in which order, and from which amount - right on the record.",
+  "description": "The Approval Route Designer lets you set up who has to approve a request, in which order, and from which amount - right on the record. Each step has a name, one or more approvers, an approval rule, an amount from which the step applies, a service level (SLA) in working days and an optional escalation contact.",
+  "features": [
+   "Ordered steps with approvers",
+   "One/all/any approval rules, amount thresholds",
+   "Working-day SLAs and escalation contacts, templates, validation",
+   "Reorder by keyboard, filters",
+   "A what-if route preview with estimated sign-off date",
+   "A phone card layout"
+  ],
+  "category": "Model-driven / Dataverse field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "approval",
+   "route",
+   "designer",
+   "cross-industry",
+   "model-driven",
+   "dataverse"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 9,
+  "dateBuilt": "2026-11-03",
+  "price": null
+ },
+ {
+  "name": "Approver Workload Balancer",
+  "component": "ApproverWorkloadBalancer",
+  "slug": "approver-workload-balancer",
+  "schemaName": "pcfl_PCFLib.ApproverWorkloadBalancer",
+  "tagline": "The Approver Workload Balancer shows how many approval tasks each approver is holding, compared with how many they can handle (their capacity).",
+  "description": "The Approver Workload Balancer shows how many approval tasks each approver is holding, compared with how many they can handle (their capacity). Each approver has a load bar split into overdue, due soon, on track and no due date tasks. It flags approvers who are away, over capacity or busy, and tasks that have no approver at all.",
+  "features": [
+   "Per-approver load bars against capacity (overdue / due soon / on track), out-of-office approvers",
+   "Role and authority-limit aware reassignment with ranked suggestions",
+   "A one-click Balance proposal that moves tasks off away and overloaded approvers",
+   "A sortable task table that turns into cards on phones",
+   "Search and filters",
+   "Multi-select and Power Fx outputs and events (OnReassign, OnSelectionChange, OnApproverSelect)"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Approvals & Workflow",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "approver",
+   "workload",
+   "balancer",
+   "approvals",
+   "workflow"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 10,
+  "dateBuilt": "2026-11-11",
   "price": null
  },
  {
@@ -962,6 +1443,51 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 26,
   "dateBuilt": "2026-11-01",
+  "price": null
+ },
+ {
+  "name": "Attachment Uploader",
+  "component": "AttachmentUploader",
+  "slug": "attachment-uploader",
+  "schemaName": "pcfl_PCFLib.AttachmentUploader",
+  "tagline": "The Attachment Uploader lets people attach photos and documents to a record in one place.",
+  "description": "The Attachment Uploader lets people attach photos and documents to a record in one place. They can drag files in, choose them from the device, take a photo with the phone camera or paste a screenshot. The control checks every file straight away (type, size, number of files and total size), makes large photos smaller so they upload quickly, and asks for the details your process needs, such as a category and a caption.",
+  "features": [
+   "Drag and drop, browse",
+   "Take a photo on phones or paste a screenshot, type, size",
+   "Count and total-size limits with clear reasons for rejected files",
+   "Automatic photo down-sizing",
+   "Thumbnails and a preview dialog (images, PDF, text)",
+   "Categories (e.g. Before / After / Receipt) with required counts, captions, rename, reorder",
+   "Remove with Undo",
+   "Already-uploaded attachments (SharePoint / Dataverse notes JSON) with remove marking",
+   "List or grid layout, phone layout",
+   "Read-only and loading states"
+  ],
+  "category": "Canvas app field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "attachment",
+   "uploader",
+   "cross-industry",
+   "canvas"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 9,
+  "dateBuilt": "2026-10-29",
   "price": null
  },
  {
@@ -1097,6 +1623,48 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 18,
   "dateBuilt": "2026-10-28",
+  "price": null
+ },
+ {
+  "name": "Availability Grid (PCFLib)",
+  "component": "AvailabilityGrid",
+  "slug": "availability-grid",
+  "schemaName": "pcfl_PCFLib.AvailabilityGrid",
+  "tagline": "The Availability Grid turns one text column into a weekly availability picker.",
+  "description": "The Availability Grid turns one text column into a weekly availability picker. People see the days of the week across the top and times (or named periods such as Morning and Evening) down the side, and simply tap or drag across the times they can usually help. Each time can be Available or Available if needed (a backup). The control adds up the hours, checks your rules and saves a readable summary such as \"Mon 09:00-12:00; Sat Morning\".",
+  "features": [
+   "Days x time slots (or named periods such as Morning / Evening) that people tap or drag to mark Available or Available if needed, brush toolbar",
+   "Whole-day and whole-time toggles, presets",
+   "Copy a day to weekdays or all days",
+   "Blocked times with reasons",
+   "Minimum / maximum hours and minimum days rules, Undo",
+   "A plain-English summary and a phone day-by-day layout",
+   "Stores readable text or JSON",
+   "Built for Power Pages basic and multistep forms (volunteer sign-up, job applications, interview and tutoring availability) and also works in model-driven and canvas apps"
+  ],
+  "category": null,
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps",
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "availability",
+   "cross-industry"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "standard",
+  "react": null,
+  "screenshotCount": 8,
+  "dateBuilt": null,
   "price": null
  },
  {
@@ -1593,6 +2161,47 @@
   "price": null
  },
  {
+  "name": "Budget Phasing Editor",
+  "component": "BudgetPhasingEditor",
+  "slug": "budget-phasing-editor",
+  "schemaName": "pcfl_PCFLib.BudgetPhasingEditor",
+  "tagline": "The Budget Phasing Editor lets you split an approved budget across the months of a project, purchase, grant or programme - right on the record.",
+  "description": "The Budget Phasing Editor lets you split an approved budget across the months of a project, purchase, grant or programme - right on the record. Each budget line (for example labour, licences, hardware, travel and contingency) gets a row, each month gets a column, and the control keeps the totals, the variance against the target budget and a cumulative picture up to date while you type.",
+  "features": [
+   "Budget lines x periods grid with row/column totals",
+   "Spread tools (even, front-load, back-load, S-curve, copy)",
+   "Locked actual periods",
+   "Target budget variance with tolerance, quarter roll-up",
+   "Cumulative chart and a phone card layout"
+  ],
+  "category": "Model-driven / Dataverse field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "budget",
+   "phasing",
+   "editor",
+   "cross-industry",
+   "model-driven",
+   "dataverse"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 9,
+  "dateBuilt": "2026-11-03",
+  "price": null
+ },
+ {
   "name": "Budget Utilisation Tracker",
   "component": "BudgetUtilisationTracker",
   "slug": "budget-utilisation-tracker",
@@ -1832,6 +2441,49 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 22,
   "dateBuilt": "2026-11-01",
+  "price": null
+ },
+ {
+  "name": "Calendar Heatmap",
+  "component": "CalendarHeatmap",
+  "slug": "calendar-heatmap",
+  "schemaName": "pcfl_PCFLib.CalendarHeatmap",
+  "tagline": "The Calendar Heatmap turns any list of records with a date into a calendar where every day is a coloured square.",
+  "description": "The Calendar Heatmap turns any list of records with a date into a calendar where every day is a coloured square. The darker the square, the more happened that day - more site visits, more cases, more hours or more donations. It makes busy weeks, quiet periods, gaps and campaigns visible at a glance, and lets you click a day to see exactly which records are behind it.",
+  "features": [
+   "Year (week x weekday)",
+   "Quarter and month views coloured by count",
+   "Total or average per day",
+   "Quantile or linear colour scale",
+   "Category filter chips, search",
+   "KPIs (total, active days, best day, streaks), goal markers",
+   "Keyboard day navigation",
+   "Day drill-down with record list and open",
+   "A phone month view with monthly bars"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "calendar",
+   "heatmap",
+   "cross-industry"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 8,
+  "dateBuilt": "2026-11-03",
   "price": null
  },
  {
@@ -2318,6 +2970,54 @@
   "price": null
  },
  {
+  "name": "Category Tree Picker (PCFLib)",
+  "component": "CategoryTreePicker",
+  "slug": "category-tree-picker",
+  "schemaName": "pcfl_PCFLib.CategoryTreePicker",
+  "tagline": "The Category Tree Picker turns one text column into a searchable, tree-shaped list of categories.",
+  "description": "The Category Tree Picker turns one text column into a searchable, tree-shaped list of categories. People tick a whole branch (for example Cleaning services with everything under it) or single items, see what they picked as chips, and get clear messages when they pick too few or too many. On phones the tree becomes a drill-down list: one level at a time, with a Back link and a path at the top.",
+  "features": [
+   "Search with highlighted matches",
+   "Tri-state branch selection (pick a whole branch or single items)",
+   "Chips of what is chosen",
+   "Min / max limits with clear messages",
+   "Badges and unavailable items",
+   "Expand / collapse, show-selected-only",
+   "A drill-down list on phones, Stores codes",
+   "Labels or JSON",
+   "Ready-made trees: supplier categories",
+   "Singapore service areas, volunteer ministries"
+  ],
+  "category": "Power Pages code component",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps",
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "category",
+   "tree",
+   "picker",
+   "cross-industry",
+   "power",
+   "pages"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "standard",
+  "react": null,
+  "screenshotCount": 9,
+  "dateBuilt": "2026-10-29",
+  "price": null
+ },
+ {
   "name": "Certificate Of Insurance Request",
   "component": "CertificateOfInsuranceRequest",
   "slug": "certificate-of-insurance-request",
@@ -2444,6 +3144,92 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 33,
   "dateBuilt": "2026-11-02",
+  "price": null
+ },
+ {
+  "name": "Change Approval Risk Assessor",
+  "component": "ChangeApprovalRiskAssessor",
+  "slug": "change-approval-risk-assessor",
+  "schemaName": "pcfl_PCFLib.ChangeApprovalRiskAssessor",
+  "tagline": "The Change Approval Risk Assessor turns a change request (RFC) into a short guided form.",
+  "description": "The Change Approval Risk Assessor turns a change request (RFC) into a short guided form. While the requester types, it works out how risky the change is (a score from 0 to 100: Low, Medium or High), checks the schedule (notice period, change freeze, business hours) and shows exactly who has to approve it - from a pre-approved standard change up to the Change Advisory Board (CAB) or the emergency board (ECAB).",
+  "features": [
+   "Change type",
+   "Affected services with tiers and owners, implementation window",
+   "Weighted risk questionnaire plus automatic risk factors (tier-1 services, business hours, downtime, users affected, change freeze, emergency) giving a live 0-100 risk score and level",
+   "Plans and evidence required by risk",
+   "Schedule checks (notice period, freeze periods, business hours) and the approval route it needs (pre-approved standard change, line manager, change manager, service owners, CAB or emergency CAB)",
+   "Stores the whole assessment (with a readable summary) as JSON in one text column"
+  ],
+  "category": "Power Pages code component",
+  "subCategory": null,
+  "industry": "Approvals & Workflow",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "change",
+   "approval",
+   "risk",
+   "assessor",
+   "approvals",
+   "workflow",
+   "power",
+   "pages"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "standard",
+  "react": null,
+  "screenshotCount": 9,
+  "dateBuilt": "2026-11-11",
+  "price": null
+ },
+ {
+  "name": "Choice Pill Toggle",
+  "component": "ChoicePillToggle",
+  "slug": "choice-pill-toggle",
+  "schemaName": "pcfl_PCFLib.ChoicePillToggle",
+  "tagline": "Choice Pill Toggle replaces the usual drop-down for a Choice column with a row of buttons.",
+  "description": "Choice Pill Toggle replaces the usual drop-down for a Choice column with a row of buttons. All the options are visible, and you change the value with a single click or tap — no need to open a list.",
+  "features": [
+   "Segmented bar",
+   "Full-width, large buttons",
+   "Vertical list",
+   "Your own highlight colour",
+   "Compact, without the check mark"
+  ],
+  "category": "Model-driven / Dataverse field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "choice",
+   "pill",
+   "toggle",
+   "cross-industry",
+   "model-driven",
+   "dataverse"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.2",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 8,
+  "dateBuilt": "2026-10-16",
   "price": null
  },
  {
@@ -2916,6 +3702,50 @@
   "price": null
  },
  {
+  "name": "Close Date Slippage Guard",
+  "component": "CloseDateSlippageGuard",
+  "slug": "close-date-slippage-guard",
+  "schemaName": "pcfl_PCFLib.CloseDateSlippageGuard",
+  "tagline": "Close Date Slippage Guard replaces the plain Expected close date box on an opportunity.",
+  "description": "Close Date Slippage Guard replaces the plain Expected close date box on an opportunity. While the rep picks a date it shows the fiscal quarter and days to close, compares the date with the committed close date, and reacts when a deal slips into a later quarter: the badge turns to *Slipped*, the rep chooses why it slipped, and the push counter goes up. It also stops dates in the past or too far ahead, and gives advice when a date is unrealistic for the sales stage or the deal has been pushed too often.",
+  "features": [
+   "Shows the fiscal quarter and days to close",
+   "Compares the new date with the committed close date",
+   "Flags slipped and out-of-quarter moves",
+   "Asks for a slip reason",
+   "Warns when a date is unrealistic for the sales stage or the deal has been pushed too often",
+   "Offers quick picks such as End of quarter",
+   "Writes the date to a bound date column and raises OnCloseDateChange / OnQuarterChange"
+  ],
+  "category": "Canvas app field control",
+  "subCategory": null,
+  "industry": "CRM & Sales",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "close",
+   "date",
+   "slippage",
+   "guard",
+   "crm",
+   "sales",
+   "canvas"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 8,
+  "dateBuilt": "2026-11-12",
+  "price": null
+ },
+ {
   "name": "Code Enforcement Case Board",
   "component": "CodeEnforcementCaseBoard",
   "slug": "code-enforcement-case-board",
@@ -3110,6 +3940,47 @@
   "price": null
  },
  {
+  "name": "Colour Swatch Picker",
+  "component": "ColorSwatchPicker",
+  "slug": "color-swatch-picker",
+  "schemaName": "pcfl_PCFLib.ColorSwatchPicker",
+  "tagline": "The Colour Swatch Picker replaces a plain text box that holds a colour code with a friendly colour chooser.",
+  "description": "The Colour Swatch Picker replaces a plain text box that holds a colour code with a friendly colour chooser. You click a swatch from your organisation's palette, or - if your app maker allows it - type a colour code or open your device's colour picker. The chosen colour is shown in a preview bar together with its name and code, and a small check tells you whether black or white text is easier to read on it.",
+  "features": [
+   "Status colours with names",
+   "Compact square swatches saved as rgb()",
+   "Preview text",
+   "On a phone"
+  ],
+  "category": "Model-driven / Dataverse field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "color",
+   "swatch",
+   "picker",
+   "cross-industry",
+   "model-driven",
+   "dataverse"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 9,
+  "dateBuilt": "2026-10-27",
+  "price": null
+ },
+ {
   "name": "Command Palette",
   "component": "CommandPalette",
   "slug": "command-palette",
@@ -3238,6 +4109,93 @@
   "price": null
  },
  {
+  "name": "Commerce Mega Menu (PCFLib)",
+  "component": "CommerceMegaMenu",
+  "slug": "commerce-mega-menu",
+  "schemaName": "pcfl_PCFLib.CommerceMegaMenu",
+  "tagline": "The Commerce Mega Menu is the large, multi-column navigation you see on modern enterprise and online-shop websites.",
+  "description": "The Commerce Mega Menu is the large, multi-column navigation you see on modern enterprise and online-shop websites. A bar across the top lists the main sections (for example Products, Solutions, Resources, Services and Contact). Choosing a section opens a wide panel with grouped links, small icons, one-line descriptions, badges such as New, Popular, Beta or Updated, highlighted \"featured\" links, a promotional card and \"View all\" links.",
+  "features": [
+   "Top navigation bar with large multi-column panels",
+   "Grouped links with icons",
+   "Descriptions and badges, featured links, promotional card",
+   "View all links, menu search",
+   "A touch-friendly accordion on phones",
+   "Driven by a JSON menu configuration",
+   "Raises the selected link through output properties (or navigates, if you choose)",
+   "No external services"
+  ],
+  "category": "Power Pages code component",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps",
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "commerce",
+   "mega",
+   "menu",
+   "cross-industry",
+   "power",
+   "pages"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.1.0",
+  "solutionVersion": null,
+  "controlType": "standard",
+  "react": null,
+  "screenshotCount": 13,
+  "dateBuilt": "2026-10-27",
+  "price": null
+ },
+ {
+  "name": "Comparison Matrix",
+  "component": "ComparisonMatrix",
+  "slug": "comparison-matrix",
+  "schemaName": "pcfl_PCFLib.ComparisonMatrix",
+  "tagline": "The Comparison Matrix shows several records side by side.",
+  "description": "The Comparison Matrix shows several records side by side. Each record (a supplier quote, a tender bid, a product, a service plan) becomes a column, and each piece of information (price, lead time, warranty, terms) becomes a row. Simple rules decide which value wins on each row, so the best value is highlighted, the weakest can be marked, and the record with the most (weighted) wins is labelled Best overall.",
+  "features": [
+   "The records become columns and the view columns become rows",
+   "Best / worst highlighting from simple rules (Price=min, Warranty=max, Certified=yes)",
+   "Weighted wins and a Best overall badge",
+   "A baseline column with +/- % differences, Differences only, attribute groups, search, sort",
+   "Choose which records to compare",
+   "A Choose / Award button with outputs, CSV copy",
+   "Keyboard grid navigation and a phone side-by-side pair view"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "comparison",
+   "matrix",
+   "cross-industry"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 8,
+  "dateBuilt": "2026-10-30",
+  "price": null
+ },
+ {
   "name": "Complaints Handling Tracker",
   "component": "ComplaintsHandlingTracker",
   "slug": "complaints-handling-tracker",
@@ -3300,6 +4258,50 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 28,
   "dateBuilt": "2026-11-01",
+  "price": null
+ },
+ {
+  "name": "Contact Points Editor",
+  "component": "ContactPointsEditor",
+  "slug": "contact-points-editor",
+  "schemaName": "pcfl_PCFLib.ContactPointsEditor",
+  "tagline": "The Contact Points Editor keeps every way to reach a person or organisation in one place: mobile and office numbers, email addresses, WhatsApp, website and LinkedIn.",
+  "description": "The Contact Points Editor keeps every way to reach a person or organisation in one place: mobile and office numbers, email addresses, WhatsApp, website and LinkedIn. Each entry can have a label, one entry of each type is the primary, and any entry can be marked Do not contact. You can also choose the person's preferred channel.",
+  "features": [
+   "Mobile, phone, email, WhatsApp",
+   "Website and LinkedIn entries with labels",
+   "One primary per type, do-not-contact flags, preferred channel",
+   "Phone-number normalising with a default country code",
+   "Validation and duplicate detection",
+   "Type filters and search",
+   "Call/email/chat quick actions",
+   "Privacy masking and a phone card layout"
+  ],
+  "category": "Canvas app field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "contact",
+   "points",
+   "editor",
+   "cross-industry",
+   "canvas"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 7,
+  "dateBuilt": "2026-11-03",
   "price": null
  },
  {
@@ -3371,6 +4373,47 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 4,
   "dateBuilt": "2026-11-06",
+  "price": null
+ },
+ {
+  "name": "Cost Allocation Editor (PCFLib)",
+  "component": "CostAllocationEditor",
+  "slug": "cost-allocation-editor",
+  "schemaName": "pcfl_PCFLib.CostAllocationEditor",
+  "tagline": "The Cost Allocation Editor lets people split one amount - a purchase requisition, supplier invoice, expense claim, grant or shared contract - across several cost…",
+  "description": "The Cost Allocation Editor lets people split one amount - a purchase requisition, supplier invoice, expense claim, grant or shared contract - across several cost centres, projects, GL accounts or funds. Each line can be entered as a percentage or as an amount; the other value is worked out for you and the pennies always add up to the total.",
+  "features": [
+   "Searchable cost centre list grouped by department, showing the owner and remaining budget",
+   "Share (%) and Amount on every line - change either one; rounding differences go to the largest line so the total is exact",
+   "Stacked allocation bar, Allocated / remaining summary and a clear status: Fully allocated, % to allocate or Over by %",
+   "Split evenly, Fill remaining share, Lock a line, Split templates, Clear and Undo",
+   "Budget check per line (warn or block), note required above an amount, minimum % per line, minimum and maximum number of lines",
+   "Table layout on wide screens and touch-friendly cards on phones"
+  ],
+  "category": null,
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "cost",
+   "allocation",
+   "editor",
+   "cross-industry"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 10,
+  "dateBuilt": null,
   "price": null
  },
  {
@@ -3604,6 +4647,89 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 24,
   "dateBuilt": "2026-10-31",
+  "price": null
+ },
+ {
+  "name": "Cross-Sell Whitespace Matrix",
+  "component": "CrossSellWhitespaceMatrix",
+  "slug": "cross-sell-whitespace-matrix",
+  "schemaName": "pcfl_PCFLib.CrossSellWhitespaceMatrix",
+  "tagline": "Account by product matrix for cross-sell and upsell planning: owned, in-pipeline, declined and whitespace cells, product penetration against a target, whitespace…",
+  "description": "Account by product matrix for cross-sell and upsell planning: owned, in-pipeline, declined and whitespace cells, product penetration against a target, whitespace potential, search, segment filter, product focus and tap-to-create actions raised to Power Fx.",
+  "features": [
+   "Owned, in-pipeline",
+   "Declined and whitespace cells",
+   "Product penetration against a target, whitespace potential, search, segment filter",
+   "Product focus and tap-to-create actions raised to Power Fx"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "CRM & Sales",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "cross",
+   "sell",
+   "whitespace",
+   "matrix",
+   "crm",
+   "sales"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 7,
+  "dateBuilt": "2026-11-12",
+  "price": null
+ },
+ {
+  "name": "Currency Input (PCFLib)",
+  "component": "CurrencyInput",
+  "slug": "currency-input",
+  "schemaName": "pcfl_PCFLib.CurrencyInput",
+  "tagline": "Currency Input is a money field.",
+  "description": "Currency Input is a money field. While you type it shows a plain number; when you leave the field it shows the formatted amount with the currency symbol and separators, for example S$1,234.50.",
+  "features": [
+   "Thousand separators, currency symbol",
+   "Shortcuts (1.5k, 2m), min/max limits",
+   "Step buttons and optional amount-in-words (cheque / payment voucher style)",
+   "Built for Power Pages basic and multistep forms",
+   "Also works on model-driven and canvas apps"
+  ],
+  "category": "Power Pages code component",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps",
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "currency",
+   "input",
+   "cross-industry",
+   "power",
+   "pages"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.1",
+  "solutionVersion": null,
+  "controlType": "standard",
+  "react": null,
+  "screenshotCount": 7,
+  "dateBuilt": "2026-10-23",
   "price": null
  },
  {
@@ -3920,6 +5046,137 @@
   "price": null
  },
  {
+  "name": "Deal Health Inspector",
+  "component": "DealHealthInspector",
+  "slug": "deal-health-inspector",
+  "schemaName": "pcfl_PCFLib.DealHealthInspector",
+  "tagline": "Pipeline inspection list over any table, view or collection of open opportunities: scores every deal 0-100 against configurable health rules (close date passed, closing…",
+  "description": "Pipeline inspection list over any table, view or collection of open opportunities: scores every deal 0-100 against configurable health rules (close date passed, closing soon in an early stage, no recent activity, stuck in stage, pushed too often, no next step, no champion), shows Healthy / Watch / At risk bands, a band bar and clickable issue breakdown, search, band / owner / stage / issue filters, sorting, grouping, expandable reasons with review and request-update actions (single or bulk), a phone card layout, and Power Fx outputs and events.",
+  "features": [
+   "Scores every deal 0-100 against configurable health rules (close date passed, closing soon in an early stage, no recent activity, stuck in stage, pushed too often, no next step, no champion)",
+   "Shows Healthy / Watch / At risk bands",
+   "A band bar and clickable issue breakdown, search",
+   "Band / owner / stage / issue filters, sorting, grouping",
+   "Expandable reasons with review and request-update actions (single or bulk)",
+   "A phone card layout",
+   "Power Fx outputs and events"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "CRM & Sales",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "deal",
+   "health",
+   "inspector",
+   "crm",
+   "sales"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 9,
+  "dateBuilt": "2026-11-12",
+  "price": null
+ },
+ {
+  "name": "Deal Qualification Tracker",
+  "component": "DealQualificationTracker",
+  "slug": "deal-qualification-tracker",
+  "schemaName": "pcfl_PCFLib.DealQualificationTracker",
+  "tagline": "The Deal Qualification Tracker helps a sales team decide how real an opportunity is.",
+  "description": "The Deal Qualification Tracker helps a sales team decide how real an opportunity is. It follows a well-known qualification framework - MEDDPICC (Metrics, Economic buyer, Decision criteria, Decision process, Paper process, Identify pain, Champion, Competition), MEDDICC, BANT or SPICED - and records, for each criterion, how sure you are, the evidence, and the person on the customer side.",
+  "features": [
+   "A status per criterion (Unknown, Partial, Confirmed, Red flag) with evidence, buying-committee contact",
+   "Who updated it and when",
+   "Weighted 0-100 qualification score with Strong / Developing / Weak grade",
+   "Stage-gate check against the opportunity stage, stale-evidence flags",
+   "Coaching questions for the biggest gaps, filters, history",
+   "A phone layout",
+   "Power Fx outputs and events"
+  ],
+  "category": "Model-driven / Dataverse field control",
+  "subCategory": null,
+  "industry": "CRM & Sales",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "deal",
+   "qualification",
+   "tracker",
+   "crm",
+   "sales",
+   "model-driven",
+   "dataverse"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 9,
+  "dateBuilt": "2026-11-12",
+  "price": null
+ },
+ {
+  "name": "Deal Size Band Analyzer",
+  "component": "DealSizeBandAnalyzer",
+  "slug": "deal-size-band-analyzer",
+  "schemaName": "pcfl_PCFLib.DealSizeBandAnalyzer",
+  "tagline": "The Deal Size Band Analyzer shows how your opportunities are spread across deal-size bands - for example under S$25k, S$25k - 50k, S$50k - 100k and so on.",
+  "description": "The Deal Size Band Analyzer shows how your opportunities are spread across deal-size bands - for example under S$25k, S$25k - 50k, S$50k - 100k and so on. For every band it shows how many deals (or how much value) sit there, the win rate of the deals already closed in that band, and it highlights the sweet spot: the band you win most often. A target deal size marker and the median and average deal size tell you at a glance whether your deals are getting bigger or smaller.",
+  "features": [
+   "Deals grouped into amount bands (automatic or your own band edges) with counts or totals",
+   "Win rate per band",
+   "Best-win-rate sweet spot",
+   "Target deal size marker",
+   "Median / average KPIs",
+   "Status and owner filters",
+   "Drill-down into a band's deals raised to Power Fx"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "CRM & Sales",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "deal",
+   "size",
+   "band",
+   "analyzer",
+   "crm",
+   "sales"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 7,
+  "dateBuilt": "2026-11-12",
+  "price": null
+ },
+ {
   "name": "Degree Audit Progress",
   "component": "DegreeAuditProgress",
   "slug": "degree-audit-progress",
@@ -3973,6 +5230,51 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 24,
   "dateBuilt": "2026-11-01",
+  "price": null
+ },
+ {
+  "name": "Delegation of Authority Matrix",
+  "component": "DelegationOfAuthorityMatrix",
+  "slug": "delegation-of-authority-matrix",
+  "schemaName": "pcfl_PCFLib.DelegationOfAuthorityMatrix",
+  "tagline": "A delegation of authority (DoA) says who may approve which kind of document up to which amount.",
+  "description": "A delegation of authority (DoA) says who may approve which kind of document up to which amount. The Delegation of Authority Matrix shows those rules as a grid of roles and document types, checks them for problems, and answers the everyday question \"Who has to approve this?\" for any amount.",
+  "features": [
+   "Roles x document types grid with limit ranges",
+   "Approvers and acting delegates",
+   "Coverage checks (gaps from zero to a top authority, overlapping limits at the same level)",
+   "Expiry and lapsed-delegation warnings",
+   "A Who approves? simulator that highlights the approval chain for an amount",
+   "Rules list with sorting, search",
+   "Document-type / business-unit / state filters, issues view",
+   "Multi-select with Edit / Extend / Suspend actions",
+   "A phone accordion layout and Power Fx outputs and events"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Approvals & Workflow",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "delegation",
+   "authority",
+   "matrix",
+   "approvals",
+   "workflow"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 8,
+  "dateBuilt": "2026-11-11",
   "price": null
  },
  {
@@ -4091,6 +5393,138 @@
   "price": null
  },
  {
+  "name": "Discount Approval Guard",
+  "component": "DiscountApprovalGuard",
+  "slug": "discount-approval-guard",
+  "schemaName": "pcfl_PCFLib.DiscountApprovalGuard",
+  "tagline": "Discount Approval Guard is the box where a sales rep enters the discount on a quote or opportunity line.",
+  "description": "Discount Approval Guard is the box where a sales rep enters the discount on a quote or opportunity line. As soon as a value is entered it shows who has to approve it, the net price and the margin, and it stops discounts that break your policy - above the maximum or below the margin floor.",
+  "features": [
+   "Stepper",
+   "Quick presets and a policy track with self-approve",
+   "Manager and director bands",
+   "A maximum discount and an optional margin floor",
+   "Shows net unit price, net total",
+   "Discount amount and margin live",
+   "Tells the rep who has to approve",
+   "Writes the discount % to a bound number column and raises OnChange / OnApprovalLevelChange"
+  ],
+  "category": "Canvas app field control",
+  "subCategory": null,
+  "industry": "CRM & Sales",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "discount",
+   "approval",
+   "guard",
+   "crm",
+   "sales",
+   "canvas"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 7,
+  "dateBuilt": "2026-11-12",
+  "price": null
+ },
+ {
+  "name": "Discussion Thread",
+  "component": "DiscussionThread",
+  "slug": "discussion-thread",
+  "schemaName": "pcfl_PCFLib.DiscussionThread",
+  "tagline": "Discussion Thread puts a conversation right on the record it is about: a purchase request, work order, contract, case or event.",
+  "description": "Discussion Thread puts a conversation right on the record it is about: a purchase request, work order, contract, case or event. People post comments, questions, decisions and actions, reply, @mention colleagues, like and pin important points, and mark questions answered or actions done. The whole discussion is saved in one multi-line text column, so it works with SharePoint lists, Dataverse tables or a canvas collection without extra tables.",
+  "features": [
+   "Post comments, questions",
+   "Decisions and actions, reply",
+   "@mention people from a list, like",
+   "Mark questions answered / actions done",
+   "Edit or delete your own comments (optional time window) with Undo",
+   "Search with highlighted matches",
+   "Filter chips with counts, sort, day grouping",
+   "Show more for long text and older threads",
+   "Plain-text notes import, read-only, loading",
+   "Masked and malformed-value states and a phone layout, Outputs counts"
+  ],
+  "category": "Canvas app field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "discussion",
+   "thread",
+   "cross-industry",
+   "canvas"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 10,
+  "dateBuilt": "2026-10-30",
+  "price": null
+ },
+ {
+  "name": "Document Library Browser",
+  "component": "DocumentLibraryBrowser",
+  "slug": "document-library-browser",
+  "schemaName": "pcfl_PCFLib.DocumentLibraryBrowser",
+  "tagline": "The Document Library Browser shows a list of document records the way people expect a file explorer to work: folders on the left, documents in the middle and the details…",
+  "description": "The Document Library Browser shows a list of document records the way people expect a file explorer to work: folders on the left, documents in the middle and the details of the chosen document on the right. It works with any table or collection that holds documents - for example contract documents, supplier certificates, a policy library, site-visit photos or attachments on work orders.",
+  "features": [
+   "Folder tree built from folder paths with counts, breadcrumbs",
+   "Search across name/tags/owner",
+   "File-type and status filters",
+   "Expiry quick filters, sort",
+   "Grid or list layout",
+   "Details pane with metadata and open/download links",
+   "Multi-select with bulk actions and outputs for canvas OnChange or flows",
+   "A phone layout with a folder drawer and full-width details sheet"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "document",
+   "library",
+   "browser",
+   "cross-industry"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 9,
+  "dateBuilt": "2026-11-04",
+  "price": null
+ },
+ {
   "name": "Document Requirements Tracker",
   "component": "DocumentRequirementsTracker",
   "slug": "document-requirements-tracker",
@@ -4148,6 +5582,100 @@
   "price": null
  },
  {
+  "name": "Donation Pledge Builder",
+  "component": "DonationPledgeBuilder",
+  "slug": "donation-pledge-builder",
+  "schemaName": "pcfl_PCFLib.DonationPledgeBuilder",
+  "tagline": "Donation Pledge Builder is a giving form for your church or charity website (Power Pages), your staff app (model-driven) or a canvas app.",
+  "description": "Donation Pledge Builder is a giving form for your church or charity website (Power Pages), your staff app (model-driven) or a canvas app. A giver chooses how much, how often and for how long, picks the first gift date, and splits the gift across funds. While they choose, a Your pledge panel shows the total, every gift date, how much each fund receives, the tax-deductible part with an estimated deduction, and how the pledge moves a campaign towards its goal.",
+  "features": [
+   "The giver picks an amount (preset chips or own amount)",
+   "How often (one-time, monthly, quarterly, half-yearly, annually) and for how long",
+   "The first gift date",
+   "Splits the gift across funds by percentage",
+   "It shows the full gift schedule",
+   "The total pledge",
+   "The amount per fund",
+   "The tax-deductible part with an estimated deduction",
+   "The effect on a campaign goal",
+   "Flags major gifts for follow-up"
+  ],
+  "category": "Power Pages code component",
+  "subCategory": null,
+  "industry": "Nonprofit & Church Administration",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps",
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "donation",
+   "pledge",
+   "builder",
+   "nonprofit",
+   "church",
+   "administration",
+   "power",
+   "pages"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "standard",
+  "react": null,
+  "screenshotCount": 8,
+  "dateBuilt": "2026-11-13",
+  "price": null
+ },
+ {
+  "name": "Donor Retention Cohort Matrix",
+  "component": "DonorRetentionCohortMatrix",
+  "slug": "donor-retention-cohort-matrix",
+  "schemaName": "pcfl_PCFLib.DonorRetentionCohortMatrix",
+  "tagline": "The Donor Retention Cohort Matrix shows whether the people who start giving to your church or charity keep giving.",
+  "description": "The Donor Retention Cohort Matrix shows whether the people who start giving to your church or charity keep giving. Every donor is placed in the year (or quarter) of their first gift - their cohort. Each row of the matrix is one cohort, and each column shows how many of those donors gave again one, two, three or more periods later.",
+  "features": [
+   "A cohort matrix of retention %",
+   "Donors or amount by year or quarter",
+   "Retention against target",
+   "LYBUNT / SYBUNT / new / retained donor segments",
+   "Fund and channel filters",
+   "Drill-down to the donors behind each cell and selection raised to Power Fx"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Nonprofit & Church Administration",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "donor",
+   "retention",
+   "cohort",
+   "matrix",
+   "nonprofit",
+   "church",
+   "administration"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 8,
+  "dateBuilt": "2026-11-13",
+  "price": null
+ },
+ {
   "name": "Downtime Event Logger",
   "component": "DowntimeEventLogger",
   "slug": "downtime-event-logger",
@@ -4199,6 +5727,86 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 6,
   "dateBuilt": "2026-11-01",
+  "price": null
+ },
+ {
+  "name": "Duplicate Match Reviewer",
+  "component": "DuplicateMatchReviewer",
+  "slug": "duplicate-match-reviewer",
+  "schemaName": "pcfl_PCFLib.DuplicateMatchReviewer",
+  "tagline": "Duplicate Match Reviewer looks through the records in a view or collection - contacts, accounts, leads, donors, members or suppliers - and finds the ones that are…",
+  "description": "Duplicate Match Reviewer looks through the records in a view or collection - contacts, accounts, leads, donors, members or suppliers - and finds the ones that are probably the same person or organisation. It groups them, gives each group a match score, and lets you compare the records side by side and decide what to do.",
+  "features": [
+   "Your colours, labels and rules",
+   "Friendly messages for set-up mistakes and empty views",
+   "On a phone"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "duplicate",
+   "match",
+   "reviewer",
+   "cross-industry"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 11,
+  "dateBuilt": "2026-11-04",
+  "price": null
+ },
+ {
+  "name": "Duration Input (time spent / estimate)",
+  "component": "DurationInput",
+  "slug": "duration-input",
+  "schemaName": "pcfl_PCFLib.DurationInput",
+  "tagline": "Duration Input replaces a plain number box for \"how long\" fields.",
+  "description": "Duration Input replaces a plain number box for \"how long\" fields. Instead of working out that one and three-quarter hours is 105 minutes, people simply type 1h 45m, 1.75h, 105 or 1:45 — or tap a quick-pick chip such as 30m or 2h. The control saves the right number in the background (minutes, hours or working days) and always shows it back in a friendly format.",
+  "features": [
+   "Type 1h 30m",
+   "2d or 1:30",
+   "Use +/- steps and quick-pick chips",
+   "Set min/max limits",
+   "Compare against a target or estimate",
+   "Save as minutes",
+   "Hours or days"
+  ],
+  "category": "Model-driven / Dataverse field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "duration",
+   "input",
+   "cross-industry",
+   "model-driven",
+   "dataverse"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.1",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 10,
+  "dateBuilt": "2026-10-26",
   "price": null
  },
  {
@@ -4327,6 +5935,119 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 18,
   "dateBuilt": "2026-10-29",
+  "price": null
+ },
+ {
+  "name": "Editable Grid (inline validation)",
+  "component": "EditableGrid",
+  "slug": "editable-grid",
+  "schemaName": "pcfl_PCFLib.EditableGrid",
+  "tagline": "Editable Grid shows a list of records — a view, a sub-grid or a canvas data source — as a table you can edit directly, like a spreadsheet.",
+  "description": "Editable Grid shows a list of records — a view, a sub-grid or a canvas data source — as a table you can edit directly, like a spreadsheet. You change the cells you need, the grid checks each value against the rules your app maker set, and you save all the changes in one go.",
+  "features": [],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "editable",
+   "cross-industry"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 8,
+  "dateBuilt": "2026-10-27",
+  "price": null
+ },
+ {
+  "name": "Email Input (PCFLib)",
+  "component": "EmailInput",
+  "slug": "email-input",
+  "schemaName": "pcfl_PCFLib.EmailInput",
+  "tagline": "Email Input replaces a plain email box with a smarter one.",
+  "description": "Email Input replaces a plain email box with a smarter one. It checks the address when you leave the field, offers a one-click fix for common typing mistakes such as gmial.com or company.con, and can refuse addresses your organisation does not want, for example personal Gmail or Hotmail addresses on a supplier registration form.",
+  "features": [],
+  "category": "Power Pages code component",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps",
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "email",
+   "input",
+   "cross-industry",
+   "power",
+   "pages"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.1",
+  "solutionVersion": null,
+  "controlType": "standard",
+  "react": null,
+  "screenshotCount": 9,
+  "dateBuilt": "2026-10-27",
+  "price": null
+ },
+ {
+  "name": "Employment History Editor",
+  "component": "EmploymentHistoryEditor",
+  "slug": "employment-history-editor",
+  "schemaName": "pcfl_PCFLib.EmploymentHistoryEditor",
+  "tagline": "The Employment History Editor lets people enter their work history on a form: every role and every career break, with the month and year it started and ended.",
+  "description": "The Employment History Editor lets people enter their work history on a form: every role and every career break, with the month and year it started and ended. While they type, the control adds up their total experience, draws a timeline, and points out gaps and overlaps so the application arrives complete the first time.",
+  "features": [
+   "Edit and remove roles and career breaks with month-year dates",
+   "See total experience (overlaps merged, breaks excluded)",
+   "A timeline with gaps highlighted",
+   "Required-coverage and minimum-experience checks, overlap rules",
+   "One-click 'add career break' for a gap, type filter, sorting, undo",
+   "Read-only and masked states and a stacked phone layout",
+   "Stores the history as JSON in a text column"
+  ],
+  "category": "Power Pages code component",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps",
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "employment",
+   "history",
+   "editor",
+   "cross-industry",
+   "power",
+   "pages"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "standard",
+  "react": null,
+  "screenshotCount": 8,
+  "dateBuilt": "2026-11-04",
   "price": null
  },
  {
@@ -4581,6 +6302,50 @@
   "price": null
  },
  {
+  "name": "Equipment Fault Reporter",
+  "component": "EquipmentFaultReporter",
+  "slug": "equipment-fault-reporter",
+  "schemaName": "pcfl_PCFLib.EquipmentFaultReporter",
+  "tagline": "Equipment Fault Reporter turns the vague \"describe the problem\" box into a guided five-step fault report: equipment and asset tag, symptoms (with safety hazards and…",
+  "description": "Equipment Fault Reporter turns the vague \"describe the problem\" box into a guided five-step fault report: equipment and asset tag, symptoms (with safety hazards and try-this-first tips), impact on trading, engineer access and contact, and a review that shows a calculated P1–P4 priority with the reasons and the response target. The whole report is saved in one text column, together with a readable summary for the engineer.",
+  "features": [
+   "Equipment and asset tag",
+   "Symptom checklist with try-this-first self-help tips",
+   "Safety hazards with hotline, trading impact",
+   "Cold-chain temperature and stock-at-risk checks",
+   "Automatic P1-P4 priority with reasons and response target",
+   "Site access and contact details",
+   "Stores the whole report (with a readable summary) as JSON in one text column"
+  ],
+  "category": "Power Pages code component",
+  "subCategory": null,
+  "industry": "Field Service & Merchandising",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "equipment",
+   "fault",
+   "reporter",
+   "service",
+   "merchandising",
+   "power",
+   "pages"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "standard",
+  "react": null,
+  "screenshotCount": 9,
+  "dateBuilt": "2026-11-05",
+  "price": null
+ },
+ {
   "name": "Event Calendar",
   "component": "EventCalendar",
   "slug": "event-calendar",
@@ -4638,6 +6403,50 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 10,
   "dateBuilt": "2026-10-27",
+  "price": null
+ },
+ {
+  "name": "Event Ticket Selector (PCFLib)",
+  "component": "EventTicketSelector",
+  "slug": "event-ticket-selector",
+  "schemaName": "pcfl_PCFLib.EventTicketSelector",
+  "tagline": "The Event Ticket Selector turns one text column into a complete ticket chooser.",
+  "description": "The Event Ticket Selector turns one text column into a complete ticket chooser. Visitors see every ticket tier as a card with its price, description and status, choose quantities with large + and - buttons, add optional extras (parking, workshops, transport), type a promo code and watch the order total update straight away - including booking fees and GST.",
+  "features": [
+   "Shows seats left (\"Only 6 left\"), sold out, sales ended and sale ends soon so visitors are never surprised",
+   "Respects per-tier limits (for example max 4 VIP seats), an order limit (for example 10 tickets) and sets (corporate seats in blocks of 5)",
+   "Treats add-ons separately: they never count towards the ticket limit, and they need at least one ticket in the same order",
+   "Applies promo codes as a percentage or an amount off, optionally only for some tiers",
+   "Adds a booking fee per paid ticket and GST (included in prices or added on top)",
+   "Filters by category, searches and sorts long ticket lists, and on phones keeps a sticky total bar at the bottom of the screen"
+  ],
+  "category": "Power Pages code component",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps",
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "event",
+   "ticket",
+   "selector",
+   "cross-industry",
+   "power",
+   "pages"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "standard",
+  "react": null,
+  "screenshotCount": 9,
+  "dateBuilt": "2026-11-02",
   "price": null
  },
  {
@@ -5104,6 +6913,39 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 28,
   "dateBuilt": "2026-11-01",
+  "price": null
+ },
+ {
+  "name": "File Encrypt / Decrypt",
+  "component": "FileCrypt",
+  "slug": "file-crypt",
+  "schemaName": "pcfl_PCFLib.FileCrypt",
+  "tagline": "File Encrypt / Decrypt is a Secure file box you add to a Power Apps screen or form.",
+  "description": "File Encrypt / Decrypt is a Secure file box you add to a Power Apps screen or form. It locks a file with a passphrase so only people who know the passphrase can open it, and unlocks it again with the same passphrase. Everything happens inside the user's browser: the file and the passphrase are never sent anywhere.",
+  "features": [],
+  "category": "Canvas app field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "file",
+   "crypt",
+   "cross-industry",
+   "canvas"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.1",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 10,
+  "dateBuilt": "2026-10-27",
   "price": null
  },
  {
@@ -6003,6 +7845,50 @@
   "price": null
  },
  {
+  "name": "Guided Questionnaire (PCFLib)",
+  "component": "GuidedQuestionnaire",
+  "slug": "guided-questionnaire",
+  "schemaName": "pcfl_PCFLib.GuidedQuestionnaire",
+  "tagline": "Guided Questionnaire turns a single long-text column on a form into a step-by-step questionnaire that ends with a clear result.",
+  "description": "Guided Questionnaire turns a single long-text column on a form into a step-by-step questionnaire that ends with a clear result. Visitors only see the questions that apply to them, a deciding (\"knock-out\") answer ends the questionnaire early with an explanation, and the answers are scored so the form can tell people straight away whether they are likely eligible, need a review or are not eligible.",
+  "features": [
+   "Three layouts: one question per step (Wizard), one section per page (Sections), or all questions on one page",
+   "Start screen, progress bar, \"Question 4 of 8\" and a section stepper you can click back through",
+   "Single choice, multiple choice (with a limit), yes/no, number, short and long text and date questions",
+   "Questions that appear or disappear based on earlier answers; answers to hidden questions are not saved",
+   "Clear validation messages and a summary of everything that still needs an answer",
+   "A \"Check your answers\" page with Change links, then a coloured result banner with an explanation",
+   "Four ready-made questionnaires (presets) so you can try it with no setup"
+  ],
+  "category": "Power Pages code component",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps",
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "guided",
+   "questionnaire",
+   "cross-industry",
+   "power",
+   "pages"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "standard",
+  "react": null,
+  "screenshotCount": 9,
+  "dateBuilt": "2026-10-29",
+  "price": null
+ },
+ {
   "name": "Guided Tour Studio",
   "component": "GuidedTourStudio",
   "slug": "guided-tour-studio",
@@ -6193,6 +8079,45 @@
   "price": null
  },
  {
+  "name": "Hierarchy Explorer (PCFLib)",
+  "component": "HierarchyExplorer",
+  "slug": "hierarchy-explorer",
+  "schemaName": "pcfl_PCFLib.HierarchyExplorer",
+  "tagline": "Hierarchy Explorer shows any list where each record points to a parent as an organisation chart or tree.",
+  "description": "Hierarchy Explorer shows any list where each record points to a parent as an organisation chart or tree. Instead of opening record after record to find out who reports to whom, users see the whole structure, search it, filter it by team and focus on one branch.",
+  "features": [
+   "Expandable tree or top-down chart",
+   "Search with highlighted matches, group filter",
+   "Drill-down with breadcrumb, details panel, status badges",
+   "Keyboard tree navigation",
+   "A phone drill-down layout and selected key / title / path / report-count outputs"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "hierarchy",
+   "explorer",
+   "cross-industry"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 10,
+  "dateBuilt": "2026-10-27",
+  "price": null
+ },
+ {
   "name": "Hierarchy Tree Grid",
   "component": "HierarchyTreeGrid",
   "slug": "hierarchy-tree-grid",
@@ -6249,6 +8174,41 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 10,
   "dateBuilt": "2026-10-27",
+  "price": null
+ },
+ {
+  "name": "Household Budget Calculator",
+  "component": "HouseholdBudgetCalculator",
+  "slug": "household-budget-calculator",
+  "schemaName": "pcfl_PCFLib.HouseholdBudgetCalculator",
+  "tagline": "Income and expense budget field for Power Pages forms (financial assistance, hardship, grant and membership applications) and model-driven/canvas apps.",
+  "description": "Income and expense budget field for Power Pages forms (financial assistance, hardship, grant and membership applications) and model-driven/canvas apps. Configurable income and expense categories with hints and required items, per-line frequency (weekly to yearly) normalised to a chosen display period, custom extra lines, live totals, surplus/deficit status against an affordability threshold, an expense breakdown chart, validation, clear with undo, read-only and masked states and a stacked phone layout. Stores the budget as JSON.",
+  "features": [],
+  "category": "Power Pages code component",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "household",
+   "budget",
+   "calculator",
+   "cross-industry",
+   "power",
+   "pages"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "standard",
+  "react": null,
+  "screenshotCount": 8,
+  "dateBuilt": "2026-11-04",
   "price": null
  },
  {
@@ -6513,6 +8473,43 @@
   "price": null
  },
  {
+  "name": "Inline Edit Grid",
+  "component": "InlineEditGrid",
+  "slug": "inline-edit-grid",
+  "schemaName": "pcfl_PCFLib.InlineEditGrid",
+  "tagline": "The Inline Edit Grid shows a list of records - for example the lines of a purchase order - as a table you can edit directly, like a spreadsheet.",
+  "description": "The Inline Edit Grid shows a list of records - for example the lines of a purchase order - as a table you can edit directly, like a spreadsheet. Instead of opening each record, changing one field and saving, you change the cells you need, see at a glance what you have changed, fix anything the grid flags, and save everything with one click.",
+  "features": [
+   "Edit text, number, currency, date",
+   "Yes/No and Choice cells in place with inline validation, change highlighting",
+   "Totals and one-click Save (Dataverse) or a changes JSON output for canvas Patch"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "inline",
+   "edit",
+   "cross-industry"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 8,
+  "dateBuilt": "2026-10-27",
+  "price": null
+ },
+ {
   "name": "Inspection Booking Scheduler",
   "component": "InspectionBookingScheduler",
   "slug": "inspection-booking-scheduler",
@@ -6627,6 +8624,47 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 14,
   "dateBuilt": "2026-10-27",
+  "price": null
+ },
+ {
+  "name": "Instalment Plan Builder",
+  "component": "InstalmentPlanBuilder",
+  "slug": "instalment-plan-builder",
+  "schemaName": "pcfl_PCFLib.InstalmentPlanBuilder",
+  "tagline": "The Instalment Plan Builder lets a customer turn a balance into a payment plan they can afford - without phoning anyone.",
+  "description": "The Instalment Plan Builder lets a customer turn a balance into a payment plan they can afford - without phoning anyone. They choose a deposit, how often to pay, how many payments and when the first payment is due. The control checks every choice against your business rules, shows the regular payment, the total and the complete schedule, and asks the customer to agree to the plan before it is saved.",
+  "features": [
+   "Customers choose a deposit, payment frequency",
+   "Number of payments and first payment date within your business rules",
+   "Compare suggested plans",
+   "Review the full schedule and agree to it",
+   "Stores the chosen plan (with schedule) as JSON in one text column"
+  ],
+  "category": "Power Pages code component",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "instalment",
+   "plan",
+   "builder",
+   "cross-industry",
+   "power",
+   "pages"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "standard",
+  "react": null,
+  "screenshotCount": 8,
+  "dateBuilt": "2026-11-04",
   "price": null
  },
  {
@@ -7111,6 +9149,47 @@
   "price": null
  },
  {
+  "name": "KPI Scorecard Board",
+  "component": "KpiScorecardBoard",
+  "slug": "kpi-scorecard-board",
+  "schemaName": "pcfl_PCFLib.KpiScorecardBoard",
+  "tagline": "The KPI Scorecard Board turns a list of KPI records into a live scorecard.",
+  "description": "The KPI Scorecard Board turns a list of KPI records into a live scorecard. Each KPI shows its actual value against its target, how much of the target has been reached (attainment), a clear status (on track, at risk, off track or no target) and whether it is improving compared with the previous period.",
+  "features": [
+   "Summary strip with overall attainment ring and a status bar showing the share of KPIs in each status",
+   "Status filter chips with counts, a search box (KPI, group or owner) and a sort menu",
+   "Tiles or list layout, optionally grouped by perspective with collapsible sections and group attainment",
+   "Trend arrow and change % against the previous period that knows whether up is good or bad",
+   "Details panel with actual, target, gap to target, attainment, previous period and change, plus Open record",
+   "Clear messages for missing values and incorrect settings, and a dedicated phone layout"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "kpi",
+   "scorecard",
+   "board",
+   "cross-industry"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 9,
+  "dateBuilt": "2026-11-03",
+  "price": null
+ },
+ {
   "name": "KYC Verification Panel",
   "component": "KycVerificationPanel",
   "slug": "kyc-verification-panel",
@@ -7405,6 +9484,87 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 25,
   "dateBuilt": "2026-11-02",
+  "price": null
+ },
+ {
+  "name": "Lead Follow-up Card List",
+  "component": "LeadFollowUpCardList",
+  "slug": "lead-follow-up-card-list",
+  "schemaName": "pcfl_PCFLib.LeadFollowUpCardList",
+  "tagline": "The Lead Follow-up Card List turns any list of leads into a \"who do I call next\" work list.",
+  "description": "The Lead Follow-up Card List turns any list of leads into a \"who do I call next\" work list. Each lead is a card with the contact, company, status, a Hot / Warm / Cold score badge, when the next follow-up is due and how long ago the lead was last contacted. Leads that have not been touched for too long get a Going cold warning, and every card has one-tap Call, Email, Log follow-up and Open buttons.",
+  "features": [
+   "Follow-up due buckets",
+   "Hot / warm / cold scoring, going-cold warnings, search",
+   "Grouping and quick call / email / log follow-up actions raised to Power Fx"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "CRM & Sales",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "lead",
+   "follow",
+   "card",
+   "list",
+   "crm",
+   "sales"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 7,
+  "dateBuilt": "2026-11-12",
+  "price": null
+ },
+ {
+  "name": "Lead Intent Profiler",
+  "component": "LeadIntentProfiler",
+  "slug": "lead-intent-profiler",
+  "schemaName": "pcfl_PCFLib.LeadIntentProfiler",
+  "tagline": "Lead Intent Profiler replaces the free-text \"Tell us about your project\" box on an enquiry form with five quick questions: what the visitor is interested in, budget…",
+  "description": "Lead Intent Profiler replaces the free-text \"Tell us about your project\" box on an enquiry form with five quick questions: what the visitor is interested in, budget, when they plan to buy, their role in the decision and how many people will use the solution. Each answer carries points, so the enquiry gets a 0-100 intent score and a grade - Hot, Warm or Nurture - while the visitor is still typing, together with who should follow up.",
+  "features": [
+   "Grouped product-interest chips with search and min / max limits, budget band, purchase timeframe",
+   "Buyer role and team size",
+   "Scores the enquiry live (0-100) into Hot / Warm / Nurture with the sales route it goes to",
+   "Stores the profile as readable text in one column (optionally the score in a second whole-number column)"
+  ],
+  "category": "Power Pages code component",
+  "subCategory": null,
+  "industry": "CRM & Sales",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "lead",
+   "intent",
+   "profiler",
+   "crm",
+   "sales",
+   "power",
+   "pages"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "standard",
+  "react": null,
+  "screenshotCount": 9,
+  "dateBuilt": "2026-11-12",
   "price": null
  },
  {
@@ -7751,6 +9911,47 @@
   "price": null
  },
  {
+  "name": "Likert Matrix (PCFLib)",
+  "component": "LikertMatrix",
+  "slug": "likert-matrix",
+  "schemaName": "pcfl_PCFLib.LikertMatrix",
+  "tagline": "The Likert Matrix lets people rate several statements on one shared scale in a single, tidy grid — for example “Strongly disagree” to “Strongly agree”, or “Poor” to…",
+  "description": "The Likert Matrix lets people rate several statements on one shared scale in a single, tidy grid — for example “Strongly disagree” to “Strongly agree”, or “Poor” to “Excellent”. All the answers are saved together in one text column, and the control works out how many statements are answered and the average score for you.",
+  "features": [
+   "Several statements rated on one shared scale (Strongly disagree to Strongly agree, Poor to Excellent, 1-5...), required-answer check",
+   "Auto stacked layout on narrow screens and average / answered / complete outputs",
+   "Built for Power Pages forms (no Web API)",
+   "Also works in model-driven and canvas apps"
+  ],
+  "category": "Power Pages code component",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps",
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "likert",
+   "matrix",
+   "cross-industry",
+   "power",
+   "pages"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.1",
+  "solutionVersion": null,
+  "controlType": "standard",
+  "react": null,
+  "screenshotCount": 8,
+  "dateBuilt": "2026-10-27",
+  "price": null
+ },
+ {
   "name": "Line Balancing Yamazumi",
   "component": "LineBalancingYamazumi",
   "slug": "line-balancing-yamazumi",
@@ -7808,6 +10009,47 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 6,
   "dateBuilt": "2026-11-02",
+  "price": null
+ },
+ {
+  "name": "Line Item Editor (PCFLib)",
+  "component": "LineItemEditor",
+  "slug": "line-item-editor",
+  "schemaName": "pcfl_PCFLib.LineItemEditor",
+  "tagline": "Line Item Editor turns one text column into a complete order-lines editor.",
+  "description": "Line Item Editor turns one text column into a complete order-lines editor. Users pick products or services from a searchable catalogue (or add their own custom lines), set quantities and discounts, and the control works out line totals, the discount, GST and the grand total as they type. Everything is saved into the column as a tidy JSON list that flows, Power Automate or a canvas app can read back.",
+  "features": [
+   "Pick products from a searchable catalogue or add custom lines, edit quantity",
+   "Price and discount with validation, reorder, duplicate, undo",
+   "GST and budget totals",
+   "Totals / isValid outputs"
+  ],
+  "category": "Model-driven / Dataverse field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "line",
+   "item",
+   "editor",
+   "cross-industry",
+   "model-driven",
+   "dataverse"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 7,
+  "dateBuilt": "2026-10-27",
   "price": null
  },
  {
@@ -8145,6 +10387,45 @@
   "price": null
  },
  {
+  "name": "Masked Input (PCFLib)",
+  "component": "MaskedInput",
+  "slug": "masked-input",
+  "schemaName": "pcfl_PCFLib.MaskedInput",
+  "tagline": "Masked Input formats a text field while you type, so values always arrive in the same shape — for example +65 9123 4567 for a Singapore mobile, 31/12/2026 for a date, or…",
+  "description": "Masked Input formats a text field while you type, so values always arrive in the same shape — for example +65 9123 4567 for a Singapore mobile, 31/12/2026 for a date, or PO-12345-AB for a purchase-order reference.",
+  "features": [
+   "Custom reference numbers",
+   "Dates"
+  ],
+  "category": "Power Pages code component",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps",
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "masked",
+   "input",
+   "cross-industry",
+   "power",
+   "pages"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.1",
+  "solutionVersion": null,
+  "controlType": "standard",
+  "react": null,
+  "screenshotCount": 7,
+  "dateBuilt": "2026-10-20",
+  "price": null
+ },
+ {
   "name": "Medication Administration Record",
   "component": "MedicationAdministrationRecord",
   "slug": "medication-administration-record",
@@ -8334,6 +10615,92 @@
   "price": null
  },
  {
+  "name": "Meter Reading Log",
+  "component": "MeterReadingLog",
+  "slug": "meter-reading-log",
+  "schemaName": "pcfl_PCFLib.MeterReadingLog",
+  "tagline": "The Meter Reading Log keeps the full history of readings for one meter - electricity, water, gas, equipment run hours, copier page counts or a vehicle odometer - in a…",
+  "description": "The Meter Reading Log keeps the full history of readings for one meter - electricity, water, gas, equipment run hours, copier page counts or a vehicle odometer - in a single field on the record. Every time someone records a reading, the control works out how much was used since the previous reading and the usage per day, and it flags readings that look wrong or unusual.",
+  "features": [
+   "Edit and delete dated readings (actual, estimated, customer, new meter)",
+   "Automatic usage and per-day rate per interval",
+   "Meter rollover and replacement handling",
+   "Validation against earlier and later readings",
+   "High/low usage anomaly flags against the average",
+   "Period and type filters, KPI strip",
+   "A keyboard-accessible usage chart with average line",
+   "A phone card layout"
+  ],
+  "category": "Model-driven / Dataverse field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "meter",
+   "reading",
+   "log",
+   "cross-industry",
+   "model-driven",
+   "dataverse"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 10,
+  "dateBuilt": "2026-11-04",
+  "price": null
+ },
+ {
+  "name": "Milestone Payment Schedule",
+  "component": "MilestonePaymentSchedule",
+  "slug": "milestone-payment-schedule",
+  "schemaName": "pcfl_PCFLib.MilestonePaymentSchedule",
+  "tagline": "The Milestone Payment Schedule shows how a contract or purchase order will be paid - and how far payment has got.",
+  "description": "The Milestone Payment Schedule shows how a contract or purchase order will be paid - and how far payment has got. You list the milestones (for example deposit, delivery, acceptance), give each a share of the contract value and a due date, and move it through Planned, Ready to invoice, Invoiced and Paid. The control works out the amounts, the retention held back, what is still outstanding and which milestones are overdue.",
+  "features": [
+   "Milestones with % of contract value, amounts, due dates",
+   "Status (planned, ready to invoice, invoiced, paid, on hold), retention, overdue flags, KPIs, stacked progress, timeline",
+   "Templates (30/40/30, equal, monthly)",
+   "100% validation with a balance fix",
+   "Reordering and a phone card layout"
+  ],
+  "category": "Model-driven / Dataverse field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "milestone",
+   "payment",
+   "schedule",
+   "cross-industry",
+   "model-driven",
+   "dataverse"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 7,
+  "dateBuilt": "2026-11-03",
+  "price": null
+ },
+ {
   "name": "Move Management Planner",
   "component": "MoveManagementPlanner",
   "slug": "move-management-planner",
@@ -8458,6 +10825,92 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 4,
   "dateBuilt": "2026-11-05",
+  "price": null
+ },
+ {
+  "name": "Multi Choice Chips (multi-select choice)",
+  "component": "MultiChoiceChips",
+  "slug": "multi-choice-chips",
+  "schemaName": "pcfl_PCFLib.MultiChoiceChips",
+  "tagline": "Multi Choice Chips replaces the standard drop-down for a Choices (multi-select choice) column.",
+  "description": "Multi Choice Chips replaces the standard drop-down for a Choices (multi-select choice) column. Instead of opening a list and ticking boxes, every option is shown as a chip on the form. Tap a chip to select it (it fills with colour and shows a tick); tap it again to remove it. You can see at a glance what has been chosen and what has not.",
+  "features": [
+   "On a phone"
+  ],
+  "category": "Model-driven / Dataverse field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "multi",
+   "choice",
+   "chips",
+   "cross-industry",
+   "model-driven",
+   "dataverse"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 11,
+  "dateBuilt": "2026-10-27",
+  "price": null
+ },
+ {
+  "name": "Mutual Action Plan Editor",
+  "component": "MutualActionPlanEditor",
+  "slug": "mutual-action-plan-editor",
+  "schemaName": "pcfl_PCFLib.MutualActionPlanEditor",
+  "tagline": "Buyer and seller mutual action plan for an opportunity, stored in one text column: milestones with phase, side (buyer / seller / joint), owner, due date, duration…",
+  "description": "Buyer and seller mutual action plan for an opportunity, stored in one text column: milestones with phase, side (buyer / seller / joint), owner, due date, duration, predecessor and buyer confirmation. Shows plan health against the target close date with a projected close and slip days, a timeline with a close-date marker, KPI filters, search, grouping, a validated add/edit form, back-scheduling from the close date with templates, start / done / blocked / reopen actions, a shift-open-dates re-plan, a readable plan summary for the buyer, a phone layout, and Power Fx outputs and events.",
+  "features": [
+   "Milestones with phase",
+   "Side (buyer / seller / joint), owner, due date, duration",
+   "Predecessor and buyer confirmation",
+   "Shows plan health against the target close date with a projected close and slip days",
+   "A timeline with a close-date marker, KPI filters, search, grouping",
+   "A validated add/edit form",
+   "Back-scheduling from the close date with templates",
+   "Start / done / blocked / reopen actions",
+   "A shift-open-dates re-plan",
+   "A readable plan summary for the buyer"
+  ],
+  "category": "Model-driven / Dataverse field control",
+  "subCategory": null,
+  "industry": "CRM & Sales",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "mutual",
+   "action",
+   "plan",
+   "editor",
+   "crm",
+   "sales",
+   "model-driven",
+   "dataverse"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 10,
+  "dateBuilt": "2026-11-12",
   "price": null
  },
  {
@@ -8865,6 +11318,48 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 39,
   "dateBuilt": "2026-11-05",
+  "price": null
+ },
+ {
+  "name": "Opening Hours Editor (weekly hours)",
+  "component": "OpeningHoursEditor",
+  "slug": "opening-hours-editor",
+  "schemaName": "pcfl_PCFLib.OpeningHoursEditor",
+  "tagline": "The Opening Hours Editor replaces a plain text box with a simple weekly timetable.",
+  "description": "The Opening Hours Editor replaces a plain text box with a simple weekly timetable. For each day you choose Open, Closed or 24 hours, and pick the opening and closing times. A day can have more than one time slot, for example a lunch break or a split shift.",
+  "features": [
+   "Open",
+   "Closed or 24 hours per day, split shifts",
+   "Copy to weekdays",
+   "Live 'open now' status and a readable summary such as 'Mon-Fri 09:00-18:00, Sat 09:00-13:00",
+   "Sun Closed' (or JSON)"
+  ],
+  "category": "Model-driven / Dataverse field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "opening",
+   "hours",
+   "editor",
+   "cross-industry",
+   "model-driven",
+   "dataverse"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 8,
+  "dateBuilt": "2026-10-27",
   "price": null
  },
  {
@@ -9390,6 +11885,53 @@
   "price": null
  },
  {
+  "name": "Partner Deal Registration",
+  "component": "PartnerDealRegistration",
+  "slug": "partner-deal-registration",
+  "schemaName": "pcfl_PCFLib.PartnerDealRegistration",
+  "tagline": "Partner Deal Registration is the \"Register a deal\" field for your partner portal.",
+  "description": "Partner Deal Registration is the \"Register a deal\" field for your partner portal. A reseller or system integrator enters the end customer, the customer's website or email domain, the estimated deal value, when the deal should close, the products and the sales stage. While they type, the control checks your channel programme's rules and tells them straight away whether the deal is Eligible, Needs review or Not eligible - and the date the deal will be protected until.",
+  "features": [
+   "The partner enters the end customer",
+   "Website or email domain, estimated value",
+   "Expected close date",
+   "Products and sales stage",
+   "The control checks the channel programme's rules live - minimum deal size, close-date horizon",
+   "Personal email domains",
+   "Conflicts with named direct accounts and minimum stage - into Eligible / Needs review / Not eligible with the deal-protection end date",
+   "Stores the registration as readable text in one column (optionally the value in a second decimal column)"
+  ],
+  "category": "Power Pages code component",
+  "subCategory": null,
+  "industry": "CRM & Sales",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps",
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "partner",
+   "deal",
+   "registration",
+   "crm",
+   "sales",
+   "power",
+   "pages"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "standard",
+  "react": null,
+  "screenshotCount": 9,
+  "dateBuilt": "2026-11-12",
+  "price": null
+ },
+ {
   "name": "Patient Banner",
   "component": "PatientBanner",
   "slug": "patient-banner",
@@ -9720,6 +12262,48 @@
   "price": null
  },
  {
+  "name": "People Picker",
+  "component": "PeoplePicker",
+  "slug": "people-picker",
+  "schemaName": "pcfl_PCFLib.PeoplePicker",
+  "tagline": "The People Picker lets you choose one or more people - approvers, reviewers, attendees, assignees or team members - by typing part of a name, email, job title…",
+  "description": "The People Picker lets you choose one or more people - approvers, reviewers, attendees, assignees or team members - by typing part of a name, email, job title, department or office. It shows who each person is (job title, department, office, availability), stops mistakes such as picking the wrong person, too many people or someone who isn't allowed, and can give each person a role and a position in an approval chain.",
+  "features": [
+   "Type-ahead search across name, email, job title",
+   "Department and office, department filter, grouped results",
+   "Presence and initials avatars",
+   "Roles per person with required-role rules, approval order",
+   "External guest emails with domain rules",
+   "Paste from Outlook, min/max limits, undo",
+   "Email / name / JSON outputs for canvas Patch",
+   "Outlook and Teams"
+  ],
+  "category": "Canvas app field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "people",
+   "picker",
+   "cross-industry",
+   "canvas"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 10,
+  "dateBuilt": "2026-10-27",
+  "price": null
+ },
+ {
   "name": "Permit Application Status Tracker",
   "component": "PermitApplicationStatusTracker",
   "slug": "permit-application-status-tracker",
@@ -9836,6 +12420,47 @@
   "price": null
  },
  {
+  "name": "Pipeline Funnel",
+  "component": "PipelineFunnel",
+  "slug": "pipeline-funnel",
+  "schemaName": "pcfl_PCFLib.PipelineFunnel",
+  "tagline": "Pipeline Funnel turns a list of records - opportunities, purchase requisitions, grant applications, job applicants, cases - into an interactive funnel.",
+  "description": "Pipeline Funnel turns a list of records - opportunities, purchase requisitions, grant applications, job applicants, cases - into an interactive funnel. Each bar is a stage. You see how many records sit in each stage, what they are worth, how many move on to the next stage and which ones are past their expected close date. Click a bar to see the records behind it and open them.",
+  "features": [
+   "Funnel or bar chart with a Count / Value / Weighted switch",
+   "Conversion between stages (\"64% reach Negotiate\")",
+   "Summary tiles: open pipeline, weighted value, win rate, average size, target coverage and records past their close date",
+   "Filters for owner, segment and close date, plus a search box",
+   "A drill-down list for the selected stage, with sorting, \"Past close date\" flags and an Open button",
+   "Lost stages kept out of the funnel and shown as a separate striped row",
+   "A phone layout that stacks each bar under its stage name"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "pipeline",
+   "funnel",
+   "cross-industry"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 8,
+  "dateBuilt": "2026-10-30",
+  "price": null
+ },
+ {
   "name": "Pipeline Funnel Analyzer",
   "component": "PipelineFunnelAnalyzer",
   "slug": "pipeline-funnel-analyzer",
@@ -9888,6 +12513,48 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 8,
   "dateBuilt": "2026-10-28",
+  "price": null
+ },
+ {
+  "name": "Pipeline Movement Waterfall",
+  "component": "PipelineMovementWaterfall",
+  "slug": "pipeline-movement-waterfall",
+  "schemaName": "pcfl_PCFLib.PipelineMovementWaterfall",
+  "tagline": "Pipeline Movement Waterfall shows how the sales pipeline changed during a period - a quarter, a month or a sales season.",
+  "description": "Pipeline Movement Waterfall shows how the sales pipeline changed during a period - a quarter, a month or a sales season. It starts from the pipeline that was open on day one, adds the deals that were created and the value that grew, takes away value that shrank, deals that were won, lost or pushed into a later period, and ends with the pipeline that is still open. Every bar can be tapped to see the deals behind it.",
+  "features": [
+   "Opening pipeline, new deals",
+   "Value increases and decreases",
+   "Lost and pushed-out deals and the closing pipeline as an interactive waterfall",
+   "Coverage against quota",
+   "Owner / region breakdown",
+   "Drill-down to the deals behind each movement and selection raised to Power Fx"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "CRM & Sales",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "pipeline",
+   "movement",
+   "waterfall",
+   "crm",
+   "sales"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 8,
+  "dateBuilt": "2026-11-12",
   "price": null
  },
  {
@@ -9946,6 +12613,138 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 23,
   "dateBuilt": "2026-10-28",
+  "price": null
+ },
+ {
+  "name": "Pivot Matrix",
+  "component": "PivotMatrix",
+  "slug": "pivot-matrix",
+  "schemaName": "pcfl_PCFLib.PivotMatrix",
+  "tagline": "Pivot Matrix turns a list of records into an Excel-style summary table right inside your app.",
+  "description": "Pivot Matrix turns a list of records into an Excel-style summary table right inside your app. You choose one column for the rows (for example Category), one for the columns (for example Order date or Status) and, optionally, a value to add up (for example Amount). Every cell shows the total, count or average for that combination, shaded like a heat map so the big numbers stand out.",
+  "features": [
+   "Rows by one column (with optional expandable sub-rows)",
+   "Columns by another (dates grouped by day / week / month / quarter / year)",
+   "Count / sum / average / min / max of a value column, heat-map colouring, threshold highlight",
+   "% of row / column / total",
+   "Row and column totals",
+   "Top N + Other, search, swap axes",
+   "Click-a-cell drill-down to the records behind it (open record), CSV export",
+   "Keyboard grid navigation and a phone card layout",
+   "Outputs the selected cell",
+   "Its records and totals for canvas filters"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "pivot",
+   "matrix",
+   "cross-industry"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 8,
+  "dateBuilt": "2026-10-29",
+  "price": null
+ },
+ {
+  "name": "Planogram Auditor",
+  "component": "PlanogramAuditor",
+  "slug": "planogram-auditor",
+  "schemaName": "pcfl_PCFLib.PlanogramAuditor",
+  "tagline": "Planogram Auditor turns a store visit into a quick, visual shelf check.",
+  "description": "Planogram Auditor turns a store visit into a quick, visual shelf check. The planned layout (the planogram) is drawn as bays, shelves and product slots, and each slot is as wide as the number of facings the product should have. You tap a product and record what you found: Compliant, Out of stock, Wrong position, Price / label issue or Damaged / low facings, plus the facings you actually saw and a note.",
+  "features": [
+   "A visual shelf map of bays",
+   "Shelves and product slots sized by facings",
+   "Tap or keyboard to record Compliant",
+   "Out of stock, Wrong position",
+   "Price issue or Damaged",
+   "Facings seen and notes",
+   "Bulk Rest OK per shelf",
+   "Search and result filters",
+   "List view with sorting",
+   "Compliance % against a target"
+  ],
+  "category": "Canvas app field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "planogram",
+   "auditor",
+   "cross-industry",
+   "canvas"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 9,
+  "dateBuilt": "2026-11-04",
+  "price": null
+ },
+ {
+  "name": "Policy Acceptance Reader",
+  "component": "PolicyAcceptanceReader",
+  "slug": "policy-acceptance-reader",
+  "schemaName": "pcfl_PCFLib.PolicyAcceptanceReader",
+  "tagline": "The Policy Acceptance Reader puts a policy, code of conduct or set of terms directly on a form, and records that the person has read and accepted it.",
+  "description": "The Policy Acceptance Reader puts a policy, code of conduct or set of terms directly on a form, and records that the person has read and accepted it. The text is split into numbered sections with a contents list, a search box and a reading progress bar. You decide the rules: people may have to read to the end, tick the important sections, and sign by typing their name. The control saves the version they accepted, when, and who signed, and asks them to accept again when you publish a new version.",
+  "features": [
+   "Sectioned reader with contents",
+   "Search with highlighted matches, reading progress",
+   "Scroll-to-end and per-section acknowledgement rules",
+   "Checkbox or typed-name signature, version re-acceptance, withdraw",
+   "Read-only and masked states and a phone layout",
+   "Stores a JSON acceptance record (version, date, name, acknowledged sections)"
+  ],
+  "category": "Power Pages code component",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps",
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "policy",
+   "acceptance",
+   "reader",
+   "cross-industry",
+   "power",
+   "pages"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "standard",
+  "react": null,
+  "screenshotCount": 9,
+  "dateBuilt": "2026-11-04",
   "price": null
  },
  {
@@ -10128,6 +12927,90 @@
   "price": null
  },
  {
+  "name": "Portfolio Bubble Chart",
+  "component": "PortfolioBubbleChart",
+  "slug": "portfolio-bubble-chart",
+  "schemaName": "pcfl_PCFLib.PortfolioBubbleChart",
+  "tagline": "Portfolio Bubble Chart turns a list of records into a quadrant bubble chart.",
+  "description": "Portfolio Bubble Chart turns a list of records into a quadrant bubble chart. Each record is a bubble: its position shows two measures (for example business value across and delivery risk up), its size shows a third (for example budget) and its colour shows a category (for example the programme).",
+  "features": [
+   "Plot records by two measures (e.g. value vs risk, spend vs supply risk) with bubble size and category colour",
+   "Configurable thresholds and quadrant names",
+   "Quadrant filter and zoom",
+   "Category legend filter, search highlight",
+   "Details card with open record",
+   "Sortable table / phone card list, KPIs",
+   "Keyboard and touch navigation and a phone layout"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "portfolio",
+   "bubble",
+   "chart",
+   "cross-industry"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 9,
+  "dateBuilt": "2026-11-04",
+  "price": null
+ },
+ {
+  "name": "Preference Ranker",
+  "component": "PreferenceRanker",
+  "slug": "preference-ranker",
+  "schemaName": "pcfl_PCFLib.PreferenceRanker",
+  "tagline": "The Preference Ranker lets a person choose their favourite options from a list and put them in order, most preferred first.",
+  "description": "The Preference Ranker lets a person choose their favourite options from a list and put them in order, most preferred first. It replaces separate \"first choice / second choice / third choice\" drop-downs with one clear, touch-friendly field that cannot hold the same option twice.",
+  "features": [
+   "Searchable option list with optional categories and short descriptions",
+   "Ranking list with numbers, drag handles, move up / down / remove buttons and Alt+arrow keys",
+   "Minimum and maximum number of choices, with required slots and clear messages",
+   "Undo after removing a choice or clearing the list",
+   "Saves the ranking in one text column and tells the app the number of choices, the top choice and whether the field is valid"
+  ],
+  "category": "Power Pages code component",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps",
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "preference",
+   "ranker",
+   "cross-industry",
+   "power",
+   "pages"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "standard",
+  "react": null,
+  "screenshotCount": 9,
+  "dateBuilt": "2026-11-03",
+  "price": null
+ },
+ {
   "name": "Premium Payment Planner",
   "component": "PremiumPaymentPlanner",
   "slug": "premium-payment-planner",
@@ -10255,6 +13138,53 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 23,
   "dateBuilt": "2026-10-29",
+  "price": null
+ },
+ {
+  "name": "Preventive Maintenance Checklist",
+  "component": "PreventiveMaintenanceChecklist",
+  "slug": "preventive-maintenance-checklist",
+  "schemaName": "pcfl_PCFLib.PreventiveMaintenanceChecklist",
+  "tagline": "The Preventive Maintenance Checklist turns a work order, asset visit or store visit into a guided checklist.",
+  "description": "The Preventive Maintenance Checklist turns a work order, asset visit or store visit into a guided checklist. Technicians answer Pass, Fail or N/A for each check, type readings that are checked against an allowed range automatically, explain every defect in a note, raise follow-ups and sign off. Everything is saved in one text column on the record, and the result (Pass, Pass with actions or Fail) is available to the app, views and flows.",
+  "features": [
+   "Built-in field-service templates (air-con / FCU, refrigerated display case, fire safety, standby generator, POS and store IT) plus your own items",
+   "Collapsible sections with progress",
+   "Pass / Fail / N/A per item",
+   "Readings with allowed ranges that pass or fail automatically and warn near the limit, critical items",
+   "Notes required on failures",
+   "Bulk actions with undo",
+   "Search and filters",
+   "A one-by-one phone mode",
+   "Technician sign-off that locks the answers",
+   "Power Fx outputs and events for follow-up work orders"
+  ],
+  "category": "Model-driven / Dataverse field control",
+  "subCategory": null,
+  "industry": "Field Service & Merchandising",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "preventive",
+   "maintenance",
+   "checklist",
+   "service",
+   "merchandising",
+   "model-driven",
+   "dataverse"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 10,
+  "dateBuilt": "2026-11-05",
   "price": null
  },
  {
@@ -11099,6 +14029,170 @@
   "price": null
  },
  {
+  "name": "Quota Attainment Leaderboard",
+  "component": "QuotaAttainmentLeaderboard",
+  "slug": "quota-attainment-leaderboard",
+  "schemaName": "pcfl_PCFLib.QuotaAttainmentLeaderboard",
+  "tagline": "The Quota Attainment Leaderboard ranks your sales reps by how much of their quota they have won.",
+  "description": "The Quota Attainment Leaderboard ranks your sales reps by how much of their quota they have won. It adds up each rep's won deals, compares the total with the rep's quota and with how far you are through the period, and shows a podium for the top three, a ranked list with progress bars, and a clear status for every rep.",
+  "features": [
+   "Top-3 podium",
+   "Pace-aware status (Quota met / Ahead of pace / Behind pace / At risk)",
+   "Team totals and team filter",
+   "Tap a rep to select their deals in Power Fx"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "CRM & Sales",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "quota",
+   "attainment",
+   "leaderboard",
+   "crm",
+   "sales"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 8,
+  "dateBuilt": "2026-11-12",
+  "price": null
+ },
+ {
+  "name": "RFQ Quote Response Builder",
+  "component": "RfqQuoteResponseBuilder",
+  "slug": "rfq-quote-response-builder",
+  "schemaName": "pcfl_PCFLib.RfqQuoteResponseBuilder",
+  "tagline": "The RFQ Quote Response Builder is the form a supplier uses to answer a request for quotation (RFQ).",
+  "description": "The RFQ Quote Response Builder is the form a supplier uses to answer a request for quotation (RFQ). The buyer publishes the lines to be quoted; the supplier enters a unit price, discount and lead time for each line - or marks it No bid or offers an Alternative - and the control works out every line total, the delivery date, tax and the grand total as they type.",
+  "features": [
+   "Prices every requested line (unit price, discount, lead time, bid / no bid / alternative offer)",
+   "Flags prices above the buyer's target and deliveries later than the need-by date",
+   "Works out subtotal, delivery",
+   "Tax and grand total, captures currency, validity, Incoterms, payment terms",
+   "Contact and compliance declarations",
+   "Validates the quote before submission",
+   "Stores the whole response (with a readable summary) as JSON in one text column"
+  ],
+  "category": "Power Pages code component",
+  "subCategory": null,
+  "industry": "Procurement & Supply Chain",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps",
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "rfq",
+   "quote",
+   "response",
+   "builder",
+   "procurement",
+   "supply",
+   "chain",
+   "power",
+   "pages"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "standard",
+  "react": null,
+  "screenshotCount": 9,
+  "dateBuilt": "2026-11-06",
+  "price": null
+ },
+ {
+  "name": "Range Slider (PCFLib)",
+  "component": "RangeSlider",
+  "slug": "range-slider",
+  "schemaName": "pcfl_PCFLib.RangeSlider",
+  "tagline": "Dual-handle range slider (or single slider) for number columns and canvas filters: budget, price, quantity, score or distance ranges with exact-entry boxes, presets…",
+  "description": "Dual-handle range slider (or single slider) for number columns and canvas filters: budget, price, quantity, score or distance ranges with exact-entry boxes, presets, ticks, minimum gap and formatted outputs.",
+  "features": [
+   "Budget, price, quantity",
+   "Score or distance ranges with exact-entry boxes, presets, ticks",
+   "Minimum gap and formatted outputs"
+  ],
+  "category": "Canvas app field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "range",
+   "slider",
+   "cross-industry",
+   "canvas"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.1",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 8,
+  "dateBuilt": "2026-10-27",
+  "price": null
+ },
+ {
+  "name": "Rating Input (stars / hearts / scale)",
+  "component": "RatingInput",
+  "slug": "rating-input",
+  "schemaName": "pcfl_PCFLib.RatingInput",
+  "tagline": "Rating Input lets you give a score with one click: stars, hearts or dots that fill up to your choice, or a numbered scale such as 0–10 for Net Promoter Score (NPS).",
+  "description": "Rating Input lets you give a score with one click: stars, hearts or dots that fill up to your choice, or a numbered scale such as 0–10 for Net Promoter Score (NPS).",
+  "features": [
+   "Hearts",
+   "Number scale for NPS",
+   "Low scores"
+  ],
+  "category": "Canvas app field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "rating",
+   "input",
+   "cross-industry",
+   "canvas"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.2",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 5,
+  "dateBuilt": "2026-10-22",
+  "price": null
+ },
+ {
   "name": "Ratings Reviews Summary",
   "component": "RatingsReviewsSummary",
   "slug": "ratings-reviews-summary",
@@ -11144,6 +14238,49 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": null,
   "dateBuilt": "2026-10-31",
+  "price": null
+ },
+ {
+  "name": "Receivables Aging Board",
+  "component": "ReceivablesAgingBoard",
+  "slug": "receivables-aging-board",
+  "schemaName": "pcfl_PCFLib.ReceivablesAgingBoard",
+  "tagline": "The Receivables Aging Board turns a list of open invoices into a collections workspace.",
+  "description": "The Receivables Aging Board turns a list of open invoices into a collections workspace. Every invoice is aged against a reference date (normally today) and placed in an aging bucket such as Current, 1-30, 31-60, 61-90 or 90+ days overdue. You see the total position at the top and each customer underneath, and you can open any invoice behind the numbers.",
+  "features": [
+   "Configurable aging buckets (e.g. Current, 1-30, 31-60, 61-90, 90+) against a reference date",
+   "KPI strip (outstanding, overdue, % overdue, weighted days overdue)",
+   "Clickable stacked bucket bar",
+   "Customer rows with mini aging bars and expandable invoice lists, search",
+   "Bucket and owner filters, sorting",
+   "At-risk and credit-limit flags",
+   "Record open and selection outputs",
+   "A phone card layout"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "receivables",
+   "aging",
+   "board",
+   "cross-industry"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 8,
+  "dateBuilt": "2026-11-03",
   "price": null
  },
  {
@@ -11247,6 +14384,88 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": null,
   "dateBuilt": "2026-10-30",
+  "price": null
+ },
+ {
+  "name": "Recurrence Editor",
+  "component": "RecurrenceEditor",
+  "slug": "recurrence-editor",
+  "schemaName": "pcfl_PCFLib.RecurrenceEditor",
+  "tagline": "The Recurrence Editor lets people set up a repeat schedule on a record, the same way they set up a recurring meeting in Outlook.",
+  "description": "The Recurrence Editor lets people set up a repeat schedule on a record, the same way they set up a recurring meeting in Outlook. They choose how often something happens, on which days, from when and until when, and the control immediately shows a plain-English summary and the next dates that will happen.",
+  "features": [
+   "Daily, weekly",
+   "Monthly or yearly patterns with presets, end rules, skipped dates, holiday handling",
+   "A live next-dates preview (list or calendar) and an iCalendar RRULE value plus summary / next occurrence / count outputs"
+  ],
+  "category": "Canvas app field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps",
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "recurrence",
+   "editor",
+   "cross-industry",
+   "canvas"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 9,
+  "dateBuilt": "2026-10-27",
+  "price": null
+ },
+ {
+  "name": "Recurrence Pattern Editor (repeat schedule)",
+  "component": "RecurrencePatternEditor",
+  "slug": "recurrence-pattern-editor",
+  "schemaName": "pcfl_PCFLib.RecurrencePatternEditor",
+  "tagline": "The Recurrence Pattern Editor turns a plain text column into an Outlook-style repeat schedule.",
+  "description": "The Recurrence Pattern Editor turns a plain text column into an Outlook-style repeat schedule. Instead of typing rules, people pick how often something repeats, on which days, when it starts and when it ends. The control writes a clear sentence such as \"Every 2 weeks on Monday and Wednesday at 09:00, starting Mon 2 Nov 2026, 10 times\" and shows the upcoming dates in a list or calendar.",
+  "features": [
+   "Daily, weekly",
+   "Monthly (day, nth weekday or nth working day) and yearly patterns with start",
+   "Time and end, one-tap presets",
+   "Holiday handling (flag, skip or move), skip-this-date actions",
+   "A list and calendar preview of upcoming dates and a plain-English summary",
+   "Saves a standard iCalendar RRULE or JSON"
+  ],
+  "category": "Model-driven / Dataverse field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "recurrence",
+   "pattern",
+   "editor",
+   "cross-industry",
+   "model-driven",
+   "dataverse"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 9,
+  "dateBuilt": "2026-10-27",
   "price": null
  },
  {
@@ -11442,6 +14661,53 @@
   "price": null
  },
  {
+  "name": "Renewal Uplift Planner",
+  "component": "RenewalUpliftPlanner",
+  "slug": "renewal-uplift-planner",
+  "schemaName": "pcfl_PCFLib.RenewalUpliftPlanner",
+  "tagline": "Renewal Uplift Planner helps account managers and renewal desks price a subscription, support or licence renewal.",
+  "description": "Renewal Uplift Planner helps account managers and renewal desks price a subscription, support or licence renewal. It compares a flat renewal, the standard uplift and a multi-year price lock side by side, checks the price increase against the contractual cap, shows how the quantity change, uplift and multi-year discount move the value, and lays out every year of the new term with its dates and total contract value. The year-1 renewal value is saved to the record.",
+  "features": [
+   "Flat, Standard uplift",
+   "Multi-year lock and Custom scenario cards, term (years)",
+   "Price uplift % with the contractual cap",
+   "Quantity / seat change %",
+   "Price lock for multi-year terms with a per-year discount",
+   "A value bridge (current, quantity, uplift, discount, year 1)",
+   "A year-by-year schedule with renewal dates",
+   "Total contract value",
+   "Notice-window and approval checks (Ready / Needs approval / Blocked)",
+   "A phone layout"
+  ],
+  "category": "Model-driven / Dataverse field control",
+  "subCategory": null,
+  "industry": "CRM & Sales",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "renewal",
+   "uplift",
+   "planner",
+   "crm",
+   "sales",
+   "model-driven",
+   "dataverse"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 7,
+  "dateBuilt": "2026-11-12",
+  "price": null
+ },
+ {
   "name": "Rent Escalation Schedule Builder",
   "component": "RentEscalationScheduleBuilder",
   "slug": "rent-escalation-schedule-builder",
@@ -11627,6 +14893,48 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 6,
   "dateBuilt": "2026-11-05",
+  "price": null
+ },
+ {
+  "name": "Repeating Group Editor (PCFLib)",
+  "component": "RepeatingGroupEditor",
+  "slug": "repeating-group-editor",
+  "schemaName": "pcfl_PCFLib.RepeatingGroupEditor",
+  "tagline": "Many forms need a list of things rather than a single answer: the people in a household, emergency contacts, previous jobs, the attendees you are registering for an…",
+  "description": "Many forms need a list of things rather than a single answer: the people in a household, emergency contacts, previous jobs, the attendees you are registering for an event. On a Power Pages form this normally means building a child table, a subgrid, table permissions and sign-in. Repeating Group Editor gives you the whole repeating section inside one text column: people add as many entries as they need, each entry has its own fields, and everything is checked while they type.",
+  "features": [
+   "Table on wide screens",
+   "Different fields and an orange accent",
+   "On a phone",
+   "When saved information cannot be read"
+  ],
+  "category": "Power Pages code component",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps",
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "repeating",
+   "group",
+   "editor",
+   "cross-industry",
+   "power",
+   "pages"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "standard",
+  "react": null,
+  "screenshotCount": 10,
+  "dateBuilt": "2026-10-27",
   "price": null
  },
  {
@@ -11858,6 +15166,92 @@
   "price": null
  },
  {
+  "name": "Return Request Builder (PCFLib)",
+  "component": "ReturnRequestBuilder",
+  "slug": "return-request-builder",
+  "schemaName": "pcfl_PCFLib.ReturnRequestBuilder",
+  "tagline": "The Return Request Builder lets customers start a return on your portal without calling or emailing.",
+  "description": "The Return Request Builder lets customers start a return on your portal without calling or emailing. It shows the lines of their order, makes clear which items can still be returned, and guides them through quantity, reason, condition and a note for each item. Customers choose a refund, exchange or store credit and see an estimated refund before they submit.",
+  "features": [
+   "Lists the order's lines with return eligibility (return window, final sale)",
+   "Lets the customer pick items, quantities, a reason",
+   "The item condition and a note, choose refund",
+   "Exchange or store credit",
+   "Shows an estimated refund with restocking fee and evidence hints",
+   "Validates the request and saves it as JSON in one text column",
+   "No Web API or external services",
+   "Also works in model-driven and canvas apps"
+  ],
+  "category": "Power Pages code component",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "return",
+   "request",
+   "builder",
+   "cross-industry",
+   "power",
+   "pages"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "standard",
+  "react": null,
+  "screenshotCount": 8,
+  "dateBuilt": "2026-11-03",
+  "price": null
+ },
+ {
+  "name": "Risk Matrix (PCFLib)",
+  "component": "RiskMatrix",
+  "slug": "risk-matrix",
+  "schemaName": "pcfl_PCFLib.RiskMatrix",
+  "tagline": "Risk Matrix turns two simple number (or Choice) columns, Likelihood and Impact, into an interactive heat map.",
+  "description": "Risk Matrix turns two simple number (or Choice) columns, Likelihood and Impact, into an interactive heat map. Users click the cell where the likelihood meets the impact and the control works out the risk score and risk band (for example Low, Medium, High, Critical) straight away.",
+  "features": [
+   "Inherent and residual (after controls) ratings",
+   "3x3 to 6x6 scale, level descriptions",
+   "Risk bands and colours",
+   "Custom band layouts",
+   "Risk appetite and escalation rules, keyboard grid",
+   "Phone pickers and score / band / escalation outputs"
+  ],
+  "category": "Model-driven / Dataverse field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "risk",
+   "matrix",
+   "cross-industry",
+   "model-driven",
+   "dataverse"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 8,
+  "dateBuilt": "2026-10-27",
+  "price": null
+ },
+ {
   "name": "Risk Tolerance Questionnaire",
   "component": "RiskToleranceQuestionnaire",
   "slug": "risk-tolerance-questionnaire",
@@ -11918,6 +15312,48 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 24,
   "dateBuilt": "2026-11-01",
+  "price": null
+ },
+ {
+  "name": "Room Booking Explorer",
+  "component": "RoomBookingExplorer",
+  "slug": "room-booking-explorer",
+  "schemaName": "pcfl_PCFLib.RoomBookingExplorer",
+  "tagline": "Room Booking Explorer turns a list of meeting rooms into a visual room finder.",
+  "description": "Room Booking Explorer turns a list of meeting rooms into a visual room finder. Each room shows its facilities as icons (projector, projection screen, whiteboard, video conferencing, display, conference phone, wheelchair access, catering), its seat count and seating layout, and how much of the day is still free. When you pick a room, the control draws the room from above: the table or rows of chairs, the screen and projector beam, the whiteboard, the camera, the catering counter and the door, with one chair coloured for each of your attendees. You then choose free time slots and send a booking request.",
+  "features": [
+   "Room cards or a day timeline of every room, with booked times shown as grey blocks",
+   "Search, attendee count, building filter, facility chips and Free only filter; sort by best fit, most free time, largest first or name",
+   "A floor-plan drawing for six seating layouts: Boardroom, Classroom, Theatre, U-shape, Cabaret and Hollow square",
+   "A time-slot picker with quick \"Next free 30 min / 1 h / 2 h\" buttons",
+   "Checks for clashes with existing bookings, the longest allowed booking and room capacity",
+   "A booking request output (room, start, end, minutes, attendees, facilities) that your app saves to Dataverse, Outlook or a flow",
+   "Works on phones down to 320 px wide, with touch-friendly buttons and full keyboard support"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "room",
+   "booking",
+   "explorer",
+   "cross-industry"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 10,
+  "dateBuilt": "2026-11-03",
   "price": null
  },
  {
@@ -12035,6 +15471,43 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 31,
   "dateBuilt": "2026-11-02",
+  "price": null
+ },
+ {
+  "name": "SLA Countdown Timer",
+  "component": "SlaCountdown",
+  "slug": "sla-countdown",
+  "schemaName": "pcfl_PCFLib.SlaCountdown",
+  "tagline": "SLA Countdown Timer turns a deadline (a Date and Time column such as Respond by or Due date) into a live countdown with a coloured status badge: On track, Due soon, At…",
+  "description": "SLA Countdown Timer turns a deadline (a Date and Time column such as Respond by or Due date) into a live countdown with a coloured status badge: On track, Due soon, At risk or Overdue.",
+  "features": [
+   "Clock style"
+  ],
+  "category": "Model-driven / Dataverse field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "sla",
+   "countdown",
+   "cross-industry",
+   "model-driven",
+   "dataverse"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.2",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 8,
+  "dateBuilt": "2026-10-21",
   "price": null
  },
  {
@@ -12207,6 +15680,89 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 25,
   "dateBuilt": "2026-11-02",
+  "price": null
+ },
+ {
+  "name": "Sales Call Outcome Picker",
+  "component": "SalesCallOutcomePicker",
+  "slug": "sales-call-outcome-picker",
+  "schemaName": "pcfl_PCFLib.SalesCallOutcomePicker",
+  "tagline": "The Sales Call Outcome Picker is the field a rep fills in straight after a sales call.",
+  "description": "The Sales Call Outcome Picker is the field a rep fills in straight after a sales call. Instead of a plain dropdown, it shows the possible outcomes as large options in two groups - Connected and Not reached - and immediately tells the rep what happens next: when to follow up, how many attempts have been made, and whether a call note is needed.",
+  "features": [
+   "On a phone"
+  ],
+  "category": "Canvas app field control",
+  "subCategory": null,
+  "industry": "CRM & Sales",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "sales",
+   "call",
+   "outcome",
+   "picker",
+   "crm",
+   "canvas"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 8,
+  "dateBuilt": "2026-11-12",
+  "price": null
+ },
+ {
+  "name": "Sales Forecast Commit Board",
+  "component": "SalesForecastCommitBoard",
+  "slug": "sales-forecast-commit-board",
+  "schemaName": "pcfl_PCFLib.SalesForecastCommitBoard",
+  "tagline": "The Sales Forecast Commit Board turns a list of opportunities into the view a sales manager needs for the weekly forecast call.",
+  "description": "The Sales Forecast Commit Board turns a list of opportunities into the view a sales manager needs for the weekly forecast call. For the month, quarter or fiscal year you pick, every rep (or team) gets one row with their quota, what is already Closed won, what they Commit to, their Best case and the rest of the Pipeline. A bar shows how far Closed + Commit + Best case reach against the quota marker, and the board works out the forecast, the gap to quota, the pipeline coverage and a status of On track, At risk or Behind.",
+  "features": [
+   "Quota vs Closed won / Commit / Best case / Pipeline per rep or team for a month",
+   "Quarter or fiscal year",
+   "Attainment bars with a quota marker",
+   "Gap to quota, pipeline coverage",
+   "Pushed and overdue deal flags",
+   "Drill-down deal lists with one-click forecast category changes (single or bulk)",
+   "Search and filters",
+   "A phone card layout",
+   "Power Fx outputs and events"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "CRM & Sales",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "sales",
+   "forecast",
+   "commit",
+   "board",
+   "crm"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 10,
+  "dateBuilt": "2026-11-12",
   "price": null
  },
  {
@@ -12385,6 +15941,48 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 30,
   "dateBuilt": "2026-11-05",
+  "price": null
+ },
+ {
+  "name": "Service Attendance Trend Tile",
+  "component": "ServiceAttendanceTrendTile",
+  "slug": "service-attendance-trend-tile",
+  "schemaName": "pcfl_PCFLib.ServiceAttendanceTrendTile",
+  "tagline": "Compact attendance KPI tile for churches and community services: latest service headcount, change against the rolling average of recent services, seating capacity use…",
+  "description": "Compact attendance KPI tile for churches and community services: latest service headcount, change against the rolling average of recent services, seating capacity use with the 80% full rule, special-occasion handling, a tappable trend of recent services and a filter per service.",
+  "features": [
+   "Latest service headcount",
+   "Change against the rolling average of recent services",
+   "Seating capacity use with the 80% full rule, special-occasion handling",
+   "A tappable trend of recent services and a filter per service"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Nonprofit & Church Administration",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "service",
+   "attendance",
+   "trend",
+   "tile",
+   "nonprofit",
+   "church",
+   "administration"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 7,
+  "dateBuilt": "2026-11-13",
   "price": null
  },
  {
@@ -12568,6 +16166,87 @@
   "price": null
  },
  {
+  "name": "Signature Pad (PCFLib)",
+  "component": "SignaturePad",
+  "slug": "signature-pad",
+  "schemaName": "pcfl_PCFLib.SignaturePad",
+  "tagline": "Signature Pad adds a signature box to a form.",
+  "description": "Signature Pad adds a signature box to a form. People sign with a mouse, a finger on a phone or tablet, or a stylus. If they can't draw (for example they use a keyboard or screen reader), they can type their name instead and it is shown in a handwriting-style font.",
+  "features": [],
+  "category": "Power Pages code component",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps",
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "signature",
+   "pad",
+   "cross-industry",
+   "power",
+   "pages"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.1",
+  "solutionVersion": null,
+  "controlType": "standard",
+  "react": null,
+  "screenshotCount": 8,
+  "dateBuilt": "2026-10-20",
+  "price": null
+ },
+ {
+  "name": "Site Map Explorer",
+  "component": "SiteMapExplorer",
+  "slug": "site-map-explorer",
+  "schemaName": "pcfl_PCFLib.SiteMapExplorer",
+  "tagline": "Site Map Explorer shows a list of places - stores, customer sites, job addresses, assets or offices - on a map and a list side by side.",
+  "description": "Site Map Explorer shows a list of places - stores, customer sites, job addresses, assets or offices - on a map and a list side by side. Each place appears as a coloured pin. You can search, filter by type and status, see how far each place is from your depot or from where you are, and open a details card with the address, contact, notes, directions and a link to the record.",
+  "features": [
+   "Pins coloured by category or status, clustering",
+   "Pan / zoom by mouse",
+   "Touch and keyboard, search",
+   "Category chips with counts, status filter",
+   "Sort by name or distance",
+   "Distance and radius from a base point or the user's location",
+   "Details card with Open record and Directions",
+   "Map / split / list layouts",
+   "Phone Map / List tabs and selection outputs",
+   "Works offline without any API key"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "site",
+   "map",
+   "explorer",
+   "cross-industry"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 8,
+  "dateBuilt": "2026-10-29",
+  "price": null
+ },
+ {
   "name": "Skills Competency Matrix",
   "component": "SkillsCompetencyMatrix",
   "slug": "skills-competency-matrix",
@@ -12625,6 +16304,91 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 17,
   "dateBuilt": "2026-10-28",
+  "price": null
+ },
+ {
+  "name": "Skills Matrix Editor",
+  "component": "SkillsMatrixEditor",
+  "slug": "skills-matrix-editor",
+  "schemaName": "pcfl_PCFLib.SkillsMatrixEditor",
+  "tagline": "The Skills Matrix Editor turns one text column into a full skills and certifications register for a person, technician, volunteer or crew.",
+  "description": "The Skills Matrix Editor turns one text column into a full skills and certifications register for a person, technician, volunteer or crew. People rate each skill on a level scale, record certificate expiry dates and evidence notes, and see straight away how well they match a role profile.",
+  "features": [
+   "Proficiency levels",
+   "Certification expiry tracking",
+   "Role-profile gap analysis",
+   "Search and filters",
+   "Stored as JSON in one text column"
+  ],
+  "category": "Model-driven / Dataverse field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "skills",
+   "matrix",
+   "editor",
+   "cross-industry",
+   "model-driven",
+   "dataverse"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 9,
+  "dateBuilt": "2026-10-29",
+  "price": null
+ },
+ {
+  "name": "Smart Address Editor",
+  "component": "SmartAddressEditor",
+  "slug": "smart-address-editor",
+  "schemaName": "pcfl_PCFLib.SmartAddressEditor",
+  "tagline": "The Smart Address Editor replaces a set of plain address columns (Street 1, Street 2, City, State, Postal code, Country) with one tidy, country-aware address block.",
+  "description": "The Smart Address Editor replaces a set of plain address columns (Street 1, Street 2, City, State, Postal code, Country) with one tidy, country-aware address block. Users can pick a saved address, paste a whole address from an email or website and have it split into the right columns, or type it field by field. The control checks the address as they go and shows a ready-to-use postal label.",
+  "features": [
+   "Smart box: search saved addresses (sites, depots, frequent customers) or paste a full address and press Enter / Fill to split it into the fields",
+   "Country-aware form: labels, required fields, State lists and postcode checks change with the country (Singapore, Malaysia, Australia, United Kingdom, United States, India, Other)",
+   "Singapore postal district: the district (D01-D28) and area are worked out from the postal code; wrong sectors are flagged",
+   "Territory rules: your own territories from districts, postcode ranges or prefixes, shown as a chip and available to flows and apps",
+   "Checks: required fields, postcode format, maximum line length, PO Box and unit-number rules, with a status badge (No address yet / N to fix / Complete)",
+   "Tidy up: fixes capitals and spacing (BLK 201 TAMPINES ST 21 becomes Blk 201 Tampines St 21), unit numbers (#5-12 becomes #05-12) and postcodes - automatically when you leave a field, or with the Tidy up button. Undo is always one click away",
+   "Postal label: formatted for the country, with Copy and Open in Maps",
+   "Two layouts: Form, or Compact (label with an Edit button) for busy forms"
+  ],
+  "category": "Model-driven / Dataverse field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "smart",
+   "address",
+   "editor",
+   "cross-industry",
+   "model-driven",
+   "dataverse"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 9,
+  "dateBuilt": "2026-10-29",
   "price": null
  },
  {
@@ -12689,6 +16453,84 @@
   "controlType": "standard",
   "react": "16.14.0 (bundled)",
   "screenshotCount": 22,
+  "dateBuilt": "2026-10-27",
+  "price": null
+ },
+ {
+  "name": "Smart Gallery",
+  "component": "SmartGallery",
+  "slug": "smart-gallery",
+  "schemaName": "pcfl_PCFLib.SmartGallery",
+  "tagline": "Smart Gallery shows the records of a SharePoint list or Dataverse table as a modern gallery.",
+  "description": "Smart Gallery shows the records of a SharePoint list or Dataverse table as a modern gallery. One control gives you 10 different layouts — cards, list, photo tiles, carousel, timeline, people cards and more — so every screen can show the same data in the way that suits it. Each item can carry View, Edit and Delete buttons and your own buttons such as Approve and Reject.",
+  "features": [
+   "List, Cards, Image tiles, Carousel, Grouped, Compact table, Timeline, People",
+   "Hero banner and Accordion, Search",
+   "Filter and sort run on SharePoint / Dataverse (delegable)",
+   "Bind a table or collection",
+   "Pick a layout",
+   "Map title / subtitle / image / badge / group columns, Built-in search, badge colours",
+   "Keyboard navigation and Selected outputs for canvas apps"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "smart",
+   "gallery",
+   "cross-industry"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.3.2",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 12,
+  "dateBuilt": "2026-10-23",
+  "price": null
+ },
+ {
+  "name": "Smart Text Area (PCFLib)",
+  "component": "SmartTextArea",
+  "slug": "smart-text-area",
+  "schemaName": "pcfl_PCFLib.SmartTextArea",
+  "tagline": "Smart Text Area replaces the plain multi-line text box with one that helps people write answers of the right length.",
+  "description": "Smart Text Area replaces the plain multi-line text box with one that helps people write answers of the right length. As they type, a counter shows how many words (or characters) they have used against the limit, a thin bar fills up, and a short message tells them when they are below the minimum, close to the maximum or over it. The box grows with the text, so long answers stay readable without scrolling inside a tiny field.",
+  "features": [],
+  "category": "Power Pages code component",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps",
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "smart",
+   "text",
+   "area",
+   "cross-industry",
+   "power",
+   "pages"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "standard",
+  "react": null,
+  "screenshotCount": 9,
   "dateBuilt": "2026-10-27",
   "price": null
  },
@@ -12848,6 +16690,93 @@
   "price": null
  },
  {
+  "name": "Staff Directory Explorer",
+  "component": "StaffDirectoryExplorer",
+  "slug": "staff-directory-explorer",
+  "schemaName": "pcfl_PCFLib.StaffDirectoryExplorer",
+  "tagline": "Staff Directory Explorer turns any list of people - staff, contacts, volunteers, church or club members, contractors - into an easy people finder.",
+  "description": "Staff Directory Explorer turns any list of people - staff, contacts, volunteers, church or club members, contractors - into an easy people finder. Users search by name, job title, team, location or skill, narrow the list with department chips and location / status filters, jump with the A-Z bar, and open a details panel that shows the person's manager and direct reports with one-tap Email, Call, Teams chat and Copy email actions.",
+  "features": [
+   "Card and list views",
+   "Search across name, job title, department",
+   "Location and skills",
+   "Department / location / status filters with counts",
+   "A-Z jump bar",
+   "Grouping with collapsible sections",
+   "Presence status badges",
+   "A details panel with manager and direct reports",
+   "Email / call / Teams chat / copy quick actions"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "staff",
+   "directory",
+   "explorer",
+   "cross-industry"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 9,
+  "dateBuilt": "2026-11-05",
+  "price": null
+ },
+ {
+  "name": "Stakeholder Influence Map",
+  "component": "StakeholderInfluenceMap",
+  "slug": "stakeholder-influence-map",
+  "schemaName": "pcfl_PCFLib.StakeholderInfluenceMap",
+  "tagline": "The Stakeholder Influence Map shows everyone involved in a decision on one record – for example the buying committee on an opportunity, the key people on an account, or…",
+  "description": "The Stakeholder Influence Map shows everyone involved in a decision on one record – for example the buying committee on an opportunity, the key people on an account, or the stakeholders of a project or grant. For each person you record their influence (1 to 5) and their stance (from Opponent to Champion). The control places them in a four-part matrix so the team can see at a glance who to win over, who to lean on and who simply needs to be kept informed.",
+  "features": [
+   "Power-support matrix (Manage closely, Leverage, Monitor, Keep informed)",
+   "Sortable list and reporting-lines views",
+   "Search and role/stance filters",
+   "Add/edit/delete stakeholders with influence, stance, role",
+   "Reports-to and last contact",
+   "Coverage score and relationship insights (missing decision roles, high-influence opponents, stale contacts, single-threading)",
+   "Keyboard and touch operable, phone layout"
+  ],
+  "category": "Model-driven / Dataverse field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "stakeholder",
+   "influence",
+   "map",
+   "cross-industry",
+   "model-driven",
+   "dataverse"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 9,
+  "dateBuilt": "2026-11-04",
+  "price": null
+ },
+ {
   "name": "Standards Mastery Tracker",
   "component": "StandardsMasteryTracker",
   "slug": "standards-mastery-tracker",
@@ -13001,6 +16930,94 @@
   "price": null
  },
  {
+  "name": "Stock Level Monitor",
+  "component": "StockLevelMonitor",
+  "slug": "stock-level-monitor",
+  "schemaName": "pcfl_PCFLib.StockLevelMonitor",
+  "tagline": "Stock Level Monitor turns a list of stock items into a replenishment board.",
+  "description": "Stock Level Monitor turns a list of stock items into a replenishment board. For every item it compares the quantity on hand with the reorder point, the maximum level and the average daily usage, and gives it a clear status: Out of stock, Below reorder point, Low cover, Healthy, Overstock or No stock data.",
+  "features": [
+   "Status rules (out of stock, below reorder point, low days of cover, overstock)",
+   "KPI tiles that filter, search",
+   "Location and category filters",
+   "Sort and grouping",
+   "Stock bars with reorder and max markers",
+   "Suggested order quantities rounded to pack size",
+   "A reorder list with quantity validation and outputs for canvas Patch or flows",
+   "Cards or table layout and a phone card view"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "stock",
+   "level",
+   "monitor",
+   "cross-industry"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 8,
+  "dateBuilt": "2026-11-03",
+  "price": null
+ },
+ {
+  "name": "Store Visit Geo Check-In",
+  "component": "StoreVisitGeoCheckIn",
+  "slug": "store-visit-geo-check-in",
+  "schemaName": "pcfl_PCFLib.StoreVisitGeoCheckIn",
+  "tagline": "Store Visit Geo Check-In records a store or site visit with proof of presence.",
+  "description": "Store Visit Geo Check-In records a store or site visit with proof of presence. It finds the phone's position (no map service or API key), shows on a radar how far and in which direction you are from the store, compares that with the store's geofence and the GPS accuracy, and then lets you check in, take breaks and check out. Exceptions - checking in outside the fence, a poor GPS fix, no location, leaving before the minimum visit time - are either blocked, allowed with a reason code, or simply flagged, depending on the policy your app maker chose.",
+  "features": [
+   "Locate the device (no map API key), see distance",
+   "Bearing and GPS accuracy on a radar against the store's geofence",
+   "Check in (blocked, reason-coded or allowed when outside the fence or the fix is poor)",
+   "Live on-site timer with minimum-visit progress, breaks",
+   "Check-out with a fresh fix and early-leave reason, visit log",
+   "Summary and outputs/events for Power Fx and flows",
+   "Keyboard and touch operable, phone layout"
+  ],
+  "category": "Canvas app field control",
+  "subCategory": null,
+  "industry": "Field Service & Merchandising",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "store",
+   "visit",
+   "geo",
+   "check",
+   "service",
+   "merchandising",
+   "canvas"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 8,
+  "dateBuilt": "2026-11-05",
+  "price": null
+ },
+ {
   "name": "Student Early Alert Panel",
   "component": "StudentEarlyAlertPanel",
   "slug": "student-early-alert-panel",
@@ -13057,6 +17074,45 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 27,
   "dateBuilt": "2026-11-01",
+  "price": null
+ },
+ {
+  "name": "Summary Chart",
+  "component": "SummaryChart",
+  "slug": "summary-chart",
+  "schemaName": "pcfl_PCFLib.SummaryChart",
+  "tagline": "Summary Chart turns a list of records — a Dataverse view, a sub-grid or a canvas collection — into a clear chart.",
+  "description": "Summary Chart turns a list of records — a Dataverse view, a sub-grid or a canvas collection — into a clear chart. It groups the records by one column (for example Status, Department, Supplier or Created on) and shows how many there are, or adds up / averages a number column such as Amount.",
+  "features": [
+   "Groups records by a category column (Choice, text, lookup, Yes/No or date by month/quarter/year)",
+   "Counts them or sums / averages a number column",
+   "Optional series split",
+   "Top N + Other, target line",
+   "Accessible data-table view and click-to-select outputs"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "summary",
+   "chart",
+   "cross-industry"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.1",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 9,
+  "dateBuilt": "2026-10-27",
   "price": null
  },
  {
@@ -13211,6 +17267,44 @@
   "price": null
  },
  {
+  "name": "Tag Chip Input",
+  "component": "TagChipInput",
+  "slug": "tag-chip-input",
+  "schemaName": "pcfl_PCFLib.TagChipInput",
+  "tagline": "Tag Chip Input replaces a plain text box with a modern tag field.",
+  "description": "Tag Chip Input replaces a plain text box with a modern tag field. Each tag appears as a small chip with an × to remove it. You can pick tags from a suggestion list, type your own, or paste a whole list at once.",
+  "features": [
+   "Coloured pill-shaped chips",
+   "Pick from the list only"
+  ],
+  "category": "Canvas app field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "tag",
+   "chip",
+   "input",
+   "cross-industry",
+   "canvas"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.2",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 9,
+  "dateBuilt": "2026-10-19",
+  "price": null
+ },
+ {
   "name": "Tag Picker",
   "component": "TagPicker",
   "slug": "tag-picker",
@@ -13313,6 +17407,52 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 15,
   "dateBuilt": "2026-10-28",
+  "price": null
+ },
+ {
+  "name": "Technician Route Sequencer",
+  "component": "TechnicianRouteSequencer",
+  "slug": "technician-route-sequencer",
+  "schemaName": "pcfl_PCFLib.TechnicianRouteSequencer",
+  "tagline": "The Technician Route Sequencer puts each technician's or merchandiser's visits for the day in a sensible order.",
+  "description": "The Technician Route Sequencer puts each technician's or merchandiser's visits for the day in a sensible order. It shows when they will arrive at every site, whether they will be early (and wait) or late for the agreed arrival window, how far they drive, and when they will finish. One click re-orders the open stops to cut lateness, overtime and distance - and one click undoes it.",
+  "features": [
+   "Per-technician routes from any view or collection of visits",
+   "ETA / departure for every stop from travel distance",
+   "Average speed and on-site time",
+   "Arrival-window checks (early wait, late)",
+   "Priority and status badges",
+   "A schematic route map without map services or API keys",
+   "Drag / button / keyboard re-ordering",
+   "One-click route optimisation with undo",
+   "Shift-end overtime warning, team overview",
+   "Sequence changes raised as Power Fx events (optional direct save to Dataverse in model-driven apps)"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Field Service & Merchandising",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "technician",
+   "route",
+   "sequencer",
+   "service",
+   "merchandising"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 9,
+  "dateBuilt": "2026-11-05",
   "price": null
  },
  {
@@ -13640,6 +17780,51 @@
   "price": null
  },
  {
+  "name": "Three-Way Match Reconciler",
+  "component": "ThreeWayMatchReconciler",
+  "slug": "three-way-match-reconciler",
+  "schemaName": "pcfl_PCFLib.ThreeWayMatchReconciler",
+  "tagline": "The Three-Way Match Reconciler is an accounts-payable workbench.",
+  "description": "The Three-Way Match Reconciler is an accounts-payable workbench. It puts every purchase-order line next to what was received (goods receipt) and what the supplier invoiced, checks quantities and prices against your tolerance rules, and tells you straight away which lines can be paid and which need attention.",
+  "features": [
+   "Quantity and price tolerance rules (3-way or 2-way)",
+   "Match result per line with variance value, PO roll-ups",
+   "Clickable KPI tiles, search, supplier filter, sorting, grouping",
+   "Multi-select with Approve for payment / Place on hold / Request credit note",
+   "Expandable check details",
+   "A phone card layout and Power Fx outputs and events for Patch"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Procurement & Supply Chain",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps",
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "three",
+   "way",
+   "match",
+   "reconciler",
+   "procurement",
+   "supply",
+   "chain"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 8,
+  "dateBuilt": "2026-11-06",
+  "price": null
+ },
+ {
   "name": "Tier Meeting Board",
   "component": "TierMeetingBoard",
   "slug": "tier-meeting-board",
@@ -13691,6 +17876,93 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 24,
   "dateBuilt": "2026-11-02",
+  "price": null
+ },
+ {
+  "name": "Tiered Pricing Editor",
+  "component": "TieredPricingEditor",
+  "slug": "tiered-pricing-editor",
+  "schemaName": "pcfl_PCFLib.TieredPricingEditor",
+  "tagline": "The Tiered Pricing Editor turns one text column into a price-break table.",
+  "description": "The Tiered Pricing Editor turns one text column into a price-break table. Each tier covers a band of quantities - for example 1-9, 10-49, 50-199 and 200 or more - and has its own unit price or a discount off the list price. The bands always follow on from each other, so there can be no gaps or overlaps.",
+  "features": [
+   "Tiers with from/to quantities",
+   "Unit price or discount %, tier names, split/remove",
+   "Open-ended top tier, gap/overlap-free bands",
+   "Validation and warnings",
+   "A unit-price chart and a price check calculator (volume or graduated pricing) with savings vs list",
+   "Phone card layout"
+  ],
+  "category": "Model-driven / Dataverse field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "tiered",
+   "pricing",
+   "editor",
+   "cross-industry",
+   "model-driven",
+   "dataverse"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 8,
+  "dateBuilt": "2026-11-04",
+  "price": null
+ },
+ {
+  "name": "Time Zone Meeting Planner",
+  "component": "TimeZoneMeetingPlanner",
+  "slug": "time-zone-meeting-planner",
+  "schemaName": "pcfl_PCFLib.TimeZoneMeetingPlanner",
+  "tagline": "The Time Zone Meeting Planner helps you choose a meeting time for people in different countries.",
+  "description": "The Time Zone Meeting Planner helps you choose a meeting time for people in different countries. It shows one day as a timeline with a row for each time zone, so you can see at a glance what time it will be for everyone, and whether that is during their working day, in the evening, at night or at the weekend.",
+  "features": [
+   "A day timeline per zone with working hours",
+   "Night and weekend shading",
+   "A shared-working-time bar",
+   "Suggested times where everyone is in working hours (or the fewest people outside), add/remove/re-home zones, day navigation",
+   "Keyboard-operable slot picker",
+   "Per-zone summary with status and warnings",
+   "A phone list layout with filters",
+   "Stores the start as an ISO UTC date-time",
+   "No network or API key needed"
+  ],
+  "category": "Canvas app field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "time",
+   "zone",
+   "meeting",
+   "planner",
+   "cross-industry",
+   "canvas"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 7,
+  "dateBuilt": "2026-11-04",
   "price": null
  },
  {
@@ -13908,6 +18180,88 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 26,
   "dateBuilt": "2026-11-01",
+  "price": null
+ },
+ {
+  "name": "Travel Itinerary Builder",
+  "component": "TravelItineraryBuilder",
+  "slug": "travel-itinerary-builder",
+  "schemaName": "pcfl_PCFLib.TravelItineraryBuilder",
+  "tagline": "The Travel Itinerary Builder turns the \"Where are you going?\" part of a travel request into one guided field.",
+  "description": "The Travel Itinerary Builder turns the \"Where are you going?\" part of a travel request into one guided field. Travellers pick the kind of trip, add each journey (a leg) by flight, rail, car or taxi, bus or ferry, and the control immediately shows the route, the number of nights away, hotel nights and an estimate of the daily allowance.",
+  "features": [
+   "One way",
+   "Return or multi-city trips with flight/rail/car/bus/ferry legs, city suggestions",
+   "Route map strip, hotel nights, daily-allowance estimate",
+   "Travel-policy checks (notice period, trip length, allowed modes and classes, route gaps) and justification",
+   "Stores the itinerary (with a summary) as JSON in one text column"
+  ],
+  "category": "Power Pages code component",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "travel",
+   "itinerary",
+   "builder",
+   "cross-industry",
+   "power",
+   "pages"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "standard",
+  "react": null,
+  "screenshotCount": 9,
+  "dateBuilt": "2026-11-04",
+  "price": null
+ },
+ {
+  "name": "Treemap Explorer",
+  "component": "TreemapExplorer",
+  "slug": "treemap-explorer",
+  "schemaName": "pcfl_PCFLib.TreemapExplorer",
+  "tagline": "Treemap Explorer turns a list of records into a map of rectangles.",
+  "description": "Treemap Explorer turns a list of records into a map of rectangles. Each rectangle (a tile) is sized by its share of the total, so the biggest categories stand out at once. Tap a tile to open it and see what it is made of, then open the records behind it.",
+  "features": [
+   "Squarified tiles sized by amount or count",
+   "Two-level drill-down (group, subgroup, records) with breadcrumbs",
+   "Colour by group or by variance against a target, search",
+   "Top-N with Other bucket, KPI strip",
+   "Details panel with top items",
+   "Ranked list view",
+   "Keyboard and touch navigation and a phone layout"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "treemap",
+   "explorer",
+   "cross-industry"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 8,
+  "dateBuilt": "2026-11-03",
   "price": null
  },
  {
@@ -14211,6 +18565,87 @@
   "price": null
  },
  {
+  "name": "Variant Matrix Order",
+  "component": "VariantMatrixOrder",
+  "slug": "variant-matrix-order",
+  "schemaName": "pcfl_PCFLib.VariantMatrixOrder",
+  "tagline": "Variant Matrix Order is an order-entry grid for products that come in variants - typically colours down the side and sizes across the top.",
+  "description": "Variant Matrix Order is an order-entry grid for products that come in variants - typically colours down the side and sizes across the top. Instead of adding one order line per size and colour, you enter every quantity in one matrix, see the stock for each variant, and watch the units, price, quantity discount and total update as you type.",
+  "features": [
+   "Stock per variant",
+   "Steppers honouring pack sizes, size-curve fill, search/in-stock filter/sort",
+   "Stock and pack validation with one-click fixes, minimum order",
+   "Quantity price tiers with next-tier hint",
+   "Live totals and a phone card layout",
+   "Stores the order as JSON"
+  ],
+  "category": "Canvas app field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "variant",
+   "matrix",
+   "order",
+   "cross-industry",
+   "canvas"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 9,
+  "dateBuilt": "2026-11-03",
+  "price": null
+ },
+ {
+  "name": "Vehicle Damage Inspector",
+  "component": "VehicleDamageInspector",
+  "slug": "vehicle-damage-inspector",
+  "schemaName": "pcfl_PCFLib.VehicleDamageInspector",
+  "tagline": "The Vehicle Damage Inspector replaces paper walk-around sheets.",
+  "description": "The Vehicle Damage Inspector replaces paper walk-around sheets. It shows a top-view drawing of a car, van or pickup. You tap the exact spot where you see damage, choose what kind of damage it is and how serious it is, and add a short note. Every damage item gets a numbered pin on the drawing and a card in the list underneath.",
+  "features": [
+   "A condition score from 0 to 100 with a grade (Excellent, Good, Fair, Poor)",
+   "A status line that tells you when the inspection is complete, or which items still need a note",
+   "Search, filters (severity, type, new only) and sorting for longer lists",
+   "A layout made for phones: the vehicle turns sideways so it fits the screen"
+  ],
+  "category": "Canvas app field control",
+  "subCategory": null,
+  "industry": "Field Service & Merchandising",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "vehicle",
+   "damage",
+   "inspector",
+   "service",
+   "merchandising",
+   "canvas"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 11,
+  "dateBuilt": "2026-11-05",
+  "price": null
+ },
+ {
   "name": "Vendor Comparison Matrix",
   "component": "VendorComparisonMatrix",
   "slug": "vendor-comparison-matrix",
@@ -14397,6 +18832,52 @@
   "price": null
  },
  {
+  "name": "Volunteer Availability Planner",
+  "component": "VolunteerAvailabilityPlanner",
+  "slug": "volunteer-availability-planner",
+  "schemaName": "pcfl_PCFLib.VolunteerAvailabilityPlanner",
+  "tagline": "The Volunteer Availability Planner lets each volunteer show which days and times they can usually serve.",
+  "description": "The Volunteer Availability Planner lets each volunteer show which days and times they can usually serve. They tap slots on a simple week grid, see the ★ service times the church or charity most needs, say how often they can serve and switch on a break when they need rest. The roster coordinator gets clean, consistent availability on every volunteer record.",
+  "features": [
+   "A day x time-slot grid (a day-by-day list on phones) with service times marked",
+   "Quick picks (Weekends, Weekday evenings, Service times, Clear)",
+   "How-often chips (Weekly, Fortnightly, Monthly, Occasional)",
+   "A break / sabbatical switch with an end date",
+   "Minimum / maximum slot rules",
+   "A readable summary and Power Fx outputs and events",
+   "Writes the chosen slots as text such as Sun:Morning",
+   "Wed:Evening to the bound column"
+  ],
+  "category": "Model-driven / Dataverse field control",
+  "subCategory": null,
+  "industry": "Nonprofit & Church Administration",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "volunteer",
+   "availability",
+   "planner",
+   "nonprofit",
+   "church",
+   "administration",
+   "model-driven",
+   "dataverse"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 7,
+  "dateBuilt": "2026-11-13",
+  "price": null
+ },
+ {
   "name": "Warranty Claim Portal",
   "component": "WarrantyClaimPortal",
   "slug": "warranty-claim-portal",
@@ -14556,6 +19037,127 @@
   "price": null
  },
  {
+  "name": "Weighted Scorecard",
+  "component": "WeightedScorecard",
+  "slug": "weighted-scorecard",
+  "schemaName": "pcfl_PCFLib.WeightedScorecard",
+  "tagline": "The Weighted Scorecard turns a single multi-line text column into a complete evaluation form.",
+  "description": "The Weighted Scorecard turns a single multi-line text column into a complete evaluation form. Evaluators score each criterion on a simple scale, and the control works out the weighted total, shows it against the pass mark, and flags anything that needs attention: missing comments, unscored items and knock-out criteria that fail the whole evaluation on their own.",
+  "features": [
+   "Grouped",
+   "Weighted criteria scored on a configurable scale with N/A",
+   "Comments required for low scores, knock-out criteria",
+   "Live weighted total, pass/fail result",
+   "Search and filters",
+   "Optionally writes the total to a number column"
+  ],
+  "category": "Model-driven / Dataverse field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "weighted",
+   "scorecard",
+   "cross-industry",
+   "model-driven",
+   "dataverse"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 8,
+  "dateBuilt": "2026-10-29",
+  "price": null
+ },
+ {
+  "name": "Win-Loss Reason Breakdown",
+  "component": "WinLossReasonBreakdown",
+  "slug": "win-loss-reason-breakdown",
+  "schemaName": "pcfl_PCFLib.WinLossReasonBreakdown",
+  "tagline": "Win / Loss Reason Breakdown turns a list of closed opportunities into a clear answer to two questions every sales leader asks: why do we win, and why do we lose?",
+  "description": "Win / Loss Reason Breakdown turns a list of closed opportunities into a clear answer to two questions every sales leader asks: why do we win, and why do we lose? It shows the win rate against your target, how many deals (and how much value) were won and lost, and two ranked lists of reasons. Each reason shows its share and the competitor you met most often. Tap a reason and the deals behind it are selected, so the app can open them straight away.",
+  "features": [
+   "Win rate against a target",
+   "Won vs lost split",
+   "Ranked win and loss reasons by count or value",
+   "Tap a reason to select its deals in Power Fx"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "CRM & Sales",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "win",
+   "loss",
+   "reason",
+   "breakdown",
+   "crm",
+   "sales"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 8,
+  "dateBuilt": "2026-11-12",
+  "price": null
+ },
+ {
+  "name": "Word Limit Text Area (PCFLib)",
+  "component": "WordLimitTextArea",
+  "slug": "word-limit-text-area",
+  "schemaName": "pcfl_PCFLib.WordLimitTextArea",
+  "tagline": "Word Limit Text Area replaces the plain multi-line text box on a form.",
+  "description": "Word Limit Text Area replaces the plain multi-line text box on a form. As people type, it shows a live count of words (or characters) against the limit you set, a slim progress bar, and a friendly message when the answer is too short or too long. You decide whether the limit is a gentle warning or a hard stop.",
+  "features": [],
+  "category": "Power Pages code component",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps",
+   "Power Pages"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "word",
+   "limit",
+   "text",
+   "area",
+   "cross-industry",
+   "power",
+   "pages"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "standard",
+  "react": null,
+  "screenshotCount": 9,
+  "dateBuilt": "2026-10-27",
+  "price": null
+ },
+ {
   "name": "Work Instruction Viewer",
   "component": "WorkInstructionViewer",
   "slug": "work-instruction-viewer",
@@ -14610,6 +19212,90 @@
   "react": "16.14.0 (bundled)",
   "screenshotCount": 22,
   "dateBuilt": "2026-11-02",
+  "price": null
+ },
+ {
+  "name": "Work Order Dispatch Queue",
+  "component": "WorkOrderDispatchQueue",
+  "slug": "work-order-dispatch-queue",
+  "schemaName": "pcfl_PCFLib.WorkOrderDispatchQueue",
+  "tagline": "The Work Order Dispatch Queue is the dispatcher's live list of open field-service jobs.",
+  "description": "The Work Order Dispatch Queue is the dispatcher's live list of open field-service jobs. Every job is measured against its SLA due time: you see a countdown (\"Overdue 2h 30m\", \"45m left\"), a coloured badge (Breached, At risk, On track) and a bar showing how much of the SLA time has been used. Tiles across the top count open, breached, at-risk, unassigned and due-today jobs — and work as one-click filters.",
+  "features": [
+   "SLA countdown and breach / at-risk banding against a configurable threshold",
+   "Clickable KPI tiles (open, breached, at risk, unassigned, due today), search",
+   "Priority and region filters, sorting",
+   "Grouping with collapsible groups",
+   "Multi-select with bulk Assign / Escalate",
+   "Expandable job details",
+   "A phone card layout and Power Fx outputs and events for Patch"
+  ],
+  "category": "Dataset grid or visual",
+  "subCategory": null,
+  "industry": "Field Service & Merchandising",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "work",
+   "order",
+   "dispatch",
+   "queue",
+   "service",
+   "merchandising"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 9,
+  "dateBuilt": "2026-11-05",
+  "price": null
+ },
+ {
+  "name": "Workday Date Picker (business days and holidays)",
+  "component": "WorkdayDatePicker",
+  "slug": "workday-date-picker",
+  "schemaName": "pcfl_PCFLib.WorkdayDatePicker",
+  "tagline": "The Workday Date Picker replaces the standard date box for dates that must land on a working day: delivery \"required by\" dates, due dates, visit dates and promise dates.",
+  "description": "The Workday Date Picker replaces the standard date box for dates that must land on a working day: delivery \"required by\" dates, due dates, visit dates and promise dates. It knows your working week (for example Monday to Friday) and your holidays and closure days, so people cannot accidentally choose a Saturday or a public holiday.",
+  "features": [
+   "Greys out weekends and holidays",
+   "Enforces a lead time in working days",
+   "Offers +N working-day quick picks and shows how many working days away the date is"
+  ],
+  "category": "Model-driven / Dataverse field control",
+  "subCategory": null,
+  "industry": "Cross-industry",
+  "pack": null,
+  "packOrder": null,
+  "hosts": [
+   "Canvas apps",
+   "Model-driven apps"
+  ],
+  "mobileResponsive": true,
+  "complexity": "Advanced",
+  "tags": [
+   "workday",
+   "date",
+   "picker",
+   "cross-industry",
+   "model-driven",
+   "dataverse"
+  ],
+  "availability": "Coming soon",
+  "componentVersion": "1.0.0",
+  "solutionVersion": null,
+  "controlType": "virtual",
+  "react": "16.14.0 (platform library)",
+  "screenshotCount": 10,
+  "dateBuilt": "2026-10-27",
   "price": null
  },
  {

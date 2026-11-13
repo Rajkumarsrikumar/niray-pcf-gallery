@@ -1,0 +1,42 @@
+{
+ "name": "RiskMatrix",
+ "displayName": "Risk Matrix (PCFLib)",
+ "slug": "risk-matrix",
+ "tagline": "Risk Matrix turns two simple number (or Choice) columns, Likelihood and Impact, into an interactive heat map.",
+ "description": "Risk Matrix turns two simple number (or Choice) columns, Likelihood and Impact, into an interactive heat map. Users click the cell where the likelihood meets the impact and the control works out the risk score and risk band (for example Low, Medium, High, Critical) straight away.",
+ "features": [
+  "Inherent and residual (after controls) ratings",
+  "3x3 to 6x6 scale, level descriptions",
+  "Risk bands and colours",
+  "Custom band layouts",
+  "Risk appetite and escalation rules, keyboard grid",
+  "Phone pickers and score / band / escalation outputs"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Model-driven / Dataverse field control",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "risk",
+  "matrix",
+  "cross-industry",
+  "model-driven",
+  "dataverse"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-27",
+ "schemaName": "pcfl_PCFLib.RiskMatrix",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "RiskMatrix_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

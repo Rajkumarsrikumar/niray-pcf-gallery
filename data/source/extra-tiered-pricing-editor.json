@@ -1,0 +1,42 @@
+{
+ "name": "TieredPricingEditor",
+ "displayName": "Tiered Pricing Editor",
+ "slug": "tiered-pricing-editor",
+ "tagline": "The Tiered Pricing Editor turns one text column into a price-break table.",
+ "description": "The Tiered Pricing Editor turns one text column into a price-break table. Each tier covers a band of quantities - for example 1-9, 10-49, 50-199 and 200 or more - and has its own unit price or a discount off the list price. The bands always follow on from each other, so there can be no gaps or overlaps.",
+ "features": [
+  "Tiers with from/to quantities",
+  "Unit price or discount %, tier names, split/remove",
+  "Open-ended top tier, gap/overlap-free bands",
+  "Validation and warnings",
+  "A unit-price chart and a price check calculator (volume or graduated pricing) with savings vs list",
+  "Phone card layout"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Model-driven / Dataverse field control",
+ "hosts": [
+  "Model-driven apps"
+ ],
+ "tags": [
+  "tiered",
+  "pricing",
+  "editor",
+  "cross-industry",
+  "model-driven",
+  "dataverse"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-04",
+ "schemaName": "pcfl_PCFLib.TieredPricingEditor",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "TieredPricingEditor_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

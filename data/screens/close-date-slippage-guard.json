@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/close-date-slippage-guard/01.webp",
+  "w": 1180,
+  "h": 754,
+  "caption": "A deal on plan",
+  "mobile": false,
+  "v": "83e0b113"
+ },
+ {
+  "src": "/screens/close-date-slippage-guard/02.webp",
+  "w": 1180,
+  "h": 1076,
+  "caption": "Moved from FY27 Q3 to FY27 Q4 with End of FY27",
+  "mobile": false,
+  "v": "0f439536"
+ },
+ {
+  "src": "/screens/close-date-slippage-guard/03.webp",
+  "w": 1180,
+  "h": 868,
+  "caption": "An overdue date",
+  "mobile": false,
+  "v": "2fdb2345"
+ },
+ {
+  "src": "/screens/close-date-slippage-guard/04.webp",
+  "w": 1180,
+  "h": 754,
+  "caption": "Fixed with a date in the same quarter",
+  "mobile": false,
+  "v": "a4886758"
+ },
+ {
+  "src": "/screens/close-date-slippage-guard/05.webp",
+  "w": 780,
+  "h": 1558,
+  "caption": "Width",
+  "mobile": false,
+  "v": "0a6e25eb"
+ },
+ {
+  "src": "/screens/close-date-slippage-guard/06.webp",
+  "w": 1180,
+  "h": 864,
+  "caption": "Calendar fiscal year navy accent",
+  "mobile": false,
+  "v": "1f4de487"
+ }
+]

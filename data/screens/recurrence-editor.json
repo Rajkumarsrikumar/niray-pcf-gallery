@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/recurrence-editor/01.webp",
+  "w": 1400,
+  "h": 1220,
+  "caption": "A fortnightly Monday and Wednesday visit",
+  "mobile": false,
+  "v": "530eb495"
+ },
+ {
+  "src": "/screens/recurrence-editor/02.webp",
+  "w": 1400,
+  "h": 1164,
+  "caption": "A weekday briefing with one date skipped and",
+  "mobile": false,
+  "v": "4461b668"
+ },
+ {
+  "src": "/screens/recurrence-editor/03.webp",
+  "w": 1400,
+  "h": 1237,
+  "caption": "Last Friday of every month in the calendar view",
+  "mobile": false,
+  "v": "7b63d3f0"
+ },
+ {
+  "src": "/screens/recurrence-editor/04.webp",
+  "w": 1180,
+  "h": 1232,
+  "caption": "No weekday chosen and the app requires every",
+  "mobile": false,
+  "v": "9bb1c884"
+ },
+ {
+  "src": "/screens/recurrence-editor/05.webp",
+  "w": 1180,
+  "h": 532,
+  "caption": "A saved value that cannot be read is never",
+  "mobile": false,
+  "v": "abaa172f"
+ },
+ {
+  "src": "/screens/recurrence-editor/06.webp",
+  "w": 1400,
+  "h": 1102,
+  "caption": "An annual audit on the first Monday of March",
+  "mobile": false,
+  "v": "83458136"
+ }
+]

@@ -1,0 +1,42 @@
+{
+ "name": "CurrencyInput",
+ "displayName": "Currency Input (PCFLib)",
+ "slug": "currency-input",
+ "tagline": "Currency Input is a money field.",
+ "description": "Currency Input is a money field. While you type it shows a plain number; when you leave the field it shows the formatted amount with the currency symbol and separators, for example S$1,234.50.",
+ "features": [
+  "Thousand separators, currency symbol",
+  "Shortcuts (1.5k, 2m), min/max limits",
+  "Step buttons and optional amount-in-words (cheque / payment voucher style)",
+  "Built for Power Pages basic and multistep forms",
+  "Also works on model-driven and canvas apps"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Power Pages code component",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps",
+  "Power Pages"
+ ],
+ "tags": [
+  "currency",
+  "input",
+  "cross-industry",
+  "power",
+  "pages"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.1",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-23",
+ "schemaName": "pcfl_PCFLib.CurrencyInput",
+ "react": null,
+ "controlType": "standard",
+ "userManual": "CurrencyInput_USER_GUIDE.docx",
+ "screenshotCount": 7,
+ "price": null
+}

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/weighted-scorecard/01.webp",
+  "w": 1340,
+  "h": 790,
+  "caption": "Before scoring",
+  "mobile": false,
+  "v": "4009c0c4"
+ },
+ {
+  "src": "/screens/weighted-scorecard/02.webp",
+  "w": 1340,
+  "h": 2400,
+  "caption": "A completed supplier evaluation",
+  "mobile": false,
+  "v": "8219fc7d"
+ },
+ {
+  "src": "/screens/weighted-scorecard/03.webp",
+  "w": 1340,
+  "h": 992,
+  "caption": "Validation",
+  "mobile": false,
+  "v": "d29f864d"
+ },
+ {
+  "src": "/screens/weighted-scorecard/04.webp",
+  "w": 1340,
+  "h": 1445,
+  "caption": "Knock out",
+  "mobile": false,
+  "v": "3f7e9a16"
+ },
+ {
+  "src": "/screens/weighted-scorecard/05.webp",
+  "w": 1400,
+  "h": 1946,
+  "caption": "Community grant assessment",
+  "mobile": false,
+  "v": "76497692"
+ },
+ {
+  "src": "/screens/weighted-scorecard/06.webp",
+  "w": 780,
+  "h": 2400,
+  "caption": "Width",
+  "mobile": false,
+  "v": "d0371c7b"
+ }
+]

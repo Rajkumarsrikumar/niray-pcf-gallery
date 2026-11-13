@@ -1,0 +1,44 @@
+{
+ "name": "ApprovalCycleTimeAnalyzer",
+ "displayName": "Approval Cycle Time Analyzer",
+ "slug": "approval-cycle-time-analyzer",
+ "tagline": "The Approval Cycle Time Analyzer shows how long approvals take and where they get stuck.",
+ "description": "The Approval Cycle Time Analyzer shows how long approvals take and where they get stuck. It reads a list of approval steps - one row for each time a request reaches a stage such as Line manager, Budget holder, Finance review or CFO - and draws one time bar per request. Each coloured part of the bar is the time spent at one stage; grey parts are hand-off waits between stages; a striped part is a step that is still waiting and keeps growing until someone acts.",
+ "features": [
+  "One stacked time bar per request (time at each stage plus hand-off waits, live ageing of open steps, target marker)",
+  "Stage and approver bottleneck views with median / P90 times",
+  "Calendar or business-hours clocks",
+  "Stage and end-to-end targets, search",
+  "Status / group / over-target filters, grouping, sorting, drill-down",
+  "Multi-select with Nudge / Escalate / Open actions",
+  "A phone card layout and Power Fx outputs and events"
+ ],
+ "industry": "Approvals & Workflow",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "approval",
+  "cycle",
+  "time",
+  "analyzer",
+  "approvals",
+  "workflow"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-11",
+ "schemaName": "pcfl_PCFLib.ApprovalCycleTimeAnalyzer",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "ApprovalCycleTimeAnalyzer_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

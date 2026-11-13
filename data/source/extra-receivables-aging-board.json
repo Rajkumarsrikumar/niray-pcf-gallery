@@ -1,0 +1,43 @@
+{
+ "name": "ReceivablesAgingBoard",
+ "displayName": "Receivables Aging Board",
+ "slug": "receivables-aging-board",
+ "tagline": "The Receivables Aging Board turns a list of open invoices into a collections workspace.",
+ "description": "The Receivables Aging Board turns a list of open invoices into a collections workspace. Every invoice is aged against a reference date (normally today) and placed in an aging bucket such as Current, 1-30, 31-60, 61-90 or 90+ days overdue. You see the total position at the top and each customer underneath, and you can open any invoice behind the numbers.",
+ "features": [
+  "Configurable aging buckets (e.g. Current, 1-30, 31-60, 61-90, 90+) against a reference date",
+  "KPI strip (outstanding, overdue, % overdue, weighted days overdue)",
+  "Clickable stacked bucket bar",
+  "Customer rows with mini aging bars and expandable invoice lists, search",
+  "Bucket and owner filters, sorting",
+  "At-risk and credit-limit flags",
+  "Record open and selection outputs",
+  "A phone card layout"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "receivables",
+  "aging",
+  "board",
+  "cross-industry"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-03",
+ "schemaName": "pcfl_PCFLib.ReceivablesAgingBoard",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "ReceivablesAgingBoard_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

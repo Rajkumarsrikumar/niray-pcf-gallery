@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/editable-grid/01.webp",
+  "w": 1400,
+  "h": 539,
+  "caption": "The grid with eight purchase request lines",
+  "mobile": false,
+  "v": "6568cd92"
+ },
+ {
+  "src": "/screens/editable-grid/02.webp",
+  "w": 1400,
+  "h": 553,
+  "caption": "Typing in Quantity",
+  "mobile": false,
+  "v": "d8030831"
+ },
+ {
+  "src": "/screens/editable-grid/03.webp",
+  "w": 1400,
+  "h": 569,
+  "caption": "Four rows changed",
+  "mobile": false,
+  "v": "f512ca38"
+ },
+ {
+  "src": "/screens/editable-grid/04.webp",
+  "w": 1400,
+  "h": 606,
+  "caption": "Save is blocked until the two highlighted cells",
+  "mobile": false,
+  "v": "206bc957"
+ },
+ {
+  "src": "/screens/editable-grid/05.webp",
+  "w": 1400,
+  "h": 573,
+  "caption": "After saving",
+  "mobile": false,
+  "v": "bc0c4f1f"
+ },
+ {
+  "src": "/screens/editable-grid/06.webp",
+  "w": 1400,
+  "h": 644,
+  "caption": "Orange accent Supplier column hidden",
+  "mobile": false,
+  "v": "32672c97"
+ }
+]

@@ -1,0 +1,38 @@
+{
+ "name": "RatingInput",
+ "displayName": "Rating Input (stars / hearts / scale)",
+ "slug": "rating-input",
+ "tagline": "Rating Input lets you give a score with one click: stars, hearts or dots that fill up to your choice, or a numbered scale such as 0–10 for Net Promoter Score (NPS).",
+ "description": "Rating Input lets you give a score with one click: stars, hearts or dots that fill up to your choice, or a numbered scale such as 0–10 for Net Promoter Score (NPS).",
+ "features": [
+  "Hearts",
+  "Number scale for NPS",
+  "Low scores"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Canvas app field control",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "rating",
+  "input",
+  "cross-industry",
+  "canvas"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.2",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-22",
+ "schemaName": "pcfl_PCFLib.RatingInput",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "RatingInput_USER_GUIDE.docx",
+ "screenshotCount": 5,
+ "price": null
+}

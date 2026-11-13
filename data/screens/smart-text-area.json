@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/smart-text-area/01.webp",
+  "w": 1180,
+  "h": 370,
+  "caption": "Below the minimum",
+  "mobile": false,
+  "v": "8bc44cac"
+ },
+ {
+  "src": "/screens/smart-text-area/02.webp",
+  "w": 1180,
+  "h": 496,
+  "caption": "A typical answer",
+  "mobile": false,
+  "v": "5796bf6b"
+ },
+ {
+  "src": "/screens/smart-text-area/03.webp",
+  "w": 1180,
+  "h": 664,
+  "caption": "Nearly at the limit",
+  "mobile": false,
+  "v": "fc99c603"
+ },
+ {
+  "src": "/screens/smart-text-area/04.webp",
+  "w": 1180,
+  "h": 748,
+  "caption": "Over the limit by 18 words",
+  "mobile": false,
+  "v": "5869cdb4"
+ },
+ {
+  "src": "/screens/smart-text-area/05.webp",
+  "w": 1180,
+  "h": 370,
+  "caption": "Hard limit",
+  "mobile": false,
+  "v": "aa171b7f"
+ },
+ {
+  "src": "/screens/smart-text-area/06.webp",
+  "w": 1180,
+  "h": 370,
+  "caption": "Character limit",
+  "mobile": false,
+  "v": "ea372e1b"
+ }
+]

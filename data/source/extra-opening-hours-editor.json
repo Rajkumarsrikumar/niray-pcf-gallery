@@ -1,0 +1,42 @@
+{
+ "name": "OpeningHoursEditor",
+ "displayName": "Opening Hours Editor (weekly hours)",
+ "slug": "opening-hours-editor",
+ "tagline": "The Opening Hours Editor replaces a plain text box with a simple weekly timetable.",
+ "description": "The Opening Hours Editor replaces a plain text box with a simple weekly timetable. For each day you choose Open, Closed or 24 hours, and pick the opening and closing times. A day can have more than one time slot, for example a lunch break or a split shift.",
+ "features": [
+  "Open",
+  "Closed or 24 hours per day, split shifts",
+  "Copy to weekdays",
+  "Live 'open now' status and a readable summary such as 'Mon-Fri 09:00-18:00, Sat 09:00-13:00",
+  "Sun Closed' (or JSON)"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Model-driven / Dataverse field control",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "opening",
+  "hours",
+  "editor",
+  "cross-industry",
+  "model-driven",
+  "dataverse"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-27",
+ "schemaName": "pcfl_PCFLib.OpeningHoursEditor",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "OpeningHoursEditor_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

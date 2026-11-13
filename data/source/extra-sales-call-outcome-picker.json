@@ -1,0 +1,38 @@
+{
+ "name": "SalesCallOutcomePicker",
+ "displayName": "Sales Call Outcome Picker",
+ "slug": "sales-call-outcome-picker",
+ "tagline": "The Sales Call Outcome Picker is the field a rep fills in straight after a sales call.",
+ "description": "The Sales Call Outcome Picker is the field a rep fills in straight after a sales call. Instead of a plain dropdown, it shows the possible outcomes as large options in two groups - Connected and Not reached - and immediately tells the rep what happens next: when to follow up, how many attempts have been made, and whether a call note is needed.",
+ "features": [
+  "On a phone"
+ ],
+ "industry": "CRM & Sales",
+ "pack": null,
+ "category": "Canvas app field control",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "sales",
+  "call",
+  "outcome",
+  "picker",
+  "crm",
+  "canvas"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-12",
+ "schemaName": "pcfl_PCFLib.SalesCallOutcomePicker",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "SalesCallOutcomePicker_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

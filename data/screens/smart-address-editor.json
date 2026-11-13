@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/smart-address-editor/01.webp",
+  "w": 1180,
+  "h": 1148,
+  "caption": "Searching the saved addresses",
+  "mobile": false,
+  "v": "18c8829e"
+ },
+ {
+  "src": "/screens/smart-address-editor/02.webp",
+  "w": 1180,
+  "h": 1520,
+  "caption": "Filled from a saved address with district and",
+  "mobile": false,
+  "v": "2a62467a"
+ },
+ {
+  "src": "/screens/smart-address-editor/03.webp",
+  "w": 1180,
+  "h": 1520,
+  "caption": "A pasted address split into street unit and",
+  "mobile": false,
+  "v": "3fb7cf58"
+ },
+ {
+  "src": "/screens/smart-address-editor/04.webp",
+  "w": 1180,
+  "h": 1312,
+  "caption": "Validation",
+  "mobile": false,
+  "v": "24b02428"
+ },
+ {
+  "src": "/screens/smart-address-editor/05.webp",
+  "w": 1260,
+  "h": 1328,
+  "caption": "Australian address with an orange accent",
+  "mobile": false,
+  "v": "a3cb28f6"
+ },
+ {
+  "src": "/screens/smart-address-editor/06.webp",
+  "w": 1020,
+  "h": 492,
+  "caption": "Compact layout label first Edit address to",
+  "mobile": false,
+  "v": "5b9c368d"
+ }
+]

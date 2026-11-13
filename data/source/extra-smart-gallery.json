@@ -1,0 +1,41 @@
+{
+ "name": "SmartGallery",
+ "displayName": "Smart Gallery",
+ "slug": "smart-gallery",
+ "tagline": "Smart Gallery shows the records of a SharePoint list or Dataverse table as a modern gallery.",
+ "description": "Smart Gallery shows the records of a SharePoint list or Dataverse table as a modern gallery. One control gives you 10 different layouts — cards, list, photo tiles, carousel, timeline, people cards and more — so every screen can show the same data in the way that suits it. Each item can carry View, Edit and Delete buttons and your own buttons such as Approve and Reject.",
+ "features": [
+  "List, Cards, Image tiles, Carousel, Grouped, Compact table, Timeline, People",
+  "Hero banner and Accordion, Search",
+  "Filter and sort run on SharePoint / Dataverse (delegable)",
+  "Bind a table or collection",
+  "Pick a layout",
+  "Map title / subtitle / image / badge / group columns, Built-in search, badge colours",
+  "Keyboard navigation and Selected outputs for canvas apps"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "smart",
+  "gallery",
+  "cross-industry"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.3.2",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-23",
+ "schemaName": "pcfl_PCFLib.SmartGallery",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "SmartGallery_USER_GUIDE.docx",
+ "screenshotCount": 12,
+ "price": null
+}

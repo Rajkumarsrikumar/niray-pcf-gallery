@@ -1,0 +1,41 @@
+{
+ "name": "SkillsMatrixEditor",
+ "displayName": "Skills Matrix Editor",
+ "slug": "skills-matrix-editor",
+ "tagline": "The Skills Matrix Editor turns one text column into a full skills and certifications register for a person, technician, volunteer or crew.",
+ "description": "The Skills Matrix Editor turns one text column into a full skills and certifications register for a person, technician, volunteer or crew. People rate each skill on a level scale, record certificate expiry dates and evidence notes, and see straight away how well they match a role profile.",
+ "features": [
+  "Proficiency levels",
+  "Certification expiry tracking",
+  "Role-profile gap analysis",
+  "Search and filters",
+  "Stored as JSON in one text column"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Model-driven / Dataverse field control",
+ "hosts": [
+  "Model-driven apps"
+ ],
+ "tags": [
+  "skills",
+  "matrix",
+  "editor",
+  "cross-industry",
+  "model-driven",
+  "dataverse"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-29",
+ "schemaName": "pcfl_PCFLib.SkillsMatrixEditor",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "SkillsMatrixEditor_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

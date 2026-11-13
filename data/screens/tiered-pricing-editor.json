@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/tiered-pricing-editor/01.webp",
+  "w": 1380,
+  "h": 1450,
+  "caption": "Example tiers created from the SGD 12",
+  "mobile": false,
+  "v": "f36bb5c7"
+ },
+ {
+  "src": "/screens/tiered-pricing-editor/02.webp",
+  "w": 1380,
+  "h": 1494,
+  "caption": "Cartons land in tier 3",
+  "mobile": false,
+  "v": "bd375a04"
+ },
+ {
+  "src": "/screens/tiered-pricing-editor/03.webp",
+  "w": 1380,
+  "h": 1686,
+  "caption": "Graduated pricing for cartons with the",
+  "mobile": false,
+  "v": "7b4decf4"
+ },
+ {
+  "src": "/screens/tiered-pricing-editor/04.webp",
+  "w": 1380,
+  "h": 1242,
+  "caption": "Tier 2 ends before it starts and tier 4 costs",
+  "mobile": false,
+  "v": "4d68554c"
+ },
+ {
+  "src": "/screens/tiered-pricing-editor/05.webp",
+  "w": 1380,
+  "h": 1494,
+  "caption": "Licence volume discounts off a SGD list",
+  "mobile": false,
+  "v": "da5f8dd5"
+ },
+ {
+  "src": "/screens/tiered-pricing-editor/06.webp",
+  "w": 1400,
+  "h": 1358,
+  "caption": "The same price list on a",
+  "mobile": false,
+  "v": "419eeeb5"
+ }
+]

@@ -1,0 +1,46 @@
+{
+ "name": "VolunteerAvailabilityPlanner",
+ "displayName": "Volunteer Availability Planner",
+ "slug": "volunteer-availability-planner",
+ "tagline": "The Volunteer Availability Planner lets each volunteer show which days and times they can usually serve.",
+ "description": "The Volunteer Availability Planner lets each volunteer show which days and times they can usually serve. They tap slots on a simple week grid, see the ★ service times the church or charity most needs, say how often they can serve and switch on a break when they need rest. The roster coordinator gets clean, consistent availability on every volunteer record.",
+ "features": [
+  "A day x time-slot grid (a day-by-day list on phones) with service times marked",
+  "Quick picks (Weekends, Weekday evenings, Service times, Clear)",
+  "How-often chips (Weekly, Fortnightly, Monthly, Occasional)",
+  "A break / sabbatical switch with an end date",
+  "Minimum / maximum slot rules",
+  "A readable summary and Power Fx outputs and events",
+  "Writes the chosen slots as text such as Sun:Morning",
+  "Wed:Evening to the bound column"
+ ],
+ "industry": "Nonprofit & Church Administration",
+ "pack": null,
+ "category": "Model-driven / Dataverse field control",
+ "hosts": [
+  "Model-driven apps"
+ ],
+ "tags": [
+  "volunteer",
+  "availability",
+  "planner",
+  "nonprofit",
+  "church",
+  "administration",
+  "model-driven",
+  "dataverse"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-13",
+ "schemaName": "pcfl_PCFLib.VolunteerAvailabilityPlanner",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "VolunteerAvailabilityPlanner_USER_GUIDE.docx",
+ "screenshotCount": 7,
+ "price": null
+}

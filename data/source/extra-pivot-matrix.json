@@ -1,0 +1,44 @@
+{
+ "name": "PivotMatrix",
+ "displayName": "Pivot Matrix",
+ "slug": "pivot-matrix",
+ "tagline": "Pivot Matrix turns a list of records into an Excel-style summary table right inside your app.",
+ "description": "Pivot Matrix turns a list of records into an Excel-style summary table right inside your app. You choose one column for the rows (for example Category), one for the columns (for example Order date or Status) and, optionally, a value to add up (for example Amount). Every cell shows the total, count or average for that combination, shaded like a heat map so the big numbers stand out.",
+ "features": [
+  "Rows by one column (with optional expandable sub-rows)",
+  "Columns by another (dates grouped by day / week / month / quarter / year)",
+  "Count / sum / average / min / max of a value column, heat-map colouring, threshold highlight",
+  "% of row / column / total",
+  "Row and column totals",
+  "Top N + Other, search, swap axes",
+  "Click-a-cell drill-down to the records behind it (open record), CSV export",
+  "Keyboard grid navigation and a phone card layout",
+  "Outputs the selected cell",
+  "Its records and totals for canvas filters"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "pivot",
+  "matrix",
+  "cross-industry"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-29",
+ "schemaName": "pcfl_PCFLib.PivotMatrix",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "PivotMatrix_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

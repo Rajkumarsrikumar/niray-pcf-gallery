@@ -1,0 +1,45 @@
+{
+ "name": "SalesForecastCommitBoard",
+ "displayName": "Sales Forecast Commit Board",
+ "slug": "sales-forecast-commit-board",
+ "tagline": "The Sales Forecast Commit Board turns a list of opportunities into the view a sales manager needs for the weekly forecast call.",
+ "description": "The Sales Forecast Commit Board turns a list of opportunities into the view a sales manager needs for the weekly forecast call. For the month, quarter or fiscal year you pick, every rep (or team) gets one row with their quota, what is already Closed won, what they Commit to, their Best case and the rest of the Pipeline. A bar shows how far Closed + Commit + Best case reach against the quota marker, and the board works out the forecast, the gap to quota, the pipeline coverage and a status of On track, At risk or Behind.",
+ "features": [
+  "Quota vs Closed won / Commit / Best case / Pipeline per rep or team for a month",
+  "Quarter or fiscal year",
+  "Attainment bars with a quota marker",
+  "Gap to quota, pipeline coverage",
+  "Pushed and overdue deal flags",
+  "Drill-down deal lists with one-click forecast category changes (single or bulk)",
+  "Search and filters",
+  "A phone card layout",
+  "Power Fx outputs and events"
+ ],
+ "industry": "CRM & Sales",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "sales",
+  "forecast",
+  "commit",
+  "board",
+  "crm"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-12",
+ "schemaName": "pcfl_PCFLib.SalesForecastCommitBoard",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "SalesForecastCommitBoard_USER_GUIDE.docx",
+ "screenshotCount": 10,
+ "price": null
+}

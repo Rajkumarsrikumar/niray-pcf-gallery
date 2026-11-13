@@ -1,0 +1,45 @@
+{
+ "name": "EmploymentHistoryEditor",
+ "displayName": "Employment History Editor",
+ "slug": "employment-history-editor",
+ "tagline": "The Employment History Editor lets people enter their work history on a form: every role and every career break, with the month and year it started and ended.",
+ "description": "The Employment History Editor lets people enter their work history on a form: every role and every career break, with the month and year it started and ended. While they type, the control adds up their total experience, draws a timeline, and points out gaps and overlaps so the application arrives complete the first time.",
+ "features": [
+  "Edit and remove roles and career breaks with month-year dates",
+  "See total experience (overlaps merged, breaks excluded)",
+  "A timeline with gaps highlighted",
+  "Required-coverage and minimum-experience checks, overlap rules",
+  "One-click 'add career break' for a gap, type filter, sorting, undo",
+  "Read-only and masked states and a stacked phone layout",
+  "Stores the history as JSON in a text column"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Power Pages code component",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps",
+  "Power Pages"
+ ],
+ "tags": [
+  "employment",
+  "history",
+  "editor",
+  "cross-industry",
+  "power",
+  "pages"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-04",
+ "schemaName": "pcfl_PCFLib.EmploymentHistoryEditor",
+ "react": null,
+ "controlType": "standard",
+ "userManual": "EmploymentHistoryEditor_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

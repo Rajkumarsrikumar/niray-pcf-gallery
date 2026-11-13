@@ -1,0 +1,33 @@
+{
+ "name": "FileCrypt",
+ "displayName": "File Encrypt / Decrypt",
+ "slug": "file-crypt",
+ "tagline": "File Encrypt / Decrypt is a Secure file box you add to a Power Apps screen or form.",
+ "description": "File Encrypt / Decrypt is a Secure file box you add to a Power Apps screen or form. It locks a file with a passphrase so only people who know the passphrase can open it, and unlocks it again with the same passphrase. Everything happens inside the user's browser: the file and the passphrase are never sent anywhere.",
+ "features": [],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Canvas app field control",
+ "hosts": [
+  "Canvas apps"
+ ],
+ "tags": [
+  "file",
+  "crypt",
+  "cross-industry",
+  "canvas"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.1",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-27",
+ "schemaName": "pcfl_PCFLib.FileCrypt",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "FileCrypt_USER_GUIDE.docx",
+ "screenshotCount": 10,
+ "price": null
+}

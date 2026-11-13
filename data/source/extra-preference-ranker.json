@@ -1,0 +1,42 @@
+{
+ "name": "PreferenceRanker",
+ "displayName": "Preference Ranker",
+ "slug": "preference-ranker",
+ "tagline": "The Preference Ranker lets a person choose their favourite options from a list and put them in order, most preferred first.",
+ "description": "The Preference Ranker lets a person choose their favourite options from a list and put them in order, most preferred first. It replaces separate \"first choice / second choice / third choice\" drop-downs with one clear, touch-friendly field that cannot hold the same option twice.",
+ "features": [
+  "Searchable option list with optional categories and short descriptions",
+  "Ranking list with numbers, drag handles, move up / down / remove buttons and Alt+arrow keys",
+  "Minimum and maximum number of choices, with required slots and clear messages",
+  "Undo after removing a choice or clearing the list",
+  "Saves the ranking in one text column and tells the app the number of choices, the top choice and whether the field is valid"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Power Pages code component",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps",
+  "Power Pages"
+ ],
+ "tags": [
+  "preference",
+  "ranker",
+  "cross-industry",
+  "power",
+  "pages"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-03",
+ "schemaName": "pcfl_PCFLib.PreferenceRanker",
+ "react": null,
+ "controlType": "standard",
+ "userManual": "PreferenceRanker_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/three-way-match-reconciler/01.webp",
+  "w": 1400,
+  "h": 347,
+  "caption": "Before data is connected the control explains",
+  "mobile": false,
+  "v": "4cfc3ff1"
+ },
+ {
+  "src": "/screens/three-way-match-reconciler/02.webp",
+  "w": 1400,
+  "h": 1669,
+  "caption": "The workbench with 32 sample PO lines grouped",
+  "mobile": false,
+  "v": "91524390"
+ },
+ {
+  "src": "/screens/three-way-match-reconciler/03.webp",
+  "w": 1400,
+  "h": 942,
+  "caption": "Search for a PO and expand a line",
+  "mobile": false,
+  "v": "031ece29"
+ },
+ {
+  "src": "/screens/three-way-match-reconciler/04.webp",
+  "w": 1400,
+  "h": 1935,
+  "caption": "Exceptions tile pressed grouped by supplier",
+  "mobile": false,
+  "v": "e5b325f4"
+ },
+ {
+  "src": "/screens/three-way-match-reconciler/05.webp",
+  "w": 1400,
+  "h": 1359,
+  "caption": "2 way match grouped by result orange accent",
+  "mobile": false,
+  "v": "7d779417"
+ },
+ {
+  "src": "/screens/three-way-match-reconciler/06.webp",
+  "w": 1400,
+  "h": 1023,
+  "caption": "View only mode with resolved lines shown",
+  "mobile": false,
+  "v": "6c128381"
+ }
+]

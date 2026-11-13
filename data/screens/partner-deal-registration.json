@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/partner-deal-registration/01.webp",
+  "w": 1400,
+  "h": 1572,
+  "caption": "An eligible registration protected until 10",
+  "mobile": false,
+  "v": "4fcfd578"
+ },
+ {
+  "src": "/screens/partner-deal-registration/02.webp",
+  "w": 1400,
+  "h": 1648,
+  "caption": "Needs review",
+  "mobile": false,
+  "v": "5d04c90b"
+ },
+ {
+  "src": "/screens/partner-deal-registration/03.webp",
+  "w": 1400,
+  "h": 1630,
+  "caption": "Not eligible",
+  "mobile": false,
+  "v": "ab93cc43"
+ },
+ {
+  "src": "/screens/partner-deal-registration/04.webp",
+  "w": 1400,
+  "h": 1592,
+  "caption": "Validation",
+  "mobile": false,
+  "v": "e7a915ca"
+ },
+ {
+  "src": "/screens/partner-deal-registration/05.webp",
+  "w": 1400,
+  "h": 1480,
+  "caption": "Orange accent five products chosen",
+  "mobile": false,
+  "v": "65159a19"
+ },
+ {
+  "src": "/screens/partner-deal-registration/06.webp",
+  "w": 780,
+  "h": 2400,
+  "caption": "Width",
+  "mobile": false,
+  "v": "577fa1e5"
+ }
+]

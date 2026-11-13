@@ -1,0 +1,47 @@
+{
+ "name": "RenewalUpliftPlanner",
+ "displayName": "Renewal Uplift Planner",
+ "slug": "renewal-uplift-planner",
+ "tagline": "Renewal Uplift Planner helps account managers and renewal desks price a subscription, support or licence renewal.",
+ "description": "Renewal Uplift Planner helps account managers and renewal desks price a subscription, support or licence renewal. It compares a flat renewal, the standard uplift and a multi-year price lock side by side, checks the price increase against the contractual cap, shows how the quantity change, uplift and multi-year discount move the value, and lays out every year of the new term with its dates and total contract value. The year-1 renewal value is saved to the record.",
+ "features": [
+  "Flat, Standard uplift",
+  "Multi-year lock and Custom scenario cards, term (years)",
+  "Price uplift % with the contractual cap",
+  "Quantity / seat change %",
+  "Price lock for multi-year terms with a per-year discount",
+  "A value bridge (current, quantity, uplift, discount, year 1)",
+  "A year-by-year schedule with renewal dates",
+  "Total contract value",
+  "Notice-window and approval checks (Ready / Needs approval / Blocked)",
+  "A phone layout"
+ ],
+ "industry": "CRM & Sales",
+ "pack": null,
+ "category": "Model-driven / Dataverse field control",
+ "hosts": [
+  "Model-driven apps"
+ ],
+ "tags": [
+  "renewal",
+  "uplift",
+  "planner",
+  "crm",
+  "sales",
+  "model-driven",
+  "dataverse"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-12",
+ "schemaName": "pcfl_PCFLib.RenewalUpliftPlanner",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "RenewalUpliftPlanner_USER_GUIDE.docx",
+ "screenshotCount": 7,
+ "price": null
+}

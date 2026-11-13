@@ -1,0 +1,43 @@
+{
+ "name": "ActivityTimeline",
+ "displayName": "Activity Timeline",
+ "slug": "activity-timeline",
+ "tagline": "Activity Timeline shows emails, phone calls, meetings, tasks, notes and site visits as a timeline instead of a long list.",
+ "description": "Activity Timeline shows emails, phone calls, meetings, tasks, notes and site visits as a timeline instead of a long list. Each activity is a card with a coloured icon for its type, a friendly date (\"Today 15:30\", \"Yesterday\", \"In 3 days\"), its status, owner, the customer or case it relates to and a short preview of the notes.",
+ "features": [
+  "Grouped by day, week",
+  "Month or type, search",
+  "Type chips with counts",
+  "KPI tiles (open, overdue, due soon, completed) that filter",
+  "Date-range and status filters",
+  "Overdue / due-soon business rules, expandable details",
+  "Open record and Mark complete quick actions",
+  "Keyboard and touch navigation",
+  "A designed phone layout and selection / action outputs"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "activity",
+  "timeline",
+  "cross-industry"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-30",
+ "schemaName": "pcfl_PCFLib.ActivityTimeline",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "ActivityTimeline_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

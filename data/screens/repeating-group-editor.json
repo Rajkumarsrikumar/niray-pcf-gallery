@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/repeating-group-editor/01.webp",
+  "w": 1340,
+  "h": 1364,
+  "caption": "A new entry was added",
+  "mobile": false,
+  "v": "8fb295fa"
+ },
+ {
+  "src": "/screens/repeating-group-editor/02.webp",
+  "w": 1340,
+  "h": 1080,
+  "caption": "Three household members all complete",
+  "mobile": false,
+  "v": "43afe63c"
+ },
+ {
+  "src": "/screens/repeating-group-editor/03.webp",
+  "w": 1340,
+  "h": 1928,
+  "caption": "Emergency contacts with two problems",
+  "mobile": false,
+  "v": "40b7c01e"
+ },
+ {
+  "src": "/screens/repeating-group-editor/04.webp",
+  "w": 1340,
+  "h": 588,
+  "caption": "An entry was removed",
+  "mobile": false,
+  "v": "25f27747"
+ },
+ {
+  "src": "/screens/repeating-group-editor/05.webp",
+  "w": 1340,
+  "h": 2009,
+  "caption": "Employment history with the orange accent",
+  "mobile": false,
+  "v": "fd8b6e0f"
+ },
+ {
+  "src": "/screens/repeating-group-editor/06.webp",
+  "w": 780,
+  "h": 1496,
+  "caption": "Household members at width",
+  "mobile": false,
+  "v": "2c373019"
+ }
+]

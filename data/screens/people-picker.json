@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/people-picker/01.webp",
+  "w": 1180,
+  "h": 1168,
+  "caption": "The open list with suggested people department",
+  "mobile": false,
+  "v": "b497e376"
+ },
+ {
+  "src": "/screens/people-picker/02.webp",
+  "w": 1180,
+  "h": 1078,
+  "caption": "Typing an finds matching people grouped by",
+  "mobile": false,
+  "v": "4f70eebc"
+ },
+ {
+  "src": "/screens/people-picker/03.webp",
+  "w": 1180,
+  "h": 312,
+  "caption": "Three people chosen with roles",
+  "mobile": false,
+  "v": "6abd61ea"
+ },
+ {
+  "src": "/screens/people-picker/04.webp",
+  "w": 1180,
+  "h": 576,
+  "caption": "Not enough people yet and the requester is",
+  "mobile": false,
+  "v": "48f89ac9"
+ },
+ {
+  "src": "/screens/people-picker/05.webp",
+  "w": 1180,
+  "h": 392,
+  "caption": "Pasting an Outlook list",
+  "mobile": false,
+  "v": "cbc01aa5"
+ },
+ {
+  "src": "/screens/people-picker/06.webp",
+  "w": 1260,
+  "h": 968,
+  "caption": "Ordered cards for a sequential approval chain",
+  "mobile": false,
+  "v": "848178ea"
+ }
+]

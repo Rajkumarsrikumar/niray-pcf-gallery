@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/stock-level-monitor/01.webp",
+  "w": 1340,
+  "h": 2116,
+  "caption": "Items that need reordering most urgent first",
+  "mobile": false,
+  "v": "147abea1"
+ },
+ {
+  "src": "/screens/stock-level-monitor/02.webp",
+  "w": 1400,
+  "h": 1692,
+  "caption": "Table layout grouped by location",
+  "mobile": false,
+  "v": "58524b3e"
+ },
+ {
+  "src": "/screens/stock-level-monitor/03.webp",
+  "w": 1340,
+  "h": 1880,
+  "caption": "Reorder list with a quantity that does not",
+  "mobile": false,
+  "v": "acb2a086"
+ },
+ {
+  "src": "/screens/stock-level-monitor/04.webp",
+  "w": 1340,
+  "h": 1860,
+  "caption": "Details of an item with low cover opened after",
+  "mobile": false,
+  "v": "c13e960e"
+ },
+ {
+  "src": "/screens/stock-level-monitor/05.webp",
+  "w": 1340,
+  "h": 1846,
+  "caption": "Orange accent custom status labels and grouping",
+  "mobile": false,
+  "v": "a0fcff1e"
+ },
+ {
+  "src": "/screens/stock-level-monitor/06.webp",
+  "w": 780,
+  "h": 1762,
+  "caption": "Width",
+  "mobile": false,
+  "v": "8758ff7c"
+ }
+]

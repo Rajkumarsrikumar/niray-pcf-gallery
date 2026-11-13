@@ -1,0 +1,44 @@
+{
+ "name": "DiscountApprovalGuard",
+ "displayName": "Discount Approval Guard",
+ "slug": "discount-approval-guard",
+ "tagline": "Discount Approval Guard is the box where a sales rep enters the discount on a quote or opportunity line.",
+ "description": "Discount Approval Guard is the box where a sales rep enters the discount on a quote or opportunity line. As soon as a value is entered it shows who has to approve it, the net price and the margin, and it stops discounts that break your policy - above the maximum or below the margin floor.",
+ "features": [
+  "Stepper",
+  "Quick presets and a policy track with self-approve",
+  "Manager and director bands",
+  "A maximum discount and an optional margin floor",
+  "Shows net unit price, net total",
+  "Discount amount and margin live",
+  "Tells the rep who has to approve",
+  "Writes the discount % to a bound number column and raises OnChange / OnApprovalLevelChange"
+ ],
+ "industry": "CRM & Sales",
+ "pack": null,
+ "category": "Canvas app field control",
+ "hosts": [
+  "Canvas apps"
+ ],
+ "tags": [
+  "discount",
+  "approval",
+  "guard",
+  "crm",
+  "sales",
+  "canvas"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-12",
+ "schemaName": "pcfl_PCFLib.DiscountApprovalGuard",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "DiscountApprovalGuard_USER_GUIDE.docx",
+ "screenshotCount": 7,
+ "price": null
+}

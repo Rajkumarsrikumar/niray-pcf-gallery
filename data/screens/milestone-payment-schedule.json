@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/milestone-payment-schedule/01.webp",
+  "w": 1400,
+  "h": 392,
+  "caption": "A contract of S 00 with no milestones yet",
+  "mobile": false,
+  "v": "8e89a206"
+ },
+ {
+  "src": "/screens/milestone-payment-schedule/02.webp",
+  "w": 1400,
+  "h": 1039,
+  "caption": "Six monthly instalments created from the",
+  "mobile": false,
+  "v": "ff49642a"
+ },
+ {
+  "src": "/screens/milestone-payment-schedule/03.webp",
+  "w": 1400,
+  "h": 853,
+  "caption": "A live schedule",
+  "mobile": false,
+  "v": "f1e0d2ef"
+ },
+ {
+  "src": "/screens/milestone-payment-schedule/04.webp",
+  "w": 1400,
+  "h": 997,
+  "caption": "A schedule that adds up to 95 with a missing",
+  "mobile": false,
+  "v": "36cd048e"
+ },
+ {
+  "src": "/screens/milestone-payment-schedule/05.webp",
+  "w": 1400,
+  "h": 853,
+  "caption": "The same schedule with an orange accent",
+  "mobile": false,
+  "v": "b831c709"
+ },
+ {
+  "src": "/screens/milestone-payment-schedule/06.webp",
+  "w": 780,
+  "h": 1780,
+  "caption": "Width",
+  "mobile": false,
+  "v": "4cf70339"
+ }
+]

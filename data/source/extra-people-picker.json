@@ -1,0 +1,42 @@
+{
+ "name": "PeoplePicker",
+ "displayName": "People Picker",
+ "slug": "people-picker",
+ "tagline": "The People Picker lets you choose one or more people - approvers, reviewers, attendees, assignees or team members - by typing part of a name, email, job title…",
+ "description": "The People Picker lets you choose one or more people - approvers, reviewers, attendees, assignees or team members - by typing part of a name, email, job title, department or office. It shows who each person is (job title, department, office, availability), stops mistakes such as picking the wrong person, too many people or someone who isn't allowed, and can give each person a role and a position in an approval chain.",
+ "features": [
+  "Type-ahead search across name, email, job title",
+  "Department and office, department filter, grouped results",
+  "Presence and initials avatars",
+  "Roles per person with required-role rules, approval order",
+  "External guest emails with domain rules",
+  "Paste from Outlook, min/max limits, undo",
+  "Email / name / JSON outputs for canvas Patch",
+  "Outlook and Teams"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Canvas app field control",
+ "hosts": [
+  "Canvas apps"
+ ],
+ "tags": [
+  "people",
+  "picker",
+  "cross-industry",
+  "canvas"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-27",
+ "schemaName": "pcfl_PCFLib.PeoplePicker",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "PeoplePicker_USER_GUIDE.docx",
+ "screenshotCount": 10,
+ "price": null
+}
