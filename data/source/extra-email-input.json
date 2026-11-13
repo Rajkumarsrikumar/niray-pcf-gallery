@@ -1,0 +1,36 @@
+{
+ "name": "EmailInput",
+ "displayName": "Email Input (PCFLib)",
+ "slug": "email-input",
+ "tagline": "Email Input replaces a plain email box with a smarter one.",
+ "description": "Email Input replaces a plain email box with a smarter one. It checks the address when you leave the field, offers a one-click fix for common typing mistakes such as gmial.com or company.con, and can refuse addresses your organisation does not want, for example personal Gmail or Hotmail addresses on a supplier registration form.",
+ "features": [],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Power Pages code component",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps",
+  "Power Pages"
+ ],
+ "tags": [
+  "email",
+  "input",
+  "cross-industry",
+  "power",
+  "pages"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.1",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-27",
+ "schemaName": "pcfl_PCFLib.EmailInput",
+ "react": null,
+ "controlType": "standard",
+ "userManual": "EmailInput_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

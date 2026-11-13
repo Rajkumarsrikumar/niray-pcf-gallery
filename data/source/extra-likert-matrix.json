@@ -1,0 +1,41 @@
+{
+ "name": "LikertMatrix",
+ "displayName": "Likert Matrix (PCFLib)",
+ "slug": "likert-matrix",
+ "tagline": "The Likert Matrix lets people rate several statements on one shared scale in a single, tidy grid — for example “Strongly disagree” to “Strongly agree”, or “Poor” to…",
+ "description": "The Likert Matrix lets people rate several statements on one shared scale in a single, tidy grid — for example “Strongly disagree” to “Strongly agree”, or “Poor” to “Excellent”. All the answers are saved together in one text column, and the control works out how many statements are answered and the average score for you.",
+ "features": [
+  "Several statements rated on one shared scale (Strongly disagree to Strongly agree, Poor to Excellent, 1-5...), required-answer check",
+  "Auto stacked layout on narrow screens and average / answered / complete outputs",
+  "Built for Power Pages forms (no Web API)",
+  "Also works in model-driven and canvas apps"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Power Pages code component",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps",
+  "Power Pages"
+ ],
+ "tags": [
+  "likert",
+  "matrix",
+  "cross-industry",
+  "power",
+  "pages"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.1",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-27",
+ "schemaName": "pcfl_PCFLib.LikertMatrix",
+ "react": null,
+ "controlType": "standard",
+ "userManual": "LikertMatrix_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

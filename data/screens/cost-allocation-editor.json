@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/cost-allocation-editor/01.webp",
+  "w": 1340,
+  "h": 1024,
+  "caption": "Searching the cost centre list",
+  "mobile": false,
+  "v": "6f9955c3"
+ },
+ {
+  "src": "/screens/cost-allocation-editor/02.webp",
+  "w": 1340,
+  "h": 1412,
+  "caption": "A complete split",
+  "mobile": false,
+  "v": "56c0a02f"
+ },
+ {
+  "src": "/screens/cost-allocation-editor/03.webp",
+  "w": 1340,
+  "h": 1656,
+  "caption": "Validation",
+  "mobile": false,
+  "v": "e714c03a"
+ },
+ {
+  "src": "/screens/cost-allocation-editor/04.webp",
+  "w": 1340,
+  "h": 1852,
+  "caption": "The Templates list",
+  "mobile": false,
+  "v": "74470489"
+ },
+ {
+  "src": "/screens/cost-allocation-editor/05.webp",
+  "w": 1340,
+  "h": 1226,
+  "caption": "Fixed amounts mode with Project wording RM",
+  "mobile": false,
+  "v": "ca0fd700"
+ },
+ {
+  "src": "/screens/cost-allocation-editor/06.webp",
+  "w": 780,
+  "h": 1560,
+  "caption": "Width",
+  "mobile": false,
+  "v": "a5fe6f9a"
+ }
+]

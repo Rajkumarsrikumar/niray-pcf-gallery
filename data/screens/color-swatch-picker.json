@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/color-swatch-picker/01.webp",
+  "w": 980,
+  "h": 508,
+  "caption": "Blue chosen",
+  "mobile": false,
+  "v": "687ed6f2"
+ },
+ {
+  "src": "/screens/color-swatch-picker/02.webp",
+  "w": 980,
+  "h": 508,
+  "caption": "A custom colour typed as a hex code",
+  "mobile": false,
+  "v": "40bb99ba"
+ },
+ {
+  "src": "/screens/color-swatch-picker/03.webp",
+  "w": 1100,
+  "h": 368,
+  "caption": "Status palette with names large rounded",
+  "mobile": false,
+  "v": "d184cc96"
+ },
+ {
+  "src": "/screens/color-swatch-picker/04.webp",
+  "w": 980,
+  "h": 424,
+  "caption": "Small square swatches rgb",
+  "mobile": false,
+  "v": "bca5e7d3"
+ },
+ {
+  "src": "/screens/color-swatch-picker/05.webp",
+  "w": 980,
+  "h": 508,
+  "caption": "Preview text Key account on orange",
+  "mobile": false,
+  "v": "3cc04f88"
+ },
+ {
+  "src": "/screens/color-swatch-picker/06.webp",
+  "w": 780,
+  "h": 508,
+  "caption": "The same field at width",
+  "mobile": false,
+  "v": "6843f2c5"
+ }
+]

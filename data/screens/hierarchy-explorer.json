@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/hierarchy-explorer/01.webp",
+  "w": 1400,
+  "h": 886,
+  "caption": "Tree view with Lakshmi Devi selected and her",
+  "mobile": false,
+  "v": "19e34431"
+ },
+ {
+  "src": "/screens/hierarchy-explorer/02.webp",
+  "w": 1400,
+  "h": 804,
+  "caption": "Searching for technician",
+  "mobile": false,
+  "v": "d5d32b80"
+ },
+ {
+  "src": "/screens/hierarchy-explorer/03.webp",
+  "w": 1400,
+  "h": 764,
+  "caption": "Chart view with the Chief Operating Officer",
+  "mobile": false,
+  "v": "50b8a1fb"
+ },
+ {
+  "src": "/screens/hierarchy-explorer/04.webp",
+  "w": 1400,
+  "h": 891,
+  "caption": "Focused on Siti Nurhalizas team with the",
+  "mobile": false,
+  "v": "1b57b9cb"
+ },
+ {
+  "src": "/screens/hierarchy-explorer/05.webp",
+  "w": 1400,
+  "h": 804,
+  "caption": "Chart filtered to one department",
+  "mobile": false,
+  "v": "b66fd635"
+ },
+ {
+  "src": "/screens/hierarchy-explorer/06.webp",
+  "w": 1400,
+  "h": 830,
+  "caption": "Messages for missing managers a reporting loop",
+  "mobile": false,
+  "v": "da108e90"
+ }
+]

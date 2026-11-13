@@ -1,0 +1,41 @@
+{
+ "name": "VariantMatrixOrder",
+ "displayName": "Variant Matrix Order",
+ "slug": "variant-matrix-order",
+ "tagline": "Variant Matrix Order is an order-entry grid for products that come in variants - typically colours down the side and sizes across the top.",
+ "description": "Variant Matrix Order is an order-entry grid for products that come in variants - typically colours down the side and sizes across the top. Instead of adding one order line per size and colour, you enter every quantity in one matrix, see the stock for each variant, and watch the units, price, quantity discount and total update as you type.",
+ "features": [
+  "Stock per variant",
+  "Steppers honouring pack sizes, size-curve fill, search/in-stock filter/sort",
+  "Stock and pack validation with one-click fixes, minimum order",
+  "Quantity price tiers with next-tier hint",
+  "Live totals and a phone card layout",
+  "Stores the order as JSON"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Canvas app field control",
+ "hosts": [
+  "Canvas apps"
+ ],
+ "tags": [
+  "variant",
+  "matrix",
+  "order",
+  "cross-industry",
+  "canvas"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-03",
+ "schemaName": "pcfl_PCFLib.VariantMatrixOrder",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "VariantMatrixOrder_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

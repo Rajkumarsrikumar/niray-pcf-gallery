@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/technician-route-sequencer/01.webp",
+  "w": 1400,
+  "h": 643,
+  "caption": "Team overview four technicians and two",
+  "mobile": false,
+  "v": "0a225c99"
+ },
+ {
+  "src": "/screens/technician-route-sequencer/02.webp",
+  "w": 1400,
+  "h": 1003,
+  "caption": "Route and map side by side",
+  "mobile": false,
+  "v": "8c808390"
+ },
+ {
+  "src": "/screens/technician-route-sequencer/03.webp",
+  "w": 1400,
+  "h": 1078,
+  "caption": "After Optimise route",
+  "mobile": false,
+  "v": "bde05d4d"
+ },
+ {
+  "src": "/screens/technician-route-sequencer/04.webp",
+  "w": 1400,
+  "h": 1390,
+  "caption": "Orange accent route list only miles the",
+  "mobile": false,
+  "v": "5b348d38"
+ },
+ {
+  "src": "/screens/technician-route-sequencer/05.webp",
+  "w": 1400,
+  "h": 1393,
+  "caption": "Map only view with three setting messages",
+  "mobile": false,
+  "v": "04e63799"
+ },
+ {
+  "src": "/screens/technician-route-sequencer/06.webp",
+  "w": 780,
+  "h": 1836,
+  "caption": "Width",
+  "mobile": false,
+  "v": "e6721f47"
+ }
+]

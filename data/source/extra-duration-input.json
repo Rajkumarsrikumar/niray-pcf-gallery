@@ -1,0 +1,42 @@
+{
+ "name": "DurationInput",
+ "displayName": "Duration Input (time spent / estimate)",
+ "slug": "duration-input",
+ "tagline": "Duration Input replaces a plain number box for \"how long\" fields.",
+ "description": "Duration Input replaces a plain number box for \"how long\" fields. Instead of working out that one and three-quarter hours is 105 minutes, people simply type 1h 45m, 1.75h, 105 or 1:45 — or tap a quick-pick chip such as 30m or 2h. The control saves the right number in the background (minutes, hours or working days) and always shows it back in a friendly format.",
+ "features": [
+  "Type 1h 30m",
+  "2d or 1:30",
+  "Use +/- steps and quick-pick chips",
+  "Set min/max limits",
+  "Compare against a target or estimate",
+  "Save as minutes",
+  "Hours or days"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Model-driven / Dataverse field control",
+ "hosts": [
+  "Model-driven apps"
+ ],
+ "tags": [
+  "duration",
+  "input",
+  "cross-industry",
+  "model-driven",
+  "dataverse"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.1",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-26",
+ "schemaName": "pcfl_PCFLib.DurationInput",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "DurationInput_USER_GUIDE.docx",
+ "screenshotCount": 10,
+ "price": null
+}

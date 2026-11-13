@@ -1,0 +1,44 @@
+{
+ "name": "PlanogramAuditor",
+ "displayName": "Planogram Auditor",
+ "slug": "planogram-auditor",
+ "tagline": "Planogram Auditor turns a store visit into a quick, visual shelf check.",
+ "description": "Planogram Auditor turns a store visit into a quick, visual shelf check. The planned layout (the planogram) is drawn as bays, shelves and product slots, and each slot is as wide as the number of facings the product should have. You tap a product and record what you found: Compliant, Out of stock, Wrong position, Price / label issue or Damaged / low facings, plus the facings you actually saw and a note.",
+ "features": [
+  "A visual shelf map of bays",
+  "Shelves and product slots sized by facings",
+  "Tap or keyboard to record Compliant",
+  "Out of stock, Wrong position",
+  "Price issue or Damaged",
+  "Facings seen and notes",
+  "Bulk Rest OK per shelf",
+  "Search and result filters",
+  "List view with sorting",
+  "Compliance % against a target"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Canvas app field control",
+ "hosts": [
+  "Canvas apps"
+ ],
+ "tags": [
+  "planogram",
+  "auditor",
+  "cross-industry",
+  "canvas"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-04",
+ "schemaName": "pcfl_PCFLib.PlanogramAuditor",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "PlanogramAuditor_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

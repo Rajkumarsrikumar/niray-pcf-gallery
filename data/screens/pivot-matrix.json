@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/pivot-matrix/01.webp",
+  "w": 1400,
+  "h": 774,
+  "caption": "Spend by category and month with the heat map",
+  "mobile": false,
+  "v": "55edc139"
+ },
+ {
+  "src": "/screens/pivot-matrix/02.webp",
+  "w": 1400,
+  "h": 1036,
+  "caption": "Professional services expanded by supplier",
+  "mobile": false,
+  "v": "d078aa9a"
+ },
+ {
+  "src": "/screens/pivot-matrix/03.webp",
+  "w": 1400,
+  "h": 909,
+  "caption": "Purchase orders by status as a of each",
+  "mobile": false,
+  "v": "e022a48c"
+ },
+ {
+  "src": "/screens/pivot-matrix/04.webp",
+  "w": 1400,
+  "h": 931,
+  "caption": "Cards layout in orange",
+  "mobile": false,
+  "v": "241951ec"
+ },
+ {
+  "src": "/screens/pivot-matrix/05.webp",
+  "w": 1400,
+  "h": 740,
+  "caption": "Average per order for the top 3 categories with",
+  "mobile": false,
+  "v": "37dda954"
+ },
+ {
+  "src": "/screens/pivot-matrix/06.webp",
+  "w": 780,
+  "h": 1464,
+  "caption": "Width",
+  "mobile": false,
+  "v": "0b6f8207"
+ }
+]

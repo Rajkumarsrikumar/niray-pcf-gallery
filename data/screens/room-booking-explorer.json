@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/room-booking-explorer/01.webp",
+  "w": 1180,
+  "h": 678,
+  "caption": "No rooms set up yet",
+  "mobile": false,
+  "v": "71460e8f"
+ },
+ {
+  "src": "/screens/room-booking-explorer/02.webp",
+  "w": 1340,
+  "h": 1272,
+  "caption": "Ten attendees with Projector and Catering",
+  "mobile": false,
+  "v": "aa008ffc"
+ },
+ {
+  "src": "/screens/room-booking-explorer/03.webp",
+  "w": 1400,
+  "h": 1339,
+  "caption": "Marina Boardroom selected for six people",
+  "mobile": false,
+  "v": "fc130f4c"
+ },
+ {
+  "src": "/screens/room-booking-explorer/04.webp",
+  "w": 1340,
+  "h": 1666,
+  "caption": "After pressing the book button",
+  "mobile": false,
+  "v": "6ecd5330"
+ },
+ {
+  "src": "/screens/room-booking-explorer/05.webp",
+  "w": 1340,
+  "h": 1022,
+  "caption": "Selecting 08",
+  "mobile": false,
+  "v": "4744905e"
+ },
+ {
+  "src": "/screens/room-booking-explorer/06.webp",
+  "w": 1400,
+  "h": 1306,
+  "caption": "Timeline view with Changi Workshop selected for",
+  "mobile": false,
+  "v": "0b89216e"
+ }
+]

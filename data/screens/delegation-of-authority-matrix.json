@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/delegation-of-authority-matrix/01.webp",
+  "w": 1340,
+  "h": 442,
+  "caption": "Before the data is connected the control",
+  "mobile": false,
+  "v": "8da1db19"
+ },
+ {
+  "src": "/screens/delegation-of-authority-matrix/02.webp",
+  "w": 1400,
+  "h": 1717,
+  "caption": "S 0 purchase requisition in Singapore",
+  "mobile": false,
+  "v": "98f8bcf0"
+ },
+ {
+  "src": "/screens/delegation-of-authority-matrix/03.webp",
+  "w": 1400,
+  "h": 2400,
+  "caption": "Issues view with the Contract gap selected",
+  "mobile": false,
+  "v": "d45e00df"
+ },
+ {
+  "src": "/screens/delegation-of-authority-matrix/04.webp",
+  "w": 1400,
+  "h": 1133,
+  "caption": "Finance Director Payment release selected",
+  "mobile": false,
+  "v": "5e509be7"
+ },
+ {
+  "src": "/screens/delegation-of-authority-matrix/05.webp",
+  "w": 1400,
+  "h": 1834,
+  "caption": "Rules view all states two rules selected orange",
+  "mobile": false,
+  "v": "bdd60f3e"
+ },
+ {
+  "src": "/screens/delegation-of-authority-matrix/06.webp",
+  "w": 1400,
+  "h": 2400,
+  "caption": "View only approver rows single approver rule",
+  "mobile": false,
+  "v": "a16a59dd"
+ }
+]

@@ -1,0 +1,44 @@
+{
+ "name": "PolicyAcceptanceReader",
+ "displayName": "Policy Acceptance Reader",
+ "slug": "policy-acceptance-reader",
+ "tagline": "The Policy Acceptance Reader puts a policy, code of conduct or set of terms directly on a form, and records that the person has read and accepted it.",
+ "description": "The Policy Acceptance Reader puts a policy, code of conduct or set of terms directly on a form, and records that the person has read and accepted it. The text is split into numbered sections with a contents list, a search box and a reading progress bar. You decide the rules: people may have to read to the end, tick the important sections, and sign by typing their name. The control saves the version they accepted, when, and who signed, and asks them to accept again when you publish a new version.",
+ "features": [
+  "Sectioned reader with contents",
+  "Search with highlighted matches, reading progress",
+  "Scroll-to-end and per-section acknowledgement rules",
+  "Checkbox or typed-name signature, version re-acceptance, withdraw",
+  "Read-only and masked states and a phone layout",
+  "Stores a JSON acceptance record (version, date, name, acknowledged sections)"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Power Pages code component",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps",
+  "Power Pages"
+ ],
+ "tags": [
+  "policy",
+  "acceptance",
+  "reader",
+  "cross-industry",
+  "power",
+  "pages"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-04",
+ "schemaName": "pcfl_PCFLib.PolicyAcceptanceReader",
+ "react": null,
+ "controlType": "standard",
+ "userManual": "PolicyAcceptanceReader_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

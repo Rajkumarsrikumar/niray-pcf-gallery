@@ -1,0 +1,34 @@
+[
+ {
+  "src": "/screens/line-item-editor/01.webp",
+  "w": 1400,
+  "h": 1041,
+  "caption": "A filled purchase request on a wide screen",
+  "mobile": false,
+  "v": "deda27a1"
+ },
+ {
+  "src": "/screens/line-item-editor/02.webp",
+  "w": 1300,
+  "h": 2389,
+  "caption": "Validation a zero quantity an over limit",
+  "mobile": false,
+  "v": "0a489d29"
+ },
+ {
+  "src": "/screens/line-item-editor/03.webp",
+  "w": 1300,
+  "h": 2181,
+  "caption": "A service order variation",
+  "mobile": false,
+  "v": "c26766af"
+ },
+ {
+  "src": "/screens/line-item-editor/04.webp",
+  "w": 780,
+  "h": 1994,
+  "caption": "The same field on a px cards big",
+  "mobile": false,
+  "v": "f1168b8e"
+ }
+]

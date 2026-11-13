@@ -1,0 +1,44 @@
+{
+ "name": "DealSizeBandAnalyzer",
+ "displayName": "Deal Size Band Analyzer",
+ "slug": "deal-size-band-analyzer",
+ "tagline": "The Deal Size Band Analyzer shows how your opportunities are spread across deal-size bands - for example under S$25k, S$25k - 50k, S$50k - 100k and so on.",
+ "description": "The Deal Size Band Analyzer shows how your opportunities are spread across deal-size bands - for example under S$25k, S$25k - 50k, S$50k - 100k and so on. For every band it shows how many deals (or how much value) sit there, the win rate of the deals already closed in that band, and it highlights the sweet spot: the band you win most often. A target deal size marker and the median and average deal size tell you at a glance whether your deals are getting bigger or smaller.",
+ "features": [
+  "Deals grouped into amount bands (automatic or your own band edges) with counts or totals",
+  "Win rate per band",
+  "Best-win-rate sweet spot",
+  "Target deal size marker",
+  "Median / average KPIs",
+  "Status and owner filters",
+  "Drill-down into a band's deals raised to Power Fx"
+ ],
+ "industry": "CRM & Sales",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "deal",
+  "size",
+  "band",
+  "analyzer",
+  "crm",
+  "sales"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-12",
+ "schemaName": "pcfl_PCFLib.DealSizeBandAnalyzer",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "DealSizeBandAnalyzer_USER_GUIDE.docx",
+ "screenshotCount": 7,
+ "price": null
+}

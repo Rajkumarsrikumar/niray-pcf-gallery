@@ -1,0 +1,43 @@
+{
+ "name": "DocumentLibraryBrowser",
+ "displayName": "Document Library Browser",
+ "slug": "document-library-browser",
+ "tagline": "The Document Library Browser shows a list of document records the way people expect a file explorer to work: folders on the left, documents in the middle and the details…",
+ "description": "The Document Library Browser shows a list of document records the way people expect a file explorer to work: folders on the left, documents in the middle and the details of the chosen document on the right. It works with any table or collection that holds documents - for example contract documents, supplier certificates, a policy library, site-visit photos or attachments on work orders.",
+ "features": [
+  "Folder tree built from folder paths with counts, breadcrumbs",
+  "Search across name/tags/owner",
+  "File-type and status filters",
+  "Expiry quick filters, sort",
+  "Grid or list layout",
+  "Details pane with metadata and open/download links",
+  "Multi-select with bulk actions and outputs for canvas OnChange or flows",
+  "A phone layout with a folder drawer and full-width details sheet"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "document",
+  "library",
+  "browser",
+  "cross-industry"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-04",
+ "schemaName": "pcfl_PCFLib.DocumentLibraryBrowser",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "DocumentLibraryBrowser_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

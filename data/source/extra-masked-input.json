@@ -1,0 +1,39 @@
+{
+ "name": "MaskedInput",
+ "displayName": "Masked Input (PCFLib)",
+ "slug": "masked-input",
+ "tagline": "Masked Input formats a text field while you type, so values always arrive in the same shape — for example +65 9123 4567 for a Singapore mobile, 31/12/2026 for a date, or…",
+ "description": "Masked Input formats a text field while you type, so values always arrive in the same shape — for example +65 9123 4567 for a Singapore mobile, 31/12/2026 for a date, or PO-12345-AB for a purchase-order reference.",
+ "features": [
+  "Custom reference numbers",
+  "Dates"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Power Pages code component",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps",
+  "Power Pages"
+ ],
+ "tags": [
+  "masked",
+  "input",
+  "cross-industry",
+  "power",
+  "pages"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.1",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-20",
+ "schemaName": "pcfl_PCFLib.MaskedInput",
+ "react": null,
+ "controlType": "standard",
+ "userManual": "MaskedInput_USER_GUIDE.docx",
+ "screenshotCount": 7,
+ "price": null
+}

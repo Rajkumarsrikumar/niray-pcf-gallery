@@ -1,0 +1,36 @@
+{
+ "name": "SignaturePad",
+ "displayName": "Signature Pad (PCFLib)",
+ "slug": "signature-pad",
+ "tagline": "Signature Pad adds a signature box to a form.",
+ "description": "Signature Pad adds a signature box to a form. People sign with a mouse, a finger on a phone or tablet, or a stylus. If they can't draw (for example they use a keyboard or screen reader), they can type their name instead and it is shown in a handwriting-style font.",
+ "features": [],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Power Pages code component",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps",
+  "Power Pages"
+ ],
+ "tags": [
+  "signature",
+  "pad",
+  "cross-industry",
+  "power",
+  "pages"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.1",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-20",
+ "schemaName": "pcfl_PCFLib.SignaturePad",
+ "react": null,
+ "controlType": "standard",
+ "userManual": "SignaturePad_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

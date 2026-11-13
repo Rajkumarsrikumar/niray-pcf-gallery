@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/instalment-plan-builder/01.webp",
+  "w": 1400,
+  "h": 1189,
+  "caption": "A plan for SGD with a 10 deposit",
+  "mobile": false,
+  "v": "0f94eee8"
+ },
+ {
+  "src": "/screens/instalment-plan-builder/02.webp",
+  "w": 1400,
+  "h": 1353,
+  "caption": "Weekly plan chosen from the suggestions",
+  "mobile": false,
+  "v": "14f66153"
+ },
+ {
+  "src": "/screens/instalment-plan-builder/03.webp",
+  "w": 1340,
+  "h": 2400,
+  "caption": "Validation deposit below the minimum and",
+  "mobile": false,
+  "v": "41a0217f"
+ },
+ {
+  "src": "/screens/instalment-plan-builder/04.webp",
+  "w": 1340,
+  "h": 2389,
+  "caption": "School fees in orange with a 20 minimum",
+  "mobile": false,
+  "v": "cf137c74"
+ },
+ {
+  "src": "/screens/instalment-plan-builder/05.webp",
+  "w": 780,
+  "h": 2400,
+  "caption": "Width",
+  "mobile": false,
+  "v": "aa0c633c"
+ },
+ {
+  "src": "/screens/instalment-plan-builder/06.webp",
+  "w": 1340,
+  "h": 2400,
+  "caption": "Malformed configuration notes with safe",
+  "mobile": false,
+  "v": "1705458f"
+ }
+]

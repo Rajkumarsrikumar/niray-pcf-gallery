@@ -1,0 +1,41 @@
+{
+ "name": "BudgetPhasingEditor",
+ "displayName": "Budget Phasing Editor",
+ "slug": "budget-phasing-editor",
+ "tagline": "The Budget Phasing Editor lets you split an approved budget across the months of a project, purchase, grant or programme - right on the record.",
+ "description": "The Budget Phasing Editor lets you split an approved budget across the months of a project, purchase, grant or programme - right on the record. Each budget line (for example labour, licences, hardware, travel and contingency) gets a row, each month gets a column, and the control keeps the totals, the variance against the target budget and a cumulative picture up to date while you type.",
+ "features": [
+  "Budget lines x periods grid with row/column totals",
+  "Spread tools (even, front-load, back-load, S-curve, copy)",
+  "Locked actual periods",
+  "Target budget variance with tolerance, quarter roll-up",
+  "Cumulative chart and a phone card layout"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Model-driven / Dataverse field control",
+ "hosts": [
+  "Model-driven apps"
+ ],
+ "tags": [
+  "budget",
+  "phasing",
+  "editor",
+  "cross-industry",
+  "model-driven",
+  "dataverse"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-03",
+ "schemaName": "pcfl_PCFLib.BudgetPhasingEditor",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "BudgetPhasingEditor_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/opening-hours-editor/01.webp",
+  "w": 1260,
+  "h": 868,
+  "caption": "After Typical week",
+  "mobile": false,
+  "v": "4b0ae1f0"
+ },
+ {
+  "src": "/screens/opening-hours-editor/02.webp",
+  "w": 1260,
+  "h": 980,
+  "caption": "Split shift on Saturday with the live Open now",
+  "mobile": false,
+  "v": "1140c3b5"
+ },
+ {
+  "src": "/screens/opening-hours-editor/03.webp",
+  "w": 1260,
+  "h": 1092,
+  "caption": "An evening slot added to Monday with the +",
+  "mobile": false,
+  "v": "270f4b8f"
+ },
+ {
+  "src": "/screens/opening-hours-editor/04.webp",
+  "w": 1260,
+  "h": 952,
+  "caption": "Validation",
+  "mobile": false,
+  "v": "4fbf3f87"
+ },
+ {
+  "src": "/screens/opening-hours-editor/05.webp",
+  "w": 1260,
+  "h": 1012,
+  "caption": "12 hour summary week starting Sunday 24 hour",
+  "mobile": false,
+  "v": "9739f842"
+ },
+ {
+  "src": "/screens/opening-hours-editor/06.webp",
+  "w": 780,
+  "h": 1764,
+  "caption": "Width",
+  "mobile": false,
+  "v": "2e7a1b75"
+ }
+]

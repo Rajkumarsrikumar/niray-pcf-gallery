@@ -1,0 +1,41 @@
+{
+ "name": "MilestonePaymentSchedule",
+ "displayName": "Milestone Payment Schedule",
+ "slug": "milestone-payment-schedule",
+ "tagline": "The Milestone Payment Schedule shows how a contract or purchase order will be paid - and how far payment has got.",
+ "description": "The Milestone Payment Schedule shows how a contract or purchase order will be paid - and how far payment has got. You list the milestones (for example deposit, delivery, acceptance), give each a share of the contract value and a due date, and move it through Planned, Ready to invoice, Invoiced and Paid. The control works out the amounts, the retention held back, what is still outstanding and which milestones are overdue.",
+ "features": [
+  "Milestones with % of contract value, amounts, due dates",
+  "Status (planned, ready to invoice, invoiced, paid, on hold), retention, overdue flags, KPIs, stacked progress, timeline",
+  "Templates (30/40/30, equal, monthly)",
+  "100% validation with a balance fix",
+  "Reordering and a phone card layout"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Model-driven / Dataverse field control",
+ "hosts": [
+  "Model-driven apps"
+ ],
+ "tags": [
+  "milestone",
+  "payment",
+  "schedule",
+  "cross-industry",
+  "model-driven",
+  "dataverse"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-03",
+ "schemaName": "pcfl_PCFLib.MilestonePaymentSchedule",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "MilestonePaymentSchedule_USER_GUIDE.docx",
+ "screenshotCount": 7,
+ "price": null
+}

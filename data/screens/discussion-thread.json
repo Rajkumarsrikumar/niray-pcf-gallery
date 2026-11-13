@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/discussion-thread/01.webp",
+  "w": 1340,
+  "h": 2150,
+  "caption": "A purchase request discussion",
+  "mobile": false,
+  "v": "ef0031cf"
+ },
+ {
+  "src": "/screens/discussion-thread/02.webp",
+  "w": 1340,
+  "h": 1466,
+  "caption": "Orange accent Open filter selected by default",
+  "mobile": false,
+  "v": "49bed209"
+ },
+ {
+  "src": "/screens/discussion-thread/03.webp",
+  "w": 1180,
+  "h": 821,
+  "caption": "A new record",
+  "mobile": false,
+  "v": "35285b8d"
+ },
+ {
+  "src": "/screens/discussion-thread/04.webp",
+  "w": 1340,
+  "h": 1320,
+  "caption": "Typing shows the people you can mention",
+  "mobile": false,
+  "v": "9f148ee6"
+ },
+ {
+  "src": "/screens/discussion-thread/05.webp",
+  "w": 1340,
+  "h": 1560,
+  "caption": "Replying to a question with a person mentioned",
+  "mobile": false,
+  "v": "28848be4"
+ },
+ {
+  "src": "/screens/discussion-thread/06.webp",
+  "w": 1340,
+  "h": 1120,
+  "caption": "Validation",
+  "mobile": false,
+  "v": "1b0144f7"
+ }
+]

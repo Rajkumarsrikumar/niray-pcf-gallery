@@ -1,0 +1,41 @@
+{
+ "name": "ColorSwatchPicker",
+ "displayName": "Colour Swatch Picker",
+ "slug": "color-swatch-picker",
+ "tagline": "The Colour Swatch Picker replaces a plain text box that holds a colour code with a friendly colour chooser.",
+ "description": "The Colour Swatch Picker replaces a plain text box that holds a colour code with a friendly colour chooser. You click a swatch from your organisation's palette, or - if your app maker allows it - type a colour code or open your device's colour picker. The chosen colour is shown in a preview bar together with its name and code, and a small check tells you whether black or white text is easier to read on it.",
+ "features": [
+  "Status colours with names",
+  "Compact square swatches saved as rgb()",
+  "Preview text",
+  "On a phone"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Model-driven / Dataverse field control",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "color",
+  "swatch",
+  "picker",
+  "cross-industry",
+  "model-driven",
+  "dataverse"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-27",
+ "schemaName": "pcfl_PCFLib.ColorSwatchPicker",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "ColorSwatchPicker_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

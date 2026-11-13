@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/household-budget-calculator/01.webp",
+  "w": 1340,
+  "h": 2116,
+  "caption": "A typical household",
+  "mobile": false,
+  "v": "08a68dcc"
+ },
+ {
+  "src": "/screens/household-budget-calculator/02.webp",
+  "w": 1340,
+  "h": 2210,
+  "caption": "An extra Pet food and vet line pushes spending",
+  "mobile": false,
+  "v": "6d7088e0"
+ },
+ {
+  "src": "/screens/household-budget-calculator/03.webp",
+  "w": 1340,
+  "h": 2400,
+  "caption": "An amount typed as 16o is flagged",
+  "mobile": false,
+  "v": "3cd8d172"
+ },
+ {
+  "src": "/screens/household-budget-calculator/04.webp",
+  "w": 1340,
+  "h": 1608,
+  "caption": "After Clear all amounts the Undo button",
+  "mobile": false,
+  "v": "ca2bc7fc"
+ },
+ {
+  "src": "/screens/household-budget-calculator/05.webp",
+  "w": 1180,
+  "h": 2172,
+  "caption": "Custom categories AUD currency yearly totals",
+  "mobile": false,
+  "v": "133ed04f"
+ },
+ {
+  "src": "/screens/household-budget-calculator/06.webp",
+  "w": 780,
+  "h": 2400,
+  "caption": "The same budget on a px screen",
+  "mobile": false,
+  "v": "be2c3c99"
+ }
+]

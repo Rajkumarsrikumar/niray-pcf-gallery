@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/lead-intent-profiler/01.webp",
+  "w": 1400,
+  "h": 2400,
+  "caption": "A complete Hot enquiry",
+  "mobile": false,
+  "v": "e7e01710"
+ },
+ {
+  "src": "/screens/lead-intent-profiler/02.webp",
+  "w": 1400,
+  "h": 2080,
+  "caption": "Search for sales with the maximum of five",
+  "mobile": false,
+  "v": "8b8d4a01"
+ },
+ {
+  "src": "/screens/lead-intent-profiler/03.webp",
+  "w": 1400,
+  "h": 2400,
+  "caption": "Validation",
+  "mobile": false,
+  "v": "dd39b7fd"
+ },
+ {
+  "src": "/screens/lead-intent-profiler/04.webp",
+  "w": 1400,
+  "h": 1660,
+  "caption": "Partner programme enquiry orange accent Warm",
+  "mobile": false,
+  "v": "ff1323e1"
+ },
+ {
+  "src": "/screens/lead-intent-profiler/05.webp",
+  "w": 800,
+  "h": 2400,
+  "caption": "Width",
+  "mobile": false,
+  "v": "b94f4451"
+ },
+ {
+  "src": "/screens/lead-intent-profiler/06.webp",
+  "w": 1100,
+  "h": 2400,
+  "caption": "Public form with the score hidden",
+  "mobile": false,
+  "v": "59000d5f"
+ }
+]

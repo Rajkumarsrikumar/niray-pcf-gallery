@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/cross-sell-whitespace-matrix/01.webp",
+  "w": 1400,
+  "h": 316,
+  "caption": "Before the data is connected",
+  "mobile": false,
+  "v": "f61668b4"
+ },
+ {
+  "src": "/screens/cross-sell-whitespace-matrix/02.webp",
+  "w": 1400,
+  "h": 1467,
+  "caption": "The CRM & Sales sample",
+  "mobile": false,
+  "v": "f4ad3e90"
+ },
+ {
+  "src": "/screens/cross-sell-whitespace-matrix/03.webp",
+  "w": 1400,
+  "h": 1467,
+  "caption": "Queenstown Biotech Labs CRM Suite tapped",
+  "mobile": false,
+  "v": "34d1479c"
+ },
+ {
+  "src": "/screens/cross-sell-whitespace-matrix/04.webp",
+  "w": 1400,
+  "h": 584,
+  "caption": "Enterprise accounts without Analytics",
+  "mobile": false,
+  "v": "006c5cb3"
+ },
+ {
+  "src": "/screens/cross-sell-whitespace-matrix/05.webp",
+  "w": 1400,
+  "h": 1949,
+  "caption": "Five products in a fixed order a 30 target",
+  "mobile": false,
+  "v": "e5c24f32"
+ },
+ {
+  "src": "/screens/cross-sell-whitespace-matrix/06.webp",
+  "w": 780,
+  "h": 1720,
+  "caption": "Width",
+  "mobile": false,
+  "v": "f14e076a"
+ }
+]

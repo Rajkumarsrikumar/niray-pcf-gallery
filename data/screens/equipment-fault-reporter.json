@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/equipment-fault-reporter/01.webp",
+  "w": 1340,
+  "h": 1106,
+  "caption": "Step 1 choose the equipment type then enter",
+  "mobile": false,
+  "v": "2f1fefcf"
+ },
+ {
+  "src": "/screens/equipment-fault-reporter/02.webp",
+  "w": 1340,
+  "h": 1836,
+  "caption": "Step 2 symptoms for a chiller with two",
+  "mobile": false,
+  "v": "e3685992"
+ },
+ {
+  "src": "/screens/equipment-fault-reporter/03.webp",
+  "w": 1340,
+  "h": 1334,
+  "caption": "Missing answers are explained under each field",
+  "mobile": false,
+  "v": "41e7ab4d"
+ },
+ {
+  "src": "/screens/equipment-fault-reporter/04.webp",
+  "w": 1340,
+  "h": 1330,
+  "caption": "Review P1 because of a cold chain breach",
+  "mobile": false,
+  "v": "5f986459"
+ },
+ {
+  "src": "/screens/equipment-fault-reporter/05.webp",
+  "w": 1340,
+  "h": 1652,
+  "caption": "Safety hazard the banner and the hotline call",
+  "mobile": false,
+  "v": "66e0ca9c"
+ },
+ {
+  "src": "/screens/equipment-fault-reporter/06.webp",
+  "w": 1400,
+  "h": 1550,
+  "caption": "All sections on one page with an orange accent",
+  "mobile": false,
+  "v": "df9d07cf"
+ }
+]

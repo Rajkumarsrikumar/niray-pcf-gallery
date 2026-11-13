@@ -1,0 +1,44 @@
+{
+ "name": "CloseDateSlippageGuard",
+ "displayName": "Close Date Slippage Guard",
+ "slug": "close-date-slippage-guard",
+ "tagline": "Close Date Slippage Guard replaces the plain Expected close date box on an opportunity.",
+ "description": "Close Date Slippage Guard replaces the plain Expected close date box on an opportunity. While the rep picks a date it shows the fiscal quarter and days to close, compares the date with the committed close date, and reacts when a deal slips into a later quarter: the badge turns to *Slipped*, the rep chooses why it slipped, and the push counter goes up. It also stops dates in the past or too far ahead, and gives advice when a date is unrealistic for the sales stage or the deal has been pushed too often.",
+ "features": [
+  "Shows the fiscal quarter and days to close",
+  "Compares the new date with the committed close date",
+  "Flags slipped and out-of-quarter moves",
+  "Asks for a slip reason",
+  "Warns when a date is unrealistic for the sales stage or the deal has been pushed too often",
+  "Offers quick picks such as End of quarter",
+  "Writes the date to a bound date column and raises OnCloseDateChange / OnQuarterChange"
+ ],
+ "industry": "CRM & Sales",
+ "pack": null,
+ "category": "Canvas app field control",
+ "hosts": [
+  "Canvas apps"
+ ],
+ "tags": [
+  "close",
+  "date",
+  "slippage",
+  "guard",
+  "crm",
+  "sales",
+  "canvas"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-12",
+ "schemaName": "pcfl_PCFLib.CloseDateSlippageGuard",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "CloseDateSlippageGuard_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/duplicate-match-reviewer/01.webp",
+  "w": 1400,
+  "h": 1083,
+  "caption": "The review screen",
+  "mobile": false,
+  "v": "d892e272"
+ },
+ {
+  "src": "/screens/duplicate-match-reviewer/02.webp",
+  "w": 1400,
+  "h": 1102,
+  "caption": "Comparing three records",
+  "mobile": false,
+  "v": "b8cc9cf2"
+ },
+ {
+  "src": "/screens/duplicate-match-reviewer/03.webp",
+  "w": 1400,
+  "h": 1083,
+  "caption": "After Plan merge the group shows Merge planned",
+  "mobile": false,
+  "v": "04900c97"
+ },
+ {
+  "src": "/screens/duplicate-match-reviewer/04.webp",
+  "w": 1400,
+  "h": 1102,
+  "caption": "Jason Lee and Jason Leong work at the same",
+  "mobile": false,
+  "v": "78880a50"
+ },
+ {
+  "src": "/screens/duplicate-match-reviewer/05.webp",
+  "w": 1400,
+  "h": 1316,
+  "caption": "Donor records with an orange accent blue",
+  "mobile": false,
+  "v": "ed03ba74"
+ },
+ {
+  "src": "/screens/duplicate-match-reviewer/06.webp",
+  "w": 1400,
+  "h": 562,
+  "caption": "Three configuration problems explained in plain",
+  "mobile": false,
+  "v": "8ac8f374"
+ }
+]

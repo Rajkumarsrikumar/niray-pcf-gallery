@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/commerce-mega-menu/01.webp",
+  "w": 1400,
+  "h": 820,
+  "caption": "The Products panel",
+  "mobile": false,
+  "v": "cff68866"
+ },
+ {
+  "src": "/screens/commerce-mega-menu/02.webp",
+  "w": 1400,
+  "h": 820,
+  "caption": "A section opened",
+  "mobile": false,
+  "v": "cff68866"
+ },
+ {
+  "src": "/screens/commerce-mega-menu/03.webp",
+  "w": 1400,
+  "h": 657,
+  "caption": "After choosing Field Service the link is",
+  "mobile": false,
+  "v": "ea48339c"
+ },
+ {
+  "src": "/screens/commerce-mega-menu/04.webp",
+  "w": 1400,
+  "h": 827,
+  "caption": "Menu search",
+  "mobile": false,
+  "v": "8ed76599"
+ },
+ {
+  "src": "/screens/commerce-mega-menu/05.webp",
+  "w": 800,
+  "h": 2388,
+  "caption": "Width",
+  "mobile": false,
+  "v": "c25192e1"
+ },
+ {
+  "src": "/screens/commerce-mega-menu/06.webp",
+  "w": 1400,
+  "h": 457,
+  "caption": "Resources",
+  "mobile": false,
+  "v": "e48e5569"
+ }
+]

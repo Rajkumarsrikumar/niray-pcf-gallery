@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/recurrence-pattern-editor/01.webp",
+  "w": 930,
+  "h": 664,
+  "caption": "A fortnightly visit on Monday and Wednesday",
+  "mobile": false,
+  "v": "27e8abaa"
+ },
+ {
+  "src": "/screens/recurrence-pattern-editor/02.webp",
+  "w": 670,
+  "h": 1063,
+  "caption": "Last working day of every month calendar view",
+  "mobile": false,
+  "v": "282d6bf1"
+ },
+ {
+  "src": "/screens/recurrence-pattern-editor/03.webp",
+  "w": 670,
+  "h": 1163,
+  "caption": "One date skipped by hand",
+  "mobile": false,
+  "v": "ef679188"
+ },
+ {
+  "src": "/screens/recurrence-pattern-editor/04.webp",
+  "w": 670,
+  "h": 780,
+  "caption": "Problems are explained next to the setting that",
+  "mobile": false,
+  "v": "62018184"
+ },
+ {
+  "src": "/screens/recurrence-pattern-editor/05.webp",
+  "w": 670,
+  "h": 1017,
+  "caption": "Orange accent week starting on Sunday 12 hour",
+  "mobile": false,
+  "v": "daf7e70c"
+ },
+ {
+  "src": "/screens/recurrence-pattern-editor/06.webp",
+  "w": 390,
+  "h": 1266,
+  "caption": "Width",
+  "mobile": true,
+  "v": "2befebe9"
+ }
+]

@@ -1,0 +1,41 @@
+{
+ "name": "ComparisonMatrix",
+ "displayName": "Comparison Matrix",
+ "slug": "comparison-matrix",
+ "tagline": "The Comparison Matrix shows several records side by side.",
+ "description": "The Comparison Matrix shows several records side by side. Each record (a supplier quote, a tender bid, a product, a service plan) becomes a column, and each piece of information (price, lead time, warranty, terms) becomes a row. Simple rules decide which value wins on each row, so the best value is highlighted, the weakest can be marked, and the record with the most (weighted) wins is labelled Best overall.",
+ "features": [
+  "The records become columns and the view columns become rows",
+  "Best / worst highlighting from simple rules (Price=min, Warranty=max, Certified=yes)",
+  "Weighted wins and a Best overall badge",
+  "A baseline column with +/- % differences, Differences only, attribute groups, search, sort",
+  "Choose which records to compare",
+  "A Choose / Award button with outputs, CSV copy",
+  "Keyboard grid navigation and a phone side-by-side pair view"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "comparison",
+  "matrix",
+  "cross-industry"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-30",
+ "schemaName": "pcfl_PCFLib.ComparisonMatrix",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "ComparisonMatrix_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

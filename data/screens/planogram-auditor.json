@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/planogram-auditor/01.webp",
+  "w": 1400,
+  "h": 1967,
+  "caption": "An audit in progress",
+  "mobile": false,
+  "v": "edd86d92"
+ },
+ {
+  "src": "/screens/planogram-auditor/02.webp",
+  "w": 1400,
+  "h": 1365,
+  "caption": "Recording an Out of stock result",
+  "mobile": false,
+  "v": "6bbdfd4b"
+ },
+ {
+  "src": "/screens/planogram-auditor/03.webp",
+  "w": 1340,
+  "h": 2400,
+  "caption": "A Wrong position result without a note",
+  "mobile": false,
+  "v": "89206779"
+ },
+ {
+  "src": "/screens/planogram-auditor/04.webp",
+  "w": 1400,
+  "h": 2400,
+  "caption": "List view sorted Issues first with the issues",
+  "mobile": false,
+  "v": "3994a0b1"
+ },
+ {
+  "src": "/screens/planogram-auditor/05.webp",
+  "w": 1400,
+  "h": 2147,
+  "caption": "Navy and dark orange colours 80 target",
+  "mobile": false,
+  "v": "176a1c72"
+ },
+ {
+  "src": "/screens/planogram-auditor/06.webp",
+  "w": 800,
+  "h": 2400,
+  "caption": "Width",
+  "mobile": false,
+  "v": "dd1bd2be"
+ }
+]

@@ -1,0 +1,47 @@
+{
+ "name": "PreventiveMaintenanceChecklist",
+ "displayName": "Preventive Maintenance Checklist",
+ "slug": "preventive-maintenance-checklist",
+ "tagline": "The Preventive Maintenance Checklist turns a work order, asset visit or store visit into a guided checklist.",
+ "description": "The Preventive Maintenance Checklist turns a work order, asset visit or store visit into a guided checklist. Technicians answer Pass, Fail or N/A for each check, type readings that are checked against an allowed range automatically, explain every defect in a note, raise follow-ups and sign off. Everything is saved in one text column on the record, and the result (Pass, Pass with actions or Fail) is available to the app, views and flows.",
+ "features": [
+  "Built-in field-service templates (air-con / FCU, refrigerated display case, fire safety, standby generator, POS and store IT) plus your own items",
+  "Collapsible sections with progress",
+  "Pass / Fail / N/A per item",
+  "Readings with allowed ranges that pass or fail automatically and warn near the limit, critical items",
+  "Notes required on failures",
+  "Bulk actions with undo",
+  "Search and filters",
+  "A one-by-one phone mode",
+  "Technician sign-off that locks the answers",
+  "Power Fx outputs and events for follow-up work orders"
+ ],
+ "industry": "Field Service & Merchandising",
+ "pack": null,
+ "category": "Model-driven / Dataverse field control",
+ "hosts": [
+  "Model-driven apps"
+ ],
+ "tags": [
+  "preventive",
+  "maintenance",
+  "checklist",
+  "service",
+  "merchandising",
+  "model-driven",
+  "dataverse"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-05",
+ "schemaName": "pcfl_PCFLib.PreventiveMaintenanceChecklist",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "PreventiveMaintenanceChecklist_USER_GUIDE.docx",
+ "screenshotCount": 10,
+ "price": null
+}

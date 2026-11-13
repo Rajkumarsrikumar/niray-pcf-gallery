@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/win-loss-reason-breakdown/01.webp",
+  "w": 1400,
+  "h": 1241,
+  "caption": "Filled state 32 closed deals win rate on",
+  "mobile": false,
+  "v": "3b35da62"
+ },
+ {
+  "src": "/screens/win-loss-reason-breakdown/02.webp",
+  "w": 1400,
+  "h": 1258,
+  "caption": "Lost Price too high selected",
+  "mobile": false,
+  "v": "e5dd2e1d"
+ },
+ {
+  "src": "/screens/win-loss-reason-breakdown/03.webp",
+  "w": 1400,
+  "h": 1129,
+  "caption": "By value with a 55 target",
+  "mobile": false,
+  "v": "32d47367"
+ },
+ {
+  "src": "/screens/win-loss-reason-breakdown/04.webp",
+  "w": 780,
+  "h": 2400,
+  "caption": "Width",
+  "mobile": false,
+  "v": "11ad3a3e"
+ },
+ {
+  "src": "/screens/win-loss-reason-breakdown/05.webp",
+  "w": 1300,
+  "h": 372,
+  "caption": "Won values set to Closed Won none of the 34",
+  "mobile": false,
+  "v": "52e084c5"
+ },
+ {
+  "src": "/screens/win-loss-reason-breakdown/06.webp",
+  "w": 1400,
+  "h": 1309,
+  "caption": "Volume test deals with ten loss reasons",
+  "mobile": false,
+  "v": "ad56bd44"
+ }
+]

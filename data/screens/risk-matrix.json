@@ -1,0 +1,42 @@
+[
+ {
+  "src": "/screens/risk-matrix/01.webp",
+  "w": 1400,
+  "h": 917,
+  "caption": "Inherent High",
+  "mobile": false,
+  "v": "a8d6c669"
+ },
+ {
+  "src": "/screens/risk-matrix/02.webp",
+  "w": 1400,
+  "h": 917,
+  "caption": "Rating the residual risk",
+  "mobile": false,
+  "v": "49a3d970"
+ },
+ {
+  "src": "/screens/risk-matrix/03.webp",
+  "w": 1400,
+  "h": 1059,
+  "caption": "The residual score",
+  "mobile": false,
+  "v": "d4e367dc"
+ },
+ {
+  "src": "/screens/risk-matrix/04.webp",
+  "w": 1340,
+  "h": 914,
+  "caption": "4x4 project matrix with custom band layout blue",
+  "mobile": false,
+  "v": "8fcfb028"
+ },
+ {
+  "src": "/screens/risk-matrix/05.webp",
+  "w": 780,
+  "h": 2158,
+  "caption": "Layout at px",
+  "mobile": false,
+  "v": "3ad76d2e"
+ }
+]

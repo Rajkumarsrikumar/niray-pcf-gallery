@@ -1,0 +1,34 @@
+[
+ {
+  "src": "/screens/attachment-uploader/01.webp",
+  "w": 1340,
+  "h": 2400,
+  "caption": "Five files added",
+  "mobile": false,
+  "v": "bd665dfd"
+ },
+ {
+  "src": "/screens/attachment-uploader/02.webp",
+  "w": 1340,
+  "h": 1674,
+  "caption": "Files that were not added and the rules that",
+  "mobile": false,
+  "v": "9614e5bb"
+ },
+ {
+  "src": "/screens/attachment-uploader/03.webp",
+  "w": 1340,
+  "h": 1634,
+  "caption": "List layout with existing SharePoint",
+  "mobile": false,
+  "v": "8cd956a8"
+ },
+ {
+  "src": "/screens/attachment-uploader/04.webp",
+  "w": 780,
+  "h": 1788,
+  "caption": "Width",
+  "mobile": false,
+  "v": "b4612ebb"
+ }
+]

@@ -1,0 +1,45 @@
+{
+ "name": "ApprovalDelegationPlanner",
+ "displayName": "Approval Delegation Planner",
+ "slug": "approval-delegation-planner",
+ "tagline": "The Approval Delegation Planner lets an approver plan who approves on their behalf, for which approval types, from when to when and up to what amount - for annual leave…",
+ "description": "The Approval Delegation Planner lets an approver plan who approves on their behalf, for which approval types, from when to when and up to what amount - for annual leave, business travel, training or busy periods. Everything is shown on a timeline (one row per delegate) or as cards, and the planner checks your organisation's rules as you type.",
+ "features": [
+  "Timeline and list views, status filters with counts (active, scheduled, expired, cancelled, overlaps), search and sorting",
+  "Summary tiles: active now, scheduled, next handover and overlaps",
+  "A form with quick date ranges and a live count of calendar and working days",
+  "Rules: maximum length, a limit that can never exceed your own authority, a reason for the audit trail, no back-dated start, and overlapping delegations blocked, warned about or allowed",
+  "Extend 7 days, End today, Cancel, Repeat and Delete - each with Undo",
+  "A phone layout designed for small screens"
+ ],
+ "industry": "Approvals & Workflow",
+ "pack": null,
+ "category": "Model-driven / Dataverse field control",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps",
+  "Power Pages"
+ ],
+ "tags": [
+  "approval",
+  "delegation",
+  "planner",
+  "approvals",
+  "workflow",
+  "model-driven",
+  "dataverse"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-11",
+ "schemaName": "pcfl_PCFLib.ApprovalDelegationPlanner",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "ApprovalDelegationPlanner_USER_GUIDE.docx",
+ "screenshotCount": 10,
+ "price": null
+}

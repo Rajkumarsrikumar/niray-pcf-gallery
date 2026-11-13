@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/deal-health-inspector/01.webp",
+  "w": 1400,
+  "h": 469,
+  "caption": "Before the data is connected",
+  "mobile": false,
+  "v": "c2d6744c"
+ },
+ {
+  "src": "/screens/deal-health-inspector/02.webp",
+  "w": 1400,
+  "h": 1495,
+  "caption": "Grouped by health band with Watch and Healthy",
+  "mobile": false,
+  "v": "36e6e9b5"
+ },
+ {
+  "src": "/screens/deal-health-inspector/03.webp",
+  "w": 1400,
+  "h": 1769,
+  "caption": "Filtered to Pushed too often one deal opened",
+  "mobile": false,
+  "v": "9f0b4716"
+ },
+ {
+  "src": "/screens/deal-health-inspector/04.webp",
+  "w": 1400,
+  "h": 2340,
+  "caption": "Grouped by owner filtered to No recent activity",
+  "mobile": false,
+  "v": "388c5148"
+ },
+ {
+  "src": "/screens/deal-health-inspector/05.webp",
+  "w": 780,
+  "h": 2400,
+  "caption": "Width",
+  "mobile": false,
+  "v": "a44f200d"
+ },
+ {
+  "src": "/screens/deal-health-inspector/06.webp",
+  "w": 1400,
+  "h": 1739,
+  "caption": "View only variation with custom thresholds",
+  "mobile": false,
+  "v": "186e0218"
+ }
+]

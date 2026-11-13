@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/word-limit-text-area/01.webp",
+  "w": 1180,
+  "h": 433,
+  "caption": "Under the minimum At least 40 words needed 14",
+  "mobile": false,
+  "v": "af6db066"
+ },
+ {
+  "src": "/screens/word-limit-text-area/02.webp",
+  "w": 1180,
+  "h": 525,
+  "caption": "A complete answer 78 of words used",
+  "mobile": false,
+  "v": "bc298caa"
+ },
+ {
+  "src": "/screens/word-limit-text-area/03.webp",
+  "w": 1180,
+  "h": 665,
+  "caption": "Close to the limit words shown in",
+  "mobile": false,
+  "v": "513e550c"
+ },
+ {
+  "src": "/screens/word-limit-text-area/04.webp",
+  "w": 1180,
+  "h": 759,
+  "caption": "Over a soft limit 43 words over the limit of",
+  "mobile": false,
+  "v": "e8790a44"
+ },
+ {
+  "src": "/screens/word-limit-text-area/05.webp",
+  "w": 1180,
+  "h": 711,
+  "caption": "Hard limit pasted text is trimmed at exactly",
+  "mobile": false,
+  "v": "4ffbffe5"
+ },
+ {
+  "src": "/screens/word-limit-text-area/06.webp",
+  "w": 980,
+  "h": 341,
+  "caption": "Character mode 14 characters left 28 words",
+  "mobile": false,
+  "v": "39632b81"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/lead-follow-up-card-list/01.webp",
+  "w": 1180,
+  "h": 408,
+  "caption": "Before data is connected the control explains",
+  "mobile": false,
+  "v": "02051fc9"
+ },
+ {
+  "src": "/screens/lead-follow-up-card-list/02.webp",
+  "w": 1400,
+  "h": 1440,
+  "caption": "Typical day",
+  "mobile": false,
+  "v": "1b09e8c4"
+ },
+ {
+  "src": "/screens/lead-follow-up-card-list/03.webp",
+  "w": 1400,
+  "h": 1101,
+  "caption": "Overdue filter with one lead selected",
+  "mobile": false,
+  "v": "d40b0411"
+ },
+ {
+  "src": "/screens/lead-follow-up-card-list/04.webp",
+  "w": 1400,
+  "h": 1547,
+  "caption": "Grouped by owner with multi select check boxes",
+  "mobile": false,
+  "v": "1ba5f74e"
+ },
+ {
+  "src": "/screens/lead-follow-up-card-list/05.webp",
+  "w": 1400,
+  "h": 1376,
+  "caption": "Leads sorted by lead score",
+  "mobile": false,
+  "v": "ab454619"
+ },
+ {
+  "src": "/screens/lead-follow-up-card-list/06.webp",
+  "w": 780,
+  "h": 2400,
+  "caption": "Width",
+  "mobile": false,
+  "v": "d6ca11ab"
+ }
+]

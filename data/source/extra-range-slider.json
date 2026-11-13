@@ -1,0 +1,38 @@
+{
+ "name": "RangeSlider",
+ "displayName": "Range Slider (PCFLib)",
+ "slug": "range-slider",
+ "tagline": "Dual-handle range slider (or single slider) for number columns and canvas filters: budget, price, quantity, score or distance ranges with exact-entry boxes, presets…",
+ "description": "Dual-handle range slider (or single slider) for number columns and canvas filters: budget, price, quantity, score or distance ranges with exact-entry boxes, presets, ticks, minimum gap and formatted outputs.",
+ "features": [
+  "Budget, price, quantity",
+  "Score or distance ranges with exact-entry boxes, presets, ticks",
+  "Minimum gap and formatted outputs"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Canvas app field control",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "range",
+  "slider",
+  "cross-industry",
+  "canvas"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.1",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-27",
+ "schemaName": "pcfl_PCFLib.RangeSlider",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "RangeSlider_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

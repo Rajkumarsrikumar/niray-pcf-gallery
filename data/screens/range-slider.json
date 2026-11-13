@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/range-slider/01.webp",
+  "w": 1100,
+  "h": 524,
+  "caption": "A budget range of S S selected",
+  "mobile": false,
+  "v": "ac57bcc9"
+ },
+ {
+  "src": "/screens/range-slider/02.webp",
+  "w": 1100,
+  "h": 524,
+  "caption": "Dragging the upper handle the bubble shows",
+  "mobile": false,
+  "v": "ba09bd88"
+ },
+ {
+  "src": "/screens/range-slider/03.webp",
+  "w": 1100,
+  "h": 524,
+  "caption": "Preset 5k 10k applied",
+  "mobile": false,
+  "v": "7fb21a0b"
+ },
+ {
+  "src": "/screens/range-slider/04.webp",
+  "w": 1100,
+  "h": 532,
+  "caption": "Typing 0 is adjusted to the maximum with an",
+  "mobile": false,
+  "v": "34fb8518"
+ },
+ {
+  "src": "/screens/range-slider/05.webp",
+  "w": 1260,
+  "h": 524,
+  "caption": "Single value mode Discount large size orange",
+  "mobile": false,
+  "v": "6f294d46"
+ },
+ {
+  "src": "/screens/range-slider/06.webp",
+  "w": 820,
+  "h": 264,
+  "caption": "Compact range small size no boxes or ticks",
+  "mobile": false,
+  "v": "b1481d5d"
+ }
+]

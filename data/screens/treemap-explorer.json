@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/treemap-explorer/01.webp",
+  "w": 1400,
+  "h": 840,
+  "caption": "Overview",
+  "mobile": false,
+  "v": "43db9c4b"
+ },
+ {
+  "src": "/screens/treemap-explorer/02.webp",
+  "w": 1400,
+  "h": 840,
+  "caption": "Inside IT hardware",
+  "mobile": false,
+  "v": "d9180cf8"
+ },
+ {
+  "src": "/screens/treemap-explorer/03.webp",
+  "w": 1400,
+  "h": 840,
+  "caption": "A purchase order selected",
+  "mobile": false,
+  "v": "318e20f0"
+ },
+ {
+  "src": "/screens/treemap-explorer/04.webp",
+  "w": 1340,
+  "h": 944,
+  "caption": "Ranked list view filtered by the search",
+  "mobile": false,
+  "v": "176b8a2f"
+ },
+ {
+  "src": "/screens/treemap-explorer/05.webp",
+  "w": 1400,
+  "h": 1047,
+  "caption": "Variance colours inside IT hardware",
+  "mobile": false,
+  "v": "e6b195e9"
+ },
+ {
+  "src": "/screens/treemap-explorer/06.webp",
+  "w": 800,
+  "h": 1424,
+  "caption": "Layout at px",
+  "mobile": false,
+  "v": "de94a96f"
+ }
+]

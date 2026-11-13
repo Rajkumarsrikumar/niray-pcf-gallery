@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/vehicle-damage-inspector/01.webp",
+  "w": 1380,
+  "h": 1666,
+  "caption": "A new inspection",
+  "mobile": false,
+  "v": "4adfb34a"
+ },
+ {
+  "src": "/screens/vehicle-damage-inspector/02.webp",
+  "w": 1380,
+  "h": 2400,
+  "caption": "Recording a moderate dent on the left rear door",
+  "mobile": false,
+  "v": "b798570f"
+ },
+ {
+  "src": "/screens/vehicle-damage-inspector/03.webp",
+  "w": 1380,
+  "h": 2400,
+  "caption": "Severe damage needs a note before it can be",
+  "mobile": false,
+  "v": "d7c9861d"
+ },
+ {
+  "src": "/screens/vehicle-damage-inspector/04.webp",
+  "w": 1380,
+  "h": 1798,
+  "caption": "A finished check in",
+  "mobile": false,
+  "v": "76ee92fc"
+ },
+ {
+  "src": "/screens/vehicle-damage-inspector/05.webp",
+  "w": 1380,
+  "h": 1798,
+  "caption": "Filtered to Severe",
+  "mobile": false,
+  "v": "7ce8b233"
+ },
+ {
+  "src": "/screens/vehicle-damage-inspector/06.webp",
+  "w": 1400,
+  "h": 1642,
+  "caption": "Van layout with sliding side panels and rear",
+  "mobile": false,
+  "v": "38c6aac3"
+ }
+]

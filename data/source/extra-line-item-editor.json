@@ -1,0 +1,41 @@
+{
+ "name": "LineItemEditor",
+ "displayName": "Line Item Editor (PCFLib)",
+ "slug": "line-item-editor",
+ "tagline": "Line Item Editor turns one text column into a complete order-lines editor.",
+ "description": "Line Item Editor turns one text column into a complete order-lines editor. Users pick products or services from a searchable catalogue (or add their own custom lines), set quantities and discounts, and the control works out line totals, the discount, GST and the grand total as they type. Everything is saved into the column as a tidy JSON list that flows, Power Automate or a canvas app can read back.",
+ "features": [
+  "Pick products from a searchable catalogue or add custom lines, edit quantity",
+  "Price and discount with validation, reorder, duplicate, undo",
+  "GST and budget totals",
+  "Totals / isValid outputs"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Model-driven / Dataverse field control",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "line",
+  "item",
+  "editor",
+  "cross-industry",
+  "model-driven",
+  "dataverse"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-27",
+ "schemaName": "pcfl_PCFLib.LineItemEditor",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "LineItemEditor_USER_GUIDE.docx",
+ "screenshotCount": 7,
+ "price": null
+}

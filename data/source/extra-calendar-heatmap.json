@@ -1,0 +1,43 @@
+{
+ "name": "CalendarHeatmap",
+ "displayName": "Calendar Heatmap",
+ "slug": "calendar-heatmap",
+ "tagline": "The Calendar Heatmap turns any list of records with a date into a calendar where every day is a coloured square.",
+ "description": "The Calendar Heatmap turns any list of records with a date into a calendar where every day is a coloured square. The darker the square, the more happened that day - more site visits, more cases, more hours or more donations. It makes busy weeks, quiet periods, gaps and campaigns visible at a glance, and lets you click a day to see exactly which records are behind it.",
+ "features": [
+  "Year (week x weekday)",
+  "Quarter and month views coloured by count",
+  "Total or average per day",
+  "Quantile or linear colour scale",
+  "Category filter chips, search",
+  "KPIs (total, active days, best day, streaks), goal markers",
+  "Keyboard day navigation",
+  "Day drill-down with record list and open",
+  "A phone month view with monthly bars"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "calendar",
+  "heatmap",
+  "cross-industry"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-03",
+ "schemaName": "pcfl_PCFLib.CalendarHeatmap",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "CalendarHeatmap_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

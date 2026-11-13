@@ -1,0 +1,41 @@
+{
+ "name": "KpiScorecardBoard",
+ "displayName": "KPI Scorecard Board",
+ "slug": "kpi-scorecard-board",
+ "tagline": "The KPI Scorecard Board turns a list of KPI records into a live scorecard.",
+ "description": "The KPI Scorecard Board turns a list of KPI records into a live scorecard. Each KPI shows its actual value against its target, how much of the target has been reached (attainment), a clear status (on track, at risk, off track or no target) and whether it is improving compared with the previous period.",
+ "features": [
+  "Summary strip with overall attainment ring and a status bar showing the share of KPIs in each status",
+  "Status filter chips with counts, a search box (KPI, group or owner) and a sort menu",
+  "Tiles or list layout, optionally grouped by perspective with collapsible sections and group attainment",
+  "Trend arrow and change % against the previous period that knows whether up is good or bad",
+  "Details panel with actual, target, gap to target, attainment, previous period and change, plus Open record",
+  "Clear messages for missing values and incorrect settings, and a dedicated phone layout"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "kpi",
+  "scorecard",
+  "board",
+  "cross-industry"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-03",
+ "schemaName": "pcfl_PCFLib.KpiScorecardBoard",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "KpiScorecardBoard_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

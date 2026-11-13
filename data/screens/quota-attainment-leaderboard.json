@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/quota-attainment-leaderboard/01.webp",
+  "w": 1340,
+  "h": 424,
+  "caption": "Before the data is connected the control",
+  "mobile": false,
+  "v": "17aad213"
+ },
+ {
+  "src": "/screens/quota-attainment-leaderboard/02.webp",
+  "w": 1400,
+  "h": 1726,
+  "caption": "Ten reps ranked by of quota at 60 of the",
+  "mobile": false,
+  "v": "7e0dd6b6"
+ },
+ {
+  "src": "/screens/quota-attainment-leaderboard/03.webp",
+  "w": 1400,
+  "h": 1744,
+  "caption": "Daniel Tan selected",
+  "mobile": false,
+  "v": "7e801d19"
+ },
+ {
+  "src": "/screens/quota-attainment-leaderboard/04.webp",
+  "w": 1400,
+  "h": 916,
+  "caption": "Mid market team only",
+  "mobile": false,
+  "v": "adfacfb1"
+ },
+ {
+  "src": "/screens/quota-attainment-leaderboard/05.webp",
+  "w": 1400,
+  "h": 1726,
+  "caption": "Ranked by won amount with an orange accent and",
+  "mobile": false,
+  "v": "7028abcd"
+ },
+ {
+  "src": "/screens/quota-attainment-leaderboard/06.webp",
+  "w": 1340,
+  "h": 2054,
+  "caption": "Won deals from 26 reps in five teams first",
+  "mobile": false,
+  "v": "8fc3108a"
+ }
+]

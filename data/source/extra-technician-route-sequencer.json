@@ -1,0 +1,46 @@
+{
+ "name": "TechnicianRouteSequencer",
+ "displayName": "Technician Route Sequencer",
+ "slug": "technician-route-sequencer",
+ "tagline": "The Technician Route Sequencer puts each technician's or merchandiser's visits for the day in a sensible order.",
+ "description": "The Technician Route Sequencer puts each technician's or merchandiser's visits for the day in a sensible order. It shows when they will arrive at every site, whether they will be early (and wait) or late for the agreed arrival window, how far they drive, and when they will finish. One click re-orders the open stops to cut lateness, overtime and distance - and one click undoes it.",
+ "features": [
+  "Per-technician routes from any view or collection of visits",
+  "ETA / departure for every stop from travel distance",
+  "Average speed and on-site time",
+  "Arrival-window checks (early wait, late)",
+  "Priority and status badges",
+  "A schematic route map without map services or API keys",
+  "Drag / button / keyboard re-ordering",
+  "One-click route optimisation with undo",
+  "Shift-end overtime warning, team overview",
+  "Sequence changes raised as Power Fx events (optional direct save to Dataverse in model-driven apps)"
+ ],
+ "industry": "Field Service & Merchandising",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "technician",
+  "route",
+  "sequencer",
+  "service",
+  "merchandising"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-05",
+ "schemaName": "pcfl_PCFLib.TechnicianRouteSequencer",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "TechnicianRouteSequencer_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

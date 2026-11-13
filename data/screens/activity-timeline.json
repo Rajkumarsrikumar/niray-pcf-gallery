@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/activity-timeline/01.webp",
+  "w": 1400,
+  "h": 1222,
+  "caption": "The timeline grouped by week",
+  "mobile": false,
+  "v": "13f3e96d"
+ },
+ {
+  "src": "/screens/activity-timeline/02.webp",
+  "w": 1400,
+  "h": 1222,
+  "caption": "An overdue urgent task selected and expanded",
+  "mobile": false,
+  "v": "1ce92737"
+ },
+ {
+  "src": "/screens/activity-timeline/03.webp",
+  "w": 1400,
+  "h": 951,
+  "caption": "The Due soon tile filters the timeline",
+  "mobile": false,
+  "v": "a1a95aec"
+ },
+ {
+  "src": "/screens/activity-timeline/04.webp",
+  "w": 1400,
+  "h": 1011,
+  "caption": "Compact density orange accent and custom type",
+  "mobile": false,
+  "v": "d26f1a6a"
+ },
+ {
+  "src": "/screens/activity-timeline/05.webp",
+  "w": 810,
+  "h": 1584,
+  "caption": "Width",
+  "mobile": false,
+  "v": "ddeaef61"
+ },
+ {
+  "src": "/screens/activity-timeline/06.webp",
+  "w": 1340,
+  "h": 1024,
+  "caption": "Setting problems explained",
+  "mobile": false,
+  "v": "b7c22508"
+ }
+]

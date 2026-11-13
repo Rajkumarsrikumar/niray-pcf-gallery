@@ -1,0 +1,39 @@
+{
+ "name": "HierarchyExplorer",
+ "displayName": "Hierarchy Explorer (PCFLib)",
+ "slug": "hierarchy-explorer",
+ "tagline": "Hierarchy Explorer shows any list where each record points to a parent as an organisation chart or tree.",
+ "description": "Hierarchy Explorer shows any list where each record points to a parent as an organisation chart or tree. Instead of opening record after record to find out who reports to whom, users see the whole structure, search it, filter it by team and focus on one branch.",
+ "features": [
+  "Expandable tree or top-down chart",
+  "Search with highlighted matches, group filter",
+  "Drill-down with breadcrumb, details panel, status badges",
+  "Keyboard tree navigation",
+  "A phone drill-down layout and selected key / title / path / report-count outputs"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "hierarchy",
+  "explorer",
+  "cross-industry"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-27",
+ "schemaName": "pcfl_PCFLib.HierarchyExplorer",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "HierarchyExplorer_USER_GUIDE.docx",
+ "screenshotCount": 10,
+ "price": null
+}

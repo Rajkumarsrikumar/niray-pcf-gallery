@@ -1,0 +1,42 @@
+[
+ {
+  "src": "/screens/preference-ranker/01.webp",
+  "w": 1340,
+  "h": 1364,
+  "caption": "Three roles chosen",
+  "mobile": false,
+  "v": "bf4dbb00"
+ },
+ {
+  "src": "/screens/preference-ranker/02.webp",
+  "w": 1340,
+  "h": 906,
+  "caption": "Food bank packing removed with Undo offered",
+  "mobile": false,
+  "v": "ce411469"
+ },
+ {
+  "src": "/screens/preference-ranker/03.webp",
+  "w": 1340,
+  "h": 1438,
+  "caption": "Validation",
+  "mobile": false,
+  "v": "0ac945c0"
+ },
+ {
+  "src": "/screens/preference-ranker/04.webp",
+  "w": 1180,
+  "h": 1200,
+  "caption": "Workshop sessions in orange",
+  "mobile": false,
+  "v": "89d1568e"
+ },
+ {
+  "src": "/screens/preference-ranker/05.webp",
+  "w": 780,
+  "h": 1680,
+  "caption": "Width",
+  "mobile": false,
+  "v": "dc3157c5"
+ }
+]

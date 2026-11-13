@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/contact-points-editor/01.webp",
+  "w": 1300,
+  "h": 310,
+  "caption": "No contact details yet",
+  "mobile": false,
+  "v": "36abb986"
+ },
+ {
+  "src": "/screens/contact-points-editor/02.webp",
+  "w": 1300,
+  "h": 1838,
+  "caption": "A customer with seven contact points primaries",
+  "mobile": false,
+  "v": "b1f43739"
+ },
+ {
+  "src": "/screens/contact-points-editor/03.webp",
+  "w": 1300,
+  "h": 898,
+  "caption": "Filtered to the two email addresses",
+  "mobile": false,
+  "v": "bef192a5"
+ },
+ {
+  "src": "/screens/contact-points-editor/04.webp",
+  "w": 1300,
+  "h": 1426,
+  "caption": "Validation",
+  "mobile": false,
+  "v": "3baa53da"
+ },
+ {
+  "src": "/screens/contact-points-editor/05.webp",
+  "w": 1300,
+  "h": 1960,
+  "caption": "Orange accent with masked values",
+  "mobile": false,
+  "v": "df627c16"
+ },
+ {
+  "src": "/screens/contact-points-editor/06.webp",
+  "w": 780,
+  "h": 2400,
+  "caption": "Width",
+  "mobile": false,
+  "v": "e4978a15"
+ }
+]

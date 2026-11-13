@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/mutual-action-plan-editor/01.webp",
+  "w": 1400,
+  "h": 1643,
+  "caption": "A plan that is At risk",
+  "mobile": false,
+  "v": "12297a7a"
+ },
+ {
+  "src": "/screens/mutual-action-plan-editor/02.webp",
+  "w": 1400,
+  "h": 1902,
+  "caption": "Details of a buyer step",
+  "mobile": false,
+  "v": "81e193eb"
+ },
+ {
+  "src": "/screens/mutual-action-plan-editor/03.webp",
+  "w": 1400,
+  "h": 2074,
+  "caption": "List view filtered to buyer steps that are not",
+  "mobile": false,
+  "v": "d24dc283"
+ },
+ {
+  "src": "/screens/mutual-action-plan-editor/04.webp",
+  "w": 1400,
+  "h": 2400,
+  "caption": "Adding a milestone",
+  "mobile": false,
+  "v": "b62a0bf2"
+ },
+ {
+  "src": "/screens/mutual-action-plan-editor/05.webp",
+  "w": 1400,
+  "h": 1643,
+  "caption": "Off track plan",
+  "mobile": false,
+  "v": "46e21f36"
+ },
+ {
+  "src": "/screens/mutual-action-plan-editor/06.webp",
+  "w": 1400,
+  "h": 1238,
+  "caption": "Eleven template milestones back scheduled from",
+  "mobile": false,
+  "v": "388296b7"
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "src": "/screens/event-ticket-selector/01.webp",
+  "w": 1400,
+  "h": 1364,
+  "caption": "Order with VIP and standard seats a free child",
+  "mobile": false,
+  "v": "20d86514"
+ },
+ {
+  "src": "/screens/event-ticket-selector/02.webp",
+  "w": 1400,
+  "h": 1467,
+  "caption": "Messages",
+  "mobile": false,
+  "v": "f7f7039f"
+ },
+ {
+  "src": "/screens/event-ticket-selector/03.webp",
+  "w": 1400,
+  "h": 658,
+  "caption": "Concession filter selected",
+  "mobile": false,
+  "v": "b296f279"
+ },
+ {
+  "src": "/screens/event-ticket-selector/04.webp",
+  "w": 1400,
+  "h": 1125,
+  "caption": "Conference registration in orange with rows",
+  "mobile": false,
+  "v": "520eb6cb"
+ },
+ {
+  "src": "/screens/event-ticket-selector/05.webp",
+  "w": 768,
+  "h": 1520,
+  "caption": "Family camp registration on a px with",
+  "mobile": false,
+  "v": "7af7f262"
+ }
+]

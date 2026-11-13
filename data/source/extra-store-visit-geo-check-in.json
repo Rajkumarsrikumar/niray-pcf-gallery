@@ -1,0 +1,45 @@
+{
+ "name": "StoreVisitGeoCheckIn",
+ "displayName": "Store Visit Geo Check-In",
+ "slug": "store-visit-geo-check-in",
+ "tagline": "Store Visit Geo Check-In records a store or site visit with proof of presence.",
+ "description": "Store Visit Geo Check-In records a store or site visit with proof of presence. It finds the phone's position (no map service or API key), shows on a radar how far and in which direction you are from the store, compares that with the store's geofence and the GPS accuracy, and then lets you check in, take breaks and check out. Exceptions - checking in outside the fence, a poor GPS fix, no location, leaving before the minimum visit time - are either blocked, allowed with a reason code, or simply flagged, depending on the policy your app maker chose.",
+ "features": [
+  "Locate the device (no map API key), see distance",
+  "Bearing and GPS accuracy on a radar against the store's geofence",
+  "Check in (blocked, reason-coded or allowed when outside the fence or the fix is poor)",
+  "Live on-site timer with minimum-visit progress, breaks",
+  "Check-out with a fresh fix and early-leave reason, visit log",
+  "Summary and outputs/events for Power Fx and flows",
+  "Keyboard and touch operable, phone layout"
+ ],
+ "industry": "Field Service & Merchandising",
+ "pack": null,
+ "category": "Canvas app field control",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "store",
+  "visit",
+  "geo",
+  "check",
+  "service",
+  "merchandising",
+  "canvas"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-05",
+ "schemaName": "pcfl_PCFLib.StoreVisitGeoCheckIn",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "StoreVisitGeoCheckIn_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

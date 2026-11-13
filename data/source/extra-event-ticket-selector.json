@@ -1,0 +1,44 @@
+{
+ "name": "EventTicketSelector",
+ "displayName": "Event Ticket Selector (PCFLib)",
+ "slug": "event-ticket-selector",
+ "tagline": "The Event Ticket Selector turns one text column into a complete ticket chooser.",
+ "description": "The Event Ticket Selector turns one text column into a complete ticket chooser. Visitors see every ticket tier as a card with its price, description and status, choose quantities with large + and - buttons, add optional extras (parking, workshops, transport), type a promo code and watch the order total update straight away - including booking fees and GST.",
+ "features": [
+  "Shows seats left (\"Only 6 left\"), sold out, sales ended and sale ends soon so visitors are never surprised",
+  "Respects per-tier limits (for example max 4 VIP seats), an order limit (for example 10 tickets) and sets (corporate seats in blocks of 5)",
+  "Treats add-ons separately: they never count towards the ticket limit, and they need at least one ticket in the same order",
+  "Applies promo codes as a percentage or an amount off, optionally only for some tiers",
+  "Adds a booking fee per paid ticket and GST (included in prices or added on top)",
+  "Filters by category, searches and sorts long ticket lists, and on phones keeps a sticky total bar at the bottom of the screen"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Power Pages code component",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps",
+  "Power Pages"
+ ],
+ "tags": [
+  "event",
+  "ticket",
+  "selector",
+  "cross-industry",
+  "power",
+  "pages"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-02",
+ "schemaName": "pcfl_PCFLib.EventTicketSelector",
+ "react": null,
+ "controlType": "standard",
+ "userManual": "EventTicketSelector_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

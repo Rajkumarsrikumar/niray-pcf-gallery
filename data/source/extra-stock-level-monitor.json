@@ -1,0 +1,43 @@
+{
+ "name": "StockLevelMonitor",
+ "displayName": "Stock Level Monitor",
+ "slug": "stock-level-monitor",
+ "tagline": "Stock Level Monitor turns a list of stock items into a replenishment board.",
+ "description": "Stock Level Monitor turns a list of stock items into a replenishment board. For every item it compares the quantity on hand with the reorder point, the maximum level and the average daily usage, and gives it a clear status: Out of stock, Below reorder point, Low cover, Healthy, Overstock or No stock data.",
+ "features": [
+  "Status rules (out of stock, below reorder point, low days of cover, overstock)",
+  "KPI tiles that filter, search",
+  "Location and category filters",
+  "Sort and grouping",
+  "Stock bars with reorder and max markers",
+  "Suggested order quantities rounded to pack size",
+  "A reorder list with quantity validation and outputs for canvas Patch or flows",
+  "Cards or table layout and a phone card view"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "stock",
+  "level",
+  "monitor",
+  "cross-industry"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-03",
+ "schemaName": "pcfl_PCFLib.StockLevelMonitor",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "StockLevelMonitor_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

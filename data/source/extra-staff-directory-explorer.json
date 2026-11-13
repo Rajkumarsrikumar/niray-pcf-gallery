@@ -1,0 +1,44 @@
+{
+ "name": "StaffDirectoryExplorer",
+ "displayName": "Staff Directory Explorer",
+ "slug": "staff-directory-explorer",
+ "tagline": "Staff Directory Explorer turns any list of people - staff, contacts, volunteers, church or club members, contractors - into an easy people finder.",
+ "description": "Staff Directory Explorer turns any list of people - staff, contacts, volunteers, church or club members, contractors - into an easy people finder. Users search by name, job title, team, location or skill, narrow the list with department chips and location / status filters, jump with the A-Z bar, and open a details panel that shows the person's manager and direct reports with one-tap Email, Call, Teams chat and Copy email actions.",
+ "features": [
+  "Card and list views",
+  "Search across name, job title, department",
+  "Location and skills",
+  "Department / location / status filters with counts",
+  "A-Z jump bar",
+  "Grouping with collapsible sections",
+  "Presence status badges",
+  "A details panel with manager and direct reports",
+  "Email / call / Teams chat / copy quick actions"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "staff",
+  "directory",
+  "explorer",
+  "cross-industry"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-05",
+ "schemaName": "pcfl_PCFLib.StaffDirectoryExplorer",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "StaffDirectoryExplorer_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

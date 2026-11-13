@@ -1,0 +1,46 @@
+{
+ "name": "ApprovalFlowSankey",
+ "displayName": "Approval Flow Sankey",
+ "slug": "approval-flow-sankey",
+ "tagline": "Approval Flow Sankey shows how approval requests really move between stages.",
+ "description": "Approval Flow Sankey shows how approval requests really move between stages. Every request leaves a trail of moves – Submitted to Line manager, Line manager to Finance review, Finance review to CFO approval, and finally Approved, Rejected or Withdrawn. The control draws these moves as a Sankey diagram: each stage is a bar, and the ribbons between them are as wide as the number of requests (or the amount) that took that path.",
+ "features": [
+  "A Sankey flow diagram with ribbons sized by request count or amount",
+  "A phone-friendly stage ladder and an accessible flow table",
+  "Highlights rework loops (sent back to an earlier stage)",
+  "Slow hand-offs over an SLA",
+  "Approval / rejection rates and the bottleneck stage",
+  "Filter by segment, search requests",
+  "Hide thin flows",
+  "Drill into a flow or stage to list its requests",
+  "Open a record or copy the list",
+  "Power Fx outputs and events"
+ ],
+ "industry": "Approvals & Workflow",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "approval",
+  "flow",
+  "sankey",
+  "approvals",
+  "workflow"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-11",
+ "schemaName": "pcfl_PCFLib.ApprovalFlowSankey",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "ApprovalFlowSankey_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

@@ -1,0 +1,37 @@
+{
+ "name": "InlineEditGrid",
+ "displayName": "Inline Edit Grid",
+ "slug": "inline-edit-grid",
+ "tagline": "The Inline Edit Grid shows a list of records - for example the lines of a purchase order - as a table you can edit directly, like a spreadsheet.",
+ "description": "The Inline Edit Grid shows a list of records - for example the lines of a purchase order - as a table you can edit directly, like a spreadsheet. Instead of opening each record, changing one field and saving, you change the cells you need, see at a glance what you have changed, fix anything the grid flags, and save everything with one click.",
+ "features": [
+  "Edit text, number, currency, date",
+  "Yes/No and Choice cells in place with inline validation, change highlighting",
+  "Totals and one-click Save (Dataverse) or a changes JSON output for canvas Patch"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "inline",
+  "edit",
+  "cross-industry"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-27",
+ "schemaName": "pcfl_PCFLib.InlineEditGrid",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "InlineEditGrid_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

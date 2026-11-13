@@ -1,0 +1,42 @@
+[
+ {
+  "src": "/screens/time-zone-meeting-planner/01.webp",
+  "w": 1400,
+  "h": 809,
+  "caption": "Singapore London and New York on one day with",
+  "mobile": false,
+  "v": "cd1e7e23"
+ },
+ {
+  "src": "/screens/time-zone-meeting-planner/02.webp",
+  "w": 1400,
+  "h": 1047,
+  "caption": "17",
+  "mobile": false,
+  "v": "56953bcc"
+ },
+ {
+  "src": "/screens/time-zone-meeting-planner/03.webp",
+  "w": 1400,
+  "h": 1109,
+  "caption": "Singapore London Dubai and Bengaluru share one",
+  "mobile": false,
+  "v": "1805c040"
+ },
+ {
+  "src": "/screens/time-zone-meeting-planner/04.webp",
+  "w": 1400,
+  "h": 1201,
+  "caption": "A 90 minute steering committee across Singapore",
+  "mobile": false,
+  "v": "14e6e5f9"
+ },
+ {
+  "src": "/screens/time-zone-meeting-planner/05.webp",
+  "w": 1400,
+  "h": 1240,
+  "caption": "The planner on a",
+  "mobile": false,
+  "v": "aa1191ac"
+ }
+]

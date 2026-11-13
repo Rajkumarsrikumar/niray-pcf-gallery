@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/work-order-dispatch-queue/01.webp",
+  "w": 1400,
+  "h": 295,
+  "caption": "Before data is connected",
+  "mobile": false,
+  "v": "e7848299"
+ },
+ {
+  "src": "/screens/work-order-dispatch-queue/02.webp",
+  "w": 1400,
+  "h": 1282,
+  "caption": "Todays store work orders sorted by SLA due with",
+  "mobile": false,
+  "v": "ef7aebca"
+ },
+ {
+  "src": "/screens/work-order-dispatch-queue/03.webp",
+  "w": 1400,
+  "h": 1585,
+  "caption": "Three breached jobs selected for bulk",
+  "mobile": false,
+  "v": "c4ec14d6"
+ },
+ {
+  "src": "/screens/work-order-dispatch-queue/04.webp",
+  "w": 1400,
+  "h": 714,
+  "caption": "Unassigned P1 and P2 jobs only 5 of 30 work",
+  "mobile": false,
+  "v": "f29995d8"
+ },
+ {
+  "src": "/screens/work-order-dispatch-queue/05.webp",
+  "w": 1400,
+  "h": 1524,
+  "caption": "Grouped by technician with an orange accent",
+  "mobile": false,
+  "v": "a99415e0"
+ },
+ {
+  "src": "/screens/work-order-dispatch-queue/06.webp",
+  "w": 1400,
+  "h": 1367,
+  "caption": "View only queue grouped by SLA state",
+  "mobile": false,
+  "v": "c861be93"
+ }
+]

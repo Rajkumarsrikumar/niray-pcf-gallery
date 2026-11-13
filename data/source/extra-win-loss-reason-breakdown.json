@@ -1,0 +1,41 @@
+{
+ "name": "WinLossReasonBreakdown",
+ "displayName": "Win-Loss Reason Breakdown",
+ "slug": "win-loss-reason-breakdown",
+ "tagline": "Win / Loss Reason Breakdown turns a list of closed opportunities into a clear answer to two questions every sales leader asks: why do we win, and why do we lose?",
+ "description": "Win / Loss Reason Breakdown turns a list of closed opportunities into a clear answer to two questions every sales leader asks: why do we win, and why do we lose? It shows the win rate against your target, how many deals (and how much value) were won and lost, and two ranked lists of reasons. Each reason shows its share and the competitor you met most often. Tap a reason and the deals behind it are selected, so the app can open them straight away.",
+ "features": [
+  "Win rate against a target",
+  "Won vs lost split",
+  "Ranked win and loss reasons by count or value",
+  "Tap a reason to select its deals in Power Fx"
+ ],
+ "industry": "CRM & Sales",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "win",
+  "loss",
+  "reason",
+  "breakdown",
+  "crm",
+  "sales"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-12",
+ "schemaName": "pcfl_PCFLib.WinLossReasonBreakdown",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "WinLossReasonBreakdown_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

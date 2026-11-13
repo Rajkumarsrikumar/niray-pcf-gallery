@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/variant-matrix-order/01.webp",
+  "w": 1400,
+  "h": 1247,
+  "caption": "A new order",
+  "mobile": false,
+  "v": "0c042466"
+ },
+ {
+  "src": "/screens/variant-matrix-order/02.webp",
+  "w": 1400,
+  "h": 1187,
+  "caption": "A filled order of polos",
+  "mobile": false,
+  "v": "35b040eb"
+ },
+ {
+  "src": "/screens/variant-matrix-order/03.webp",
+  "w": 1400,
+  "h": 712,
+  "caption": "Corporate blue filled with 60 units by the size",
+  "mobile": false,
+  "v": "d0a2b587"
+ },
+ {
+  "src": "/screens/variant-matrix-order/04.webp",
+  "w": 1400,
+  "h": 1350,
+  "caption": "Pack size 6",
+  "mobile": false,
+  "v": "a6ade8e3"
+ },
+ {
+  "src": "/screens/variant-matrix-order/05.webp",
+  "w": 1180,
+  "h": 2400,
+  "caption": "Cards layout with an orange accent",
+  "mobile": false,
+  "v": "d1833f59"
+ },
+ {
+  "src": "/screens/variant-matrix-order/06.webp",
+  "w": 1400,
+  "h": 1247,
+  "caption": "Backorders allowed In stock only on and sorted",
+  "mobile": false,
+  "v": "1a1f0a35"
+ }
+]

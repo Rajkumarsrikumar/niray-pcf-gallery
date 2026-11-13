@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/deal-qualification-tracker/01.webp",
+  "w": 1400,
+  "h": 2400,
+  "caption": "A qualified deal",
+  "mobile": false,
+  "v": "47d0d9ed"
+ },
+ {
+  "src": "/screens/deal-qualification-tracker/02.webp",
+  "w": 1400,
+  "h": 1311,
+  "caption": "Updating Economic buyer to Confirmed with",
+  "mobile": false,
+  "v": "8d25e1e5"
+ },
+ {
+  "src": "/screens/deal-qualification-tracker/03.webp",
+  "w": 1340,
+  "h": 1020,
+  "caption": "Validation",
+  "mobile": false,
+  "v": "8074e433"
+ },
+ {
+  "src": "/screens/deal-qualification-tracker/04.webp",
+  "w": 1400,
+  "h": 2314,
+  "caption": "Propose stage with Gate needs at least",
+  "mobile": false,
+  "v": "98269c05"
+ },
+ {
+  "src": "/screens/deal-qualification-tracker/05.webp",
+  "w": 1340,
+  "h": 2400,
+  "caption": "BANT framework with custom weights for a",
+  "mobile": false,
+  "v": "31021470"
+ },
+ {
+  "src": "/screens/deal-qualification-tracker/06.webp",
+  "w": 780,
+  "h": 2300,
+  "caption": "Width",
+  "mobile": false,
+  "v": "a76521aa"
+ }
+]

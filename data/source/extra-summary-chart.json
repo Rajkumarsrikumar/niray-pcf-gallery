@@ -1,0 +1,39 @@
+{
+ "name": "SummaryChart",
+ "displayName": "Summary Chart",
+ "slug": "summary-chart",
+ "tagline": "Summary Chart turns a list of records — a Dataverse view, a sub-grid or a canvas collection — into a clear chart.",
+ "description": "Summary Chart turns a list of records — a Dataverse view, a sub-grid or a canvas collection — into a clear chart. It groups the records by one column (for example Status, Department, Supplier or Created on) and shows how many there are, or adds up / averages a number column such as Amount.",
+ "features": [
+  "Groups records by a category column (Choice, text, lookup, Yes/No or date by month/quarter/year)",
+  "Counts them or sums / averages a number column",
+  "Optional series split",
+  "Top N + Other, target line",
+  "Accessible data-table view and click-to-select outputs"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "summary",
+  "chart",
+  "cross-industry"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.1",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-27",
+ "schemaName": "pcfl_PCFLib.SummaryChart",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "SummaryChart_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

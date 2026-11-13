@@ -1,0 +1,40 @@
+{
+ "name": "QuotaAttainmentLeaderboard",
+ "displayName": "Quota Attainment Leaderboard",
+ "slug": "quota-attainment-leaderboard",
+ "tagline": "The Quota Attainment Leaderboard ranks your sales reps by how much of their quota they have won.",
+ "description": "The Quota Attainment Leaderboard ranks your sales reps by how much of their quota they have won. It adds up each rep's won deals, compares the total with the rep's quota and with how far you are through the period, and shows a podium for the top three, a ranked list with progress bars, and a clear status for every rep.",
+ "features": [
+  "Top-3 podium",
+  "Pace-aware status (Quota met / Ahead of pace / Behind pace / At risk)",
+  "Team totals and team filter",
+  "Tap a rep to select their deals in Power Fx"
+ ],
+ "industry": "CRM & Sales",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "quota",
+  "attainment",
+  "leaderboard",
+  "crm",
+  "sales"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-12",
+ "schemaName": "pcfl_PCFLib.QuotaAttainmentLeaderboard",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "QuotaAttainmentLeaderboard_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

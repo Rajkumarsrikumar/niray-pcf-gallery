@@ -1,0 +1,44 @@
+{
+ "name": "DealQualificationTracker",
+ "displayName": "Deal Qualification Tracker",
+ "slug": "deal-qualification-tracker",
+ "tagline": "The Deal Qualification Tracker helps a sales team decide how real an opportunity is.",
+ "description": "The Deal Qualification Tracker helps a sales team decide how real an opportunity is. It follows a well-known qualification framework - MEDDPICC (Metrics, Economic buyer, Decision criteria, Decision process, Paper process, Identify pain, Champion, Competition), MEDDICC, BANT or SPICED - and records, for each criterion, how sure you are, the evidence, and the person on the customer side.",
+ "features": [
+  "A status per criterion (Unknown, Partial, Confirmed, Red flag) with evidence, buying-committee contact",
+  "Who updated it and when",
+  "Weighted 0-100 qualification score with Strong / Developing / Weak grade",
+  "Stage-gate check against the opportunity stage, stale-evidence flags",
+  "Coaching questions for the biggest gaps, filters, history",
+  "A phone layout",
+  "Power Fx outputs and events"
+ ],
+ "industry": "CRM & Sales",
+ "pack": null,
+ "category": "Model-driven / Dataverse field control",
+ "hosts": [
+  "Model-driven apps"
+ ],
+ "tags": [
+  "deal",
+  "qualification",
+  "tracker",
+  "crm",
+  "sales",
+  "model-driven",
+  "dataverse"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-12",
+ "schemaName": "pcfl_PCFLib.DealQualificationTracker",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "DealQualificationTracker_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

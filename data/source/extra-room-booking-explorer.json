@@ -1,0 +1,42 @@
+{
+ "name": "RoomBookingExplorer",
+ "displayName": "Room Booking Explorer",
+ "slug": "room-booking-explorer",
+ "tagline": "Room Booking Explorer turns a list of meeting rooms into a visual room finder.",
+ "description": "Room Booking Explorer turns a list of meeting rooms into a visual room finder. Each room shows its facilities as icons (projector, projection screen, whiteboard, video conferencing, display, conference phone, wheelchair access, catering), its seat count and seating layout, and how much of the day is still free. When you pick a room, the control draws the room from above: the table or rows of chairs, the screen and projector beam, the whiteboard, the camera, the catering counter and the door, with one chair coloured for each of your attendees. You then choose free time slots and send a booking request.",
+ "features": [
+  "Room cards or a day timeline of every room, with booked times shown as grey blocks",
+  "Search, attendee count, building filter, facility chips and Free only filter; sort by best fit, most free time, largest first or name",
+  "A floor-plan drawing for six seating layouts: Boardroom, Classroom, Theatre, U-shape, Cabaret and Hollow square",
+  "A time-slot picker with quick \"Next free 30 min / 1 h / 2 h\" buttons",
+  "Checks for clashes with existing bookings, the longest allowed booking and room capacity",
+  "A booking request output (room, start, end, minutes, attendees, facilities) that your app saves to Dataverse, Outlook or a flow",
+  "Works on phones down to 320 px wide, with touch-friendly buttons and full keyboard support"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "room",
+  "booking",
+  "explorer",
+  "cross-industry"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-03",
+ "schemaName": "pcfl_PCFLib.RoomBookingExplorer",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "RoomBookingExplorer_USER_GUIDE.docx",
+ "screenshotCount": 10,
+ "price": null
+}

@@ -1,0 +1,39 @@
+{
+ "name": "RecurrenceEditor",
+ "displayName": "Recurrence Editor",
+ "slug": "recurrence-editor",
+ "tagline": "The Recurrence Editor lets people set up a repeat schedule on a record, the same way they set up a recurring meeting in Outlook.",
+ "description": "The Recurrence Editor lets people set up a repeat schedule on a record, the same way they set up a recurring meeting in Outlook. They choose how often something happens, on which days, from when and until when, and the control immediately shows a plain-English summary and the next dates that will happen.",
+ "features": [
+  "Daily, weekly",
+  "Monthly or yearly patterns with presets, end rules, skipped dates, holiday handling",
+  "A live next-dates preview (list or calendar) and an iCalendar RRULE value plus summary / next occurrence / count outputs"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Canvas app field control",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps",
+  "Power Pages"
+ ],
+ "tags": [
+  "recurrence",
+  "editor",
+  "cross-industry",
+  "canvas"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-27",
+ "schemaName": "pcfl_PCFLib.RecurrenceEditor",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "RecurrenceEditor_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

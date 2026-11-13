@@ -1,0 +1,42 @@
+[
+ {
+  "src": "/screens/budget-phasing-editor/01.webp",
+  "w": 1400,
+  "h": 659,
+  "caption": "A balanced plan of S 00 with April to June",
+  "mobile": false,
+  "v": "55f42587"
+ },
+ {
+  "src": "/screens/budget-phasing-editor/02.webp",
+  "w": 1400,
+  "h": 903,
+  "caption": "The spread panel for Scanners & hardware with",
+  "mobile": false,
+  "v": "d5a3f5be"
+ },
+ {
+  "src": "/screens/budget-phasing-editor/03.webp",
+  "w": 1400,
+  "h": 591,
+  "caption": "Quarter roll up of the same plan",
+  "mobile": false,
+  "v": "55dd6dc8"
+ },
+ {
+  "src": "/screens/budget-phasing-editor/04.webp",
+  "w": 1400,
+  "h": 603,
+  "caption": "Chart view with a navy accent and orange",
+  "mobile": false,
+  "v": "96b97cdb"
+ },
+ {
+  "src": "/screens/budget-phasing-editor/05.webp",
+  "w": 780,
+  "h": 1962,
+  "caption": "Width",
+  "mobile": false,
+  "v": "2c5324bc"
+ }
+]

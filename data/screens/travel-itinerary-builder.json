@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/travel-itinerary-builder/01.webp",
+  "w": 1340,
+  "h": 2400,
+  "caption": "A completed multi city trip",
+  "mobile": false,
+  "v": "97d06bec"
+ },
+ {
+  "src": "/screens/travel-itinerary-builder/02.webp",
+  "w": 1340,
+  "h": 1560,
+  "caption": "Problems are flagged at the top on the leg and",
+  "mobile": false,
+  "v": "155aa999"
+ },
+ {
+  "src": "/screens/travel-itinerary-builder/03.webp",
+  "w": 1340,
+  "h": 671,
+  "caption": "The fix list and policy notes each with a Go to",
+  "mobile": false,
+  "v": "35ecd458"
+ },
+ {
+  "src": "/screens/travel-itinerary-builder/04.webp",
+  "w": 1340,
+  "h": 1681,
+  "caption": "A five leg site visit with every leg collapsed",
+  "mobile": false,
+  "v": "eb7ca7a6"
+ },
+ {
+  "src": "/screens/travel-itinerary-builder/05.webp",
+  "w": 1340,
+  "h": 2004,
+  "caption": "A return conference trip in orange with Premium",
+  "mobile": false,
+  "v": "253a4213"
+ },
+ {
+  "src": "/screens/travel-itinerary-builder/06.webp",
+  "w": 1340,
+  "h": 425,
+  "caption": "A settings note and an unreadable saved value",
+  "mobile": false,
+  "v": "bece2432"
+ }
+]

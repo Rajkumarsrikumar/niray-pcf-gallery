@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/appointment-slot-picker/01.webp",
+  "w": 1340,
+  "h": 1360,
+  "caption": "Default view",
+  "mobile": false,
+  "v": "eef991e1"
+ },
+ {
+  "src": "/screens/appointment-slot-picker/02.webp",
+  "w": 1340,
+  "h": 1576,
+  "caption": "A slot chosen on Wednesday",
+  "mobile": false,
+  "v": "be03eeb1"
+ },
+ {
+  "src": "/screens/appointment-slot-picker/03.webp",
+  "w": 1340,
+  "h": 1120,
+  "caption": "Afternoon filter on Thursday with 3",
+  "mobile": false,
+  "v": "9760c18b"
+ },
+ {
+  "src": "/screens/appointment-slot-picker/04.webp",
+  "w": 1340,
+  "h": 736,
+  "caption": "A closed day",
+  "mobile": false,
+  "v": "7f833b34"
+ },
+ {
+  "src": "/screens/appointment-slot-picker/05.webp",
+  "w": 1340,
+  "h": 1676,
+  "caption": "A saved time that is now y booked is",
+  "mobile": false,
+  "v": "9d9fba73"
+ },
+ {
+  "src": "/screens/appointment-slot-picker/06.webp",
+  "w": 1340,
+  "h": 872,
+  "caption": "60 minute slots capacity 3 24 hour times",
+  "mobile": false,
+  "v": "61cff6ff"
+ }
+]

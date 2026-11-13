@@ -1,0 +1,41 @@
+{
+ "name": "CostAllocationEditor",
+ "displayName": "Cost Allocation Editor (PCFLib)",
+ "slug": "cost-allocation-editor",
+ "tagline": "The Cost Allocation Editor lets people split one amount - a purchase requisition, supplier invoice, expense claim, grant or shared contract - across several cost…",
+ "description": "The Cost Allocation Editor lets people split one amount - a purchase requisition, supplier invoice, expense claim, grant or shared contract - across several cost centres, projects, GL accounts or funds. Each line can be entered as a percentage or as an amount; the other value is worked out for you and the pennies always add up to the total.",
+ "features": [
+  "Searchable cost centre list grouped by department, showing the owner and remaining budget",
+  "Share (%) and Amount on every line - change either one; rounding differences go to the largest line so the total is exact",
+  "Stacked allocation bar, Allocated / remaining summary and a clear status: Fully allocated, % to allocate or Over by %",
+  "Split evenly, Fill remaining share, Lock a line, Split templates, Clear and Undo",
+  "Budget check per line (warn or block), note required above an amount, minimum % per line, minimum and maximum number of lines",
+  "Table layout on wide screens and touch-friendly cards on phones"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": null,
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "cost",
+  "allocation",
+  "editor",
+  "cross-industry"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": null,
+ "schemaName": "pcfl_PCFLib.CostAllocationEditor",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "CostAllocationEditor_USER_GUIDE.docx",
+ "screenshotCount": 10,
+ "price": null
+}

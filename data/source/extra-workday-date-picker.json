@@ -1,0 +1,40 @@
+{
+ "name": "WorkdayDatePicker",
+ "displayName": "Workday Date Picker (business days and holidays)",
+ "slug": "workday-date-picker",
+ "tagline": "The Workday Date Picker replaces the standard date box for dates that must land on a working day: delivery \"required by\" dates, due dates, visit dates and promise dates.",
+ "description": "The Workday Date Picker replaces the standard date box for dates that must land on a working day: delivery \"required by\" dates, due dates, visit dates and promise dates. It knows your working week (for example Monday to Friday) and your holidays and closure days, so people cannot accidentally choose a Saturday or a public holiday.",
+ "features": [
+  "Greys out weekends and holidays",
+  "Enforces a lead time in working days",
+  "Offers +N working-day quick picks and shows how many working days away the date is"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Model-driven / Dataverse field control",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "workday",
+  "date",
+  "picker",
+  "cross-industry",
+  "model-driven",
+  "dataverse"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-27",
+ "schemaName": "pcfl_PCFLib.WorkdayDatePicker",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "WorkdayDatePicker_USER_GUIDE.docx",
+ "screenshotCount": 10,
+ "price": null
+}

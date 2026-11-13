@@ -1,0 +1,42 @@
+{
+ "name": "PortfolioBubbleChart",
+ "displayName": "Portfolio Bubble Chart",
+ "slug": "portfolio-bubble-chart",
+ "tagline": "Portfolio Bubble Chart turns a list of records into a quadrant bubble chart.",
+ "description": "Portfolio Bubble Chart turns a list of records into a quadrant bubble chart. Each record is a bubble: its position shows two measures (for example business value across and delivery risk up), its size shows a third (for example budget) and its colour shows a category (for example the programme).",
+ "features": [
+  "Plot records by two measures (e.g. value vs risk, spend vs supply risk) with bubble size and category colour",
+  "Configurable thresholds and quadrant names",
+  "Quadrant filter and zoom",
+  "Category legend filter, search highlight",
+  "Details card with open record",
+  "Sortable table / phone card list, KPIs",
+  "Keyboard and touch navigation and a phone layout"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "portfolio",
+  "bubble",
+  "chart",
+  "cross-industry"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-04",
+ "schemaName": "pcfl_PCFLib.PortfolioBubbleChart",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "PortfolioBubbleChart_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

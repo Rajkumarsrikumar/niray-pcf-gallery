@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/approval-conditions-tracker/01.webp",
+  "w": 1400,
+  "h": 1630,
+  "caption": "Purchase requisition PR with 10",
+  "mobile": false,
+  "v": "1071045a"
+ },
+ {
+  "src": "/screens/approval-conditions-tracker/02.webp",
+  "w": 1400,
+  "h": 1218,
+  "caption": "The IT security sign off has evidence so a",
+  "mobile": false,
+  "v": "524e7959"
+ },
+ {
+  "src": "/screens/approval-conditions-tracker/03.webp",
+  "w": 1400,
+  "h": 1994,
+  "caption": "Add a condition",
+  "mobile": false,
+  "v": "0f994abb"
+ },
+ {
+  "src": "/screens/approval-conditions-tracker/04.webp",
+  "w": 1400,
+  "h": 1390,
+  "caption": "Waiving the warranty condition",
+  "mobile": false,
+  "v": "536faefb"
+ },
+ {
+  "src": "/screens/approval-conditions-tracker/05.webp",
+  "w": 1400,
+  "h": 1540,
+  "caption": "Grouped by owner with the Outstanding tile",
+  "mobile": false,
+  "v": "49398072"
+ },
+ {
+  "src": "/screens/approval-conditions-tracker/06.webp",
+  "w": 1400,
+  "h": 1550,
+  "caption": "All blocking conditions are met",
+  "mobile": false,
+  "v": "0bebd7a5"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/likert-matrix/01.webp",
+  "w": 1340,
+  "h": 650,
+  "caption": "A new supplier review",
+  "mobile": false,
+  "v": "334dd16b"
+ },
+ {
+  "src": "/screens/likert-matrix/02.webp",
+  "w": 1340,
+  "h": 681,
+  "caption": "Three of five answered",
+  "mobile": false,
+  "v": "954771f6"
+ },
+ {
+  "src": "/screens/likert-matrix/03.webp",
+  "w": 1340,
+  "h": 650,
+  "caption": "All statements answered with the average score",
+  "mobile": false,
+  "v": "1b3d5676"
+ },
+ {
+  "src": "/screens/likert-matrix/04.webp",
+  "w": 860,
+  "h": 1455,
+  "caption": "Stacked cards on a narrow screen",
+  "mobile": false,
+  "v": "d9196503"
+ },
+ {
+  "src": "/screens/likert-matrix/05.webp",
+  "w": 1400,
+  "h": 640,
+  "caption": "Event feedback with a PoorExcellent scale score",
+  "mobile": false,
+  "v": "311dbe1d"
+ },
+ {
+  "src": "/screens/likert-matrix/06.webp",
+  "w": 820,
+  "h": 939,
+  "caption": "The same style on a with NA chosen for",
+  "mobile": false,
+  "v": "cec3d802"
+ }
+]

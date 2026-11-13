@@ -1,0 +1,42 @@
+{
+ "name": "ChoicePillToggle",
+ "displayName": "Choice Pill Toggle",
+ "slug": "choice-pill-toggle",
+ "tagline": "Choice Pill Toggle replaces the usual drop-down for a Choice column with a row of buttons.",
+ "description": "Choice Pill Toggle replaces the usual drop-down for a Choice column with a row of buttons. All the options are visible, and you change the value with a single click or tap — no need to open a list.",
+ "features": [
+  "Segmented bar",
+  "Full-width, large buttons",
+  "Vertical list",
+  "Your own highlight colour",
+  "Compact, without the check mark"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Model-driven / Dataverse field control",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "choice",
+  "pill",
+  "toggle",
+  "cross-industry",
+  "model-driven",
+  "dataverse"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.2",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-16",
+ "schemaName": "pcfl_PCFLib.ChoicePillToggle",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "ChoicePillToggle_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/availability-grid/01.webp",
+  "w": 1340,
+  "h": 2048,
+  "caption": "A volunteers week",
+  "mobile": false,
+  "v": "38314ea2"
+ },
+ {
+  "src": "/screens/availability-grid/02.webp",
+  "w": 1340,
+  "h": 1822,
+  "caption": "Dragging down Friday with the If needed brush",
+  "mobile": false,
+  "v": "88353407"
+ },
+ {
+  "src": "/screens/availability-grid/03.webp",
+  "w": 1340,
+  "h": 1856,
+  "caption": "The rules message",
+  "mobile": false,
+  "v": "96f1c8af"
+ },
+ {
+  "src": "/screens/availability-grid/04.webp",
+  "w": 1340,
+  "h": 1158,
+  "caption": "Ministry rota with named periods 12 hour times",
+  "mobile": false,
+  "v": "e1a82f5c"
+ },
+ {
+  "src": "/screens/availability-grid/05.webp",
+  "w": 800,
+  "h": 2400,
+  "caption": "Width",
+  "mobile": false,
+  "v": "d9a66968"
+ },
+ {
+  "src": "/screens/availability-grid/06.webp",
+  "w": 1340,
+  "h": 1404,
+  "caption": "Configuration notes",
+  "mobile": false,
+  "v": "38147c6c"
+ }
+]

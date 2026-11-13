@@ -1,0 +1,43 @@
+{
+ "name": "DealHealthInspector",
+ "displayName": "Deal Health Inspector",
+ "slug": "deal-health-inspector",
+ "tagline": "Pipeline inspection list over any table, view or collection of open opportunities: scores every deal 0-100 against configurable health rules (close date passed, closing…",
+ "description": "Pipeline inspection list over any table, view or collection of open opportunities: scores every deal 0-100 against configurable health rules (close date passed, closing soon in an early stage, no recent activity, stuck in stage, pushed too often, no next step, no champion), shows Healthy / Watch / At risk bands, a band bar and clickable issue breakdown, search, band / owner / stage / issue filters, sorting, grouping, expandable reasons with review and request-update actions (single or bulk), a phone card layout, and Power Fx outputs and events.",
+ "features": [
+  "Scores every deal 0-100 against configurable health rules (close date passed, closing soon in an early stage, no recent activity, stuck in stage, pushed too often, no next step, no champion)",
+  "Shows Healthy / Watch / At risk bands",
+  "A band bar and clickable issue breakdown, search",
+  "Band / owner / stage / issue filters, sorting, grouping",
+  "Expandable reasons with review and request-update actions (single or bulk)",
+  "A phone card layout",
+  "Power Fx outputs and events"
+ ],
+ "industry": "CRM & Sales",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "deal",
+  "health",
+  "inspector",
+  "crm",
+  "sales"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-12",
+ "schemaName": "pcfl_PCFLib.DealHealthInspector",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "DealHealthInspector_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

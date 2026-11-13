@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/change-approval-risk-assessor/01.webp",
+  "w": 1400,
+  "h": 1565,
+  "caption": "A new change request",
+  "mobile": false,
+  "v": "f102c010"
+ },
+ {
+  "src": "/screens/change-approval-risk-assessor/02.webp",
+  "w": 1400,
+  "h": 1361,
+  "caption": "Risk assessment step",
+  "mobile": false,
+  "v": "e0a3076c"
+ },
+ {
+  "src": "/screens/change-approval-risk-assessor/03.webp",
+  "w": 1400,
+  "h": 1725,
+  "caption": "Validation",
+  "mobile": false,
+  "v": "316658a2"
+ },
+ {
+  "src": "/screens/change-approval-risk-assessor/04.webp",
+  "w": 1400,
+  "h": 1873,
+  "caption": "Review step after Submit",
+  "mobile": false,
+  "v": "737ce850"
+ },
+ {
+  "src": "/screens/change-approval-risk-assessor/05.webp",
+  "w": 1400,
+  "h": 1903,
+  "caption": "Normal change inside the year end freeze",
+  "mobile": false,
+  "v": "0acf070a"
+ },
+ {
+  "src": "/screens/change-approval-risk-assessor/06.webp",
+  "w": 1400,
+  "h": 1825,
+  "caption": "Emergency change",
+  "mobile": false,
+  "v": "d771db36"
+ }
+]

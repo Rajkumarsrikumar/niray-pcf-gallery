@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/staff-directory-explorer/01.webp",
+  "w": 1400,
+  "h": 1093,
+  "caption": "The directory grouped by department with status",
+  "mobile": false,
+  "v": "dd223d92"
+ },
+ {
+  "src": "/screens/staff-directory-explorer/02.webp",
+  "w": 1400,
+  "h": 1010,
+  "caption": "Search for power and the details panel for",
+  "mobile": false,
+  "v": "92497776"
+ },
+ {
+  "src": "/screens/staff-directory-explorer/03.webp",
+  "w": 1400,
+  "h": 924,
+  "caption": "List layout grouped by location filtered to",
+  "mobile": false,
+  "v": "6a630bcf"
+ },
+ {
+  "src": "/screens/staff-directory-explorer/04.webp",
+  "w": 1400,
+  "h": 776,
+  "caption": "No match state plus configuration notes for an",
+  "mobile": false,
+  "v": "1c36a89a"
+ },
+ {
+  "src": "/screens/staff-directory-explorer/05.webp",
+  "w": 1400,
+  "h": 1260,
+  "caption": "Variation",
+  "mobile": false,
+  "v": "9aa02034"
+ },
+ {
+  "src": "/screens/staff-directory-explorer/06.webp",
+  "w": 780,
+  "h": 1678,
+  "caption": "Width",
+  "mobile": false,
+  "v": "87c0b0d8"
+ }
+]

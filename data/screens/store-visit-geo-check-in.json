@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/store-visit-geo-check-in/01.webp",
+  "w": 1340,
+  "h": 1110,
+  "caption": "Located 96 m north east of the store inside",
+  "mobile": false,
+  "v": "b744b435"
+ },
+ {
+  "src": "/screens/store-visit-geo-check-in/02.webp",
+  "w": 1340,
+  "h": 1110,
+  "caption": "Outside the geofence",
+  "mobile": false,
+  "v": "8c1338a7"
+ },
+ {
+  "src": "/screens/store-visit-geo-check-in/03.webp",
+  "w": 1340,
+  "h": 1400,
+  "caption": "Checked in",
+  "mobile": false,
+  "v": "c5208bf1"
+ },
+ {
+  "src": "/screens/store-visit-geo-check-in/04.webp",
+  "w": 1340,
+  "h": 1208,
+  "caption": "Early check out after 9 minutes of a 20 minute",
+  "mobile": false,
+  "v": "98624523"
+ },
+ {
+  "src": "/screens/store-visit-geo-check-in/05.webp",
+  "w": 1340,
+  "h": 1440,
+  "caption": "Completed visit with an exception reason the",
+  "mobile": false,
+  "v": "4f2ba0b4"
+ },
+ {
+  "src": "/screens/store-visit-geo-check-in/06.webp",
+  "w": 1340,
+  "h": 1266,
+  "caption": "Location access denied with the Block check in",
+  "mobile": false,
+  "v": "83c86fc4"
+ }
+]

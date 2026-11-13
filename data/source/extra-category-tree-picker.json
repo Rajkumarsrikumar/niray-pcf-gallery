@@ -1,0 +1,48 @@
+{
+ "name": "CategoryTreePicker",
+ "displayName": "Category Tree Picker (PCFLib)",
+ "slug": "category-tree-picker",
+ "tagline": "The Category Tree Picker turns one text column into a searchable, tree-shaped list of categories.",
+ "description": "The Category Tree Picker turns one text column into a searchable, tree-shaped list of categories. People tick a whole branch (for example Cleaning services with everything under it) or single items, see what they picked as chips, and get clear messages when they pick too few or too many. On phones the tree becomes a drill-down list: one level at a time, with a Back link and a path at the top.",
+ "features": [
+  "Search with highlighted matches",
+  "Tri-state branch selection (pick a whole branch or single items)",
+  "Chips of what is chosen",
+  "Min / max limits with clear messages",
+  "Badges and unavailable items",
+  "Expand / collapse, show-selected-only",
+  "A drill-down list on phones, Stores codes",
+  "Labels or JSON",
+  "Ready-made trees: supplier categories",
+  "Singapore service areas, volunteer ministries"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Power Pages code component",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps",
+  "Power Pages"
+ ],
+ "tags": [
+  "category",
+  "tree",
+  "picker",
+  "cross-industry",
+  "power",
+  "pages"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-29",
+ "schemaName": "pcfl_PCFLib.CategoryTreePicker",
+ "react": null,
+ "controlType": "standard",
+ "userManual": "CategoryTreePicker_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

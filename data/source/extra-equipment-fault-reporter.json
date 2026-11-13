@@ -1,0 +1,44 @@
+{
+ "name": "EquipmentFaultReporter",
+ "displayName": "Equipment Fault Reporter",
+ "slug": "equipment-fault-reporter",
+ "tagline": "Equipment Fault Reporter turns the vague \"describe the problem\" box into a guided five-step fault report: equipment and asset tag, symptoms (with safety hazards and…",
+ "description": "Equipment Fault Reporter turns the vague \"describe the problem\" box into a guided five-step fault report: equipment and asset tag, symptoms (with safety hazards and try-this-first tips), impact on trading, engineer access and contact, and a review that shows a calculated P1–P4 priority with the reasons and the response target. The whole report is saved in one text column, together with a readable summary for the engineer.",
+ "features": [
+  "Equipment and asset tag",
+  "Symptom checklist with try-this-first self-help tips",
+  "Safety hazards with hotline, trading impact",
+  "Cold-chain temperature and stock-at-risk checks",
+  "Automatic P1-P4 priority with reasons and response target",
+  "Site access and contact details",
+  "Stores the whole report (with a readable summary) as JSON in one text column"
+ ],
+ "industry": "Field Service & Merchandising",
+ "pack": null,
+ "category": "Power Pages code component",
+ "hosts": [
+  "Power Pages"
+ ],
+ "tags": [
+  "equipment",
+  "fault",
+  "reporter",
+  "service",
+  "merchandising",
+  "power",
+  "pages"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-05",
+ "schemaName": "pcfl_PCFLib.EquipmentFaultReporter",
+ "react": null,
+ "controlType": "standard",
+ "userManual": "EquipmentFaultReporter_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

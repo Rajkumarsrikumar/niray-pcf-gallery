@@ -1,0 +1,45 @@
+{
+ "name": "SiteMapExplorer",
+ "displayName": "Site Map Explorer",
+ "slug": "site-map-explorer",
+ "tagline": "Site Map Explorer shows a list of places - stores, customer sites, job addresses, assets or offices - on a map and a list side by side.",
+ "description": "Site Map Explorer shows a list of places - stores, customer sites, job addresses, assets or offices - on a map and a list side by side. Each place appears as a coloured pin. You can search, filter by type and status, see how far each place is from your depot or from where you are, and open a details card with the address, contact, notes, directions and a link to the record.",
+ "features": [
+  "Pins coloured by category or status, clustering",
+  "Pan / zoom by mouse",
+  "Touch and keyboard, search",
+  "Category chips with counts, status filter",
+  "Sort by name or distance",
+  "Distance and radius from a base point or the user's location",
+  "Details card with Open record and Directions",
+  "Map / split / list layouts",
+  "Phone Map / List tabs and selection outputs",
+  "Works offline without any API key"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Dataset grid or visual",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "site",
+  "map",
+  "explorer",
+  "cross-industry"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-29",
+ "schemaName": "pcfl_PCFLib.SiteMapExplorer",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "SiteMapExplorer_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

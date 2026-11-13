@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/approval-audit-trail-explorer/01.webp",
+  "w": 1340,
+  "h": 388,
+  "caption": "Before the data is connected the control",
+  "mobile": false,
+  "v": "5199d786"
+ },
+ {
+  "src": "/screens/approval-audit-trail-explorer/02.webp",
+  "w": 1400,
+  "h": 1643,
+  "caption": "Timeline view",
+  "mobile": false,
+  "v": "e1050e18"
+ },
+ {
+  "src": "/screens/approval-audit-trail-explorer/03.webp",
+  "w": 1400,
+  "h": 2183,
+  "caption": "Checks view",
+  "mobile": false,
+  "v": "3c993b6d"
+ },
+ {
+  "src": "/screens/approval-audit-trail-explorer/04.webp",
+  "w": 1400,
+  "h": 950,
+  "caption": "Drill down from a check",
+  "mobile": false,
+  "v": "7c447a10"
+ },
+ {
+  "src": "/screens/approval-audit-trail-explorer/05.webp",
+  "w": 1340,
+  "h": 1344,
+  "caption": "Malformed data and settings are reported in",
+  "mobile": false,
+  "v": "3db9588f"
+ },
+ {
+  "src": "/screens/approval-audit-trail-explorer/06.webp",
+  "w": 1400,
+  "h": 1739,
+  "caption": "Orange accent navy High severity colour custom",
+  "mobile": false,
+  "v": "f8151d21"
+ }
+]

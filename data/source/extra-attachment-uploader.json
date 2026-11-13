@@ -1,0 +1,45 @@
+{
+ "name": "AttachmentUploader",
+ "displayName": "Attachment Uploader",
+ "slug": "attachment-uploader",
+ "tagline": "The Attachment Uploader lets people attach photos and documents to a record in one place.",
+ "description": "The Attachment Uploader lets people attach photos and documents to a record in one place. They can drag files in, choose them from the device, take a photo with the phone camera or paste a screenshot. The control checks every file straight away (type, size, number of files and total size), makes large photos smaller so they upload quickly, and asks for the details your process needs, such as a category and a caption.",
+ "features": [
+  "Drag and drop, browse",
+  "Take a photo on phones or paste a screenshot, type, size",
+  "Count and total-size limits with clear reasons for rejected files",
+  "Automatic photo down-sizing",
+  "Thumbnails and a preview dialog (images, PDF, text)",
+  "Categories (e.g. Before / After / Receipt) with required counts, captions, rename, reorder",
+  "Remove with Undo",
+  "Already-uploaded attachments (SharePoint / Dataverse notes JSON) with remove marking",
+  "List or grid layout, phone layout",
+  "Read-only and loading states"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Canvas app field control",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "attachment",
+  "uploader",
+  "cross-industry",
+  "canvas"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-29",
+ "schemaName": "pcfl_PCFLib.AttachmentUploader",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "AttachmentUploader_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

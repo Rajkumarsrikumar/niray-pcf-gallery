@@ -1,0 +1,42 @@
+[
+ {
+  "src": "/screens/approval-route-designer/01.webp",
+  "w": 1340,
+  "h": 1108,
+  "caption": "A procurement route at S 0",
+  "mobile": false,
+  "v": "723f701c"
+ },
+ {
+  "src": "/screens/approval-route-designer/02.webp",
+  "w": 1340,
+  "h": 1726,
+  "caption": "Editing a step",
+  "mobile": false,
+  "v": "e9a8fdf2"
+ },
+ {
+  "src": "/screens/approval-route-designer/03.webp",
+  "w": 1340,
+  "h": 2000,
+  "caption": "Validation",
+  "mobile": false,
+  "v": "97f06d16"
+ },
+ {
+  "src": "/screens/approval-route-designer/04.webp",
+  "w": 1400,
+  "h": 764,
+  "caption": "Route preview at S 0 with the estimated",
+  "mobile": false,
+  "v": "c0ac6f05"
+ },
+ {
+  "src": "/screens/approval-route-designer/05.webp",
+  "w": 780,
+  "h": 2400,
+  "caption": "Width",
+  "mobile": false,
+  "v": "c06756de"
+ }
+]

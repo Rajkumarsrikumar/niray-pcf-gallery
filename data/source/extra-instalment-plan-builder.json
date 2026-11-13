@@ -1,0 +1,41 @@
+{
+ "name": "InstalmentPlanBuilder",
+ "displayName": "Instalment Plan Builder",
+ "slug": "instalment-plan-builder",
+ "tagline": "The Instalment Plan Builder lets a customer turn a balance into a payment plan they can afford - without phoning anyone.",
+ "description": "The Instalment Plan Builder lets a customer turn a balance into a payment plan they can afford - without phoning anyone. They choose a deposit, how often to pay, how many payments and when the first payment is due. The control checks every choice against your business rules, shows the regular payment, the total and the complete schedule, and asks the customer to agree to the plan before it is saved.",
+ "features": [
+  "Customers choose a deposit, payment frequency",
+  "Number of payments and first payment date within your business rules",
+  "Compare suggested plans",
+  "Review the full schedule and agree to it",
+  "Stores the chosen plan (with schedule) as JSON in one text column"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Power Pages code component",
+ "hosts": [
+  "Power Pages"
+ ],
+ "tags": [
+  "instalment",
+  "plan",
+  "builder",
+  "cross-industry",
+  "power",
+  "pages"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-11-04",
+ "schemaName": "pcfl_PCFLib.InstalmentPlanBuilder",
+ "react": null,
+ "controlType": "standard",
+ "userManual": "InstalmentPlanBuilder_USER_GUIDE.docx",
+ "screenshotCount": 8,
+ "price": null
+}

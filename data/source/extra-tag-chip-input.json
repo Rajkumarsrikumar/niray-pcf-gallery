@@ -1,0 +1,38 @@
+{
+ "name": "TagChipInput",
+ "displayName": "Tag Chip Input",
+ "slug": "tag-chip-input",
+ "tagline": "Tag Chip Input replaces a plain text box with a modern tag field.",
+ "description": "Tag Chip Input replaces a plain text box with a modern tag field. Each tag appears as a small chip with an × to remove it. You can pick tags from a suggestion list, type your own, or paste a whole list at once.",
+ "features": [
+  "Coloured pill-shaped chips",
+  "Pick from the list only"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Canvas app field control",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "tag",
+  "chip",
+  "input",
+  "cross-industry",
+  "canvas"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.2",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-19",
+ "schemaName": "pcfl_PCFLib.TagChipInput",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "TagChipInput_USER_GUIDE.docx",
+ "screenshotCount": 9,
+ "price": null
+}

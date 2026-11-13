@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/rfq-quote-response-builder/01.webp",
+  "w": 1340,
+  "h": 380,
+  "caption": "No RFQ lines yet the control explains what is",
+  "mobile": false,
+  "v": "d8278bc2"
+ },
+ {
+  "src": "/screens/rfq-quote-response-builder/02.webp",
+  "w": 1400,
+  "h": 2119,
+  "caption": "Line pricing with ten lines priced",
+  "mobile": false,
+  "v": "a703eb7f"
+ },
+ {
+  "src": "/screens/rfq-quote-response-builder/03.webp",
+  "w": 1400,
+  "h": 1621,
+  "caption": "Validation",
+  "mobile": false,
+  "v": "dcb153d2"
+ },
+ {
+  "src": "/screens/rfq-quote-response-builder/04.webp",
+  "w": 1400,
+  "h": 1099,
+  "caption": "Flagged filter with the bulk fill panel open",
+  "mobile": false,
+  "v": "7840d37e"
+ },
+ {
+  "src": "/screens/rfq-quote-response-builder/05.webp",
+  "w": 1400,
+  "h": 1362,
+  "caption": "Terms & contact shown with the orange accent",
+  "mobile": false,
+  "v": "35817cce"
+ },
+ {
+  "src": "/screens/rfq-quote-response-builder/06.webp",
+  "w": 1400,
+  "h": 1107,
+  "caption": "Review with totals",
+  "mobile": false,
+  "v": "f23cbcec"
+ }
+]

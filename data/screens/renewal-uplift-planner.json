@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/renewal-uplift-planner/01.webp",
+  "w": 1340,
+  "h": 542,
+  "caption": "Before the current annual value is known",
+  "mobile": false,
+  "v": "c5f3db80"
+ },
+ {
+  "src": "/screens/renewal-uplift-planner/02.webp",
+  "w": 1400,
+  "h": 1235,
+  "caption": "Standard uplift",
+  "mobile": false,
+  "v": "281af5ea"
+ },
+ {
+  "src": "/screens/renewal-uplift-planner/03.webp",
+  "w": 1400,
+  "h": 1391,
+  "caption": "Multi year lock",
+  "mobile": false,
+  "v": "1a8174f7"
+ },
+ {
+  "src": "/screens/renewal-uplift-planner/04.webp",
+  "w": 1400,
+  "h": 2055,
+  "caption": "Uplift above the 7 cap blocks the plan",
+  "mobile": false,
+  "v": "536974d1"
+ },
+ {
+  "src": "/screens/renewal-uplift-planner/05.webp",
+  "w": 1400,
+  "h": 2400,
+  "caption": "5 year price lock with an orange accent",
+  "mobile": false,
+  "v": "7e3c7386"
+ },
+ {
+  "src": "/screens/renewal-uplift-planner/06.webp",
+  "w": 780,
+  "h": 2400,
+  "caption": "At px",
+  "mobile": false,
+  "v": "5890e2bd"
+ }
+]

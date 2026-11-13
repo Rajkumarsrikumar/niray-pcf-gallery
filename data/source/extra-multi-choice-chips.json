@@ -1,0 +1,38 @@
+{
+ "name": "MultiChoiceChips",
+ "displayName": "Multi Choice Chips (multi-select choice)",
+ "slug": "multi-choice-chips",
+ "tagline": "Multi Choice Chips replaces the standard drop-down for a Choices (multi-select choice) column.",
+ "description": "Multi Choice Chips replaces the standard drop-down for a Choices (multi-select choice) column. Instead of opening a list and ticking boxes, every option is shown as a chip on the form. Tap a chip to select it (it fills with colour and shows a tick); tap it again to remove it. You can see at a glance what has been chosen and what has not.",
+ "features": [
+  "On a phone"
+ ],
+ "industry": "Cross-industry",
+ "pack": null,
+ "category": "Model-driven / Dataverse field control",
+ "hosts": [
+  "Canvas apps",
+  "Model-driven apps"
+ ],
+ "tags": [
+  "multi",
+  "choice",
+  "chips",
+  "cross-industry",
+  "model-driven",
+  "dataverse"
+ ],
+ "mobileResponsive": true,
+ "complexity": "Advanced",
+ "status": "final",
+ "availability": "Coming soon",
+ "componentVersion": "1.0.0",
+ "solutionVersion": null,
+ "releaseDate": "2026-10-27",
+ "schemaName": "pcfl_PCFLib.MultiChoiceChips",
+ "react": "16.14.0 (platform library)",
+ "controlType": "virtual",
+ "userManual": "MultiChoiceChips_USER_GUIDE.docx",
+ "screenshotCount": 11,
+ "price": null
+}
