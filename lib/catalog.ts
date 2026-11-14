@@ -44,8 +44,7 @@ export type Screen = { src: string; w: number; h: number; caption: string; mobil
 /** Screens for a component. `v` (a content hash from scripts/make-thumbs.py) is added to the URL so browsers fetch a replaced image instead of a cached one. */
 export const screensFor = (slug: string): Screen[] =>
   ((screens as Record<string, Screen[]>)[slug] ?? []).map((s) => (s.v ? { ...s, src: `${s.src}?v=${s.v}` } : s));
-/** Small preview written by scripts/make-thumbs.py, for cards and thumbnail strips. */
-export const thumbOf = (src: string) => src.replace(/\.webp(\?|$)/, ".thumb.webp$1");
+export { thumbOf } from "./thumb";
 
 /** Lead screenshots from a pack's components (one per component, desktop shots first), for pack cards and pages. */
 export type PackPreview = Screen & { slug: string; name: string };

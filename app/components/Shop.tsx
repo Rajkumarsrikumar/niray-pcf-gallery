@@ -1,6 +1,5 @@
 "use client";
-import { useMemo, useState } from "react";
-import { useSearchParams } from "next/navigation";
+import { useEffect, useMemo, useState } from "react";
 import ProductCard from "../ProductCard";
 import Icon from "../Icon";
 import { allComponents, categories, industries, industrySlug, isAvailable } from "@/lib/catalog";
@@ -8,10 +7,15 @@ import { allComponents, categories, industries, industrySlug, isAvailable } from
 type Sort = "featured" | "az" | "newest";
 
 export default function Shop() {
-  const params = useSearchParams();
-  const startIndustry = industries.find((i) => industrySlug(i) === params.get("industry"));
-  const [q, setQ] = useState(params.get("q") ?? "");
-  const [inds, setInds] = useState<string[]>(startIndustry ? [startIndustry] : []);
+  const [q, setQ] = useState("");
+  const [inds, setInds] = useState<string[]>([]);
+  // Read ?q= and ?industry= after load, so the full list is prerendered into the page's HTML for search engines.
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const startIndustry = industries.find((i) => industrySlug(i) === params.get("industry"));
+    if (params.get("q")) setQ(params.get("q")!);
+    if (startIndustry) setInds([startIndustry]);
+  }, []);
   const [cat, setCat] = useState("All");
   const [stockOnly, setStockOnly] = useState(false);
   const [sort, setSort] = useState<Sort>("featured");
@@ -67,7 +71,7 @@ export default function Shop() {
   return (
     <div className="mx-auto max-w-7xl px-4 py-10">
       <div className="mb-8">
-                <h1 className="mt-1 text-4xl font-extrabold tracking-[-0.03em] text-ink sm:text-5xl">All components</h1>
+                <h1 className="mt-1 text-4xl font-extrabold tracking-[-0.03em] text-ink sm:text-5xl">All PCF components</h1>
       </div>
       <div className="grid gap-8 lg:grid-cols-[240px_1fr]">
         <aside className="hidden lg:block">{filters}</aside>

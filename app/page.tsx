@@ -3,7 +3,7 @@ import Icon from "./Icon";
 import ProductCard from "./ProductCard";
 import Hero, { type HeroPick } from "./Hero";
 import Reveal from "./Reveal";
-import { allComponents, allPacks, industries, industrySlug, isAvailable, packComponents, screensFor, themeFor } from "@/lib/catalog";
+import { PRICE, allComponents, allPacks, formatPrice, industries, industrySlug, isAvailable, packComponents, screensFor, themeFor } from "@/lib/catalog";
 
 export const metadata = { alternates: { canonical: "/" } };
 
@@ -11,15 +11,28 @@ const siteJsonLd = {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Organization", "@id": "https://niraypcfgallery.com/#org", name: "Niray IT Solutions Pte. Ltd.",
+      "@type": "Organization", "@id": "https://niraypcfgallery.com/#org", name: "Niray IT Solutions Pte. Ltd.", alternateName: "Niray IT Solutions",
       url: "https://www.nirayitsolutions.com", logo: { "@type": "ImageObject", url: "https://niraypcfgallery.com/icon.png", width: 512, height: 512 }, image: "https://niraypcfgallery.com/icon.png", email: "info@nirayitsolutions.com",
       sameAs: ["https://www.nirayitsolutions.com"],
     },
     {
-      "@type": "WebSite", "@id": "https://niraypcfgallery.com/#website", name: "Niray PCF Gallery", url: "https://niraypcfgallery.com/",
+      "@type": "WebSite", "@id": "https://niraypcfgallery.com/#website", name: "Niray PCF Gallery", alternateName: ["PCF Gallery", "Niray PCF"], url: "https://niraypcfgallery.com/",
       publisher: { "@id": "https://niraypcfgallery.com/#org" }, inLanguage: "en",
     },
   ],
+};
+
+// Plain answers to the questions people search for; shown on the page and repeated as FAQPage data.
+const faqs = [
+  { q: "What is the Niray PCF Gallery?", a: `A gallery of ${allComponents.length} ready-made PCF controls for Power Apps and Power Pages, built by Niray IT Solutions. Every component has screenshots, a full description and technical specs, and you can buy one component or a whole industry pack.` },
+  { q: "What is a PCF control?", a: "PCF stands for Power Apps Component Framework. A PCF control (also called a code component) is a custom control built with TypeScript (often with React) that you add to Canvas apps, Model-driven app forms and views, and Power Pages, in place of the standard controls." },
+  { q: "Which apps do the components work in?", a: "Each component works in Canvas apps, Model-driven apps and Power Pages. React is bundled inside the component, so nothing calls an outside server." },
+  { q: "What do I get when I buy a component?", a: `A managed solution to import into your environment and a user manual with setup steps. One component costs ${formatPrice(PRICE.component)} and a full industry pack costs ${formatPrice(PRICE.pack)}. The files are emailed to you after payment.` },
+  { q: "How do I install a PCF control?", a: "Import the managed solution into your Power Platform environment. In a Canvas app, choose Insert, Get more components, Code. On a Model-driven form, select the field, then Components. In Power Pages, enable the code component on a form field." },
+];
+const faqJsonLd = {
+  "@context": "https://schema.org", "@type": "FAQPage",
+  mainEntity: faqs.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })),
 };
 
 const included = [
@@ -52,7 +65,7 @@ export default function Home() {
 
   return (
     <>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(siteJsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify([siteJsonLd, faqJsonLd]) }} />
       <Hero picks={heroPicks} chips={chips} total={allComponents.length} ready={available.length} />
 
       <section className="border-b border-line">
@@ -127,6 +140,20 @@ export default function Home() {
         <h2 className="mb-7 text-3xl font-extrabold tracking-[-0.03em] text-ink sm:text-4xl">New this week</h2>
         <div className="grid grid-cols-2 gap-x-4 gap-y-9 sm:gap-x-6 lg:grid-cols-4">{newest.map((c) => <ProductCard key={c.slug} c={c} />)}</div>
       </Reveal>
+
+      <section className="mx-auto max-w-7xl px-4 pt-20" aria-labelledby="faq">
+        <h2 id="faq" className="text-3xl font-extrabold tracking-[-0.03em] text-ink sm:text-4xl">PCF controls: common questions</h2>
+        <div className="mt-7 divide-y divide-line border-y border-line">
+          {faqs.map((f) => (
+            <details key={f.q} className="group py-4">
+              <summary className="flex cursor-pointer list-none items-center justify-between gap-4 text-lg font-bold text-ink">
+                {f.q}<span aria-hidden="true" className="grid h-8 w-8 shrink-0 place-items-center rounded-full border border-line text-lg transition-transform group-open:rotate-45">+</span>
+              </summary>
+              <p className="mt-3 max-w-3xl leading-relaxed text-ink-soft">{f.a}</p>
+            </details>
+          ))}
+        </div>
+      </section>
 
       <Reveal className="mx-auto max-w-7xl px-4 pt-20">
         <div className="flex flex-col items-start gap-6 rounded-3xl border border-line bg-paper p-7 sm:flex-row sm:items-center sm:p-12">

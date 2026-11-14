@@ -26,13 +26,14 @@ export default function Hero({ picks, chips, total, ready }: { picks: HeroPick[]
     <section className="relative overflow-hidden border-b border-line bg-paper">
       <div className="mx-auto grid max-w-7xl items-center gap-12 px-4 pb-14 pt-10 lg:grid-cols-[1fr_1.05fr] lg:pb-20 lg:pt-16">
         <div className="min-w-0">
+          <p className="mb-4 text-sm font-semibold uppercase tracking-[0.14em] text-tile-blue">Niray PCF Gallery · Power Apps PCF controls</p>
           <motion.h1 initial={{ opacity: 0, y: 18 }} animate={{ opacity: 1, y: 0 }}
             className="text-[2.6rem] font-extrabold leading-[1.02] tracking-[-0.045em] text-ink sm:text-[4.2rem]">
             Power Apps components, ready to drop in.
           </motion.h1>
           <motion.p initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.08 }}
             className="mt-5 max-w-lg text-lg leading-relaxed text-ink-soft">
-            Shop {total} code components for Canvas apps, Model-driven apps and Power Pages. Each one is a managed solution with a user manual.
+            Shop {total} PCF code components (Power Apps Component Framework controls) for Canvas apps, Model-driven apps and Power Pages. Each one is a managed solution with a user manual.
           </motion.p>
 
           <motion.form onSubmit={go} role="search" initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.16 }}
