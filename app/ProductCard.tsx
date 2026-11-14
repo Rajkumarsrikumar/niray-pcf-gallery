@@ -13,7 +13,7 @@ export default function ProductCard({ c }: { c: Component }) {
       <div className="relative overflow-hidden rounded-2xl border border-line bg-paper transition-shadow duration-300 group-hover:shadow-[0_18px_40px_-22px_rgba(0,59,92,0.55)]">
         {shot ? (
           // eslint-disable-next-line @next/next/no-img-element
-          <img src={thumbOf(shot.src)} alt="" loading="lazy" decoding="async" className={`aspect-[4/3] w-full transition-transform duration-500 group-hover:scale-[1.03] ${shot.mobile ? "object-contain p-3" : "object-cover object-top"}`} />
+          <img src={thumbOf(shot.src)} alt={`${c.name} PCF control screenshot`} loading="lazy" decoding="async" className={`aspect-[4/3] w-full transition-transform duration-500 group-hover:scale-[1.03] ${shot.mobile ? "object-contain p-3" : "object-cover object-top"}`} />
         ) : (
           <div className="aspect-[4/3] overflow-hidden"><ProductArt c={c} /></div>
         )}

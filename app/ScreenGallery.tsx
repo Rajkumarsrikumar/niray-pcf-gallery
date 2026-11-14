@@ -1,7 +1,8 @@
 "use client";
 import { useEffect, useState } from "react";
 import Icon from "./Icon";
-import { thumbOf, type Screen } from "@/lib/catalog";
+import type { Screen } from "@/lib/catalog";
+import { thumbOf } from "@/lib/thumb";
 
 export default function ScreenGallery({ shots, name }: { shots: Screen[]; name: string }) {
   const [i, setI] = useState(0);
