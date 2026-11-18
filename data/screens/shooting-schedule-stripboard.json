@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/shooting-schedule-stripboard/01.webp",
+  "w": 1340,
+  "h": 880,
+  "caption": "Demo stripboard",
+  "mobile": false,
+  "v": "e7673bbc"
+ },
+ {
+  "src": "/screens/shooting-schedule-stripboard/02.webp",
+  "w": 375,
+  "h": 802,
+  "caption": "Stripboard",
+  "mobile": true,
+  "v": "2c7de37a"
+ },
+ {
+  "src": "/screens/shooting-schedule-stripboard/03.webp",
+  "w": 375,
+  "h": 802,
+  "caption": "Move menu",
+  "mobile": true,
+  "v": "8db01bd2"
+ },
+ {
+  "src": "/screens/shooting-schedule-stripboard/04.webp",
+  "w": 375,
+  "h": 802,
+  "caption": "Dood",
+  "mobile": true,
+  "v": "9331c105"
+ },
+ {
+  "src": "/screens/shooting-schedule-stripboard/05.webp",
+  "w": 375,
+  "h": 802,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "157de867"
+ },
+ {
+  "src": "/screens/shooting-schedule-stripboard/06.webp",
+  "w": 1340,
+  "h": 880,
+  "caption": "Overview dashboard",
+  "mobile": false,
+  "v": "911a5066"
+ }
+]
