@@ -1110,7 +1110,7 @@
   "industry": "Real Estate & Facilities",
   "status": "in progress",
   "componentsPlanned": 30,
-  "componentsBuilt": 23,
+  "componentsBuilt": 29,
   "price": null,
   "components": [
    {
@@ -1321,6 +1321,227 @@
     "component": "UtilityRebillingRubs",
     "slug": null,
     "subCategory": "Property Operations",
+    "status": "planned"
+   }
+  ]
+ },
+ {
+  "packName": "Niray Media & Entertainment PCF Pack",
+  "slug": "media-and-entertainment-pcf-pack",
+  "industry": "Media & Entertainment",
+  "status": "in progress",
+  "componentsPlanned": 30,
+  "componentsBuilt": 7,
+  "price": null,
+  "components": [
+   {
+    "order": 1,
+    "component": "RightsAvailsWindowManager",
+    "slug": null,
+    "subCategory": "Rights & Licensing",
+    "status": "pending-sync"
+   },
+   {
+    "order": 2,
+    "component": "ProductionCallSheetBuilder",
+    "slug": null,
+    "subCategory": "Production",
+    "status": "pending-sync"
+   },
+   {
+    "order": 3,
+    "component": "ShootingScheduleStripboard",
+    "slug": "shooting-schedule-stripboard",
+    "subCategory": "Production",
+    "status": "pending-sync"
+   },
+   {
+    "order": 4,
+    "component": "RoyaltyStatementProcessor",
+    "slug": null,
+    "subCategory": "Music & Publishing",
+    "status": "pending-sync"
+   },
+   {
+    "order": 5,
+    "component": "AdOrderSpotLogManager",
+    "slug": null,
+    "subCategory": "Broadcast & Ad Sales",
+    "status": "pending-sync"
+   },
+   {
+    "order": 6,
+    "component": "PostProductionDeliverablesTracker",
+    "slug": null,
+    "subCategory": "Post-production",
+    "status": "pending-sync"
+   },
+   {
+    "order": 7,
+    "component": "EditorialStoryPlanner",
+    "slug": null,
+    "subCategory": "News & Publishing",
+    "status": "pending-sync"
+   },
+   {
+    "order": 8,
+    "component": "ProductionCostReportWorkbench",
+    "slug": null,
+    "subCategory": "Production Finance",
+    "status": "reserved"
+   },
+   {
+    "order": 9,
+    "component": "TalentDealMemoManager",
+    "slug": null,
+    "subCategory": "Talent & Contracts",
+    "status": "planned"
+   },
+   {
+    "order": 10,
+    "component": "MusicCueSheetEditor",
+    "slug": null,
+    "subCategory": "Music & Publishing",
+    "status": "planned"
+   },
+   {
+    "order": 11,
+    "component": "SyncLicensingRequestDesk",
+    "slug": null,
+    "subCategory": "Music & Publishing",
+    "status": "planned"
+   },
+   {
+    "order": 12,
+    "component": "LocalizationDubbingTracker",
+    "slug": null,
+    "subCategory": "Localization",
+    "status": "planned"
+   },
+   {
+    "order": 13,
+    "component": "ContentQcIssueLog",
+    "slug": null,
+    "subCategory": "Post-production",
+    "status": "planned"
+   },
+   {
+    "order": 14,
+    "component": "LinearPlayoutScheduleGrid",
+    "slug": null,
+    "subCategory": "Broadcast",
+    "status": "planned"
+   },
+   {
+    "order": 15,
+    "component": "CastingSubmissionsBoard",
+    "slug": null,
+    "subCategory": "Talent & Casting",
+    "status": "planned"
+   },
+   {
+    "order": 16,
+    "component": "LocationPermitManager",
+    "slug": null,
+    "subCategory": "Production",
+    "status": "planned"
+   },
+   {
+    "order": 17,
+    "component": "VfxShotTracker",
+    "slug": null,
+    "subCategory": "Post-production",
+    "status": "planned"
+   },
+   {
+    "order": 18,
+    "component": "LiveEventRunOfShow",
+    "slug": null,
+    "subCategory": "Live Events",
+    "status": "planned"
+   },
+   {
+    "order": 19,
+    "component": "SponsorshipDeliverablesTracker",
+    "slug": null,
+    "subCategory": "Sponsorship",
+    "status": "planned"
+   },
+   {
+    "order": 20,
+    "component": "PodcastEpisodePipeline",
+    "slug": null,
+    "subCategory": "Audio",
+    "status": "planned"
+   },
+   {
+    "order": 21,
+    "component": "ResidualsParticipationsCalculator",
+    "slug": null,
+    "subCategory": "Talent & Contracts",
+    "status": "planned"
+   },
+   {
+    "order": 22,
+    "component": "FestivalSubmissionsManager",
+    "slug": null,
+    "subCategory": "Distribution",
+    "status": "planned"
+   },
+   {
+    "order": 23,
+    "component": "ArchiveFootageClearanceDesk",
+    "slug": null,
+    "subCategory": "Rights & Licensing",
+    "status": "planned"
+   },
+   {
+    "order": 24,
+    "component": "SubscriberRetentionSaveDesk",
+    "slug": null,
+    "subCategory": "Streaming",
+    "status": "planned"
+   },
+   {
+    "order": 25,
+    "component": "AudienceRatingsAnalyzer",
+    "slug": null,
+    "subCategory": "Broadcast",
+    "status": "planned"
+   },
+   {
+    "order": 26,
+    "component": "ManuscriptAcquisitionPipeline",
+    "slug": null,
+    "subCategory": "Publishing",
+    "status": "planned"
+   },
+   {
+    "order": 27,
+    "component": "TourRoutingPlanner",
+    "slug": null,
+    "subCategory": "Live Music",
+    "status": "planned"
+   },
+   {
+    "order": 28,
+    "component": "EquipmentRentalCheckout",
+    "slug": null,
+    "subCategory": "Production",
+    "status": "planned"
+   },
+   {
+    "order": 29,
+    "component": "PressJunketScheduler",
+    "slug": null,
+    "subCategory": "Publicity",
+    "status": "planned"
+   },
+   {
+    "order": 30,
+    "component": "TitleMetadataReadinessConsole",
+    "slug": null,
+    "subCategory": "Distribution",
     "status": "planned"
    }
   ]

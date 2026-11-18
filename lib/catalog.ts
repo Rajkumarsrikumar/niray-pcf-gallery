@@ -28,6 +28,7 @@ export const theme: Record<string, Theme> = {
   Education: { color: "#8DC63F", on: "#003B5C", soft: "#F1F8E6", icon: "cap", blurb: "Admissions, student records, fees and timetables." },
   Manufacturing: { color: "#C46A1B", on: "#FFFFFF", soft: "#FBF0E6", icon: "factory", blurb: "OEE, quality, shop-floor execution, traceability and maintenance." },
   "Real Estate & Facilities": { color: "#6B4C9A", on: "#FFFFFF", soft: "#F0EBF6", icon: "box", blurb: "Property leasing, rent rolls, maintenance and facilities operations." },
+  "Media & Entertainment": { color: "#B23A48", on: "#FFFFFF", soft: "#F8E8EA", icon: "layers", blurb: "Production scheduling, rights, royalties and content operations." },
 };
 export const themeFor = (industry: string) => theme[industry] ?? theme["Cross-industry"];
 

@@ -742,5 +742,19 @@
    }
   ],
   "price": null
+ },
+ {
+  "slug": "media-and-entertainment-pcf-pack",
+  "name": "Niray Media & Entertainment PCF Pack",
+  "industry": "Media & Entertainment",
+  "status": "in progress",
+  "planned": 30,
+  "components": [
+   {
+    "slug": "shooting-schedule-stripboard",
+    "subCategory": "Production"
+   }
+  ],
+  "price": null
  }
 ]
