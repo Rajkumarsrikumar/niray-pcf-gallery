@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import AddToCart from "../../AddToCart";
+import { Comments, EngageBar } from "../../Engagement";
 import Icon from "../../Icon";
 import ProductCard from "../../ProductCard";
 import { packKeywords } from "@/lib/seo";
@@ -39,6 +40,7 @@ export default function PackPage({ params }: { params: { slug: string } }) {
             <Link href="/packs" className="text-sm opacity-80 hover:opacity-100">← All packs</Link>
             <h1 className="mt-4 text-4xl font-extrabold sm:text-5xl">{p.name}</h1>
             <p className="mt-3 max-w-xl text-lg opacity-90">{t.blurb} {all.length} components, grouped by workflow, in one solution.</p>
+            <div className="mt-5"><EngageBar kind="pack" slug={p.slug} tone="light" /></div>
             {p.status !== "complete" && <p className="mt-3 inline-block rounded-full bg-black/20 px-3 py-1 text-sm">Pack in progress: {all.length} of {p.planned} built so far</p>}
             {packPreviews(p, 4).length > 0 && (
               <div className="mt-8 grid grid-cols-2 gap-3 sm:grid-cols-4">
@@ -83,6 +85,7 @@ export default function PackPage({ params }: { params: { slug: string } }) {
             <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">{items.map((c) => <ProductCard key={c.slug} c={c} />)}</div>
           </section>
         ))}
+        <Comments kind="pack" slug={p.slug} title={p.name} />
       </div>
     </>
   );

@@ -4,6 +4,7 @@ import { consumeToken, markDelivered, restoreToken } from "@/lib/server/db";
 import { hashToken } from "@/lib/server/email";
 import { buildDeliveryZip } from "@/lib/server/files";
 import { escapeHtml, sendMail } from "@/lib/server/mail";
+import { countDownload } from "@/lib/server/engage";
 
 export const dynamic = "force-dynamic";
 export const maxDuration = 60;
@@ -38,6 +39,7 @@ export async function POST(req: Request) {
       attachments: [zip],
     });
     await markDelivered(claim.email);
+    await countDownload("component", claim.slug).catch((err) => console.error("free/verify count", err));
     return NextResponse.json({ ok: true, name, to: claim.send_to });
   } catch (e) {
     console.error("free/verify deliver", e);
