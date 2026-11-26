@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/advocacy-action-centre/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "1d587ba2"
+ },
+ {
+  "src": "/screens/advocacy-action-centre/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "5d14eafc"
+ },
+ {
+  "src": "/screens/advocacy-action-centre/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Queue",
+  "mobile": true,
+  "v": "7f682f44"
+ },
+ {
+  "src": "/screens/advocacy-action-centre/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Actions",
+  "mobile": true,
+  "v": "78444f54"
+ },
+ {
+  "src": "/screens/advocacy-action-centre/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "1a910468"
+ },
+ {
+  "src": "/screens/advocacy-action-centre/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo queue",
+  "mobile": false,
+  "v": "7e2bda72"
+ }
+]

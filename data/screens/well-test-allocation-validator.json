@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/well-test-allocation-validator/01.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "21c939a8"
+ },
+ {
+  "src": "/screens/well-test-allocation-validator/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "ae79b805"
+ },
+ {
+  "src": "/screens/well-test-allocation-validator/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Register cards",
+  "mobile": true,
+  "v": "10e0d014"
+ },
+ {
+  "src": "/screens/well-test-allocation-validator/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Validation console",
+  "mobile": true,
+  "v": "f5a13a24"
+ },
+ {
+  "src": "/screens/well-test-allocation-validator/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Validation queue",
+  "mobile": true,
+  "v": "c51feb35"
+ },
+ {
+  "src": "/screens/well-test-allocation-validator/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Form validation",
+  "mobile": true,
+  "v": "8b4b0daf"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/technician-clocking-efficiency-board/01.webp",
+  "w": 943,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "137d1279"
+ },
+ {
+  "src": "/screens/technician-clocking-efficiency-board/02.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "4e79e6af"
+ },
+ {
+  "src": "/screens/technician-clocking-efficiency-board/03.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Clock board",
+  "mobile": true,
+  "v": "24f74b97"
+ },
+ {
+  "src": "/screens/technician-clocking-efficiency-board/04.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Menu",
+  "mobile": true,
+  "v": "825ceb2f"
+ },
+ {
+  "src": "/screens/technician-clocking-efficiency-board/05.webp",
+  "w": 943,
+  "h": 900,
+  "caption": "Demo clock board",
+  "mobile": false,
+  "v": "c40075a7"
+ },
+ {
+  "src": "/screens/technician-clocking-efficiency-board/06.webp",
+  "w": 943,
+  "h": 900,
+  "caption": "Demo timeline",
+  "mobile": false,
+  "v": "50e7134b"
+ }
+]

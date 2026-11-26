@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/loading-rack-slot-scheduler/01.webp",
+  "w": 1400,
+  "h": 807,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "f8eafdfd"
+ },
+ {
+  "src": "/screens/loading-rack-slot-scheduler/02.webp",
+  "w": 746,
+  "h": 1480,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "064ffb5f"
+ },
+ {
+  "src": "/screens/loading-rack-slot-scheduler/03.webp",
+  "w": 746,
+  "h": 1480,
+  "caption": "Board agenda",
+  "mobile": false,
+  "v": "2ec8e255"
+ },
+ {
+  "src": "/screens/loading-rack-slot-scheduler/04.webp",
+  "w": 746,
+  "h": 1480,
+  "caption": "Allocation",
+  "mobile": false,
+  "v": "6db0ddde"
+ },
+ {
+  "src": "/screens/loading-rack-slot-scheduler/05.webp",
+  "w": 1400,
+  "h": 807,
+  "caption": "Rack board",
+  "mobile": false,
+  "v": "9b7efba1"
+ },
+ {
+  "src": "/screens/loading-rack-slot-scheduler/06.webp",
+  "w": 1400,
+  "h": 807,
+  "caption": "Board clash detail",
+  "mobile": false,
+  "v": "5b87f302"
+ }
+]

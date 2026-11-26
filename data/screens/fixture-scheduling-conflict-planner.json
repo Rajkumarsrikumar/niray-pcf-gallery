@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/fixture-scheduling-conflict-planner/01.webp",
+  "w": 1354,
+  "h": 900,
+  "caption": "Overview demo",
+  "mobile": false,
+  "v": "82efa060"
+ },
+ {
+  "src": "/screens/fixture-scheduling-conflict-planner/02.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Calendar",
+  "mobile": true,
+  "v": "42262561"
+ },
+ {
+  "src": "/screens/fixture-scheduling-conflict-planner/03.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Conflicts",
+  "mobile": true,
+  "v": "c601aa1d"
+ },
+ {
+  "src": "/screens/fixture-scheduling-conflict-planner/04.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "8f329da5"
+ },
+ {
+  "src": "/screens/fixture-scheduling-conflict-planner/05.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Fixtures",
+  "mobile": true,
+  "v": "eba0d95f"
+ },
+ {
+  "src": "/screens/fixture-scheduling-conflict-planner/06.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Form",
+  "mobile": true,
+  "v": "51f16d86"
+ }
+]

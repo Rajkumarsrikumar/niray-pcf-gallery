@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/club-occupancy-check-in-monitor/01.webp",
+  "w": 1340,
+  "h": 1180,
+  "caption": "Live dashboard demo",
+  "mobile": false,
+  "v": "2266cd8e"
+ },
+ {
+  "src": "/screens/club-occupancy-check-in-monitor/02.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Live",
+  "mobile": true,
+  "v": "fc85f876"
+ },
+ {
+  "src": "/screens/club-occupancy-check-in-monitor/03.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Heatmap",
+  "mobile": true,
+  "v": "7f0ffb6d"
+ },
+ {
+  "src": "/screens/club-occupancy-check-in-monitor/04.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Detail sheet",
+  "mobile": true,
+  "v": "e091cb95"
+ },
+ {
+  "src": "/screens/club-occupancy-check-in-monitor/05.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Guests",
+  "mobile": true,
+  "v": "2ff70aac"
+ },
+ {
+  "src": "/screens/club-occupancy-check-in-monitor/06.webp",
+  "w": 1340,
+  "h": 1180,
+  "caption": "Live riverside",
+  "mobile": false,
+  "v": "70f7aff2"
+ }
+]

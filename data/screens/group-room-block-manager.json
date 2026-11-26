@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/group-room-block-manager/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "0990cbe8"
+ },
+ {
+  "src": "/screens/group-room-block-manager/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "615b8b7a"
+ },
+ {
+  "src": "/screens/group-room-block-manager/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Blocks",
+  "mobile": true,
+  "v": "7ed40a45"
+ },
+ {
+  "src": "/screens/group-room-block-manager/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Pickup list",
+  "mobile": true,
+  "v": "72ab5b65"
+ },
+ {
+  "src": "/screens/group-room-block-manager/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Pickup grid",
+  "mobile": true,
+  "v": "39a6f479"
+ },
+ {
+  "src": "/screens/group-room-block-manager/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Inventory",
+  "mobile": true,
+  "v": "f0689799"
+ }
+]

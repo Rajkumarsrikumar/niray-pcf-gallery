@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/stock-count-cycle-manager/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "f536bb79"
+ },
+ {
+  "src": "/screens/stock-count-cycle-manager/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "afda523f"
+ },
+ {
+  "src": "/screens/stock-count-cycle-manager/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Count walk",
+  "mobile": true,
+  "v": "35a7ea2f"
+ },
+ {
+  "src": "/screens/stock-count-cycle-manager/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Lines",
+  "mobile": true,
+  "v": "663f60ba"
+ },
+ {
+  "src": "/screens/stock-count-cycle-manager/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "9e8cfd11"
+ },
+ {
+  "src": "/screens/stock-count-cycle-manager/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo count lines",
+  "mobile": false,
+  "v": "297ab514"
+ }
+]

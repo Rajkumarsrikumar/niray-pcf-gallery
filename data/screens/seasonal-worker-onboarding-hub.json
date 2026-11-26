@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/seasonal-worker-onboarding-hub/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "a1617573"
+ },
+ {
+  "src": "/screens/seasonal-worker-onboarding-hub/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "98af6df5"
+ },
+ {
+  "src": "/screens/seasonal-worker-onboarding-hub/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Worker cards",
+  "mobile": true,
+  "v": "70ed5b94"
+ },
+ {
+  "src": "/screens/seasonal-worker-onboarding-hub/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "d07b15f2"
+ },
+ {
+  "src": "/screens/seasonal-worker-onboarding-hub/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Board",
+  "mobile": true,
+  "v": "06bc2239"
+ },
+ {
+  "src": "/screens/seasonal-worker-onboarding-hub/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Checks",
+  "mobile": true,
+  "v": "fce1d3af"
+ }
+]

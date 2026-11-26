@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/telematics-alert-triage/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "746d435d"
+ },
+ {
+  "src": "/screens/telematics-alert-triage/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "74ec2183"
+ },
+ {
+  "src": "/screens/telematics-alert-triage/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Queue",
+  "mobile": true,
+  "v": "f190fa88"
+ },
+ {
+  "src": "/screens/telematics-alert-triage/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Editor",
+  "mobile": true,
+  "v": "85695218"
+ },
+ {
+  "src": "/screens/telematics-alert-triage/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Triage queue",
+  "mobile": false,
+  "v": "1561b5d0"
+ },
+ {
+  "src": "/screens/telematics-alert-triage/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Queue speeding",
+  "mobile": false,
+  "v": "3c967b9a"
+ }
+]

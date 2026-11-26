@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/corrosion-chemical-program-tracker/01.webp",
+  "w": 1340,
+  "h": 900,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "174c494c"
+ },
+ {
+  "src": "/screens/corrosion-chemical-program-tracker/02.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "e11c80ce"
+ },
+ {
+  "src": "/screens/corrosion-chemical-program-tracker/03.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Register",
+  "mobile": true,
+  "v": "77309fb4"
+ },
+ {
+  "src": "/screens/corrosion-chemical-program-tracker/04.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Panel",
+  "mobile": true,
+  "v": "244d0ae6"
+ },
+ {
+  "src": "/screens/corrosion-chemical-program-tracker/05.webp",
+  "w": 1340,
+  "h": 900,
+  "caption": "Monitoring points",
+  "mobile": false,
+  "v": "bd5bd63f"
+ },
+ {
+  "src": "/screens/corrosion-chemical-program-tracker/06.webp",
+  "w": 1340,
+  "h": 900,
+  "caption": "Points overdue due soon",
+  "mobile": false,
+  "v": "fba3c7cf"
+ }
+]

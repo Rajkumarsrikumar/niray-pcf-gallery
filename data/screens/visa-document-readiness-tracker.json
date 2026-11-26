@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/visa-document-readiness-tracker/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "bcc42a6e"
+ },
+ {
+  "src": "/screens/visa-document-readiness-tracker/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "6c1baf29"
+ },
+ {
+  "src": "/screens/visa-document-readiness-tracker/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Traveller cards",
+  "mobile": true,
+  "v": "91f5ba25"
+ },
+ {
+  "src": "/screens/visa-document-readiness-tracker/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Board column",
+  "mobile": true,
+  "v": "07d34d5c"
+ },
+ {
+  "src": "/screens/visa-document-readiness-tracker/05.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Travellers list",
+  "mobile": false,
+  "v": "3bd4987e"
+ },
+ {
+  "src": "/screens/visa-document-readiness-tracker/06.webp",
+  "w": 1012,
+  "h": 701,
+  "caption": "List passport issues grouped",
+  "mobile": false,
+  "v": "6e63e6d2"
+ }
+]

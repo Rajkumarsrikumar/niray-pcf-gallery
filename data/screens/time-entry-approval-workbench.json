@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/time-entry-approval-workbench/01.webp",
+  "w": 1012,
+  "h": 936,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "b736e3fb"
+ },
+ {
+  "src": "/screens/time-entry-approval-workbench/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 1 dashboard",
+  "mobile": true,
+  "v": "c381adb9"
+ },
+ {
+  "src": "/screens/time-entry-approval-workbench/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 2 queue",
+  "mobile": true,
+  "v": "87f6f544"
+ },
+ {
+  "src": "/screens/time-entry-approval-workbench/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 3 detail",
+  "mobile": true,
+  "v": "f45d08f6"
+ },
+ {
+  "src": "/screens/time-entry-approval-workbench/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 4 missing",
+  "mobile": true,
+  "v": "1d8ba0ca"
+ },
+ {
+  "src": "/screens/time-entry-approval-workbench/06.webp",
+  "w": 990,
+  "h": 900,
+  "caption": "Queue grouped consultant",
+  "mobile": false,
+  "v": "ba562536"
+ }
+]

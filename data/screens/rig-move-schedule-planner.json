@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/rig-move-schedule-planner/01.webp",
+  "w": 1340,
+  "h": 1150,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "2dbbc6e0"
+ },
+ {
+  "src": "/screens/rig-move-schedule-planner/02.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "db107134"
+ },
+ {
+  "src": "/screens/rig-move-schedule-planner/03.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Register",
+  "mobile": true,
+  "v": "7f81a764"
+ },
+ {
+  "src": "/screens/rig-move-schedule-planner/04.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Panel",
+  "mobile": true,
+  "v": "7868bf20"
+ },
+ {
+  "src": "/screens/rig-move-schedule-planner/05.webp",
+  "w": 1340,
+  "h": 1000,
+  "caption": "Move register",
+  "mobile": false,
+  "v": "724a9a1c"
+ },
+ {
+  "src": "/screens/rig-move-schedule-planner/06.webp",
+  "w": 1340,
+  "h": 1000,
+  "caption": "Register gate risk filter",
+  "mobile": false,
+  "v": "2da7ee39"
+ }
+]

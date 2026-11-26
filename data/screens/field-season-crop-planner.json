@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/field-season-crop-planner/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "b922575b"
+ },
+ {
+  "src": "/screens/field-season-crop-planner/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "e9b1aca5"
+ },
+ {
+  "src": "/screens/field-season-crop-planner/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Rotation",
+  "mobile": true,
+  "v": "043f7a25"
+ },
+ {
+  "src": "/screens/field-season-crop-planner/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Plan line cards",
+  "mobile": true,
+  "v": "ec67bfe5"
+ },
+ {
+  "src": "/screens/field-season-crop-planner/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "685cc46d"
+ },
+ {
+  "src": "/screens/field-season-crop-planner/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Windows agenda",
+  "mobile": true,
+  "v": "1aef4d95"
+ }
+]

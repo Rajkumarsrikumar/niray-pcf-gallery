@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/crew-layover-accommodation-planner/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "8ae023ac"
+ },
+ {
+  "src": "/screens/crew-layover-accommodation-planner/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "be227660"
+ },
+ {
+  "src": "/screens/crew-layover-accommodation-planner/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Rooming cards",
+  "mobile": true,
+  "v": "21dabed6"
+ },
+ {
+  "src": "/screens/crew-layover-accommodation-planner/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Board column",
+  "mobile": true,
+  "v": "04b647da"
+ },
+ {
+  "src": "/screens/crew-layover-accommodation-planner/05.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Rooming list",
+  "mobile": false,
+  "v": "6d5db35e"
+ },
+ {
+  "src": "/screens/crew-layover-accommodation-planner/06.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "List unconfirmed grouped",
+  "mobile": false,
+  "v": "e1897ffd"
+ }
+]

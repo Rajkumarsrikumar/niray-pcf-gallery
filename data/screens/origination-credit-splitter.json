@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/origination-credit-splitter/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "f2e1ca38"
+ },
+ {
+  "src": "/screens/origination-credit-splitter/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 1 dashboard",
+  "mobile": true,
+  "v": "452b07f4"
+ },
+ {
+  "src": "/screens/origination-credit-splitter/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 2 matter cards",
+  "mobile": true,
+  "v": "5b07e2c3"
+ },
+ {
+  "src": "/screens/origination-credit-splitter/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 3 editor",
+  "mobile": true,
+  "v": "78923958"
+ },
+ {
+  "src": "/screens/origination-credit-splitter/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 4 approvals",
+  "mobile": true,
+  "v": "cdda655d"
+ },
+ {
+  "src": "/screens/origination-credit-splitter/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 5 partners",
+  "mobile": true,
+  "v": "d7bbfbad"
+ }
+]

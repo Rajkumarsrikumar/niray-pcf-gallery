@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/network-capacity-planning-board/01.webp",
+  "w": 1366,
+  "h": 780,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "70dc6a00"
+ },
+ {
+  "src": "/screens/network-capacity-planning-board/02.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "d4a3f414"
+ },
+ {
+  "src": "/screens/network-capacity-planning-board/03.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Elements",
+  "mobile": true,
+  "v": "2f727e0f"
+ },
+ {
+  "src": "/screens/network-capacity-planning-board/04.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "fe624353"
+ },
+ {
+  "src": "/screens/network-capacity-planning-board/05.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Forecast",
+  "mobile": true,
+  "v": "f83d4c98"
+ },
+ {
+  "src": "/screens/network-capacity-planning-board/06.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Projects chips",
+  "mobile": true,
+  "v": "3c6d6ee7"
+ }
+]

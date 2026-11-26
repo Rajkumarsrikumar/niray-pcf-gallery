@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/project-kickoff-readiness-hub/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "d218917a"
+ },
+ {
+  "src": "/screens/project-kickoff-readiness-hub/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 1 dashboard",
+  "mobile": true,
+  "v": "c14bb2ef"
+ },
+ {
+  "src": "/screens/project-kickoff-readiness-hub/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 2 project cards",
+  "mobile": true,
+  "v": "96f4b8a4"
+ },
+ {
+  "src": "/screens/project-kickoff-readiness-hub/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 3 review",
+  "mobile": true,
+  "v": "ee5fdf4a"
+ },
+ {
+  "src": "/screens/project-kickoff-readiness-hub/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 4 board",
+  "mobile": true,
+  "v": "ce63cdf8"
+ },
+ {
+  "src": "/screens/project-kickoff-readiness-hub/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 5 item cards",
+  "mobile": true,
+  "v": "391a4b5d"
+ }
+]

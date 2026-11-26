@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/site-safety-observation-manager/01.webp",
+  "w": 983,
+  "h": 780,
+  "caption": "Demo mode dashboard",
+  "mobile": false,
+  "v": "eaca8a40"
+ },
+ {
+  "src": "/screens/site-safety-observation-manager/02.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "ab820fc9"
+ },
+ {
+  "src": "/screens/site-safety-observation-manager/03.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Register cards",
+  "mobile": true,
+  "v": "66bdb89a"
+ },
+ {
+  "src": "/screens/site-safety-observation-manager/04.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "4aaa4af6"
+ },
+ {
+  "src": "/screens/site-safety-observation-manager/05.webp",
+  "w": 983,
+  "h": 780,
+  "caption": "Demo register",
+  "mobile": false,
+  "v": "791b4a8d"
+ },
+ {
+  "src": "/screens/site-safety-observation-manager/06.webp",
+  "w": 983,
+  "h": 780,
+  "caption": "Live data dashboard",
+  "mobile": false,
+  "v": "4652c67e"
+ }
+]

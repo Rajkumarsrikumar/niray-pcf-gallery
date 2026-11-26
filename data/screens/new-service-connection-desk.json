@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/new-service-connection-desk/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "a012a9cd"
+ },
+ {
+  "src": "/screens/new-service-connection-desk/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "1b720430"
+ },
+ {
+  "src": "/screens/new-service-connection-desk/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Applications",
+  "mobile": true,
+  "v": "9757ffe8"
+ },
+ {
+  "src": "/screens/new-service-connection-desk/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "3146b472"
+ },
+ {
+  "src": "/screens/new-service-connection-desk/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Applications open",
+  "mobile": false,
+  "v": "b231cb1f"
+ },
+ {
+  "src": "/screens/new-service-connection-desk/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Applications grouped transformer",
+  "mobile": false,
+  "v": "4526de29"
+ }
+]

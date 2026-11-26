@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/handset-upgrade-eligibility-desk/01.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "28e1666a"
+ },
+ {
+  "src": "/screens/handset-upgrade-eligibility-desk/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "0455ace2"
+ },
+ {
+  "src": "/screens/handset-upgrade-eligibility-desk/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Queue",
+  "mobile": true,
+  "v": "258402f3"
+ },
+ {
+  "src": "/screens/handset-upgrade-eligibility-desk/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Cases",
+  "mobile": true,
+  "v": "5c6a0561"
+ },
+ {
+  "src": "/screens/handset-upgrade-eligibility-desk/05.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "fb742c11"
+ },
+ {
+  "src": "/screens/handset-upgrade-eligibility-desk/06.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Portal",
+  "mobile": true,
+  "v": "d82bdb2a"
+ }
+]

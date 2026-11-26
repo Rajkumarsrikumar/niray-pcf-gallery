@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/signing-authority-register/01.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "0ab6cb78"
+ },
+ {
+  "src": "/screens/signing-authority-register/02.webp",
+  "w": 375,
+  "h": 772,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "413847ec"
+ },
+ {
+  "src": "/screens/signing-authority-register/03.webp",
+  "w": 375,
+  "h": 772,
+  "caption": "Register cards",
+  "mobile": true,
+  "v": "cb2654ca"
+ },
+ {
+  "src": "/screens/signing-authority-register/04.webp",
+  "w": 375,
+  "h": 772,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "8c8b0482"
+ },
+ {
+  "src": "/screens/signing-authority-register/05.webp",
+  "w": 375,
+  "h": 772,
+  "caption": "Check bottom nav",
+  "mobile": true,
+  "v": "76c3340a"
+ },
+ {
+  "src": "/screens/signing-authority-register/06.webp",
+  "w": 375,
+  "h": 772,
+  "caption": "B matrix",
+  "mobile": true,
+  "v": "16af8c99"
+ }
+]

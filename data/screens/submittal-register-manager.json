@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/submittal-register-manager/01.webp",
+  "w": 1364,
+  "h": 780,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "78e38d1a"
+ },
+ {
+  "src": "/screens/submittal-register-manager/02.webp",
+  "w": 373,
+  "h": 720,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "76e3f485"
+ },
+ {
+  "src": "/screens/submittal-register-manager/03.webp",
+  "w": 373,
+  "h": 720,
+  "caption": "Register",
+  "mobile": true,
+  "v": "c4222ce9"
+ },
+ {
+  "src": "/screens/submittal-register-manager/04.webp",
+  "w": 373,
+  "h": 720,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "cd819739"
+ },
+ {
+  "src": "/screens/submittal-register-manager/05.webp",
+  "w": 373,
+  "h": 720,
+  "caption": "Schedule",
+  "mobile": true,
+  "v": "cebd2465"
+ },
+ {
+  "src": "/screens/submittal-register-manager/06.webp",
+  "w": 373,
+  "h": 720,
+  "caption": "Board",
+  "mobile": true,
+  "v": "31f89e1a"
+ }
+]

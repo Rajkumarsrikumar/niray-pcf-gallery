@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/flare-vent-event-log/01.webp",
+  "w": 1340,
+  "h": 1150,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "fbb97bdb"
+ },
+ {
+  "src": "/screens/flare-vent-event-log/02.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "96dffb89"
+ },
+ {
+  "src": "/screens/flare-vent-event-log/03.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Panel",
+  "mobile": true,
+  "v": "dd23c4ff"
+ },
+ {
+  "src": "/screens/flare-vent-event-log/04.webp",
+  "w": 1340,
+  "h": 1000,
+  "caption": "Record panel ongoing",
+  "mobile": false,
+  "v": "d931a671"
+ },
+ {
+  "src": "/screens/flare-vent-event-log/05.webp",
+  "w": 1340,
+  "h": 1000,
+  "caption": "End event validation",
+  "mobile": false,
+  "v": "e91b7881"
+ },
+ {
+  "src": "/screens/flare-vent-event-log/06.webp",
+  "w": 1340,
+  "h": 1000,
+  "caption": "End event filled",
+  "mobile": false,
+  "v": "b0648c5f"
+ }
+]

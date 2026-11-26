@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/raid-log-manager/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "055e7a79"
+ },
+ {
+  "src": "/screens/raid-log-manager/02.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "M 1 dashboard",
+  "mobile": true,
+  "v": "ec05b34b"
+ },
+ {
+  "src": "/screens/raid-log-manager/03.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "M 2 register cards",
+  "mobile": true,
+  "v": "2e4273e3"
+ },
+ {
+  "src": "/screens/raid-log-manager/04.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "M 3 detail",
+  "mobile": true,
+  "v": "8cb0c4bb"
+ },
+ {
+  "src": "/screens/raid-log-manager/05.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "M 4 heat map",
+  "mobile": true,
+  "v": "ef66be0d"
+ },
+ {
+  "src": "/screens/raid-log-manager/06.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "M 5 board",
+  "mobile": true,
+  "v": "4837f9ce"
+ }
+]

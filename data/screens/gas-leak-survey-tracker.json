@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/gas-leak-survey-tracker/01.webp",
+  "w": 1334,
+  "h": 1000,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "364e2e69"
+ },
+ {
+  "src": "/screens/gas-leak-survey-tracker/02.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "07fd6cb6"
+ },
+ {
+  "src": "/screens/gas-leak-survey-tracker/03.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Register",
+  "mobile": true,
+  "v": "48d07ad7"
+ },
+ {
+  "src": "/screens/gas-leak-survey-tracker/04.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "019487fa"
+ },
+ {
+  "src": "/screens/gas-leak-survey-tracker/05.webp",
+  "w": 1334,
+  "h": 1000,
+  "caption": "Leak register",
+  "mobile": false,
+  "v": "3a91362c"
+ },
+ {
+  "src": "/screens/gas-leak-survey-tracker/06.webp",
+  "w": 1334,
+  "h": 1000,
+  "caption": "Register grouped by grade",
+  "mobile": false,
+  "v": "cc985c3e"
+ }
+]

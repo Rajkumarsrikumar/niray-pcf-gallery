@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/switching-order-builder/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "d3aa196f"
+ },
+ {
+  "src": "/screens/switching-order-builder/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "f7be860a"
+ },
+ {
+  "src": "/screens/switching-order-builder/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Programmes",
+  "mobile": true,
+  "v": "0411cbd8"
+ },
+ {
+  "src": "/screens/switching-order-builder/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Steps",
+  "mobile": true,
+  "v": "38fc01dc"
+ },
+ {
+  "src": "/screens/switching-order-builder/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Programmes list",
+  "mobile": false,
+  "v": "4256e6e0"
+ },
+ {
+  "src": "/screens/switching-order-builder/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Programmes grouped feeder",
+  "mobile": false,
+  "v": "4acd139d"
+ }
+]

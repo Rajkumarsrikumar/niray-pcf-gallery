@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/ad-order-spot-log-manager/01.webp",
+  "w": 1320,
+  "h": 820,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "e4bd9451"
+ },
+ {
+  "src": "/screens/ad-order-spot-log-manager/02.webp",
+  "w": 359,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "7767b7c0"
+ },
+ {
+  "src": "/screens/ad-order-spot-log-manager/03.webp",
+  "w": 359,
+  "h": 760,
+  "caption": "Spots cards",
+  "mobile": true,
+  "v": "2ce72d21"
+ },
+ {
+  "src": "/screens/ad-order-spot-log-manager/04.webp",
+  "w": 359,
+  "h": 760,
+  "caption": "Detail sheet",
+  "mobile": true,
+  "v": "8bcffdf7"
+ },
+ {
+  "src": "/screens/ad-order-spot-log-manager/05.webp",
+  "w": 1320,
+  "h": 820,
+  "caption": "Ad orders",
+  "mobile": false,
+  "v": "f65fb46f"
+ },
+ {
+  "src": "/screens/ad-order-spot-log-manager/06.webp",
+  "w": 1320,
+  "h": 820,
+  "caption": "Order expanded spots",
+  "mobile": false,
+  "v": "9e1c2d69"
+ }
+]

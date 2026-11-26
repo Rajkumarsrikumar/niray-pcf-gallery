@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/planogram-compliance-checker/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "ac4ff7a8"
+ },
+ {
+  "src": "/screens/planogram-compliance-checker/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "75add66b"
+ },
+ {
+  "src": "/screens/planogram-compliance-checker/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Audits",
+  "mobile": true,
+  "v": "286eaafd"
+ },
+ {
+  "src": "/screens/planogram-compliance-checker/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Bay map",
+  "mobile": true,
+  "v": "31a4755b"
+ },
+ {
+  "src": "/screens/planogram-compliance-checker/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "dc1cd6e3"
+ },
+ {
+  "src": "/screens/planogram-compliance-checker/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo audits",
+  "mobile": false,
+  "v": "aff4b664"
+ }
+]

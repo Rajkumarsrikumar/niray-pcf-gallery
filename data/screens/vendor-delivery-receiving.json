@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/vendor-delivery-receiving/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "0df146d5"
+ },
+ {
+  "src": "/screens/vendor-delivery-receiving/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "19eeeae7"
+ },
+ {
+  "src": "/screens/vendor-delivery-receiving/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Deliveries",
+  "mobile": true,
+  "v": "734ebdaa"
+ },
+ {
+  "src": "/screens/vendor-delivery-receiving/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Lines",
+  "mobile": true,
+  "v": "58751632"
+ },
+ {
+  "src": "/screens/vendor-delivery-receiving/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Claims",
+  "mobile": true,
+  "v": "4bf3c6ac"
+ },
+ {
+  "src": "/screens/vendor-delivery-receiving/06.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "6bbb08a3"
+ }
+]

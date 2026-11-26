@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/click-and-collect-order-console/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo today dashboard",
+  "mobile": false,
+  "v": "8a165814"
+ },
+ {
+  "src": "/screens/click-and-collect-order-console/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Today",
+  "mobile": true,
+  "v": "3809814f"
+ },
+ {
+  "src": "/screens/click-and-collect-order-console/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Pick",
+  "mobile": true,
+  "v": "cb442f99"
+ },
+ {
+  "src": "/screens/click-and-collect-order-console/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Board ready",
+  "mobile": true,
+  "v": "14f7f401"
+ },
+ {
+  "src": "/screens/click-and-collect-order-console/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "1316d58f"
+ },
+ {
+  "src": "/screens/click-and-collect-order-console/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo pick queue",
+  "mobile": false,
+  "v": "94e934df"
+ }
+]

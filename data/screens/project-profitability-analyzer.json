@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/project-profitability-analyzer/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "83b39fa7"
+ },
+ {
+  "src": "/screens/project-profitability-analyzer/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "0c25957d"
+ },
+ {
+  "src": "/screens/project-profitability-analyzer/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Project cards",
+  "mobile": true,
+  "v": "2b155334"
+ },
+ {
+  "src": "/screens/project-profitability-analyzer/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "14d9d829"
+ },
+ {
+  "src": "/screens/project-profitability-analyzer/05.webp",
+  "w": 1022,
+  "h": 860,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "2339de0f"
+ },
+ {
+  "src": "/screens/project-profitability-analyzer/06.webp",
+  "w": 1022,
+  "h": 860,
+  "caption": "Projects grouped practice",
+  "mobile": false,
+  "v": "cc64e8bf"
+ }
+]

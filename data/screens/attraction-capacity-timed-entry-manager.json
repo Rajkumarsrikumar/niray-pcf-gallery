@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/attraction-capacity-timed-entry-manager/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "5e9baa83"
+ },
+ {
+  "src": "/screens/attraction-capacity-timed-entry-manager/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "a140e2cf"
+ },
+ {
+  "src": "/screens/attraction-capacity-timed-entry-manager/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Slots sky deck",
+  "mobile": true,
+  "v": "59ea9f24"
+ },
+ {
+  "src": "/screens/attraction-capacity-timed-entry-manager/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Gate",
+  "mobile": true,
+  "v": "21169f79"
+ },
+ {
+  "src": "/screens/attraction-capacity-timed-entry-manager/05.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Slots board",
+  "mobile": false,
+  "v": "571ecb80"
+ },
+ {
+  "src": "/screens/attraction-capacity-timed-entry-manager/06.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Slots after drag",
+  "mobile": false,
+  "v": "902ec5d8"
+ }
+]

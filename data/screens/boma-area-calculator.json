@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/boma-area-calculator/01.webp",
+  "w": 1366,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "152be021"
+ },
+ {
+  "src": "/screens/boma-area-calculator/02.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "86f339f7"
+ },
+ {
+  "src": "/screens/boma-area-calculator/03.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Floor cards",
+  "mobile": true,
+  "v": "449f06dd"
+ },
+ {
+  "src": "/screens/boma-area-calculator/04.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Tenants",
+  "mobile": true,
+  "v": "fc7a0409"
+ },
+ {
+  "src": "/screens/boma-area-calculator/05.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Space cards",
+  "mobile": true,
+  "v": "3ebb868d"
+ },
+ {
+  "src": "/screens/boma-area-calculator/06.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "4c5c02df"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/hydrant-valve-exercise-tracker/01.webp",
+  "w": 1002,
+  "h": 840,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "fb5621b9"
+ },
+ {
+  "src": "/screens/hydrant-valve-exercise-tracker/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "M assets cards",
+  "mobile": true,
+  "v": "ea778baf"
+ },
+ {
+  "src": "/screens/hydrant-valve-exercise-tracker/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "M dashboard",
+  "mobile": true,
+  "v": "94eb1352"
+ },
+ {
+  "src": "/screens/hydrant-valve-exercise-tracker/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "M detail",
+  "mobile": true,
+  "v": "2f2cdf7c"
+ },
+ {
+  "src": "/screens/hydrant-valve-exercise-tracker/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "M public lookup",
+  "mobile": true,
+  "v": "513f4c25"
+ },
+ {
+  "src": "/screens/hydrant-valve-exercise-tracker/06.webp",
+  "w": 1002,
+  "h": 840,
+  "caption": "Dashboard sample data",
+  "mobile": false,
+  "v": "711eaf35"
+ }
+]

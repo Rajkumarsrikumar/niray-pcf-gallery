@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/donor-dedupe-householding/01.webp",
+  "w": 1334,
+  "h": 860,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "f0daa578"
+ },
+ {
+  "src": "/screens/donor-dedupe-householding/02.webp",
+  "w": 1334,
+  "h": 860,
+  "caption": "Duplicates",
+  "mobile": false,
+  "v": "ef1f0837"
+ },
+ {
+  "src": "/screens/donor-dedupe-householding/03.webp",
+  "w": 1334,
+  "h": 860,
+  "caption": "Merge workbench",
+  "mobile": false,
+  "v": "f6b7dc07"
+ },
+ {
+  "src": "/screens/donor-dedupe-householding/04.webp",
+  "w": 1334,
+  "h": 860,
+  "caption": "Households",
+  "mobile": false,
+  "v": "f29dd2cb"
+ },
+ {
+  "src": "/screens/donor-dedupe-householding/05.webp",
+  "w": 1334,
+  "h": 860,
+  "caption": "Addresses",
+  "mobile": false,
+  "v": "efb332f8"
+ },
+ {
+  "src": "/screens/donor-dedupe-householding/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "e210a586"
+ }
+]

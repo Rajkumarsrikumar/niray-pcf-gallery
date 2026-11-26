@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/anti-doping-whereabouts-tracker/01.webp",
+  "w": 1340,
+  "h": 1180,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "1f5e0a30"
+ },
+ {
+  "src": "/screens/anti-doping-whereabouts-tracker/02.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "1249fb45"
+ },
+ {
+  "src": "/screens/anti-doping-whereabouts-tracker/03.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Athletes",
+  "mobile": true,
+  "v": "793a143f"
+ },
+ {
+  "src": "/screens/anti-doping-whereabouts-tracker/04.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Athlete panel",
+  "mobile": true,
+  "v": "a22294de"
+ },
+ {
+  "src": "/screens/anti-doping-whereabouts-tracker/05.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Menu",
+  "mobile": true,
+  "v": "572a730d"
+ },
+ {
+  "src": "/screens/anti-doping-whereabouts-tracker/06.webp",
+  "w": 1340,
+  "h": 980,
+  "caption": "Athletes at risk filter",
+  "mobile": false,
+  "v": "a396bd3b"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/process-plant-shift-logbook/01.webp",
+  "w": 1032,
+  "h": 1108,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "ea9a8858"
+ },
+ {
+  "src": "/screens/process-plant-shift-logbook/02.webp",
+  "w": 373,
+  "h": 1986,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "859ec259"
+ },
+ {
+  "src": "/screens/process-plant-shift-logbook/03.webp",
+  "w": 373,
+  "h": 2400,
+  "caption": "View menu",
+  "mobile": true,
+  "v": "07ef720f"
+ },
+ {
+  "src": "/screens/process-plant-shift-logbook/04.webp",
+  "w": 373,
+  "h": 1503,
+  "caption": "Setpoints",
+  "mobile": true,
+  "v": "04609e23"
+ },
+ {
+  "src": "/screens/process-plant-shift-logbook/05.webp",
+  "w": 1032,
+  "h": 600,
+  "caption": "Filter drawer",
+  "mobile": false,
+  "v": "9e840350"
+ },
+ {
+  "src": "/screens/process-plant-shift-logbook/06.webp",
+  "w": 1032,
+  "h": 600,
+  "caption": "Filtered alarms",
+  "mobile": false,
+  "v": "b23c085b"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/ldar-survey-repair-manager/01.webp",
+  "w": 1340,
+  "h": 1150,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "e866203c"
+ },
+ {
+  "src": "/screens/ldar-survey-repair-manager/02.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "f8eb2800"
+ },
+ {
+  "src": "/screens/ldar-survey-repair-manager/03.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Leaks",
+  "mobile": true,
+  "v": "0508ef9d"
+ },
+ {
+  "src": "/screens/ldar-survey-repair-manager/04.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Calendar",
+  "mobile": true,
+  "v": "eab02ee1"
+ },
+ {
+  "src": "/screens/ldar-survey-repair-manager/05.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Panel",
+  "mobile": true,
+  "v": "85d718d3"
+ },
+ {
+  "src": "/screens/ldar-survey-repair-manager/06.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Menu",
+  "mobile": true,
+  "v": "13a83ec4"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/ae-case-intake-triage/01.webp",
+  "w": 1364,
+  "h": 880,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "b9120944"
+ },
+ {
+  "src": "/screens/ae-case-intake-triage/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "fe5808a7"
+ },
+ {
+  "src": "/screens/ae-case-intake-triage/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Triage queue",
+  "mobile": true,
+  "v": "562ac93d"
+ },
+ {
+  "src": "/screens/ae-case-intake-triage/04.webp",
+  "w": 1364,
+  "h": 880,
+  "caption": "Triage queue",
+  "mobile": false,
+  "v": "abaabeb4"
+ },
+ {
+  "src": "/screens/ae-case-intake-triage/05.webp",
+  "w": 1364,
+  "h": 880,
+  "caption": "Case workflow board",
+  "mobile": false,
+  "v": "6c4227da"
+ },
+ {
+  "src": "/screens/ae-case-intake-triage/06.webp",
+  "w": 1364,
+  "h": 880,
+  "caption": "Reporting clock",
+  "mobile": false,
+  "v": "e7324314"
+ }
+]

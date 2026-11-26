@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/clinical-protocol-deviation-log/01.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "a5435c2a"
+ },
+ {
+  "src": "/screens/clinical-protocol-deviation-log/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Capa",
+  "mobile": true,
+  "v": "d2f25f7d"
+ },
+ {
+  "src": "/screens/clinical-protocol-deviation-log/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "c7a6cedb"
+ },
+ {
+  "src": "/screens/clinical-protocol-deviation-log/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Home",
+  "mobile": true,
+  "v": "117a8c14"
+ },
+ {
+  "src": "/screens/clinical-protocol-deviation-log/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Irbec",
+  "mobile": true,
+  "v": "5db7c752"
+ },
+ {
+  "src": "/screens/clinical-protocol-deviation-log/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Sites",
+  "mobile": true,
+  "v": "92769325"
+ }
+]

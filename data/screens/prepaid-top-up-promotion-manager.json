@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/prepaid-top-up-promotion-manager/01.webp",
+  "w": 1366,
+  "h": 780,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "8dec9446"
+ },
+ {
+  "src": "/screens/prepaid-top-up-promotion-manager/02.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "7c30798f"
+ },
+ {
+  "src": "/screens/prepaid-top-up-promotion-manager/03.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Promos",
+  "mobile": true,
+  "v": "d4b4cbbb"
+ },
+ {
+  "src": "/screens/prepaid-top-up-promotion-manager/04.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "98a0e5cb"
+ },
+ {
+  "src": "/screens/prepaid-top-up-promotion-manager/05.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Calendar",
+  "mobile": true,
+  "v": "77359585"
+ },
+ {
+  "src": "/screens/prepaid-top-up-promotion-manager/06.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Board",
+  "mobile": true,
+  "v": "a63dff0c"
+ }
+]

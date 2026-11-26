@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/trial-exhibit-manager/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "00288dd2"
+ },
+ {
+  "src": "/screens/trial-exhibit-manager/02.webp",
+  "w": 395,
+  "h": 826,
+  "caption": "M courtroom",
+  "mobile": true,
+  "v": "e521b774"
+ },
+ {
+  "src": "/screens/trial-exhibit-manager/03.webp",
+  "w": 395,
+  "h": 826,
+  "caption": "M dashboard",
+  "mobile": true,
+  "v": "42b70d51"
+ },
+ {
+  "src": "/screens/trial-exhibit-manager/04.webp",
+  "w": 395,
+  "h": 826,
+  "caption": "M exhibit cards",
+  "mobile": true,
+  "v": "692630d6"
+ },
+ {
+  "src": "/screens/trial-exhibit-manager/05.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Exhibit list",
+  "mobile": false,
+  "v": "71ec32a6"
+ },
+ {
+  "src": "/screens/trial-exhibit-manager/06.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "List grouped by witness",
+  "mobile": false,
+  "v": "f862ffff"
+ }
+]

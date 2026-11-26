@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/regulatory-submission-tracker/01.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "d1501a90"
+ },
+ {
+  "src": "/screens/regulatory-submission-tracker/02.webp",
+  "w": 366,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "b03b3a88"
+ },
+ {
+  "src": "/screens/regulatory-submission-tracker/03.webp",
+  "w": 366,
+  "h": 740,
+  "caption": "Register",
+  "mobile": true,
+  "v": "7c79931e"
+ },
+ {
+  "src": "/screens/regulatory-submission-tracker/04.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Approval timeline",
+  "mobile": false,
+  "v": "9587372f"
+ },
+ {
+  "src": "/screens/regulatory-submission-tracker/05.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Register active",
+  "mobile": false,
+  "v": "ed923b5b"
+ },
+ {
+  "src": "/screens/regulatory-submission-tracker/06.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Register grouped ectd lifecycle",
+  "mobile": false,
+  "v": "4119126b"
+ }
+]

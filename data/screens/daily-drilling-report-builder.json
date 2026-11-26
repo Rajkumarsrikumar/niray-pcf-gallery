@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/daily-drilling-report-builder/01.webp",
+  "w": 1038,
+  "h": 840,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "7f02c819"
+ },
+ {
+  "src": "/screens/daily-drilling-report-builder/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "c0f1d2f4"
+ },
+ {
+  "src": "/screens/daily-drilling-report-builder/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Reports cards",
+  "mobile": true,
+  "v": "bcbe9152"
+ },
+ {
+  "src": "/screens/daily-drilling-report-builder/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Report",
+  "mobile": true,
+  "v": "59d17e2f"
+ },
+ {
+  "src": "/screens/daily-drilling-report-builder/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Entry sheet validation",
+  "mobile": true,
+  "v": "244e19a8"
+ },
+ {
+  "src": "/screens/daily-drilling-report-builder/06.webp",
+  "w": 1038,
+  "h": 840,
+  "caption": "Reports list",
+  "mobile": false,
+  "v": "b30bf87c"
+ }
+]

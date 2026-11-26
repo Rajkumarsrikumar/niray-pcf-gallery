@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/field-ticket-afe-coder/01.webp",
+  "w": 1340,
+  "h": 1240,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "54929720"
+ },
+ {
+  "src": "/screens/field-ticket-afe-coder/02.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "d6e1073f"
+ },
+ {
+  "src": "/screens/field-ticket-afe-coder/03.webp",
+  "w": 375,
+  "h": 900,
+  "caption": "Coding",
+  "mobile": true,
+  "v": "176c0bd1"
+ },
+ {
+  "src": "/screens/field-ticket-afe-coder/04.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Afes",
+  "mobile": true,
+  "v": "56322832"
+ },
+ {
+  "src": "/screens/field-ticket-afe-coder/05.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Menu",
+  "mobile": true,
+  "v": "c7a63dbf"
+ },
+ {
+  "src": "/screens/field-ticket-afe-coder/06.webp",
+  "w": 1340,
+  "h": 1000,
+  "caption": "Coding queue",
+  "mobile": false,
+  "v": "9e4b716b"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/subgrant-disbursement-manager/01.webp",
+  "w": 1331,
+  "h": 860,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "46c823e2"
+ },
+ {
+  "src": "/screens/subgrant-disbursement-manager/02.webp",
+  "w": 1331,
+  "h": 860,
+  "caption": "Disbursement board",
+  "mobile": false,
+  "v": "f0fb7a7f"
+ },
+ {
+  "src": "/screens/subgrant-disbursement-manager/03.webp",
+  "w": 1331,
+  "h": 860,
+  "caption": "Tranches",
+  "mobile": false,
+  "v": "b08fdff4"
+ },
+ {
+  "src": "/screens/subgrant-disbursement-manager/04.webp",
+  "w": 1331,
+  "h": 860,
+  "caption": "Awards",
+  "mobile": false,
+  "v": "c7067b20"
+ },
+ {
+  "src": "/screens/subgrant-disbursement-manager/05.webp",
+  "w": 1331,
+  "h": 860,
+  "caption": "Partner reports",
+  "mobile": false,
+  "v": "84e1ef05"
+ },
+ {
+  "src": "/screens/subgrant-disbursement-manager/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "9a3b96c4"
+ }
+]

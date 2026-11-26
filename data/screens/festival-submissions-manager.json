@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/festival-submissions-manager/01.webp",
+  "w": 958,
+  "h": 820,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "0207ac05"
+ },
+ {
+  "src": "/screens/festival-submissions-manager/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "0b4b2782"
+ },
+ {
+  "src": "/screens/festival-submissions-manager/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Calendar",
+  "mobile": true,
+  "v": "92aa8950"
+ },
+ {
+  "src": "/screens/festival-submissions-manager/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Board",
+  "mobile": true,
+  "v": "0fa40b7e"
+ },
+ {
+  "src": "/screens/festival-submissions-manager/05.webp",
+  "w": 958,
+  "h": 820,
+  "caption": "Csv dashboard",
+  "mobile": false,
+  "v": "28607d0b"
+ },
+ {
+  "src": "/screens/festival-submissions-manager/06.webp",
+  "w": 958,
+  "h": 820,
+  "caption": "Submissions list",
+  "mobile": false,
+  "v": "a44dac51"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/defects-liability-warranty-manager/01.webp",
+  "w": 1354,
+  "h": 880,
+  "caption": "Demo mode dlp overview",
+  "mobile": false,
+  "v": "3625bc51"
+ },
+ {
+  "src": "/screens/defects-liability-warranty-manager/02.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "b3e4d15c"
+ },
+ {
+  "src": "/screens/defects-liability-warranty-manager/03.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Defect cards",
+  "mobile": true,
+  "v": "542f1905"
+ },
+ {
+  "src": "/screens/defects-liability-warranty-manager/04.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "85e77119"
+ },
+ {
+  "src": "/screens/defects-liability-warranty-manager/05.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Warranties",
+  "mobile": true,
+  "v": "b31a881c"
+ },
+ {
+  "src": "/screens/defects-liability-warranty-manager/06.webp",
+  "w": 1354,
+  "h": 880,
+  "caption": "Demo warranty register",
+  "mobile": false,
+  "v": "454ff8ff"
+ }
+]

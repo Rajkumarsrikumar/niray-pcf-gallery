@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/airport-lounge-access-manager/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "4a8cb1ee"
+ },
+ {
+  "src": "/screens/airport-lounge-access-manager/02.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "9fbb572e"
+ },
+ {
+  "src": "/screens/airport-lounge-access-manager/03.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "Entry desk",
+  "mobile": true,
+  "v": "bd6e51f5"
+ },
+ {
+  "src": "/screens/airport-lounge-access-manager/04.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Entry desk eligible",
+  "mobile": false,
+  "v": "1bc62b29"
+ },
+ {
+  "src": "/screens/airport-lounge-access-manager/05.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Entry desk not eligible",
+  "mobile": false,
+  "v": "26cc33f8"
+ },
+ {
+  "src": "/screens/airport-lounge-access-manager/06.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Admitted toast undo",
+  "mobile": false,
+  "v": "6f61d6cb"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/client-account-plan-builder/01.webp",
+  "w": 1012,
+  "h": 894,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "7a587def"
+ },
+ {
+  "src": "/screens/client-account-plan-builder/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "7252c9d0"
+ },
+ {
+  "src": "/screens/client-account-plan-builder/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Relationship map",
+  "mobile": true,
+  "v": "d8d19d02"
+ },
+ {
+  "src": "/screens/client-account-plan-builder/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Whitespace",
+  "mobile": true,
+  "v": "3a76a948"
+ },
+ {
+  "src": "/screens/client-account-plan-builder/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "New item",
+  "mobile": true,
+  "v": "ae308c35"
+ },
+ {
+  "src": "/screens/client-account-plan-builder/06.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Actions",
+  "mobile": true,
+  "v": "d647b4aa"
+ }
+]

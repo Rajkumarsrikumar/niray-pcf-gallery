@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/digital-vehicle-health-check/01.webp",
+  "w": 1030,
+  "h": 900,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "3bd0e677"
+ },
+ {
+  "src": "/screens/digital-vehicle-health-check/02.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "27afd935"
+ },
+ {
+  "src": "/screens/digital-vehicle-health-check/03.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Checks",
+  "mobile": true,
+  "v": "3df4e28d"
+ },
+ {
+  "src": "/screens/digital-vehicle-health-check/04.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Sheet",
+  "mobile": true,
+  "v": "9c487a96"
+ },
+ {
+  "src": "/screens/digital-vehicle-health-check/05.webp",
+  "w": 1030,
+  "h": 900,
+  "caption": "Health checks",
+  "mobile": false,
+  "v": "10369732"
+ },
+ {
+  "src": "/screens/digital-vehicle-health-check/06.webp",
+  "w": 1030,
+  "h": 900,
+  "caption": "Inspection sheet",
+  "mobile": false,
+  "v": "67b46f2b"
+ }
+]

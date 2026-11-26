@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/sync-licensing-request-desk/01.webp",
+  "w": 1366,
+  "h": 820,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "39d7d098"
+ },
+ {
+  "src": "/screens/sync-licensing-request-desk/02.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "d27217ca"
+ },
+ {
+  "src": "/screens/sync-licensing-request-desk/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Requests",
+  "mobile": true,
+  "v": "702f594f"
+ },
+ {
+  "src": "/screens/sync-licensing-request-desk/04.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Quote",
+  "mobile": true,
+  "v": "90361f6c"
+ },
+ {
+  "src": "/screens/sync-licensing-request-desk/05.webp",
+  "w": 1366,
+  "h": 820,
+  "caption": "Demo pipeline",
+  "mobile": false,
+  "v": "949dffcc"
+ },
+ {
+  "src": "/screens/sync-licensing-request-desk/06.webp",
+  "w": 1366,
+  "h": 820,
+  "caption": "Dashboard sample data",
+  "mobile": false,
+  "v": "45ff703d"
+ }
+]

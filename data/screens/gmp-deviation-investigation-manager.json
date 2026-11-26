@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/gmp-deviation-investigation-manager/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "8d7ff9fb"
+ },
+ {
+  "src": "/screens/gmp-deviation-investigation-manager/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "22880251"
+ },
+ {
+  "src": "/screens/gmp-deviation-investigation-manager/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Board",
+  "mobile": true,
+  "v": "13219295"
+ },
+ {
+  "src": "/screens/gmp-deviation-investigation-manager/04.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Investigation board",
+  "mobile": false,
+  "v": "4058a0c9"
+ },
+ {
+  "src": "/screens/gmp-deviation-investigation-manager/05.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Board gate blocked",
+  "mobile": false,
+  "v": "8092d5e7"
+ },
+ {
+  "src": "/screens/gmp-deviation-investigation-manager/06.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Detail summary gates",
+  "mobile": false,
+  "v": "1ccdb99d"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/freight-invoice-audit-console/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "9abd822e"
+ },
+ {
+  "src": "/screens/freight-invoice-audit-console/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "bff8d7a5"
+ },
+ {
+  "src": "/screens/freight-invoice-audit-console/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "8a5cdb17"
+ },
+ {
+  "src": "/screens/freight-invoice-audit-console/04.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo queue",
+  "mobile": false,
+  "v": "5a53aff9"
+ },
+ {
+  "src": "/screens/freight-invoice-audit-console/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo board",
+  "mobile": false,
+  "v": "7662e428"
+ },
+ {
+  "src": "/screens/freight-invoice-audit-console/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo carriers",
+  "mobile": false,
+  "v": "0bc3fffe"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/transformer-loading-monitor/01.webp",
+  "w": 1334,
+  "h": 1000,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "6bcc9d0c"
+ },
+ {
+  "src": "/screens/transformer-loading-monitor/02.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "683563dc"
+ },
+ {
+  "src": "/screens/transformer-loading-monitor/03.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Transformers",
+  "mobile": true,
+  "v": "af184556"
+ },
+ {
+  "src": "/screens/transformer-loading-monitor/04.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Heatmap",
+  "mobile": true,
+  "v": "7e3be507"
+ },
+ {
+  "src": "/screens/transformer-loading-monitor/05.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Board",
+  "mobile": true,
+  "v": "7700f11c"
+ },
+ {
+  "src": "/screens/transformer-loading-monitor/06.webp",
+  "w": 1334,
+  "h": 1000,
+  "caption": "Transformers",
+  "mobile": false,
+  "v": "655eb321"
+ }
+]

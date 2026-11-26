@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/recipe-costing-menu-engineering/01.webp",
+  "w": 1330,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "e6191e9a"
+ },
+ {
+  "src": "/screens/recipe-costing-menu-engineering/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "593c03ab"
+ },
+ {
+  "src": "/screens/recipe-costing-menu-engineering/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Items",
+  "mobile": true,
+  "v": "66a0b24e"
+ },
+ {
+  "src": "/screens/recipe-costing-menu-engineering/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Matrix",
+  "mobile": true,
+  "v": "589bb30e"
+ },
+ {
+  "src": "/screens/recipe-costing-menu-engineering/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "0a6d33d4"
+ },
+ {
+  "src": "/screens/recipe-costing-menu-engineering/06.webp",
+  "w": 1330,
+  "h": 900,
+  "caption": "Demo menu items",
+  "mobile": false,
+  "v": "210b7b0d"
+ }
+]

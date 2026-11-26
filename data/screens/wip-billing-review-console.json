@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/wip-billing-review-console/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "03a41adf"
+ },
+ {
+  "src": "/screens/wip-billing-review-console/02.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "M 1 dashboard",
+  "mobile": true,
+  "v": "3f584d23"
+ },
+ {
+  "src": "/screens/wip-billing-review-console/03.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "M 2 wip cards",
+  "mobile": true,
+  "v": "d5225b3a"
+ },
+ {
+  "src": "/screens/wip-billing-review-console/04.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "M 3 review",
+  "mobile": true,
+  "v": "80423f80"
+ },
+ {
+  "src": "/screens/wip-billing-review-console/05.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "M 4 board",
+  "mobile": true,
+  "v": "e11a75da"
+ },
+ {
+  "src": "/screens/wip-billing-review-console/06.webp",
+  "w": 1042,
+  "h": 820,
+  "caption": "Dashboard control",
+  "mobile": false,
+  "v": "e6592581"
+ }
+]

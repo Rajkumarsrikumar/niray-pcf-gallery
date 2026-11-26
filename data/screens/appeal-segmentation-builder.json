@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/appeal-segmentation-builder/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "c67a6cbf"
+ },
+ {
+  "src": "/screens/appeal-segmentation-builder/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "345e314e"
+ },
+ {
+  "src": "/screens/appeal-segmentation-builder/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Builder",
+  "mobile": true,
+  "v": "bea727cc"
+ },
+ {
+  "src": "/screens/appeal-segmentation-builder/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Donors",
+  "mobile": true,
+  "v": "50aadb2f"
+ },
+ {
+  "src": "/screens/appeal-segmentation-builder/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "ffea06e5"
+ },
+ {
+  "src": "/screens/appeal-segmentation-builder/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo segment builder",
+  "mobile": false,
+  "v": "5a0ac79b"
+ }
+]

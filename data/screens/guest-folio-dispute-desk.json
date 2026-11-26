@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/guest-folio-dispute-desk/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "5b71d643"
+ },
+ {
+  "src": "/screens/guest-folio-dispute-desk/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "21820230"
+ },
+ {
+  "src": "/screens/guest-folio-dispute-desk/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Queue cards",
+  "mobile": true,
+  "v": "b3e41fa5"
+ },
+ {
+  "src": "/screens/guest-folio-dispute-desk/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "1f9209ca"
+ },
+ {
+  "src": "/screens/guest-folio-dispute-desk/05.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Dashboard sample data",
+  "mobile": false,
+  "v": "65b8bf75"
+ },
+ {
+  "src": "/screens/guest-folio-dispute-desk/06.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Case queue",
+  "mobile": false,
+  "v": "117f554e"
+ }
+]

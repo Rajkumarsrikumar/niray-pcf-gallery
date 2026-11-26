@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/methane-ogmp-inventory-reporter/01.webp",
+  "w": 1347,
+  "h": 800,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "a58c69c8"
+ },
+ {
+  "src": "/screens/methane-ogmp-inventory-reporter/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "a5c386d1"
+ },
+ {
+  "src": "/screens/methane-ogmp-inventory-reporter/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Inventory cards",
+  "mobile": true,
+  "v": "b97ef879"
+ },
+ {
+  "src": "/screens/methane-ogmp-inventory-reporter/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "730ecc8c"
+ },
+ {
+  "src": "/screens/methane-ogmp-inventory-reporter/05.webp",
+  "w": 1347,
+  "h": 800,
+  "caption": "Inventory",
+  "mobile": false,
+  "v": "5244e9aa"
+ },
+ {
+  "src": "/screens/methane-ogmp-inventory-reporter/06.webp",
+  "w": 1347,
+  "h": 800,
+  "caption": "Inventory overdue grouped",
+  "mobile": false,
+  "v": "7ed7a8f3"
+ }
+]

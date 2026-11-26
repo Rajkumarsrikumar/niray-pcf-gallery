@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/interconnect-settlement-reconciler/01.webp",
+  "w": 1366,
+  "h": 780,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "7a433239"
+ },
+ {
+  "src": "/screens/interconnect-settlement-reconciler/02.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "52555966"
+ },
+ {
+  "src": "/screens/interconnect-settlement-reconciler/03.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Lines",
+  "mobile": true,
+  "v": "555a9a87"
+ },
+ {
+  "src": "/screens/interconnect-settlement-reconciler/04.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "af3b8724"
+ },
+ {
+  "src": "/screens/interconnect-settlement-reconciler/05.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Reconcile",
+  "mobile": true,
+  "v": "55148ed1"
+ },
+ {
+  "src": "/screens/interconnect-settlement-reconciler/06.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Pipeline",
+  "mobile": true,
+  "v": "08e08e93"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/relief-request-triage/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "24bd814e"
+ },
+ {
+  "src": "/screens/relief-request-triage/02.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Triage queue",
+  "mobile": false,
+  "v": "2b6298d6"
+ },
+ {
+  "src": "/screens/relief-request-triage/03.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Request board",
+  "mobile": false,
+  "v": "cd3e866b"
+ },
+ {
+  "src": "/screens/relief-request-triage/04.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Dispatch plan",
+  "mobile": false,
+  "v": "e63b0114"
+ },
+ {
+  "src": "/screens/relief-request-triage/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Kits stock",
+  "mobile": false,
+  "v": "f0fbabf0"
+ },
+ {
+  "src": "/screens/relief-request-triage/06.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "1cda94cb"
+ }
+]

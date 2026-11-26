@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/solar-farm-performance-monitor/01.webp",
+  "w": 1334,
+  "h": 1000,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "6d297f76"
+ },
+ {
+  "src": "/screens/solar-farm-performance-monitor/02.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "293c7e3d"
+ },
+ {
+  "src": "/screens/solar-farm-performance-monitor/03.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Om",
+  "mobile": true,
+  "v": "04f9ebaa"
+ },
+ {
+  "src": "/screens/solar-farm-performance-monitor/04.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Inverters",
+  "mobile": true,
+  "v": "d871ae60"
+ },
+ {
+  "src": "/screens/solar-farm-performance-monitor/05.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "6cf6bdfd"
+ },
+ {
+  "src": "/screens/solar-farm-performance-monitor/06.webp",
+  "w": 1334,
+  "h": 1000,
+  "caption": "Om board",
+  "mobile": false,
+  "v": "686e8ff7"
+ }
+]

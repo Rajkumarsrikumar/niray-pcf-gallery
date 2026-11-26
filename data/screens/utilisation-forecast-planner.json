@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/utilisation-forecast-planner/01.webp",
+  "w": 1012,
+  "h": 937,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "39f694a6"
+ },
+ {
+  "src": "/screens/utilisation-forecast-planner/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 1 dashboard",
+  "mobile": true,
+  "v": "21ec23bb"
+ },
+ {
+  "src": "/screens/utilisation-forecast-planner/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 2 planner",
+  "mobile": true,
+  "v": "1cf4b95f"
+ },
+ {
+  "src": "/screens/utilisation-forecast-planner/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 3 people",
+  "mobile": true,
+  "v": "1c25af30"
+ },
+ {
+  "src": "/screens/utilisation-forecast-planner/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 4 detail",
+  "mobile": true,
+  "v": "39d92eca"
+ },
+ {
+  "src": "/screens/utilisation-forecast-planner/06.webp",
+  "w": 1033,
+  "h": 900,
+  "caption": "Planner heatmap",
+  "mobile": false,
+  "v": "1295a650"
+ }
+]

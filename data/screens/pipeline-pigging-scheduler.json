@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/pipeline-pigging-scheduler/01.webp",
+  "w": 1340,
+  "h": 900,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "6415200b"
+ },
+ {
+  "src": "/screens/pipeline-pigging-scheduler/02.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "cdb25e0b"
+ },
+ {
+  "src": "/screens/pipeline-pigging-scheduler/03.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Register",
+  "mobile": true,
+  "v": "8a8e1582"
+ },
+ {
+  "src": "/screens/pipeline-pigging-scheduler/04.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Panel",
+  "mobile": true,
+  "v": "07a0bc23"
+ },
+ {
+  "src": "/screens/pipeline-pigging-scheduler/05.webp",
+  "w": 1340,
+  "h": 900,
+  "caption": "Line schedule",
+  "mobile": false,
+  "v": "364c0147"
+ },
+ {
+  "src": "/screens/pipeline-pigging-scheduler/06.webp",
+  "w": 1340,
+  "h": 900,
+  "caption": "Line schedule overdue due soon",
+  "mobile": false,
+  "v": "530d6a3b"
+ }
+]

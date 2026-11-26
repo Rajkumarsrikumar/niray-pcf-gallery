@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/mineral-royalty-return-builder/01.webp",
+  "w": 1400,
+  "h": 898,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "9ef47fe0"
+ },
+ {
+  "src": "/screens/mineral-royalty-return-builder/02.webp",
+  "w": 750,
+  "h": 1560,
+  "caption": "Lines cards",
+  "mobile": false,
+  "v": "8c0fa16a"
+ },
+ {
+  "src": "/screens/mineral-royalty-return-builder/03.webp",
+  "w": 750,
+  "h": 1560,
+  "caption": "View menu",
+  "mobile": false,
+  "v": "dbda6b37"
+ },
+ {
+  "src": "/screens/mineral-royalty-return-builder/04.webp",
+  "w": 1400,
+  "h": 898,
+  "caption": "Royalty lines",
+  "mobile": false,
+  "v": "67e62395"
+ },
+ {
+  "src": "/screens/mineral-royalty-return-builder/05.webp",
+  "w": 1400,
+  "h": 898,
+  "caption": "Grouped multiselect",
+  "mobile": false,
+  "v": "8e4d46bb"
+ },
+ {
+  "src": "/screens/mineral-royalty-return-builder/06.webp",
+  "w": 1400,
+  "h": 898,
+  "caption": "Return builder",
+  "mobile": false,
+  "v": "94d0cb38"
+ }
+]

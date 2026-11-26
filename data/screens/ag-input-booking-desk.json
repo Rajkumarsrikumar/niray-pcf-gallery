@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/ag-input-booking-desk/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "587b195d"
+ },
+ {
+  "src": "/screens/ag-input-booking-desk/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "b582481b"
+ },
+ {
+  "src": "/screens/ag-input-booking-desk/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Booking cards",
+  "mobile": true,
+  "v": "95e86b21"
+ },
+ {
+  "src": "/screens/ag-input-booking-desk/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Booking panel",
+  "mobile": true,
+  "v": "6b7b577c"
+ },
+ {
+  "src": "/screens/ag-input-booking-desk/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Stock",
+  "mobile": true,
+  "v": "20475b44"
+ },
+ {
+  "src": "/screens/ag-input-booking-desk/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Deliveries",
+  "mobile": true,
+  "v": "3cede62a"
+ }
+]

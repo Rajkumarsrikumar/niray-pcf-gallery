@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/baggage-mishandling-claims-desk/01.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "5e92db61"
+ },
+ {
+  "src": "/screens/baggage-mishandling-claims-desk/02.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "836751f7"
+ },
+ {
+  "src": "/screens/baggage-mishandling-claims-desk/03.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Queue",
+  "mobile": true,
+  "v": "8aa47c27"
+ },
+ {
+  "src": "/screens/baggage-mishandling-claims-desk/04.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Map your columns",
+  "mobile": false,
+  "v": "5e92db61"
+ },
+ {
+  "src": "/screens/baggage-mishandling-claims-desk/05.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Dashboard data",
+  "mobile": false,
+  "v": "ae446d00"
+ },
+ {
+  "src": "/screens/baggage-mishandling-claims-desk/06.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "File queue",
+  "mobile": false,
+  "v": "479eee5e"
+ }
+]

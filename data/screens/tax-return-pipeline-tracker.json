@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/tax-return-pipeline-tracker/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "72025796"
+ },
+ {
+  "src": "/screens/tax-return-pipeline-tracker/02.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "M 1 dashboard",
+  "mobile": true,
+  "v": "990ed968"
+ },
+ {
+  "src": "/screens/tax-return-pipeline-tracker/03.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "M 2 register cards",
+  "mobile": true,
+  "v": "2aa73bb8"
+ },
+ {
+  "src": "/screens/tax-return-pipeline-tracker/04.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "M 3 detail",
+  "mobile": true,
+  "v": "916d3206"
+ },
+ {
+  "src": "/screens/tax-return-pipeline-tracker/05.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "M 4 pipeline lane",
+  "mobile": true,
+  "v": "55aa9e5b"
+ },
+ {
+  "src": "/screens/tax-return-pipeline-tracker/06.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "M 5 deadlines agenda",
+  "mobile": true,
+  "v": "effa01c0"
+ }
+]

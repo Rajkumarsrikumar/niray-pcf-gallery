@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/critical-control-verification-hub/01.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "25dd0179"
+ },
+ {
+  "src": "/screens/critical-control-verification-hub/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Home",
+  "mobile": true,
+  "v": "f9c9ce2d"
+ },
+ {
+  "src": "/screens/critical-control-verification-hub/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Bowtie",
+  "mobile": true,
+  "v": "e05d6d41"
+ },
+ {
+  "src": "/screens/critical-control-verification-hub/04.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Demo bowtie",
+  "mobile": false,
+  "v": "7d8121e3"
+ },
+ {
+  "src": "/screens/critical-control-verification-hub/05.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Demo schedule",
+  "mobile": false,
+  "v": "007d6e04"
+ },
+ {
+  "src": "/screens/critical-control-verification-hub/06.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Demo register",
+  "mobile": false,
+  "v": "a7b246c2"
+ }
+]

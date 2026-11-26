@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/meter-exchange-campaign-manager/01.webp",
+  "w": 1305,
+  "h": 1000,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "cef5a884"
+ },
+ {
+  "src": "/screens/meter-exchange-campaign-manager/02.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "4f8b1922"
+ },
+ {
+  "src": "/screens/meter-exchange-campaign-manager/03.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "List",
+  "mobile": true,
+  "v": "7a79cf61"
+ },
+ {
+  "src": "/screens/meter-exchange-campaign-manager/04.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "72aa66cd"
+ },
+ {
+  "src": "/screens/meter-exchange-campaign-manager/05.webp",
+  "w": 1305,
+  "h": 1000,
+  "caption": "Exchanges list",
+  "mobile": false,
+  "v": "a977d788"
+ },
+ {
+  "src": "/screens/meter-exchange-campaign-manager/06.webp",
+  "w": 1305,
+  "h": 1000,
+  "caption": "List grouped by area",
+  "mobile": false,
+  "v": "4a8f7bd8"
+ }
+]

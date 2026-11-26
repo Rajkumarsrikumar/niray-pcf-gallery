@@ -2,11 +2,14 @@
 import { useEffect, useMemo, useState } from "react";
 import ProductCard from "../ProductCard";
 import Icon from "../Icon";
-import { allComponents, categories, industries, industrySlug, isAvailable } from "@/lib/catalog";
+import { industrySlug, isAvailable } from "@/lib/shared";
+import type { CardItem } from "@/lib/catalog";
+
+export type ShopItem = CardItem & { search: string; dateBuilt?: string | null };
 
 type Sort = "featured" | "az" | "newest";
 
-export default function Shop() {
+export default function Shop({ items: allComponents, industries, categories }: { items: ShopItem[]; industries: string[]; categories: string[] }) {
   const [q, setQ] = useState("");
   const [inds, setInds] = useState<string[]>([]);
   // Read ?q= and ?industry= after load, so the full list is prerendered into the page's HTML for search engines.
@@ -15,7 +18,7 @@ export default function Shop() {
     const startIndustry = industries.find((i) => industrySlug(i) === params.get("industry"));
     if (params.get("q")) setQ(params.get("q")!);
     if (startIndustry) setInds([startIndustry]);
-  }, []);
+  }, [industries]);
   const [cat, setCat] = useState("All");
   const [stockOnly, setStockOnly] = useState(false);
   const [sort, setSort] = useState<Sort>("featured");
@@ -28,12 +31,12 @@ export default function Shop() {
         (inds.length === 0 || inds.includes(c.industry)) &&
         (cat === "All" || c.category === cat) &&
         (!stockOnly || isAvailable(c)) &&
-        (!s || `${c.name} ${c.tagline} ${c.description} ${c.tags.join(" ")}`.toLowerCase().includes(s)),
+        (!s || c.search.includes(s)),
     );
     if (sort === "az") return [...list].sort((a, b) => a.name.localeCompare(b.name));
     if (sort === "newest") return [...list].sort((a, b) => (b.dateBuilt ?? "").localeCompare(a.dateBuilt ?? ""));
     return [...list].sort((a, b) => Number(isAvailable(b)) - Number(isAvailable(a)) || a.name.localeCompare(b.name));
-  }, [q, inds, cat, stockOnly, sort]);
+  }, [allComponents, q, inds, cat, stockOnly, sort]);
 
   const toggle = (i: string) => setInds((cur) => (cur.includes(i) ? cur.filter((x) => x !== i) : [...cur, i]));
   const reset = () => { setQ(""); setInds([]); setCat("All"); setStockOnly(false); };

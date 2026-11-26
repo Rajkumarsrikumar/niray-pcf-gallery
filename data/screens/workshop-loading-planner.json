@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/workshop-loading-planner/01.webp",
+  "w": 1037,
+  "h": 880,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "9e070e05"
+ },
+ {
+  "src": "/screens/workshop-loading-planner/02.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "d7fa8e8b"
+ },
+ {
+  "src": "/screens/workshop-loading-planner/03.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "View menu",
+  "mobile": true,
+  "v": "3721d285"
+ },
+ {
+  "src": "/screens/workshop-loading-planner/04.webp",
+  "w": 1037,
+  "h": 880,
+  "caption": "Demo day planner",
+  "mobile": false,
+  "v": "0e00da62"
+ },
+ {
+  "src": "/screens/workshop-loading-planner/05.webp",
+  "w": 1037,
+  "h": 880,
+  "caption": "Demo bookings",
+  "mobile": false,
+  "v": "77d2c3a4"
+ },
+ {
+  "src": "/screens/workshop-loading-planner/06.webp",
+  "w": 1037,
+  "h": 900,
+  "caption": "Data dashboard",
+  "mobile": false,
+  "v": "ef130b3d"
+ }
+]

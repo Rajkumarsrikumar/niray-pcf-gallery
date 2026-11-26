@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/lost-and-found-register/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "072671e3"
+ },
+ {
+  "src": "/screens/lost-and-found-register/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "0c9e87c3"
+ },
+ {
+  "src": "/screens/lost-and-found-register/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Register",
+  "mobile": true,
+  "v": "f8f4ee9f"
+ },
+ {
+  "src": "/screens/lost-and-found-register/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Matching",
+  "mobile": true,
+  "v": "6ff367f7"
+ },
+ {
+  "src": "/screens/lost-and-found-register/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Storage",
+  "mobile": true,
+  "v": "69a31893"
+ },
+ {
+  "src": "/screens/lost-and-found-register/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Returns",
+  "mobile": true,
+  "v": "7fa08903"
+ }
+]

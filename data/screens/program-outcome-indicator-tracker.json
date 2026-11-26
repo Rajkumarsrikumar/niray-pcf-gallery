@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/program-outcome-indicator-tracker/01.webp",
+  "w": 1312,
+  "h": 820,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "4ad90311"
+ },
+ {
+  "src": "/screens/program-outcome-indicator-tracker/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "60c7d2e7"
+ },
+ {
+  "src": "/screens/program-outcome-indicator-tracker/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Results",
+  "mobile": true,
+  "v": "48b6134f"
+ },
+ {
+  "src": "/screens/program-outcome-indicator-tracker/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "5e83f0e2"
+ },
+ {
+  "src": "/screens/program-outcome-indicator-tracker/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Matrix",
+  "mobile": true,
+  "v": "4af9e1f8"
+ },
+ {
+  "src": "/screens/program-outcome-indicator-tracker/06.webp",
+  "w": 1312,
+  "h": 820,
+  "caption": "Demo matrix",
+  "mobile": false,
+  "v": "3d35cabf"
+ }
+]

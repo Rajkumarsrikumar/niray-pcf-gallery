@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/sop-document-lifecycle-manager/01.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "53946fa1"
+ },
+ {
+  "src": "/screens/sop-document-lifecycle-manager/02.webp",
+  "w": 346,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "e5ec4c39"
+ },
+ {
+  "src": "/screens/sop-document-lifecycle-manager/03.webp",
+  "w": 346,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "c58619de"
+ },
+ {
+  "src": "/screens/sop-document-lifecycle-manager/04.webp",
+  "w": 346,
+  "h": 740,
+  "caption": "Documents",
+  "mobile": true,
+  "v": "2b911748"
+ },
+ {
+  "src": "/screens/sop-document-lifecycle-manager/05.webp",
+  "w": 346,
+  "h": 740,
+  "caption": "Periodic reviews",
+  "mobile": true,
+  "v": "019041cb"
+ },
+ {
+  "src": "/screens/sop-document-lifecycle-manager/06.webp",
+  "w": 346,
+  "h": 740,
+  "caption": "Workflow",
+  "mobile": true,
+  "v": "18761ec2"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/matter-file-retention-manager/01.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "66e299fc"
+ },
+ {
+  "src": "/screens/matter-file-retention-manager/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "8860f42f"
+ },
+ {
+  "src": "/screens/matter-file-retention-manager/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Closure desk",
+  "mobile": true,
+  "v": "850c90c1"
+ },
+ {
+  "src": "/screens/matter-file-retention-manager/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Board status chips",
+  "mobile": true,
+  "v": "5cde0819"
+ },
+ {
+  "src": "/screens/matter-file-retention-manager/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "File cards",
+  "mobile": true,
+  "v": "85589f72"
+ },
+ {
+  "src": "/screens/matter-file-retention-manager/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "b58237c9"
+ }
+]

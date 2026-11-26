@@ -1,4 +1,5 @@
 import CustomForm from "./CustomForm";
+import { allComponents } from "@/lib/catalog";
 import Icon from "../Icon";
 
 export const metadata = { keywords: ["custom PCF development", "PCF developer", "Power Apps component developer", "custom Power Apps control", "Power Platform consultant Singapore"], title: "Request custom PCF development | Niray PCF Gallery", description: "Need a Power Apps code component that isn't in the gallery? Niray IT Solutions builds custom PCF controls for Canvas, Model-driven and Power Pages.", alternates: { canonical: "/custom" } };
@@ -28,7 +29,7 @@ export default function Custom() {
             </li>
           ))}
         </ol>
-        <CustomForm />
+        <CustomForm names={allComponents.map((c) => c.name)} />
       </div>
     </>
   );

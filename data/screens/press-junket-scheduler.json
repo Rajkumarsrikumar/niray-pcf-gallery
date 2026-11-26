@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/press-junket-scheduler/01.webp",
+  "w": 1078,
+  "h": 860,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "612ad576"
+ },
+ {
+  "src": "/screens/press-junket-scheduler/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "1d17c482"
+ },
+ {
+  "src": "/screens/press-junket-scheduler/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Rotation agenda",
+  "mobile": true,
+  "v": "199743be"
+ },
+ {
+  "src": "/screens/press-junket-scheduler/04.webp",
+  "w": 1078,
+  "h": 860,
+  "caption": "Csv dashboard",
+  "mobile": false,
+  "v": "e7c61076"
+ },
+ {
+  "src": "/screens/press-junket-scheduler/05.webp",
+  "w": 1078,
+  "h": 860,
+  "caption": "Rotation grid clash",
+  "mobile": false,
+  "v": "154f169e"
+ },
+ {
+  "src": "/screens/press-junket-scheduler/06.webp",
+  "w": 1078,
+  "h": 860,
+  "caption": "Rotation drag moved",
+  "mobile": false,
+  "v": "fc61abbc"
+ }
+]

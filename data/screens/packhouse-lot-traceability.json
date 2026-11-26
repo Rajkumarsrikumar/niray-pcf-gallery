@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/packhouse-lot-traceability/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "10b8bbd0"
+ },
+ {
+  "src": "/screens/packhouse-lot-traceability/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "f530819d"
+ },
+ {
+  "src": "/screens/packhouse-lot-traceability/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Lot cards",
+  "mobile": true,
+  "v": "f06a5de7"
+ },
+ {
+  "src": "/screens/packhouse-lot-traceability/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Lot panel",
+  "mobile": true,
+  "v": "8b7e5816"
+ },
+ {
+  "src": "/screens/packhouse-lot-traceability/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Trace",
+  "mobile": true,
+  "v": "c167ba6b"
+ },
+ {
+  "src": "/screens/packhouse-lot-traceability/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Flow",
+  "mobile": true,
+  "v": "f00bc303"
+ }
+]

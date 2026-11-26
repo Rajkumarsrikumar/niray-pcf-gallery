@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/gas-nomination-imbalance-desk/01.webp",
+  "w": 1340,
+  "h": 900,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "b25d2e23"
+ },
+ {
+  "src": "/screens/gas-nomination-imbalance-desk/02.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "c2eb77b1"
+ },
+ {
+  "src": "/screens/gas-nomination-imbalance-desk/03.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Nominations",
+  "mobile": true,
+  "v": "c7cca220"
+ },
+ {
+  "src": "/screens/gas-nomination-imbalance-desk/04.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Panel",
+  "mobile": true,
+  "v": "818927b1"
+ },
+ {
+  "src": "/screens/gas-nomination-imbalance-desk/05.webp",
+  "w": 1340,
+  "h": 900,
+  "caption": "Nominations tomorrow",
+  "mobile": false,
+  "v": "3864f4cd"
+ },
+ {
+  "src": "/screens/gas-nomination-imbalance-desk/06.webp",
+  "w": 1340,
+  "h": 900,
+  "caption": "Nominations deadline risk",
+  "mobile": false,
+  "v": "04fd4a76"
+ }
+]

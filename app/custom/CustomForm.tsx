@@ -1,10 +1,10 @@
 "use client";
 import { useState } from "react";
-import { CONTACT, allComponents } from "@/lib/catalog";
+import { CONTACT } from "@/lib/shared";
 
 const field = "w-full rounded-xl border border-slate-300 bg-white px-4 py-2.5 text-sm focus:border-brand-blue focus:outline-none focus:ring-4 focus:ring-brand-blue/10";
 
-export default function CustomForm() {
+export default function CustomForm({ names }: { names: string[] }) {
   const [f, setF] = useState({ name: "", email: "", company: "", type: "New component", base: "", hosts: [] as string[], budget: "", timeline: "", details: "" });
   const [error, setError] = useState("");
   const set = (k: keyof typeof f) => (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>) => setF({ ...f, [k]: e.target.value });
@@ -40,7 +40,7 @@ export default function CustomForm() {
       {f.type === "Customise a gallery component" && (
         <label className="block text-sm font-medium text-slate-700">Which component?
           <select className={`${field} mt-1`} value={f.base} onChange={set("base")}>
-            <option value="">Choose…</option>{allComponents.map((c) => <option key={c.slug}>{c.name}</option>)}
+            <option value="">Choose…</option>{names.map((n) => <option key={n}>{n}</option>)}
           </select>
         </label>
       )}

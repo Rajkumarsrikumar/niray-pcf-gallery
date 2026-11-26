@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/rights-avails-window-manager/01.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "c9b45f25"
+ },
+ {
+  "src": "/screens/rights-avails-window-manager/02.webp",
+  "w": 419,
+  "h": 890,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "6f70c7a4"
+ },
+ {
+  "src": "/screens/rights-avails-window-manager/03.webp",
+  "w": 419,
+  "h": 890,
+  "caption": "Avails",
+  "mobile": true,
+  "v": "ac5937c1"
+ },
+ {
+  "src": "/screens/rights-avails-window-manager/04.webp",
+  "w": 419,
+  "h": 890,
+  "caption": "Deal cards",
+  "mobile": true,
+  "v": "3bc8e393"
+ },
+ {
+  "src": "/screens/rights-avails-window-manager/05.webp",
+  "w": 419,
+  "h": 890,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "3fb065c9"
+ },
+ {
+  "src": "/screens/rights-avails-window-manager/06.webp",
+  "w": 419,
+  "h": 890,
+  "caption": "Form",
+  "mobile": true,
+  "v": "5d6135e2"
+ }
+]

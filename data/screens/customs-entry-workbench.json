@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/customs-entry-workbench/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "8ed56f97"
+ },
+ {
+  "src": "/screens/customs-entry-workbench/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "51b1266a"
+ },
+ {
+  "src": "/screens/customs-entry-workbench/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Board",
+  "mobile": true,
+  "v": "b2a226dc"
+ },
+ {
+  "src": "/screens/customs-entry-workbench/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Editor lines",
+  "mobile": true,
+  "v": "55cd2043"
+ },
+ {
+  "src": "/screens/customs-entry-workbench/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Entries list",
+  "mobile": false,
+  "v": "94a482a4"
+ },
+ {
+  "src": "/screens/customs-entry-workbench/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Broker board",
+  "mobile": false,
+  "v": "35b53f23"
+ }
+]

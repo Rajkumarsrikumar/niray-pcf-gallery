@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/parts-special-order-tracker/01.webp",
+  "w": 1039,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "6bf7f23e"
+ },
+ {
+  "src": "/screens/parts-special-order-tracker/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "3782e111"
+ },
+ {
+  "src": "/screens/parts-special-order-tracker/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Pipeline",
+  "mobile": true,
+  "v": "366b6c55"
+ },
+ {
+  "src": "/screens/parts-special-order-tracker/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Menu",
+  "mobile": true,
+  "v": "58bb45f4"
+ },
+ {
+  "src": "/screens/parts-special-order-tracker/05.webp",
+  "w": 1039,
+  "h": 900,
+  "caption": "Demo pipeline",
+  "mobile": false,
+  "v": "3fcbe81c"
+ },
+ {
+  "src": "/screens/parts-special-order-tracker/06.webp",
+  "w": 1039,
+  "h": 900,
+  "caption": "Demo shelf",
+  "mobile": false,
+  "v": "967b14cc"
+ }
+]

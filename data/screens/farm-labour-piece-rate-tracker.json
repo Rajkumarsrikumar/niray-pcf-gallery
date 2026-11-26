@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/farm-labour-piece-rate-tracker/01.webp",
+  "w": 998,
+  "h": 860,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "f542b26c"
+ },
+ {
+  "src": "/screens/farm-labour-piece-rate-tracker/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Portal kiosk",
+  "mobile": true,
+  "v": "c734eb71"
+ },
+ {
+  "src": "/screens/farm-labour-piece-rate-tracker/03.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "M board",
+  "mobile": true,
+  "v": "da6b3641"
+ },
+ {
+  "src": "/screens/farm-labour-piece-rate-tracker/04.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "M dashboard",
+  "mobile": true,
+  "v": "331724bd"
+ },
+ {
+  "src": "/screens/farm-labour-piece-rate-tracker/05.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "M detail",
+  "mobile": true,
+  "v": "8b8808aa"
+ },
+ {
+  "src": "/screens/farm-labour-piece-rate-tracker/06.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "M kiosk",
+  "mobile": true,
+  "v": "a897818b"
+ }
+]

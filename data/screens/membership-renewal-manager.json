@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/membership-renewal-manager/01.webp",
+  "w": 1334,
+  "h": 820,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "67060ee9"
+ },
+ {
+  "src": "/screens/membership-renewal-manager/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "c03b0611"
+ },
+ {
+  "src": "/screens/membership-renewal-manager/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Pipeline",
+  "mobile": true,
+  "v": "ccefcbaa"
+ },
+ {
+  "src": "/screens/membership-renewal-manager/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Pipeline grace",
+  "mobile": true,
+  "v": "13752182"
+ },
+ {
+  "src": "/screens/membership-renewal-manager/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "36759a31"
+ },
+ {
+  "src": "/screens/membership-renewal-manager/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Notices",
+  "mobile": true,
+  "v": "8202b2b1"
+ }
+]

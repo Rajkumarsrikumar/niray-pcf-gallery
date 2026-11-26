@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/artwork-label-change-tracker/01.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "e3861902"
+ },
+ {
+  "src": "/screens/artwork-label-change-tracker/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Changes",
+  "mobile": true,
+  "v": "0d7fd481"
+ },
+ {
+  "src": "/screens/artwork-label-change-tracker/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "99483df3"
+ },
+ {
+  "src": "/screens/artwork-label-change-tracker/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Home",
+  "mobile": true,
+  "v": "6e7f98d6"
+ },
+ {
+  "src": "/screens/artwork-label-change-tracker/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Markets",
+  "mobile": true,
+  "v": "a62eceb3"
+ },
+ {
+  "src": "/screens/artwork-label-change-tracker/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Timeline",
+  "mobile": true,
+  "v": "843b0a1a"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/restaurant-reservation-manager/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo service dashboard",
+  "mobile": false,
+  "v": "6a99f1b7"
+ },
+ {
+  "src": "/screens/restaurant-reservation-manager/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Service",
+  "mobile": true,
+  "v": "997cf77a"
+ },
+ {
+  "src": "/screens/restaurant-reservation-manager/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Bookings",
+  "mobile": true,
+  "v": "d7392baa"
+ },
+ {
+  "src": "/screens/restaurant-reservation-manager/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "f314dab7"
+ },
+ {
+  "src": "/screens/restaurant-reservation-manager/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo bookings",
+  "mobile": false,
+  "v": "94a65237"
+ },
+ {
+  "src": "/screens/restaurant-reservation-manager/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo floor plan",
+  "mobile": false,
+  "v": "da6860bd"
+ }
+]

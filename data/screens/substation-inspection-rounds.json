@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/substation-inspection-rounds/01.webp",
+  "w": 1334,
+  "h": 1000,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "42bd7d5e"
+ },
+ {
+  "src": "/screens/substation-inspection-rounds/02.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "3882bce1"
+ },
+ {
+  "src": "/screens/substation-inspection-rounds/03.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Rounds",
+  "mobile": true,
+  "v": "3c40d527"
+ },
+ {
+  "src": "/screens/substation-inspection-rounds/04.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Walk",
+  "mobile": true,
+  "v": "fe079faf"
+ },
+ {
+  "src": "/screens/substation-inspection-rounds/05.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Checkpoints",
+  "mobile": true,
+  "v": "29058193"
+ },
+ {
+  "src": "/screens/substation-inspection-rounds/06.webp",
+  "w": 1334,
+  "h": 1000,
+  "caption": "Rounds",
+  "mobile": false,
+  "v": "fa0afa0e"
+ }
+]

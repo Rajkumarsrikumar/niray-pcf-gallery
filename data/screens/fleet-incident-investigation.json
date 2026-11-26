@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/fleet-incident-investigation/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "e38aa826"
+ },
+ {
+  "src": "/screens/fleet-incident-investigation/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "36438e84"
+ },
+ {
+  "src": "/screens/fleet-incident-investigation/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Board",
+  "mobile": true,
+  "v": "d8c8ad9c"
+ },
+ {
+  "src": "/screens/fleet-incident-investigation/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Editor",
+  "mobile": true,
+  "v": "4a086561"
+ },
+ {
+  "src": "/screens/fleet-incident-investigation/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Investigations board",
+  "mobile": false,
+  "v": "1a6dd1e3"
+ },
+ {
+  "src": "/screens/fleet-incident-investigation/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Incidents list",
+  "mobile": false,
+  "v": "18ae2cc5"
+ }
+]

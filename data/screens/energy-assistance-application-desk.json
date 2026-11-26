@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/energy-assistance-application-desk/01.webp",
+  "w": 955,
+  "h": 840,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "ca4fb802"
+ },
+ {
+  "src": "/screens/energy-assistance-application-desk/02.webp",
+  "w": 373,
+  "h": 752,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "06fbf9e9"
+ },
+ {
+  "src": "/screens/energy-assistance-application-desk/03.webp",
+  "w": 373,
+  "h": 752,
+  "caption": "Queue cards",
+  "mobile": true,
+  "v": "e4e1a5ae"
+ },
+ {
+  "src": "/screens/energy-assistance-application-desk/04.webp",
+  "w": 373,
+  "h": 752,
+  "caption": "Assess",
+  "mobile": true,
+  "v": "c635b5d9"
+ },
+ {
+  "src": "/screens/energy-assistance-application-desk/05.webp",
+  "w": 955,
+  "h": 840,
+  "caption": "Dashboard sample data",
+  "mobile": false,
+  "v": "097fc213"
+ },
+ {
+  "src": "/screens/energy-assistance-application-desk/06.webp",
+  "w": 955,
+  "h": 840,
+  "caption": "Queue grid",
+  "mobile": false,
+  "v": "fe0825b4"
+ }
+]

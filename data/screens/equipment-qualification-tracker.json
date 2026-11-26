@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/equipment-qualification-tracker/01.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "b685d740"
+ },
+ {
+  "src": "/screens/equipment-qualification-tracker/02.webp",
+  "w": 357,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "4b482d17"
+ },
+ {
+  "src": "/screens/equipment-qualification-tracker/03.webp",
+  "w": 357,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "c4d61a5e"
+ },
+ {
+  "src": "/screens/equipment-qualification-tracker/04.webp",
+  "w": 357,
+  "h": 740,
+  "caption": "Equipment",
+  "mobile": true,
+  "v": "af1fcfed"
+ },
+ {
+  "src": "/screens/equipment-qualification-tracker/05.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Equipment lifecycle",
+  "mobile": false,
+  "v": "8998c5e3"
+ },
+ {
+  "src": "/screens/equipment-qualification-tracker/06.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Equipment requal due",
+  "mobile": false,
+  "v": "50099ba1"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/transaction-closing-checklist/01.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "4f947e10"
+ },
+ {
+  "src": "/screens/transaction-closing-checklist/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "eefe9a74"
+ },
+ {
+  "src": "/screens/transaction-closing-checklist/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Closing room",
+  "mobile": true,
+  "v": "d6ceb261"
+ },
+ {
+  "src": "/screens/transaction-closing-checklist/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Signature cards",
+  "mobile": true,
+  "v": "32d3f4ba"
+ },
+ {
+  "src": "/screens/transaction-closing-checklist/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Checklist cards",
+  "mobile": true,
+  "v": "d9cf80a8"
+ },
+ {
+  "src": "/screens/transaction-closing-checklist/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "4415e8a2"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/aircraft-turnaround-coordinator/01.webp",
+  "w": 1364,
+  "h": 820,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "4a82f0ac"
+ },
+ {
+  "src": "/screens/aircraft-turnaround-coordinator/02.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "871c743f"
+ },
+ {
+  "src": "/screens/aircraft-turnaround-coordinator/03.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Timeline",
+  "mobile": true,
+  "v": "2814e032"
+ },
+ {
+  "src": "/screens/aircraft-turnaround-coordinator/04.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Task cards",
+  "mobile": true,
+  "v": "eb1c0bb0"
+ },
+ {
+  "src": "/screens/aircraft-turnaround-coordinator/05.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "02b41fa8"
+ },
+ {
+  "src": "/screens/aircraft-turnaround-coordinator/06.webp",
+  "w": 1364,
+  "h": 820,
+  "caption": "Timeline late turn",
+  "mobile": false,
+  "v": "774e3d6a"
+ }
+]

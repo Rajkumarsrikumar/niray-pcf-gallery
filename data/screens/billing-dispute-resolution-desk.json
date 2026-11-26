@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/billing-dispute-resolution-desk/01.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "c7e8a16b"
+ },
+ {
+  "src": "/screens/billing-dispute-resolution-desk/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "7993d13f"
+ },
+ {
+  "src": "/screens/billing-dispute-resolution-desk/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Disputes",
+  "mobile": true,
+  "v": "d1b9eb15"
+ },
+ {
+  "src": "/screens/billing-dispute-resolution-desk/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "340478ac"
+ },
+ {
+  "src": "/screens/billing-dispute-resolution-desk/05.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Board status chips",
+  "mobile": true,
+  "v": "0a5464a8"
+ },
+ {
+  "src": "/screens/billing-dispute-resolution-desk/06.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Approvals",
+  "mobile": true,
+  "v": "550ad193"
+ }
+]

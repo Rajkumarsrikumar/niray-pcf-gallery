@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/post-production-deliverables-tracker/01.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "0c0db987"
+ },
+ {
+  "src": "/screens/post-production-deliverables-tracker/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "a2a1a553"
+ },
+ {
+  "src": "/screens/post-production-deliverables-tracker/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Matrix",
+  "mobile": true,
+  "v": "892e3fd9"
+ },
+ {
+  "src": "/screens/post-production-deliverables-tracker/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "List cards",
+  "mobile": true,
+  "v": "43ab5267"
+ },
+ {
+  "src": "/screens/post-production-deliverables-tracker/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Detail sheet",
+  "mobile": true,
+  "v": "fd1c29ec"
+ },
+ {
+  "src": "/screens/post-production-deliverables-tracker/06.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Deliverables matrix",
+  "mobile": false,
+  "v": "528923db"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/carrier-scorecard-manager/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "a705ca0a"
+ },
+ {
+  "src": "/screens/carrier-scorecard-manager/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "9191101e"
+ },
+ {
+  "src": "/screens/carrier-scorecard-manager/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "League",
+  "mobile": true,
+  "v": "d2a36cdf"
+ },
+ {
+  "src": "/screens/carrier-scorecard-manager/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Editor",
+  "mobile": true,
+  "v": "e844d685"
+ },
+ {
+  "src": "/screens/carrier-scorecard-manager/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "League table",
+  "mobile": false,
+  "v": "dc049358"
+ },
+ {
+  "src": "/screens/carrier-scorecard-manager/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "League q2 ltl",
+  "mobile": false,
+  "v": "eb6f29a3"
+ }
+]

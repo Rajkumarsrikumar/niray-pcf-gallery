@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/production-cost-report-workbench/01.webp",
+  "w": 1366,
+  "h": 820,
+  "caption": "Demo mode dashboard",
+  "mobile": false,
+  "v": "fb1ace6c"
+ },
+ {
+  "src": "/screens/production-cost-report-workbench/02.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "18c2388b"
+ },
+ {
+  "src": "/screens/production-cost-report-workbench/03.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "Cost report",
+  "mobile": true,
+  "v": "751ad52b"
+ },
+ {
+  "src": "/screens/production-cost-report-workbench/04.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "bbb00cbd"
+ },
+ {
+  "src": "/screens/production-cost-report-workbench/05.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "B create form",
+  "mobile": true,
+  "v": "a2b84421"
+ },
+ {
+  "src": "/screens/production-cost-report-workbench/06.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "Purchase orders",
+  "mobile": true,
+  "v": "549e862a"
+ }
+]

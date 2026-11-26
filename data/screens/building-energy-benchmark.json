@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/building-energy-benchmark/01.webp",
+  "w": 1366,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "3c2fd99a"
+ },
+ {
+  "src": "/screens/building-energy-benchmark/02.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "51f768e4"
+ },
+ {
+  "src": "/screens/building-energy-benchmark/03.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Filing cards",
+  "mobile": true,
+  "v": "639aa308"
+ },
+ {
+  "src": "/screens/building-energy-benchmark/04.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "3536f91f"
+ },
+ {
+  "src": "/screens/building-energy-benchmark/05.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Compliance",
+  "mobile": true,
+  "v": "30d32e67"
+ },
+ {
+  "src": "/screens/building-energy-benchmark/06.webp",
+  "w": 1366,
+  "h": 900,
+  "caption": "Csv mapped overview",
+  "mobile": false,
+  "v": "070ee09d"
+ }
+]

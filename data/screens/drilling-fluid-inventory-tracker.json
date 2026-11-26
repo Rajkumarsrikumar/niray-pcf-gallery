@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/drilling-fluid-inventory-tracker/01.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "679aacf1"
+ },
+ {
+  "src": "/screens/drilling-fluid-inventory-tracker/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "c2d0be5d"
+ },
+ {
+  "src": "/screens/drilling-fluid-inventory-tracker/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Ledger",
+  "mobile": true,
+  "v": "9cf897d8"
+ },
+ {
+  "src": "/screens/drilling-fluid-inventory-tracker/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Rig stock",
+  "mobile": true,
+  "v": "d97b5656"
+ },
+ {
+  "src": "/screens/drilling-fluid-inventory-tracker/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Form validation",
+  "mobile": true,
+  "v": "598534fa"
+ },
+ {
+  "src": "/screens/drilling-fluid-inventory-tracker/06.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Rig stock all rigs",
+  "mobile": false,
+  "v": "08fb3742"
+ }
+]

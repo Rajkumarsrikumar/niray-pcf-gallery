@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/serviceability-address-checker/01.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Demo check typeahead",
+  "mobile": false,
+  "v": "e338df10"
+ },
+ {
+  "src": "/screens/serviceability-address-checker/02.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Check",
+  "mobile": true,
+  "v": "d53b8bc0"
+ },
+ {
+  "src": "/screens/serviceability-address-checker/03.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "9c1a2822"
+ },
+ {
+  "src": "/screens/serviceability-address-checker/04.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Map",
+  "mobile": true,
+  "v": "5e226d87"
+ },
+ {
+  "src": "/screens/serviceability-address-checker/05.webp",
+  "w": 988,
+  "h": 760,
+  "caption": "Check serviceable products",
+  "mobile": false,
+  "v": "375d2624"
+ },
+ {
+  "src": "/screens/serviceability-address-checker/06.webp",
+  "w": 988,
+  "h": 760,
+  "caption": "Check coming soon",
+  "mobile": false,
+  "v": "580dd68d"
+ }
+]

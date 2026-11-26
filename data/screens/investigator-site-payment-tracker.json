@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/investigator-site-payment-tracker/01.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "9b259144"
+ },
+ {
+  "src": "/screens/investigator-site-payment-tracker/02.webp",
+  "w": 346,
+  "h": 740,
+  "caption": "Aging",
+  "mobile": true,
+  "v": "03f16706"
+ },
+ {
+  "src": "/screens/investigator-site-payment-tracker/03.webp",
+  "w": 346,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "39d2b1ea"
+ },
+ {
+  "src": "/screens/investigator-site-payment-tracker/04.webp",
+  "w": 346,
+  "h": 740,
+  "caption": "Home",
+  "mobile": true,
+  "v": "8420ae68"
+ },
+ {
+  "src": "/screens/investigator-site-payment-tracker/05.webp",
+  "w": 346,
+  "h": 740,
+  "caption": "Payables",
+  "mobile": true,
+  "v": "09e3e1be"
+ },
+ {
+  "src": "/screens/investigator-site-payment-tracker/06.webp",
+  "w": 346,
+  "h": 740,
+  "caption": "Runs",
+  "mobile": true,
+  "v": "f97c505e"
+ }
+]

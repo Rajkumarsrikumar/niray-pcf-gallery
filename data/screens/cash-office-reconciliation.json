@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/cash-office-reconciliation/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "d93bc59e"
+ },
+ {
+  "src": "/screens/cash-office-reconciliation/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "863f77ed"
+ },
+ {
+  "src": "/screens/cash-office-reconciliation/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Cash ups",
+  "mobile": true,
+  "v": "0717a10b"
+ },
+ {
+  "src": "/screens/cash-office-reconciliation/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Count list",
+  "mobile": true,
+  "v": "996c5b79"
+ },
+ {
+  "src": "/screens/cash-office-reconciliation/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Count sheet",
+  "mobile": true,
+  "v": "917db7ae"
+ },
+ {
+  "src": "/screens/cash-office-reconciliation/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Banking",
+  "mobile": true,
+  "v": "d36f19ea"
+ }
+]

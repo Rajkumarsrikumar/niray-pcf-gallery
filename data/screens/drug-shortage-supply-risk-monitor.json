@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/drug-shortage-supply-risk-monitor/01.webp",
+  "w": 1362,
+  "h": 900,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "532192fb"
+ },
+ {
+  "src": "/screens/drug-shortage-supply-risk-monitor/02.webp",
+  "w": 337,
+  "h": 740,
+  "caption": "Apis",
+  "mobile": true,
+  "v": "0506e415"
+ },
+ {
+  "src": "/screens/drug-shortage-supply-risk-monitor/03.webp",
+  "w": 337,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "7d5d367f"
+ },
+ {
+  "src": "/screens/drug-shortage-supply-risk-monitor/04.webp",
+  "w": 337,
+  "h": 740,
+  "caption": "Home",
+  "mobile": true,
+  "v": "c855011c"
+ },
+ {
+  "src": "/screens/drug-shortage-supply-risk-monitor/05.webp",
+  "w": 337,
+  "h": 740,
+  "caption": "Horizon",
+  "mobile": true,
+  "v": "386b74ff"
+ },
+ {
+  "src": "/screens/drug-shortage-supply-risk-monitor/06.webp",
+  "w": 337,
+  "h": 740,
+  "caption": "Notices",
+  "mobile": true,
+  "v": "ef98cb20"
+ }
+]

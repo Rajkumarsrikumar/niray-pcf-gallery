@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/in-kind-donation-intake/01.webp",
+  "w": 1334,
+  "h": 820,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "eebaa6ed"
+ },
+ {
+  "src": "/screens/in-kind-donation-intake/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "84d993f7"
+ },
+ {
+  "src": "/screens/in-kind-donation-intake/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Intake",
+  "mobile": true,
+  "v": "9a48da22"
+ },
+ {
+  "src": "/screens/in-kind-donation-intake/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Intake inspected",
+  "mobile": true,
+  "v": "8ceaba36"
+ },
+ {
+  "src": "/screens/in-kind-donation-intake/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Gift detail",
+  "mobile": true,
+  "v": "e98fccdb"
+ },
+ {
+  "src": "/screens/in-kind-donation-intake/06.webp",
+  "w": 1334,
+  "h": 820,
+  "caption": "Demo intake board",
+  "mobile": false,
+  "v": "08600a59"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/season-ticket-account-manager/01.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "71244a9a"
+ },
+ {
+  "src": "/screens/season-ticket-account-manager/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "a670515e"
+ },
+ {
+  "src": "/screens/season-ticket-account-manager/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Accounts",
+  "mobile": true,
+  "v": "b45dbf24"
+ },
+ {
+  "src": "/screens/season-ticket-account-manager/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Seatmap",
+  "mobile": true,
+  "v": "47f5f5f4"
+ },
+ {
+  "src": "/screens/season-ticket-account-manager/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "8219b242"
+ },
+ {
+  "src": "/screens/season-ticket-account-manager/06.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Form",
+  "mobile": true,
+  "v": "c0c65f52"
+ }
+]

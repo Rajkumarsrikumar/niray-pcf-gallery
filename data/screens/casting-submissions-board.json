@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/casting-submissions-board/01.webp",
+  "w": 1366,
+  "h": 760,
+  "caption": "Demo board",
+  "mobile": false,
+  "v": "5ebe8885"
+ },
+ {
+  "src": "/screens/casting-submissions-board/02.webp",
+  "w": 375,
+  "h": 792,
+  "caption": "Board",
+  "mobile": true,
+  "v": "551e4144"
+ },
+ {
+  "src": "/screens/casting-submissions-board/03.webp",
+  "w": 375,
+  "h": 792,
+  "caption": "B callback column",
+  "mobile": true,
+  "v": "6b2131b2"
+ },
+ {
+  "src": "/screens/casting-submissions-board/04.webp",
+  "w": 375,
+  "h": 792,
+  "caption": "Detail sheet",
+  "mobile": true,
+  "v": "cafa7e68"
+ },
+ {
+  "src": "/screens/casting-submissions-board/05.webp",
+  "w": 375,
+  "h": 792,
+  "caption": "Schedule agenda",
+  "mobile": true,
+  "v": "1edc8ff9"
+ },
+ {
+  "src": "/screens/casting-submissions-board/06.webp",
+  "w": 1366,
+  "h": 760,
+  "caption": "Board role nadia",
+  "mobile": false,
+  "v": "116b3491"
+ }
+]

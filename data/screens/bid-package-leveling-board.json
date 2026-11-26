@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/bid-package-leveling-board/01.webp",
+  "w": 1100,
+  "h": 760,
+  "caption": "Demo mode dashboard",
+  "mobile": false,
+  "v": "df78aa64"
+ },
+ {
+  "src": "/screens/bid-package-leveling-board/02.webp",
+  "w": 375,
+  "h": 792,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "7ab976ae"
+ },
+ {
+  "src": "/screens/bid-package-leveling-board/03.webp",
+  "w": 375,
+  "h": 792,
+  "caption": "Bid cards",
+  "mobile": true,
+  "v": "7dcdba6c"
+ },
+ {
+  "src": "/screens/bid-package-leveling-board/04.webp",
+  "w": 375,
+  "h": 792,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "35508975"
+ },
+ {
+  "src": "/screens/bid-package-leveling-board/05.webp",
+  "w": 375,
+  "h": 792,
+  "caption": "Leveling cards",
+  "mobile": true,
+  "v": "56a48577"
+ },
+ {
+  "src": "/screens/bid-package-leveling-board/06.webp",
+  "w": 375,
+  "h": 792,
+  "caption": "Schedule",
+  "mobile": true,
+  "v": "321994fc"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/fixed-plant-shutdown-planner/01.webp",
+  "w": 1300,
+  "h": 820,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "f96d28f1"
+ },
+ {
+  "src": "/screens/fixed-plant-shutdown-planner/02.webp",
+  "w": 343,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "6075328e"
+ },
+ {
+  "src": "/screens/fixed-plant-shutdown-planner/03.webp",
+  "w": 343,
+  "h": 740,
+  "caption": "Work cards",
+  "mobile": true,
+  "v": "8d996610"
+ },
+ {
+  "src": "/screens/fixed-plant-shutdown-planner/04.webp",
+  "w": 343,
+  "h": 740,
+  "caption": "Readiness",
+  "mobile": true,
+  "v": "c43bb4a3"
+ },
+ {
+  "src": "/screens/fixed-plant-shutdown-planner/05.webp",
+  "w": 1300,
+  "h": 820,
+  "caption": "Work packages grouped",
+  "mobile": false,
+  "v": "9dcdbd0a"
+ },
+ {
+  "src": "/screens/fixed-plant-shutdown-planner/06.webp",
+  "w": 1300,
+  "h": 820,
+  "caption": "Critical path gantt",
+  "mobile": false,
+  "v": "3d1cc0ee"
+ }
+]

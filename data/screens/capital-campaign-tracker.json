@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/capital-campaign-tracker/01.webp",
+  "w": 1334,
+  "h": 820,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "2853a10b"
+ },
+ {
+  "src": "/screens/capital-campaign-tracker/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "407f5593"
+ },
+ {
+  "src": "/screens/capital-campaign-tracker/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Gifts",
+  "mobile": true,
+  "v": "9fa8c02d"
+ },
+ {
+  "src": "/screens/capital-campaign-tracker/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "4a2946b6"
+ },
+ {
+  "src": "/screens/capital-campaign-tracker/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Payments",
+  "mobile": true,
+  "v": "dc8a4047"
+ },
+ {
+  "src": "/screens/capital-campaign-tracker/06.webp",
+  "w": 1334,
+  "h": 820,
+  "caption": "Demo gift range chart",
+  "mobile": false,
+  "v": "c35c6a05"
+ }
+]

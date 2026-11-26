@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/player-contract-registration-manager/01.webp",
+  "w": 1400,
+  "h": 882,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "21ef5bae"
+ },
+ {
+  "src": "/screens/player-contract-registration-manager/02.webp",
+  "w": 746,
+  "h": 1520,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "381a172f"
+ },
+ {
+  "src": "/screens/player-contract-registration-manager/03.webp",
+  "w": 746,
+  "h": 1520,
+  "caption": "Contracts",
+  "mobile": false,
+  "v": "e467433f"
+ },
+ {
+  "src": "/screens/player-contract-registration-manager/04.webp",
+  "w": 746,
+  "h": 1520,
+  "caption": "Detail",
+  "mobile": false,
+  "v": "8a147592"
+ },
+ {
+  "src": "/screens/player-contract-registration-manager/05.webp",
+  "w": 746,
+  "h": 1520,
+  "caption": "Form validation",
+  "mobile": false,
+  "v": "296f3dd3"
+ },
+ {
+  "src": "/screens/player-contract-registration-manager/06.webp",
+  "w": 1400,
+  "h": 882,
+  "caption": "Contracts list",
+  "mobile": false,
+  "v": "43d89491"
+ }
+]

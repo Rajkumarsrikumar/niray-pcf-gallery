@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/sponsorship-matching-manager/01.webp",
+  "w": 1334,
+  "h": 860,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "8043f986"
+ },
+ {
+  "src": "/screens/sponsorship-matching-manager/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "fc2217c8"
+ },
+ {
+  "src": "/screens/sponsorship-matching-manager/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Matching",
+  "mobile": true,
+  "v": "a60cb049"
+ },
+ {
+  "src": "/screens/sponsorship-matching-manager/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Children",
+  "mobile": true,
+  "v": "1e061259"
+ },
+ {
+  "src": "/screens/sponsorship-matching-manager/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Child detail",
+  "mobile": true,
+  "v": "b7e1c90a"
+ },
+ {
+  "src": "/screens/sponsorship-matching-manager/06.webp",
+  "w": 1334,
+  "h": 860,
+  "caption": "Demo matching",
+  "mobile": false,
+  "v": "42e5c603"
+ }
+]

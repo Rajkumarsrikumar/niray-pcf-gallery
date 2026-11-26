@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/wind-farm-availability-tracker/01.webp",
+  "w": 1334,
+  "h": 1000,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "8a66e827"
+ },
+ {
+  "src": "/screens/wind-farm-availability-tracker/02.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "bec814d2"
+ },
+ {
+  "src": "/screens/wind-farm-availability-tracker/03.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Fleet",
+  "mobile": true,
+  "v": "bf21d712"
+ },
+ {
+  "src": "/screens/wind-farm-availability-tracker/04.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Stops",
+  "mobile": true,
+  "v": "91c5a51b"
+ },
+ {
+  "src": "/screens/wind-farm-availability-tracker/05.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "317e65f5"
+ },
+ {
+  "src": "/screens/wind-farm-availability-tracker/06.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Board",
+  "mobile": true,
+  "v": "9595b174"
+ }
+]

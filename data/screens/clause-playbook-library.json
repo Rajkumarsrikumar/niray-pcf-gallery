@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/clause-playbook-library/01.webp",
+  "w": 1050,
+  "h": 860,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "dcb00f3c"
+ },
+ {
+  "src": "/screens/clause-playbook-library/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "9b60942d"
+ },
+ {
+  "src": "/screens/clause-playbook-library/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Library",
+  "mobile": true,
+  "v": "26f21e82"
+ },
+ {
+  "src": "/screens/clause-playbook-library/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "91c381d9"
+ },
+ {
+  "src": "/screens/clause-playbook-library/05.webp",
+  "w": 1050,
+  "h": 860,
+  "caption": "Library",
+  "mobile": false,
+  "v": "55b3d77b"
+ },
+ {
+  "src": "/screens/clause-playbook-library/06.webp",
+  "w": 1050,
+  "h": 860,
+  "caption": "Library grouped category",
+  "mobile": false,
+  "v": "55fc033b"
+ }
+]

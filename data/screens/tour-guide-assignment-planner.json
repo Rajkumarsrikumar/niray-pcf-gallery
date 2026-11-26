@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/tour-guide-assignment-planner/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "1b5cde8c"
+ },
+ {
+  "src": "/screens/tour-guide-assignment-planner/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "e02154a7"
+ },
+ {
+  "src": "/screens/tour-guide-assignment-planner/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Assignment cards",
+  "mobile": true,
+  "v": "db2fad99"
+ },
+ {
+  "src": "/screens/tour-guide-assignment-planner/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Board column",
+  "mobile": true,
+  "v": "fc53470c"
+ },
+ {
+  "src": "/screens/tour-guide-assignment-planner/05.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Assignment list",
+  "mobile": false,
+  "v": "0b17c0cb"
+ },
+ {
+  "src": "/screens/tour-guide-assignment-planner/06.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "List unstaffed grouped",
+  "mobile": false,
+  "v": "5167386a"
+ }
+]

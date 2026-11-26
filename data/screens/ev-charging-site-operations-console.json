@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/ev-charging-site-operations-console/01.webp",
+  "w": 1306,
+  "h": 1000,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "56f26164"
+ },
+ {
+  "src": "/screens/ev-charging-site-operations-console/02.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "d5980b38"
+ },
+ {
+  "src": "/screens/ev-charging-site-operations-console/03.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Tickets",
+  "mobile": true,
+  "v": "a2ed5c36"
+ },
+ {
+  "src": "/screens/ev-charging-site-operations-console/04.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Ports",
+  "mobile": true,
+  "v": "c6025c83"
+ },
+ {
+  "src": "/screens/ev-charging-site-operations-console/05.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "a31ad0d7"
+ },
+ {
+  "src": "/screens/ev-charging-site-operations-console/06.webp",
+  "w": 1306,
+  "h": 1000,
+  "caption": "Ticket board",
+  "mobile": false,
+  "v": "fe0727de"
+ }
+]

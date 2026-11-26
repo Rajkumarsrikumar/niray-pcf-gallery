@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/demand-response-event-manager/01.webp",
+  "w": 1325,
+  "h": 1000,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "093e6a35"
+ },
+ {
+  "src": "/screens/demand-response-event-manager/02.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "2576f352"
+ },
+ {
+  "src": "/screens/demand-response-event-manager/03.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Events",
+  "mobile": true,
+  "v": "13b465a5"
+ },
+ {
+  "src": "/screens/demand-response-event-manager/04.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Roster",
+  "mobile": true,
+  "v": "137ea7d8"
+ },
+ {
+  "src": "/screens/demand-response-event-manager/05.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "637029ba"
+ },
+ {
+  "src": "/screens/demand-response-event-manager/06.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Event",
+  "mobile": true,
+  "v": "644199ae"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/nutrient-management-planner/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "5a887fba"
+ },
+ {
+  "src": "/screens/nutrient-management-planner/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "15453d22"
+ },
+ {
+  "src": "/screens/nutrient-management-planner/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Application cards",
+  "mobile": true,
+  "v": "bf212be3"
+ },
+ {
+  "src": "/screens/nutrient-management-planner/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "f987061f"
+ },
+ {
+  "src": "/screens/nutrient-management-planner/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Nutrient balance",
+  "mobile": true,
+  "v": "82fb041e"
+ },
+ {
+  "src": "/screens/nutrient-management-planner/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Calendar agenda",
+  "mobile": true,
+  "v": "f5a0f553"
+ }
+]

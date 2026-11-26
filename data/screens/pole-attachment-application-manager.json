@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/pole-attachment-application-manager/01.webp",
+  "w": 1366,
+  "h": 780,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "3f0a2fd1"
+ },
+ {
+  "src": "/screens/pole-attachment-application-manager/02.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "658c7c39"
+ },
+ {
+  "src": "/screens/pole-attachment-application-manager/03.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Apps",
+  "mobile": true,
+  "v": "2be88cc9"
+ },
+ {
+  "src": "/screens/pole-attachment-application-manager/04.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "4032e535"
+ },
+ {
+  "src": "/screens/pole-attachment-application-manager/05.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Clocks",
+  "mobile": true,
+  "v": "823e1a43"
+ },
+ {
+  "src": "/screens/pole-attachment-application-manager/06.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Pipeline",
+  "mobile": true,
+  "v": "25699dd1"
+ }
+]

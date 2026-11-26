@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/carrier-rate-card-manager/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "86debf7e"
+ },
+ {
+  "src": "/screens/carrier-rate-card-manager/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "0720451e"
+ },
+ {
+  "src": "/screens/carrier-rate-card-manager/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Compare",
+  "mobile": true,
+  "v": "74123e1c"
+ },
+ {
+  "src": "/screens/carrier-rate-card-manager/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Editor",
+  "mobile": true,
+  "v": "a7371a79"
+ },
+ {
+  "src": "/screens/carrier-rate-card-manager/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Rate lines",
+  "mobile": false,
+  "v": "343ff915"
+ },
+ {
+  "src": "/screens/carrier-rate-card-manager/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Lane comparison",
+  "mobile": false,
+  "v": "e7c0e843"
+ }
+]

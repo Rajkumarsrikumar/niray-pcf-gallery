@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/policy-attestation-manager/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "0aac369b"
+ },
+ {
+  "src": "/screens/policy-attestation-manager/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M board",
+  "mobile": true,
+  "v": "774309b9"
+ },
+ {
+  "src": "/screens/policy-attestation-manager/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M campaign",
+  "mobile": true,
+  "v": "ae69c43b"
+ },
+ {
+  "src": "/screens/policy-attestation-manager/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M dashboard",
+  "mobile": true,
+  "v": "8f91dd63"
+ },
+ {
+  "src": "/screens/policy-attestation-manager/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M library cards",
+  "mobile": true,
+  "v": "3f40c001"
+ },
+ {
+  "src": "/screens/policy-attestation-manager/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M more menu",
+  "mobile": true,
+  "v": "2fce6a6d"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/medical-information-request-desk/01.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "e1f7b77b"
+ },
+ {
+  "src": "/screens/medical-information-request-desk/02.webp",
+  "w": 340,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "703c5df8"
+ },
+ {
+  "src": "/screens/medical-information-request-desk/03.webp",
+  "w": 340,
+  "h": 740,
+  "caption": "Requests",
+  "mobile": true,
+  "v": "053ae47c"
+ },
+ {
+  "src": "/screens/medical-information-request-desk/04.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Work queue board",
+  "mobile": false,
+  "v": "dcd9f95f"
+ },
+ {
+  "src": "/screens/medical-information-request-desk/05.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Queue drag to triage",
+  "mobile": false,
+  "v": "7c8bc18e"
+ },
+ {
+  "src": "/screens/medical-information-request-desk/06.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Requests open",
+  "mobile": false,
+  "v": "2ed935d7"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/lab-oos-investigation-tracker/01.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "df618456"
+ },
+ {
+  "src": "/screens/lab-oos-investigation-tracker/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "c105103d"
+ },
+ {
+  "src": "/screens/lab-oos-investigation-tracker/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Register",
+  "mobile": true,
+  "v": "0e223956"
+ },
+ {
+  "src": "/screens/lab-oos-investigation-tracker/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Phase ia",
+  "mobile": true,
+  "v": "bfeafa85"
+ },
+ {
+  "src": "/screens/lab-oos-investigation-tracker/05.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Investigations board",
+  "mobile": false,
+  "v": "f6ee701b"
+ },
+ {
+  "src": "/screens/lab-oos-investigation-tracker/06.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Board drag to phase ia",
+  "mobile": false,
+  "v": "276eafd2"
+ }
+]

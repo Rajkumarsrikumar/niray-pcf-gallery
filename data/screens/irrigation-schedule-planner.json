@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/irrigation-schedule-planner/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "740cec3c"
+ },
+ {
+  "src": "/screens/irrigation-schedule-planner/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "ee758ca5"
+ },
+ {
+  "src": "/screens/irrigation-schedule-planner/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Schedule cards",
+  "mobile": true,
+  "v": "8e842e8e"
+ },
+ {
+  "src": "/screens/irrigation-schedule-planner/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Week agenda",
+  "mobile": true,
+  "v": "d3a95324"
+ },
+ {
+  "src": "/screens/irrigation-schedule-planner/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Blocks",
+  "mobile": true,
+  "v": "beaa587d"
+ },
+ {
+  "src": "/screens/irrigation-schedule-planner/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Block panel",
+  "mobile": true,
+  "v": "3b76dc6a"
+ }
+]

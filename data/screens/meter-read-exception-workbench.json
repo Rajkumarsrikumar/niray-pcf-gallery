@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/meter-read-exception-workbench/01.webp",
+  "w": 1329,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "01a6c2b3"
+ },
+ {
+  "src": "/screens/meter-read-exception-workbench/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "6268e447"
+ },
+ {
+  "src": "/screens/meter-read-exception-workbench/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Queue",
+  "mobile": true,
+  "v": "c4431cdc"
+ },
+ {
+  "src": "/screens/meter-read-exception-workbench/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "e94396c1"
+ },
+ {
+  "src": "/screens/meter-read-exception-workbench/05.webp",
+  "w": 1329,
+  "h": 900,
+  "caption": "Queue open",
+  "mobile": false,
+  "v": "36486c25"
+ },
+ {
+  "src": "/screens/meter-read-exception-workbench/06.webp",
+  "w": 1329,
+  "h": 900,
+  "caption": "Queue grouped cycle",
+  "mobile": false,
+  "v": "9fa27028"
+ }
+]

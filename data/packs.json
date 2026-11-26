@@ -733,12 +733,40 @@
     "subCategory": "Community Associations"
    },
    {
+    "slug": "building-energy-benchmark",
+    "subCategory": "Sustainability"
+   },
+   {
     "slug": "key-access-control-register",
     "subCategory": "Facilities Management"
    },
    {
     "slug": "contractor-compliance-tracker",
     "subCategory": "Facilities Management"
+   },
+   {
+    "slug": "permit-to-work-issuer",
+    "subCategory": "Facilities Management"
+   },
+   {
+    "slug": "tenant-improvement-allowance-tracker",
+    "subCategory": "Lease Administration"
+   },
+   {
+    "slug": "statutory-compliance-matrix",
+    "subCategory": "Facilities Management"
+   },
+   {
+    "slug": "boma-area-calculator",
+    "subCategory": "Lease Administration"
+   },
+   {
+    "slug": "lease-deal-economics-calculator",
+    "subCategory": "Leasing & Revenue"
+   },
+   {
+    "slug": "utility-rebilling-rubs",
+    "subCategory": "Property Operations"
    }
   ],
   "price": null
@@ -751,8 +779,2058 @@
   "planned": 30,
   "components": [
    {
+    "slug": "rights-avails-window-manager",
+    "subCategory": "Rights & Licensing"
+   },
+   {
+    "slug": "production-call-sheet-builder",
+    "subCategory": "Production"
+   },
+   {
     "slug": "shooting-schedule-stripboard",
     "subCategory": "Production"
+   },
+   {
+    "slug": "royalty-statement-processor",
+    "subCategory": "Music & Publishing"
+   },
+   {
+    "slug": "ad-order-spot-log-manager",
+    "subCategory": "Broadcast & Ad Sales"
+   },
+   {
+    "slug": "post-production-deliverables-tracker",
+    "subCategory": "Post-production"
+   },
+   {
+    "slug": "editorial-story-planner",
+    "subCategory": "News & Publishing"
+   },
+   {
+    "slug": "production-cost-report-workbench",
+    "subCategory": "Production Finance"
+   },
+   {
+    "slug": "talent-deal-memo-manager",
+    "subCategory": "Talent & Contracts"
+   },
+   {
+    "slug": "music-cue-sheet-editor",
+    "subCategory": "Music & Publishing"
+   },
+   {
+    "slug": "sync-licensing-request-desk",
+    "subCategory": "Music & Publishing"
+   },
+   {
+    "slug": "localization-dubbing-tracker",
+    "subCategory": "Localization"
+   },
+   {
+    "slug": "content-qc-issue-log",
+    "subCategory": "Post-production"
+   },
+   {
+    "slug": "linear-playout-schedule-grid",
+    "subCategory": "Broadcast"
+   },
+   {
+    "slug": "casting-submissions-board",
+    "subCategory": "Talent & Casting"
+   },
+   {
+    "slug": "location-permit-manager",
+    "subCategory": "Production"
+   },
+   {
+    "slug": "vfx-shot-tracker",
+    "subCategory": "Post-production"
+   },
+   {
+    "slug": "live-event-run-of-show",
+    "subCategory": "Live Events"
+   },
+   {
+    "slug": "sponsorship-deliverables-tracker",
+    "subCategory": "Sponsorship"
+   },
+   {
+    "slug": "podcast-episode-pipeline",
+    "subCategory": "Audio"
+   },
+   {
+    "slug": "residuals-participations-calculator",
+    "subCategory": "Talent & Contracts"
+   },
+   {
+    "slug": "festival-submissions-manager",
+    "subCategory": "Distribution"
+   },
+   {
+    "slug": "archive-footage-clearance-desk",
+    "subCategory": "Rights & Licensing"
+   },
+   {
+    "slug": "audience-ratings-analyzer",
+    "subCategory": "Broadcast"
+   },
+   {
+    "slug": "manuscript-acquisition-pipeline",
+    "subCategory": "Publishing"
+   },
+   {
+    "slug": "tour-routing-planner",
+    "subCategory": "Live Music"
+   },
+   {
+    "slug": "equipment-rental-checkout",
+    "subCategory": "Production"
+   },
+   {
+    "slug": "press-junket-scheduler",
+    "subCategory": "Publicity"
+   },
+   {
+    "slug": "title-metadata-readiness-console",
+    "subCategory": "Distribution"
+   }
+  ],
+  "price": null
+ },
+ {
+  "slug": "nonprofit-pcf-pack",
+  "name": "Niray Nonprofit PCF Pack",
+  "industry": "Nonprofit",
+  "status": "complete",
+  "planned": 30,
+  "components": [
+   {
+    "slug": "donor-gift-entry-console",
+    "subCategory": "Fundraising"
+   },
+   {
+    "slug": "recurring-giving-manager",
+    "subCategory": "Fundraising"
+   },
+   {
+    "slug": "major-gift-moves-manager",
+    "subCategory": "Fundraising"
+   },
+   {
+    "slug": "volunteer-shift-coordinator",
+    "subCategory": "Volunteering"
+   },
+   {
+    "slug": "beneficiary-case-manager",
+    "subCategory": "Programs"
+   },
+   {
+    "slug": "grant-portfolio-tracker",
+    "subCategory": "Grants & Awards"
+   },
+   {
+    "slug": "program-outcome-indicator-tracker",
+    "subCategory": "Impact"
+   },
+   {
+    "slug": "capital-campaign-tracker",
+    "subCategory": "Fundraising"
+   },
+   {
+    "slug": "gift-aid-claim-builder",
+    "subCategory": "Fundraising"
+   },
+   {
+    "slug": "food-bank-distribution-console",
+    "subCategory": "Programs"
+   },
+   {
+    "slug": "membership-renewal-manager",
+    "subCategory": "Membership"
+   },
+   {
+    "slug": "gala-auction-manager",
+    "subCategory": "Events"
+   },
+   {
+    "slug": "peer-to-peer-fundraising-hub",
+    "subCategory": "Fundraising"
+   },
+   {
+    "slug": "in-kind-donation-intake",
+    "subCategory": "Operations"
+   },
+   {
+    "slug": "restricted-fund-allocator",
+    "subCategory": "Finance"
+   },
+   {
+    "slug": "donor-stewardship-planner",
+    "subCategory": "Fundraising"
+   },
+   {
+    "slug": "sponsorship-matching-manager",
+    "subCategory": "Programs"
+   },
+   {
+    "slug": "volunteer-compliance-tracker",
+    "subCategory": "Volunteering"
+   },
+   {
+    "slug": "impact-report-composer",
+    "subCategory": "Impact"
+   },
+   {
+    "slug": "board-governance-hub",
+    "subCategory": "Governance"
+   },
+   {
+    "slug": "donor-dedupe-householding",
+    "subCategory": "Data Quality"
+   },
+   {
+    "slug": "legacy-giving-pipeline",
+    "subCategory": "Fundraising"
+   },
+   {
+    "slug": "subgrant-disbursement-manager",
+    "subCategory": "Grants & Awards"
+   },
+   {
+    "slug": "mentor-matching-manager",
+    "subCategory": "Programs"
+   },
+   {
+    "slug": "outreach-encounter-log",
+    "subCategory": "Programs"
+   },
+   {
+    "slug": "relief-request-triage",
+    "subCategory": "Programs"
+   },
+   {
+    "slug": "appeal-segmentation-builder",
+    "subCategory": "Fundraising"
+   },
+   {
+    "slug": "matching-gift-tracker",
+    "subCategory": "Fundraising"
+   },
+   {
+    "slug": "tribute-gift-manager",
+    "subCategory": "Fundraising"
+   },
+   {
+    "slug": "advocacy-action-centre",
+    "subCategory": "Advocacy"
+   }
+  ],
+  "price": null
+ },
+ {
+  "slug": "retail-and-hospitality-pcf-pack",
+  "name": "Niray Retail & Hospitality PCF Pack",
+  "industry": "Retail & Hospitality",
+  "status": "complete",
+  "planned": 30,
+  "components": [
+   {
+    "slug": "hotel-housekeeping-board",
+    "subCategory": "Hospitality – Hotels"
+   },
+   {
+    "slug": "store-task-execution-hub",
+    "subCategory": "Retail – Store Operations"
+   },
+   {
+    "slug": "clienteling-client-book",
+    "subCategory": "Retail – Store Operations"
+   },
+   {
+    "slug": "restaurant-reservation-manager",
+    "subCategory": "Hospitality – Food & Beverage"
+   },
+   {
+    "slug": "kitchen-food-safety-log",
+    "subCategory": "Hospitality – Food & Beverage"
+   },
+   {
+    "slug": "area-manager-store-visit",
+    "subCategory": "Retail – Store Operations"
+   },
+   {
+    "slug": "planogram-compliance-checker",
+    "subCategory": "Retail – Store Operations"
+   },
+   {
+    "slug": "markdown-clearance-planner",
+    "subCategory": "Retail – Store Operations"
+   },
+   {
+    "slug": "stock-count-cycle-manager",
+    "subCategory": "Retail – Store Operations"
+   },
+   {
+    "slug": "click-and-collect-order-console",
+    "subCategory": "Retail – Store Operations"
+   },
+   {
+    "slug": "returns-authorisation-desk",
+    "subCategory": "Retail – Store Operations"
+   },
+   {
+    "slug": "guest-request-service-desk",
+    "subCategory": "Hospitality – Hotels"
+   },
+   {
+    "slug": "banquet-event-order-builder",
+    "subCategory": "Hospitality – Food & Beverage"
+   },
+   {
+    "slug": "recipe-costing-menu-engineering",
+    "subCategory": "Hospitality – Food & Beverage"
+   },
+   {
+    "slug": "food-waste-tracker",
+    "subCategory": "Hospitality – Food & Beverage"
+   },
+   {
+    "slug": "loyalty-member-console",
+    "subCategory": "Retail – Store Operations"
+   },
+   {
+    "slug": "vendor-delivery-receiving",
+    "subCategory": "Retail – Store Operations"
+   },
+   {
+    "slug": "shrink-loss-prevention-log",
+    "subCategory": "Retail – Store Operations"
+   },
+   {
+    "slug": "promotion-calendar-planner",
+    "subCategory": "Retail – Store Operations"
+   },
+   {
+    "slug": "cash-office-reconciliation",
+    "subCategory": "Retail – Store Operations"
+   },
+   {
+    "slug": "group-room-block-manager",
+    "subCategory": "Hospitality – Hotels"
+   },
+   {
+    "slug": "lost-and-found-register",
+    "subCategory": "Hospitality – Hotels"
+   },
+   {
+    "slug": "price-change-batch-manager",
+    "subCategory": "Retail – Store Operations"
+   },
+   {
+    "slug": "product-recall-withdrawal-console",
+    "subCategory": "Retail – Store Operations"
+   },
+   {
+    "slug": "menu-allergen-matrix",
+    "subCategory": "Hospitality – Food & Beverage"
+   },
+   {
+    "slug": "rate-availability-calendar",
+    "subCategory": "Hospitality – Hotels"
+   },
+   {
+    "slug": "concierge-itinerary-builder",
+    "subCategory": "Hospitality – Hotels"
+   },
+   {
+    "slug": "inter-store-transfer-manager",
+    "subCategory": "Retail – Store Operations"
+   },
+   {
+    "slug": "kitchen-prep-production-planner",
+    "subCategory": "Hospitality – Food & Beverage"
+   },
+   {
+    "slug": "tip-pool-distribution-calculator",
+    "subCategory": "Hospitality – Food & Beverage"
+   }
+  ],
+  "price": null
+ },
+ {
+  "slug": "logistics-and-transport-pcf-pack",
+  "name": "Niray Logistics & Transport PCF Pack",
+  "industry": "Logistics & Transport",
+  "status": "complete",
+  "planned": 30,
+  "components": [
+   {
+    "slug": "dock-appointment-scheduler",
+    "subCategory": "Dock & Yard"
+   },
+   {
+    "slug": "yard-trailer-manager",
+    "subCategory": "Dock & Yard"
+   },
+   {
+    "slug": "freight-invoice-audit-console",
+    "subCategory": "Freight Finance"
+   },
+   {
+    "slug": "load-tender-board",
+    "subCategory": "Transportation Planning"
+   },
+   {
+    "slug": "truckload-dispatch-console",
+    "subCategory": "Dispatch"
+   },
+   {
+    "slug": "proof-of-delivery-exception-desk",
+    "subCategory": "Delivery"
+   },
+   {
+    "slug": "cargo-claims-manager",
+    "subCategory": "Freight Finance"
+   },
+   {
+    "slug": "freight-quote-builder",
+    "subCategory": "Sales"
+   },
+   {
+    "slug": "carrier-rate-card-manager",
+    "subCategory": "Transportation Planning"
+   },
+   {
+    "slug": "container-demurrage-tracker",
+    "subCategory": "Ocean & Ports"
+   },
+   {
+    "slug": "customs-entry-workbench",
+    "subCategory": "Customs & Trade"
+   },
+   {
+    "slug": "shipment-booking-desk",
+    "subCategory": "Customer Service"
+   },
+   {
+    "slug": "cross-dock-flow-planner",
+    "subCategory": "Warehouse"
+   },
+   {
+    "slug": "carrier-scorecard-manager",
+    "subCategory": "Carrier Management"
+   },
+   {
+    "slug": "driver-qualification-file-manager",
+    "subCategory": "Fleet Compliance"
+   },
+   {
+    "slug": "driver-hours-compliance-panel",
+    "subCategory": "Fleet Compliance"
+   },
+   {
+    "slug": "fuel-card-reconciler",
+    "subCategory": "Fleet Finance"
+   },
+   {
+    "slug": "telematics-alert-triage",
+    "subCategory": "Fleet Safety"
+   },
+   {
+    "slug": "fleet-incident-investigation",
+    "subCategory": "Fleet Safety"
+   },
+   {
+    "slug": "trip-settlement-calculator",
+    "subCategory": "Driver Pay"
+   },
+   {
+    "slug": "cold-chain-excursion-log",
+    "subCategory": "Cold Chain"
+   },
+   {
+    "slug": "dangerous-goods-declaration-checker",
+    "subCategory": "Compliance"
+   },
+   {
+    "slug": "last-mile-manifest-manager",
+    "subCategory": "Delivery"
+   },
+   {
+    "slug": "tyre-lifecycle-manager",
+    "subCategory": "Fleet Maintenance"
+   },
+   {
+    "slug": "warehouse-wave-planner",
+    "subCategory": "Warehouse"
+   },
+   {
+    "slug": "warehouse-slotting-optimizer",
+    "subCategory": "Warehouse"
+   },
+   {
+    "slug": "vessel-berth-scheduler",
+    "subCategory": "Ocean & Ports"
+   },
+   {
+    "slug": "air-cargo-consolidation-planner",
+    "subCategory": "Air Freight"
+   },
+   {
+    "slug": "oversize-permit-tracker",
+    "subCategory": "Fleet Compliance"
+   },
+   {
+    "slug": "shipper-document-hub",
+    "subCategory": "Customer Service"
+   }
+  ],
+  "price": null
+ },
+ {
+  "slug": "energy-and-utilities-pcf-pack",
+  "name": "Niray Energy & Utilities PCF Pack",
+  "industry": "Energy & Utilities",
+  "status": "complete",
+  "planned": 30,
+  "components": [
+   {
+    "slug": "storm-outage-restoration-console",
+    "subCategory": "Outage & restoration"
+   },
+   {
+    "slug": "der-interconnection-queue-manager",
+    "subCategory": "Grid connections"
+   },
+   {
+    "slug": "meter-read-exception-workbench",
+    "subCategory": "Meter to cash"
+   },
+   {
+    "slug": "vegetation-management-planner",
+    "subCategory": "Asset management"
+   },
+   {
+    "slug": "new-service-connection-desk",
+    "subCategory": "Customer operations"
+   },
+   {
+    "slug": "switching-order-builder",
+    "subCategory": "Network operations"
+   },
+   {
+    "slug": "pole-test-treat-program-manager",
+    "subCategory": "Asset management"
+   },
+   {
+    "slug": "meter-exchange-campaign-manager",
+    "subCategory": "Metering"
+   },
+   {
+    "slug": "gas-leak-survey-tracker",
+    "subCategory": "Gas operations"
+   },
+   {
+    "slug": "water-main-break-response-log",
+    "subCategory": "Water operations"
+   },
+   {
+    "slug": "backflow-test-compliance-tracker",
+    "subCategory": "Water compliance"
+   },
+   {
+    "slug": "disconnect-reconnect-scheduler",
+    "subCategory": "Customer operations"
+   },
+   {
+    "slug": "demand-response-event-manager",
+    "subCategory": "Grid flexibility"
+   },
+   {
+    "slug": "ev-charging-site-operations-console",
+    "subCategory": "E-mobility"
+   },
+   {
+    "slug": "wind-farm-availability-tracker",
+    "subCategory": "Generation"
+   },
+   {
+    "slug": "solar-farm-performance-monitor",
+    "subCategory": "Generation"
+   },
+   {
+    "slug": "substation-inspection-rounds",
+    "subCategory": "Network assets"
+   },
+   {
+    "slug": "transformer-loading-monitor",
+    "subCategory": "Network assets"
+   },
+   {
+    "slug": "right-of-way-easement-manager",
+    "subCategory": "Land & property"
+   },
+   {
+    "slug": "compatible-unit-work-estimator",
+    "subCategory": "Capital works"
+   },
+   {
+    "slug": "locate-ticket-manager",
+    "subCategory": "Damage prevention"
+   },
+   {
+    "slug": "tariff-rate-comparer",
+    "subCategory": "Customer operations"
+   },
+   {
+    "slug": "energy-assistance-application-desk",
+    "subCategory": "Customer assistance"
+   },
+   {
+    "slug": "streetlight-fault-manager",
+    "subCategory": "Public lighting"
+   },
+   {
+    "slug": "planned-outage-notification-planner",
+    "subCategory": "Network operations"
+   },
+   {
+    "slug": "power-purchase-agreement-tracker",
+    "subCategory": "Energy trading"
+   },
+   {
+    "slug": "renewable-certificate-registry",
+    "subCategory": "Sustainability"
+   },
+   {
+    "slug": "hydrant-valve-exercise-tracker",
+    "subCategory": "Water assets"
+   },
+   {
+    "slug": "mutual-aid-crew-onboarding",
+    "subCategory": "Emergency response"
+   },
+   {
+    "slug": "energy-efficiency-rebate-processor",
+    "subCategory": "Customer programmes"
+   }
+  ],
+  "price": null
+ },
+ {
+  "slug": "professional-services-pcf-pack",
+  "name": "Niray Professional Services PCF Pack",
+  "industry": "Professional Services",
+  "status": "complete",
+  "planned": 30,
+  "components": [
+   {
+    "slug": "wip-billing-review-console",
+    "subCategory": "Billing & revenue"
+   },
+   {
+    "slug": "conflict-check-intake-desk",
+    "subCategory": "Risk & intake"
+   },
+   {
+    "slug": "sow-change-order-manager",
+    "subCategory": "Delivery"
+   },
+   {
+    "slug": "milestone-billing-scheduler",
+    "subCategory": "Billing & revenue"
+   },
+   {
+    "slug": "time-entry-approval-workbench",
+    "subCategory": "Time & expense"
+   },
+   {
+    "slug": "rate-card-deal-estimator",
+    "subCategory": "Sales"
+   },
+   {
+    "slug": "utilisation-forecast-planner",
+    "subCategory": "Resource management"
+   },
+   {
+    "slug": "project-health-status-reporter",
+    "subCategory": "Delivery"
+   },
+   {
+    "slug": "engagement-letter-manager",
+    "subCategory": "Client onboarding"
+   },
+   {
+    "slug": "retainer-trust-balance-manager",
+    "subCategory": "Billing & revenue"
+   },
+   {
+    "slug": "staffing-request-fulfilment-desk",
+    "subCategory": "Resource management"
+   },
+   {
+    "slug": "project-profitability-analyzer",
+    "subCategory": "Finance"
+   },
+   {
+    "slug": "raid-log-manager",
+    "subCategory": "Delivery"
+   },
+   {
+    "slug": "client-deliverable-acceptance-tracker",
+    "subCategory": "Delivery"
+   },
+   {
+    "slug": "tax-return-pipeline-tracker",
+    "subCategory": "Accounting firms"
+   },
+   {
+    "slug": "audit-pbc-request-tracker",
+    "subCategory": "Accounting firms"
+   },
+   {
+    "slug": "legal-matter-budget-tracker",
+    "subCategory": "Legal"
+   },
+   {
+    "slug": "ebilling-invoice-validator",
+    "subCategory": "Legal"
+   },
+   {
+    "slug": "bench-roll-off-planner",
+    "subCategory": "Resource management"
+   },
+   {
+    "slug": "project-kickoff-readiness-hub",
+    "subCategory": "Delivery"
+   },
+   {
+    "slug": "origination-credit-splitter",
+    "subCategory": "Finance"
+   },
+   {
+    "slug": "rfp-response-manager",
+    "subCategory": "Sales"
+   },
+   {
+    "slug": "subcontractor-engagement-manager",
+    "subCategory": "Delivery"
+   },
+   {
+    "slug": "client-filing-deadline-tracker",
+    "subCategory": "Accounting firms"
+   },
+   {
+    "slug": "client-account-plan-builder",
+    "subCategory": "Sales"
+   },
+   {
+    "slug": "audit-workpaper-signoff-tracker",
+    "subCategory": "Accounting firms"
+   },
+   {
+    "slug": "legal-hold-notice-manager",
+    "subCategory": "Legal"
+   },
+   {
+    "slug": "contract-obligation-tracker",
+    "subCategory": "Legal"
+   },
+   {
+    "slug": "client-feedback-nps-loop",
+    "subCategory": "Client experience"
+   },
+   {
+    "slug": "independence-confirmation-tracker",
+    "subCategory": "Risk & intake"
+   }
+  ],
+  "price": null
+ },
+ {
+  "slug": "agriculture-pcf-pack",
+  "name": "Niray Agriculture PCF Pack",
+  "industry": "Agriculture",
+  "status": "complete",
+  "planned": 30,
+  "components": [
+   {
+    "slug": "spray-application-record-manager",
+    "subCategory": "Crop protection"
+   },
+   {
+    "slug": "grain-intake-weighbridge-console",
+    "subCategory": "Grain & storage"
+   },
+   {
+    "slug": "grower-contract-delivery-tracker",
+    "subCategory": "Grain & storage"
+   },
+   {
+    "slug": "crop-sampling-lab-results",
+    "subCategory": "Agronomy"
+   },
+   {
+    "slug": "field-scouting-observations",
+    "subCategory": "Agronomy"
+   },
+   {
+    "slug": "field-season-crop-planner",
+    "subCategory": "Planning"
+   },
+   {
+    "slug": "nutrient-management-planner",
+    "subCategory": "Agronomy"
+   },
+   {
+    "slug": "agrochemical-store-inventory",
+    "subCategory": "Inputs"
+   },
+   {
+    "slug": "livestock-herd-register",
+    "subCategory": "Livestock"
+   },
+   {
+    "slug": "animal-treatment-withdrawal-log",
+    "subCategory": "Livestock"
+   },
+   {
+    "slug": "breeding-calving-manager",
+    "subCategory": "Livestock"
+   },
+   {
+    "slug": "dairy-milk-quality-tracker",
+    "subCategory": "Livestock"
+   },
+   {
+    "slug": "feed-ration-planner",
+    "subCategory": "Livestock"
+   },
+   {
+    "slug": "irrigation-schedule-planner",
+    "subCategory": "Water"
+   },
+   {
+    "slug": "harvest-yield-tracker",
+    "subCategory": "Harvest"
+   },
+   {
+    "slug": "packhouse-lot-traceability",
+    "subCategory": "Harvest"
+   },
+   {
+    "slug": "farm-labour-piece-rate-tracker",
+    "subCategory": "Labour"
+   },
+   {
+    "slug": "seasonal-worker-onboarding-hub",
+    "subCategory": "Labour"
+   },
+   {
+    "slug": "gap-compliance-workbook",
+    "subCategory": "Compliance"
+   },
+   {
+    "slug": "farm-machinery-service-log",
+    "subCategory": "Assets"
+   },
+   {
+    "slug": "grain-bin-storage-monitor",
+    "subCategory": "Grain & storage"
+   },
+   {
+    "slug": "commodity-sales-contract-book",
+    "subCategory": "Marketing"
+   },
+   {
+    "slug": "grower-settlement-statement",
+    "subCategory": "Finance"
+   },
+   {
+    "slug": "agri-subsidy-claim-tracker",
+    "subCategory": "Finance"
+   },
+   {
+    "slug": "crop-insurance-loss-claim",
+    "subCategory": "Finance"
+   },
+   {
+    "slug": "greenhouse-crop-cycle-manager",
+    "subCategory": "Protected cropping"
+   },
+   {
+    "slug": "orchard-block-manager",
+    "subCategory": "Perennial crops"
+   },
+   {
+    "slug": "harvest-maturity-pick-scheduler",
+    "subCategory": "Perennial crops"
+   },
+   {
+    "slug": "carbon-farming-practice-ledger",
+    "subCategory": "Sustainability"
+   },
+   {
+    "slug": "ag-input-booking-desk",
+    "subCategory": "Ag retail"
+   }
+  ],
+  "price": null
+ },
+ {
+  "slug": "telecommunications-pcf-pack",
+  "name": "Niray Telecommunications PCF Pack",
+  "industry": "Telecommunications",
+  "status": "complete",
+  "planned": 30,
+  "components": [
+   {
+    "slug": "fibre-order-to-activation-tracker",
+    "subCategory": "Order fulfilment"
+   },
+   {
+    "slug": "network-trouble-ticket-console",
+    "subCategory": "Service assurance"
+   },
+   {
+    "slug": "churn-save-desk-workbench",
+    "subCategory": "Retention"
+   },
+   {
+    "slug": "number-porting-request-manager",
+    "subCategory": "Numbering"
+   },
+   {
+    "slug": "cell-site-maintenance-manager",
+    "subCategory": "Network field ops"
+   },
+   {
+    "slug": "fibre-build-progress-tracker",
+    "subCategory": "Network build"
+   },
+   {
+    "slug": "serviceability-address-checker",
+    "subCategory": "Sales"
+   },
+   {
+    "slug": "enterprise-connectivity-quote-builder",
+    "subCategory": "B2B sales"
+   },
+   {
+    "slug": "billing-dispute-resolution-desk",
+    "subCategory": "Billing"
+   },
+   {
+    "slug": "install-jeopardy-manager",
+    "subCategory": "Field fulfilment"
+   },
+   {
+    "slug": "handset-upgrade-eligibility-desk",
+    "subCategory": "Devices"
+   },
+   {
+    "slug": "sim-inventory-activation-console",
+    "subCategory": "Devices"
+   },
+   {
+    "slug": "tower-colocation-tenancy-manager",
+    "subCategory": "Infrastructure"
+   },
+   {
+    "slug": "wayleave-easement-tracker",
+    "subCategory": "Network build"
+   },
+   {
+    "slug": "network-change-window-planner",
+    "subCategory": "Change management"
+   },
+   {
+    "slug": "sla-service-credit-calculator",
+    "subCategory": "B2B assurance"
+   },
+   {
+    "slug": "roaming-agreement-manager",
+    "subCategory": "Wholesale"
+   },
+   {
+    "slug": "spectrum-licence-register",
+    "subCategory": "Regulatory"
+   },
+   {
+    "slug": "circuit-inventory-explorer",
+    "subCategory": "Network inventory"
+   },
+   {
+    "slug": "dealer-commission-tracker",
+    "subCategory": "Channel"
+   },
+   {
+    "slug": "regulatory-complaint-case-manager",
+    "subCategory": "Customer care"
+   },
+   {
+    "slug": "network-capacity-planning-board",
+    "subCategory": "Network planning"
+   },
+   {
+    "slug": "mdu-building-access-manager",
+    "subCategory": "Network build"
+   },
+   {
+    "slug": "subscription-fraud-review-queue",
+    "subCategory": "Fraud"
+   },
+   {
+    "slug": "cpe-returns-tracker",
+    "subCategory": "Devices"
+   },
+   {
+    "slug": "interconnect-settlement-reconciler",
+    "subCategory": "Wholesale"
+   },
+   {
+    "slug": "broadband-speed-complaint-tester",
+    "subCategory": "Customer care"
+   },
+   {
+    "slug": "prepaid-top-up-promotion-manager",
+    "subCategory": "Marketing"
+   },
+   {
+    "slug": "business-move-relocation-orders",
+    "subCategory": "B2B fulfilment"
+   },
+   {
+    "slug": "pole-attachment-application-manager",
+    "subCategory": "Network build"
+   }
+  ],
+  "price": null
+ },
+ {
+  "slug": "construction-and-engineering-pcf-pack",
+  "name": "Niray Construction & Engineering PCF Pack",
+  "industry": "Construction & Engineering",
+  "status": "complete",
+  "planned": 30,
+  "components": [
+   {
+    "slug": "rfi-response-tracker",
+    "subCategory": "Project controls"
+   },
+   {
+    "slug": "submittal-register-manager",
+    "subCategory": "Project controls"
+   },
+   {
+    "slug": "construction-change-order-manager",
+    "subCategory": "Commercial"
+   },
+   {
+    "slug": "punch-list-closeout-manager",
+    "subCategory": "Quality & closeout"
+   },
+   {
+    "slug": "daily-site-diary",
+    "subCategory": "Field"
+   },
+   {
+    "slug": "payment-application-builder",
+    "subCategory": "Commercial"
+   },
+   {
+    "slug": "subcontractor-prequalification-hub",
+    "subCategory": "Preconstruction"
+   },
+   {
+    "slug": "bid-package-leveling-board",
+    "subCategory": "Preconstruction"
+   },
+   {
+    "slug": "look-ahead-schedule-planner",
+    "subCategory": "Planning"
+   },
+   {
+    "slug": "site-safety-observation-manager",
+    "subCategory": "Safety"
+   },
+   {
+    "slug": "concrete-pour-planner",
+    "subCategory": "Field"
+   },
+   {
+    "slug": "crane-lift-plan-manager",
+    "subCategory": "Field"
+   },
+   {
+    "slug": "drawing-revision-register",
+    "subCategory": "Document control"
+   },
+   {
+    "slug": "plant-equipment-hire-tracker",
+    "subCategory": "Field"
+   },
+   {
+    "slug": "material-delivery-site-logistics",
+    "subCategory": "Field"
+   },
+   {
+    "slug": "retention-release-tracker",
+    "subCategory": "Commercial"
+   },
+   {
+    "slug": "project-cost-forecast-workbench",
+    "subCategory": "Commercial"
+   },
+   {
+    "slug": "handover-commissioning-tracker",
+    "subCategory": "Quality & closeout"
+   },
+   {
+    "slug": "defects-liability-warranty-manager",
+    "subCategory": "Quality & closeout"
+   },
+   {
+    "slug": "site-labour-timesheet-console",
+    "subCategory": "Field"
+   },
+   {
+    "slug": "quantity-takeoff-estimator",
+    "subCategory": "Preconstruction"
+   },
+   {
+    "slug": "bim-clash-issue-tracker",
+    "subCategory": "Design"
+   },
+   {
+    "slug": "project-meeting-minutes-manager",
+    "subCategory": "Project controls"
+   },
+   {
+    "slug": "lien-waiver-compliance-tracker",
+    "subCategory": "Commercial"
+   },
+   {
+    "slug": "site-induction-access-manager",
+    "subCategory": "Safety"
+   },
+   {
+    "slug": "temporary-works-register",
+    "subCategory": "Engineering"
+   },
+   {
+    "slug": "inspection-test-plan-manager",
+    "subCategory": "Quality & closeout"
+   },
+   {
+    "slug": "environmental-site-compliance-log",
+    "subCategory": "Safety"
+   },
+   {
+    "slug": "bid-go-no-go-decision-board",
+    "subCategory": "Preconstruction"
+   },
+   {
+    "slug": "extension-of-time-claim-builder",
+    "subCategory": "Commercial"
+   }
+  ],
+  "price": null
+ },
+ {
+  "slug": "legal-pcf-pack",
+  "name": "Niray Legal PCF Pack",
+  "industry": "Legal",
+  "status": "complete",
+  "planned": 30,
+  "components": [
+   {
+    "slug": "legal-request-front-door",
+    "subCategory": "Legal operations"
+   },
+   {
+    "slug": "litigation-deadline-docketer",
+    "subCategory": "Litigation"
+   },
+   {
+    "slug": "contract-request-negotiation-tracker",
+    "subCategory": "Contracts"
+   },
+   {
+    "slug": "litigation-exposure-register",
+    "subCategory": "Litigation"
+   },
+   {
+    "slug": "outside-counsel-panel-manager",
+    "subCategory": "Legal operations"
+   },
+   {
+    "slug": "privilege-log-builder",
+    "subCategory": "eDiscovery"
+   },
+   {
+    "slug": "document-review-batch-console",
+    "subCategory": "eDiscovery"
+   },
+   {
+    "slug": "nda-self-service-generator",
+    "subCategory": "Contracts"
+   },
+   {
+    "slug": "clause-playbook-library",
+    "subCategory": "Contracts"
+   },
+   {
+    "slug": "subpoena-response-tracker",
+    "subCategory": "Litigation"
+   },
+   {
+    "slug": "trademark-portfolio-manager",
+    "subCategory": "Intellectual property"
+   },
+   {
+    "slug": "patent-portfolio-docket",
+    "subCategory": "Intellectual property"
+   },
+   {
+    "slug": "legal-entity-management-register",
+    "subCategory": "Corporate"
+   },
+   {
+    "slug": "deposition-scheduler",
+    "subCategory": "Litigation"
+   },
+   {
+    "slug": "trial-exhibit-manager",
+    "subCategory": "Litigation"
+   },
+   {
+    "slug": "regulatory-change-tracker",
+    "subCategory": "Compliance"
+   },
+   {
+    "slug": "data-subject-request-manager",
+    "subCategory": "Privacy"
+   },
+   {
+    "slug": "speak-up-case-manager",
+    "subCategory": "Compliance"
+   },
+   {
+    "slug": "policy-attestation-manager",
+    "subCategory": "Compliance"
+   },
+   {
+    "slug": "settlement-authority-tracker",
+    "subCategory": "Litigation"
+   },
+   {
+    "slug": "signing-authority-register",
+    "subCategory": "Corporate"
+   },
+   {
+    "slug": "invention-disclosure-review-board",
+    "subCategory": "Intellectual property"
+   },
+   {
+    "slug": "pro-bono-matter-tracker",
+    "subCategory": "Law firm"
+   },
+   {
+    "slug": "precedent-knowledge-bank",
+    "subCategory": "Knowledge"
+   },
+   {
+    "slug": "court-filing-preparation-console",
+    "subCategory": "Litigation"
+   },
+   {
+    "slug": "matter-file-retention-manager",
+    "subCategory": "Law firm"
+   },
+   {
+    "slug": "expert-witness-manager",
+    "subCategory": "Litigation"
+   },
+   {
+    "slug": "transaction-closing-checklist",
+    "subCategory": "Corporate"
+   },
+   {
+    "slug": "due-diligence-findings-tracker",
+    "subCategory": "Corporate"
+   },
+   {
+    "slug": "lawyer-cpd-compliance-tracker",
+    "subCategory": "Law firm"
+   }
+  ],
+  "price": null
+ },
+ {
+  "slug": "mining-and-natural-resources-pcf-pack",
+  "name": "Niray Mining & Natural Resources PCF Pack",
+  "industry": "Mining & Natural Resources",
+  "status": "complete",
+  "planned": 30,
+  "components": [
+   {
+    "slug": "short-interval-control-board",
+    "subCategory": "Mine Production"
+   },
+   {
+    "slug": "critical-control-verification-hub",
+    "subCategory": "Safety"
+   },
+   {
+    "slug": "energy-isolation-loto-manager",
+    "subCategory": "Safety"
+   },
+   {
+    "slug": "tailings-facility-monitor",
+    "subCategory": "Tailings & Dams"
+   },
+   {
+    "slug": "drill-blast-pattern-manager",
+    "subCategory": "Drill & Blast"
+   },
+   {
+    "slug": "grade-control-sample-tracker",
+    "subCategory": "Geology"
+   },
+   {
+    "slug": "stockpile-blend-planner",
+    "subCategory": "Mine Production"
+   },
+   {
+    "slug": "haul-fleet-dispatch-board",
+    "subCategory": "Mine Production"
+   },
+   {
+    "slug": "mobile-equipment-prestart-checks",
+    "subCategory": "Maintenance"
+   },
+   {
+    "slug": "fixed-plant-shutdown-planner",
+    "subCategory": "Maintenance"
+   },
+   {
+    "slug": "component-changeout-tracker",
+    "subCategory": "Maintenance"
+   },
+   {
+    "slug": "fifo-roster-travel-planner",
+    "subCategory": "Workforce"
+   },
+   {
+    "slug": "underground-ventilation-gas-log",
+    "subCategory": "Underground"
+   },
+   {
+    "slug": "ground-control-inspection-register",
+    "subCategory": "Geotechnical"
+   },
+   {
+    "slug": "exploration-drill-program-manager",
+    "subCategory": "Exploration"
+   },
+   {
+    "slug": "core-logging-workbench",
+    "subCategory": "Geology"
+   },
+   {
+    "slug": "mineral-tenement-manager",
+    "subCategory": "Land & Tenure"
+   },
+   {
+    "slug": "community-grievance-manager",
+    "subCategory": "Social Performance"
+   },
+   {
+    "slug": "site-water-balance-tracker",
+    "subCategory": "Environment"
+   },
+   {
+    "slug": "rehabilitation-closure-tracker",
+    "subCategory": "Closure"
+   },
+   {
+    "slug": "concentrate-shipment-scheduler",
+    "subCategory": "Marketing & Logistics"
+   },
+   {
+    "slug": "metallurgical-accounting-reconciler",
+    "subCategory": "Processing"
+   },
+   {
+    "slug": "equipment-competency-voc-tracker",
+    "subCategory": "Workforce"
+   },
+   {
+    "slug": "explosives-magazine-inventory",
+    "subCategory": "Drill & Blast"
+   },
+   {
+    "slug": "underground-development-advance-tracker",
+    "subCategory": "Underground"
+   },
+   {
+    "slug": "mineral-royalty-return-builder",
+    "subCategory": "Finance"
+   },
+   {
+    "slug": "emergency-muster-tracker",
+    "subCategory": "Safety"
+   },
+   {
+    "slug": "process-plant-shift-logbook",
+    "subCategory": "Processing"
+   }
+  ],
+  "price": null
+ },
+ {
+  "slug": "automotive-pcf-pack",
+  "name": "Niray Automotive PCF Pack",
+  "industry": "Automotive",
+  "status": "complete",
+  "planned": 30,
+  "components": [
+   {
+    "slug": "service-lane-repair-order-manager",
+    "subCategory": "Service"
+   },
+   {
+    "slug": "digital-vehicle-health-check",
+    "subCategory": "Service"
+   },
+   {
+    "slug": "used-vehicle-recon-tracker",
+    "subCategory": "Used cars"
+   },
+   {
+    "slug": "trade-in-appraisal-workbench",
+    "subCategory": "Used cars"
+   },
+   {
+    "slug": "deal-desking-worksheet",
+    "subCategory": "Sales"
+   },
+   {
+    "slug": "fi-menu-presenter",
+    "subCategory": "F&I"
+   },
+   {
+    "slug": "workshop-loading-planner",
+    "subCategory": "Service"
+   },
+   {
+    "slug": "technician-clocking-efficiency-board",
+    "subCategory": "Service"
+   },
+   {
+    "slug": "recall-campaign-completion-tracker",
+    "subCategory": "After-sales"
+   },
+   {
+    "slug": "test-drive-booking-manager",
+    "subCategory": "Sales"
+   },
+   {
+    "slug": "vehicle-order-bank-tracker",
+    "subCategory": "Sales"
+   },
+   {
+    "slug": "vehicle-delivery-handover-planner",
+    "subCategory": "Sales"
+   },
+   {
+    "slug": "courtesy-vehicle-fleet-manager",
+    "subCategory": "Service"
+   },
+   {
+    "slug": "parts-special-order-tracker",
+    "subCategory": "Parts"
+   },
+   {
+    "slug": "body-shop-repair-estimate-manager",
+    "subCategory": "Collision"
+   },
+   {
+    "slug": "vehicle-stock-floorplan-audit",
+    "subCategory": "Finance"
+   },
+   {
+    "slug": "contracts-in-transit-funding-tracker",
+    "subCategory": "F&I"
+   },
+   {
+    "slug": "service-reminder-campaign-planner",
+    "subCategory": "Service marketing"
+   },
+   {
+    "slug": "demonstrator-fleet-manager",
+    "subCategory": "Sales"
+   },
+   {
+    "slug": "lease-return-remarketing-desk",
+    "subCategory": "Remarketing"
+   },
+   {
+    "slug": "showroom-traffic-ups-board",
+    "subCategory": "Sales"
+   },
+   {
+    "slug": "coop-marketing-fund-claims",
+    "subCategory": "OEM marketing"
+   },
+   {
+    "slug": "dealer-standards-audit-manager",
+    "subCategory": "OEM network"
+   },
+   {
+    "slug": "vehicle-allocation-planner",
+    "subCategory": "OEM network"
+   },
+   {
+    "slug": "ev-battery-health-certificate",
+    "subCategory": "Used EV"
+   },
+   {
+    "slug": "tyre-hotel-storage-manager",
+    "subCategory": "Service"
+   },
+   {
+    "slug": "accessory-fitment-scheduler",
+    "subCategory": "Sales / parts"
+   },
+   {
+    "slug": "vehicle-transport-movement-board",
+    "subCategory": "Logistics"
+   },
+   {
+    "slug": "parts-counter-quote-builder",
+    "subCategory": "Parts"
+   },
+   {
+    "slug": "connected-vehicle-service-alert-desk",
+    "subCategory": "Service"
+   }
+  ],
+  "price": null
+ },
+ {
+  "slug": "hospitality-and-travel-pcf-pack",
+  "name": "Niray Hospitality & Travel PCF Pack",
+  "industry": "Hospitality & Travel",
+  "status": "complete",
+  "planned": 30,
+  "components": [
+   {
+    "slug": "front-desk-arrivals-console",
+    "subCategory": "Hotel front office"
+   },
+   {
+    "slug": "tour-departure-manifest-manager",
+    "subCategory": "Tour operations"
+   },
+   {
+    "slug": "traveler-duty-of-care-monitor",
+    "subCategory": "Corporate travel"
+   },
+   {
+    "slug": "night-audit-close-console",
+    "subCategory": "Hotel finance"
+   },
+   {
+    "slug": "tour-costing-quote-builder",
+    "subCategory": "Tour operations"
+   },
+   {
+    "slug": "supplier-allotment-manager",
+    "subCategory": "Tour operations"
+   },
+   {
+    "slug": "corporate-travel-request-approvals",
+    "subCategory": "Corporate travel"
+   },
+   {
+    "slug": "airline-irops-rebooking-desk",
+    "subCategory": "Airlines"
+   },
+   {
+    "slug": "hotel-revenue-pickup-analyzer",
+    "subCategory": "Hotel revenue"
+   },
+   {
+    "slug": "aircraft-turnaround-coordinator",
+    "subCategory": "Ground handling"
+   },
+   {
+    "slug": "travel-booking-amendment-desk",
+    "subCategory": "Travel agency"
+   },
+   {
+    "slug": "guest-folio-dispute-desk",
+    "subCategory": "Hotel finance"
+   },
+   {
+    "slug": "room-out-of-order-manager",
+    "subCategory": "Hotel operations"
+   },
+   {
+    "slug": "channel-rate-parity-monitor",
+    "subCategory": "Hotel distribution"
+   },
+   {
+    "slug": "transfer-dispatch-planner",
+    "subCategory": "DMC / ground transport"
+   },
+   {
+    "slug": "baggage-mishandling-claims-desk",
+    "subCategory": "Airlines"
+   },
+   {
+    "slug": "cruise-shore-excursion-manager",
+    "subCategory": "Cruise"
+   },
+   {
+    "slug": "spa-wellness-appointment-book",
+    "subCategory": "Hotel spa"
+   },
+   {
+    "slug": "travel-agent-commission-reconciler",
+    "subCategory": "Travel agency / hotel"
+   },
+   {
+    "slug": "visa-document-readiness-tracker",
+    "subCategory": "Group travel"
+   },
+   {
+    "slug": "crew-layover-accommodation-planner",
+    "subCategory": "Airlines"
+   },
+   {
+    "slug": "tour-guide-assignment-planner",
+    "subCategory": "Tour operations"
+   },
+   {
+    "slug": "passenger-special-assistance-desk",
+    "subCategory": "Airports / airlines"
+   },
+   {
+    "slug": "hotel-pre-arrival-upsell-manager",
+    "subCategory": "Hotel revenue"
+   },
+   {
+    "slug": "travel-policy-compliance-auditor",
+    "subCategory": "Corporate travel"
+   },
+   {
+    "slug": "vacation-rental-owner-statement",
+    "subCategory": "Vacation rentals"
+   },
+   {
+    "slug": "golf-tee-sheet-manager",
+    "subCategory": "Resorts / leisure"
+   },
+   {
+    "slug": "airport-lounge-access-manager",
+    "subCategory": "Airports"
+   },
+   {
+    "slug": "cruise-cabin-inventory-allocator",
+    "subCategory": "Cruise"
+   },
+   {
+    "slug": "attraction-capacity-timed-entry-manager",
+    "subCategory": "Attractions"
+   }
+  ],
+  "price": null
+ },
+ {
+  "slug": "pharmaceuticals-pcf-pack",
+  "name": "Niray Pharmaceuticals PCF Pack",
+  "industry": "Pharmaceuticals",
+  "status": "complete",
+  "planned": 30,
+  "components": [
+   {
+    "slug": "batch-record-review-release-console",
+    "subCategory": "GMP Quality / Batch Disposition"
+   },
+   {
+    "slug": "gmp-deviation-investigation-manager",
+    "subCategory": "GMP Quality / Deviations"
+   },
+   {
+    "slug": "ae-case-intake-triage",
+    "subCategory": "Pharmacovigilance"
+   },
+   {
+    "slug": "clinical-trial-supply-depot-manager",
+    "subCategory": "Clinical Supply"
+   },
+   {
+    "slug": "gmp-change-control-board",
+    "subCategory": "GMP Quality / Change Control"
+   },
+   {
+    "slug": "stability-study-pull-scheduler",
+    "subCategory": "QC / Stability"
+   },
+   {
+    "slug": "regulatory-submission-tracker",
+    "subCategory": "Regulatory Affairs"
+   },
+   {
+    "slug": "medical-information-request-desk",
+    "subCategory": "Medical Affairs"
+   },
+   {
+    "slug": "lab-oos-investigation-tracker",
+    "subCategory": "QC Lab"
+   },
+   {
+    "slug": "clinical-site-activation-tracker",
+    "subCategory": "Clinical Operations"
+   },
+   {
+    "slug": "gxp-training-matrix-manager",
+    "subCategory": "GMP Quality / Training"
+   },
+   {
+    "slug": "equipment-qualification-tracker",
+    "subCategory": "Validation"
+   },
+   {
+    "slug": "cleanroom-environmental-monitoring-log",
+    "subCategory": "Sterile Manufacturing"
+   },
+   {
+    "slug": "supplier-qualification-audit-manager",
+    "subCategory": "GMP Quality / Suppliers"
+   },
+   {
+    "slug": "sop-document-lifecycle-manager",
+    "subCategory": "GMP Quality / Documents"
+   },
+   {
+    "slug": "patient-support-program-enrolment",
+    "subCategory": "Patient Services"
+   },
+   {
+    "slug": "kol-engagement-planner",
+    "subCategory": "Medical Affairs"
+   },
+   {
+    "slug": "hcp-speaker-program-manager",
+    "subCategory": "Commercial Compliance"
+   },
+   {
+    "slug": "sample-accountability-reconciler",
+    "subCategory": "Commercial Compliance"
+   },
+   {
+    "slug": "artwork-label-change-tracker",
+    "subCategory": "Packaging / Labelling"
+   },
+   {
+    "slug": "serialisation-exception-desk",
+    "subCategory": "Supply Chain / Serialisation"
+   },
+   {
+    "slug": "clinical-monitoring-visit-tracker",
+    "subCategory": "Clinical Operations"
+   },
+   {
+    "slug": "trial-master-file-completeness-tracker",
+    "subCategory": "Clinical Operations"
+   },
+   {
+    "slug": "clinical-protocol-deviation-log",
+    "subCategory": "Clinical Operations"
+   },
+   {
+    "slug": "market-access-hta-dossier-planner",
+    "subCategory": "Market Access"
+   },
+   {
+    "slug": "annual-product-quality-review-builder",
+    "subCategory": "GMP Quality / APQR"
+   },
+   {
+    "slug": "cleaning-validation-matrix",
+    "subCategory": "Validation"
+   },
+   {
+    "slug": "investigator-site-payment-tracker",
+    "subCategory": "Clinical Finance"
+   },
+   {
+    "slug": "drug-shortage-supply-risk-monitor",
+    "subCategory": "Supply Chain"
+   },
+   {
+    "slug": "product-launch-readiness-tracker",
+    "subCategory": "Commercial"
+   }
+  ],
+  "price": null
+ },
+ {
+  "slug": "sports-and-fitness-pcf-pack",
+  "name": "Niray Sports & Fitness PCF Pack",
+  "industry": "Sports & Fitness",
+  "status": "complete",
+  "planned": 30,
+  "components": [
+   {
+    "slug": "gym-member-retention-risk-console",
+    "subCategory": "Club & Membership"
+   },
+   {
+    "slug": "athlete-wellness-readiness-monitor",
+    "subCategory": "Performance & Sports Science"
+   },
+   {
+    "slug": "training-load-acwr-planner",
+    "subCategory": "Performance & Sports Science"
+   },
+   {
+    "slug": "fixture-scheduling-conflict-planner",
+    "subCategory": "Leagues & Competitions"
+   },
+   {
+    "slug": "youth-player-registration-console",
+    "subCategory": "Clubs & Grassroots"
+   },
+   {
+    "slug": "sports-injury-return-to-play-tracker",
+    "subCategory": "Sports Medicine"
+   },
+   {
+    "slug": "personal-trainer-session-pack-manager",
+    "subCategory": "Fitness Operations"
+   },
+   {
+    "slug": "talent-scouting-player-evaluator",
+    "subCategory": "Recruitment & Scouting"
+   },
+   {
+    "slug": "matchday-squad-selection-board",
+    "subCategory": "Team Operations"
+   },
+   {
+    "slug": "court-pitch-booking-board",
+    "subCategory": "Venues & Facilities"
+   },
+   {
+    "slug": "match-official-appointments-manager",
+    "subCategory": "Leagues & Competitions"
+   },
+   {
+    "slug": "tournament-bracket-manager",
+    "subCategory": "Leagues & Competitions"
+   },
+   {
+    "slug": "season-ticket-account-manager",
+    "subCategory": "Fan & Commercial"
+   },
+   {
+    "slug": "stadium-matchday-incident-log",
+    "subCategory": "Venues & Facilities"
+   },
+   {
+    "slug": "player-contract-registration-manager",
+    "subCategory": "Team Operations"
+   },
+   {
+    "slug": "academy-player-development-plan",
+    "subCategory": "Performance & Sports Science"
+   },
+   {
+    "slug": "strength-conditioning-program-builder",
+    "subCategory": "Performance & Sports Science"
+   },
+   {
+    "slug": "performance-testing-battery-tracker",
+    "subCategory": "Performance & Sports Science"
+   },
+   {
+    "slug": "group-fitness-timetable-planner",
+    "subCategory": "Fitness Operations"
+   },
+   {
+    "slug": "club-occupancy-check-in-monitor",
+    "subCategory": "Fitness Operations"
+   },
+   {
+    "slug": "athlete-nutrition-plan-tracker",
+    "subCategory": "Performance & Sports Science"
+   },
+   {
+    "slug": "sports-camp-programme-manager",
+    "subCategory": "Clubs & Grassroots"
+   },
+   {
+    "slug": "member-onboarding-induction-tracker",
+    "subCategory": "Club & Membership"
+   },
+   {
+    "slug": "swim-school-level-progress-tracker",
+    "subCategory": "Clubs & Grassroots"
+   },
+   {
+    "slug": "league-results-standings-manager",
+    "subCategory": "Leagues & Competitions"
+   },
+   {
+    "slug": "disciplinary-sanctions-case-manager",
+    "subCategory": "Leagues & Competitions"
+   },
+   {
+    "slug": "anti-doping-whereabouts-tracker",
+    "subCategory": "Sports Medicine"
+   },
+   {
+    "slug": "team-travel-logistics-planner",
+    "subCategory": "Team Operations"
+   },
+   {
+    "slug": "team-kit-equipment-issue-tracker",
+    "subCategory": "Team Operations"
+   }
+  ],
+  "price": null
+ },
+ {
+  "slug": "oil-and-gas-pcf-pack",
+  "name": "Niray Oil & Gas PCF Pack",
+  "industry": "Oil & Gas",
+  "status": "in progress",
+  "planned": 30,
+  "components": [
+   {
+    "slug": "well-integrity-barrier-manager",
+    "subCategory": "Wells & Integrity"
+   },
+   {
+    "slug": "field-ticket-afe-coder",
+    "subCategory": "Field Spend"
+   },
+   {
+    "slug": "daily-drilling-report-builder",
+    "subCategory": "Drilling"
+   },
+   {
+    "slug": "production-deferment-tracker",
+    "subCategory": "Production"
+   },
+   {
+    "slug": "ldar-survey-repair-manager",
+    "subCategory": "Emissions & Environment"
+   },
+   {
+    "slug": "afe-jv-approval-console",
+    "subCategory": "Field Spend"
+   },
+   {
+    "slug": "pumper-route-gauge-sheet",
+    "subCategory": "Production"
+   },
+   {
+    "slug": "process-safety-moc-pssr-tracker",
+    "subCategory": "Process Safety"
+   },
+   {
+    "slug": "flare-vent-event-log",
+    "subCategory": "Emissions & Environment"
+   },
+   {
+    "slug": "well-handover-manager",
+    "subCategory": "Wells & Integrity"
+   },
+   {
+    "slug": "rig-move-schedule-planner",
+    "subCategory": "Drilling"
+   },
+   {
+    "slug": "frac-stage-completion-tracker",
+    "subCategory": "Completions"
+   },
+   {
+    "slug": "well-intervention-workover-planner",
+    "subCategory": "Wells & Integrity"
+   },
+   {
+    "slug": "pipeline-pigging-scheduler",
+    "subCategory": "Midstream"
+   },
+   {
+    "slug": "corrosion-chemical-program-tracker",
+    "subCategory": "Integrity"
+   },
+   {
+    "slug": "produced-water-hauling-tracker",
+    "subCategory": "Production"
+   },
+   {
+    "slug": "tank-battery-inventory-monitor",
+    "subCategory": "Production"
+   },
+   {
+    "slug": "gas-nomination-imbalance-desk",
+    "subCategory": "Midstream"
+   },
+   {
+    "slug": "division-order-owner-manager",
+    "subCategory": "Land & Revenue"
+   },
+   {
+    "slug": "jib-dispute-desk",
+    "subCategory": "Land & Revenue"
+   },
+   {
+    "slug": "hazop-action-closeout-tracker",
+    "subCategory": "Process Safety"
+   },
+   {
+    "slug": "safety-critical-element-assurance",
+    "subCategory": "Process Safety"
+   },
+   {
+    "slug": "offshore-pob-manifest-manager",
+    "subCategory": "Offshore Logistics"
+   },
+   {
+    "slug": "drilling-fluid-inventory-tracker",
+    "subCategory": "Drilling"
+   },
+   {
+    "slug": "well-test-allocation-validator",
+    "subCategory": "Production"
+   },
+   {
+    "slug": "loading-rack-slot-scheduler",
+    "subCategory": "Downstream"
+   },
+   {
+    "slug": "spill-release-reporting-manager",
+    "subCategory": "Emissions & Environment"
+   },
+   {
+    "slug": "simops-conflict-planner",
+    "subCategory": "Operations"
+   },
+   {
+    "slug": "plug-abandonment-liability-tracker",
+    "subCategory": "Wells & Integrity"
+   },
+   {
+    "slug": "methane-ogmp-inventory-reporter",
+    "subCategory": "Emissions & Environment"
    }
   ],
   "price": null

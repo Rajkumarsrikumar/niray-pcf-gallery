@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/patient-support-program-enrolment/01.webp",
+  "w": 1355,
+  "h": 900,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "fe37d64d"
+ },
+ {
+  "src": "/screens/patient-support-program-enrolment/02.webp",
+  "w": 330,
+  "h": 740,
+  "caption": "Access journey",
+  "mobile": true,
+  "v": "1d557bc1"
+ },
+ {
+  "src": "/screens/patient-support-program-enrolment/03.webp",
+  "w": 330,
+  "h": 740,
+  "caption": "Cases",
+  "mobile": true,
+  "v": "9739f456"
+ },
+ {
+  "src": "/screens/patient-support-program-enrolment/04.webp",
+  "w": 330,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "584fa27c"
+ },
+ {
+  "src": "/screens/patient-support-program-enrolment/05.webp",
+  "w": 330,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "6d0d8ffc"
+ },
+ {
+  "src": "/screens/patient-support-program-enrolment/06.webp",
+  "w": 330,
+  "h": 740,
+  "caption": "Follow ups",
+  "mobile": true,
+  "v": "74aa9e95"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/channel-rate-parity-monitor/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "dbde553b"
+ },
+ {
+  "src": "/screens/channel-rate-parity-monitor/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "aecb560c"
+ },
+ {
+  "src": "/screens/channel-rate-parity-monitor/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Check cards",
+  "mobile": true,
+  "v": "53af74ce"
+ },
+ {
+  "src": "/screens/channel-rate-parity-monitor/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "eabd381e"
+ },
+ {
+  "src": "/screens/channel-rate-parity-monitor/05.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Dashboard sample data",
+  "mobile": false,
+  "v": "341cc84d"
+ },
+ {
+  "src": "/screens/channel-rate-parity-monitor/06.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Rate checks list",
+  "mobile": false,
+  "v": "9f07b70f"
+ }
+]

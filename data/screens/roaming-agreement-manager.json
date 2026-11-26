@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/roaming-agreement-manager/01.webp",
+  "w": 1366,
+  "h": 780,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "26e0c798"
+ },
+ {
+  "src": "/screens/roaming-agreement-manager/02.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "bac046ae"
+ },
+ {
+  "src": "/screens/roaming-agreement-manager/03.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Partners",
+  "mobile": true,
+  "v": "bbbb0cad"
+ },
+ {
+  "src": "/screens/roaming-agreement-manager/04.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "2ba95c4a"
+ },
+ {
+  "src": "/screens/roaming-agreement-manager/05.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Pipeline chips",
+  "mobile": true,
+  "v": "a4fb8a7a"
+ },
+ {
+  "src": "/screens/roaming-agreement-manager/06.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Rates",
+  "mobile": true,
+  "v": "018fbd98"
+ }
+]

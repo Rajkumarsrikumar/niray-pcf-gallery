@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/dealer-commission-tracker/01.webp",
+  "w": 1366,
+  "h": 780,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "a3a53b86"
+ },
+ {
+  "src": "/screens/dealer-commission-tracker/02.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "305590e8"
+ },
+ {
+  "src": "/screens/dealer-commission-tracker/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Lines",
+  "mobile": true,
+  "v": "d494ebfe"
+ },
+ {
+  "src": "/screens/dealer-commission-tracker/04.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "eb27665c"
+ },
+ {
+  "src": "/screens/dealer-commission-tracker/05.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Board chips",
+  "mobile": true,
+  "v": "602afedb"
+ },
+ {
+  "src": "/screens/dealer-commission-tracker/06.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Statement",
+  "mobile": true,
+  "v": "73fbbdfb"
+ }
+]

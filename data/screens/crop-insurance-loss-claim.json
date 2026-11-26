@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/crop-insurance-loss-claim/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "476e83eb"
+ },
+ {
+  "src": "/screens/crop-insurance-loss-claim/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "d1950662"
+ },
+ {
+  "src": "/screens/crop-insurance-loss-claim/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Loss cards",
+  "mobile": true,
+  "v": "81fcdb35"
+ },
+ {
+  "src": "/screens/crop-insurance-loss-claim/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Loss panel",
+  "mobile": true,
+  "v": "3e80724b"
+ },
+ {
+  "src": "/screens/crop-insurance-loss-claim/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Claims",
+  "mobile": true,
+  "v": "0088d3a4"
+ },
+ {
+  "src": "/screens/crop-insurance-loss-claim/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Schedule agenda",
+  "mobile": true,
+  "v": "73175b85"
+ }
+]

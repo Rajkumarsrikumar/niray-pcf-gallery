@@ -1,13 +1,13 @@
 import Link from "next/link";
 import ProductArt from "./ProductArt";
 import AddToCart from "./AddToCart";
-import { PRICE, formatPrice, isAvailable, screensFor, themeFor, thumbOf, type Component } from "@/lib/catalog";
+import { PRICE, formatPrice, isAvailable, themeFor } from "@/lib/shared";
+import { thumbOf } from "@/lib/thumb";
+import type { CardItem } from "@/lib/catalog";
 
-export default function ProductCard({ c }: { c: Component }) {
+export default function ProductCard({ c }: { c: CardItem }) {
   const t = themeFor(c.industry);
-  // Prefer a desktop shot; components with only a phone shot show it centred instead of the placeholder art.
-  const shots = screensFor(c.slug);
-  const shot = shots.find((s) => !s.mobile) ?? shots[0];
+  const shot = c.shot;
   return (
     <article className="group relative flex flex-col">
       <div className="relative overflow-hidden rounded-2xl border border-line bg-paper transition-shadow duration-300 group-hover:shadow-[0_18px_40px_-22px_rgba(0,59,92,0.55)]">

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/archive-footage-clearance-desk/01.webp",
+  "w": 1364,
+  "h": 820,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "490d15e6"
+ },
+ {
+  "src": "/screens/archive-footage-clearance-desk/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "c6287af3"
+ },
+ {
+  "src": "/screens/archive-footage-clearance-desk/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Clearances",
+  "mobile": true,
+  "v": "25749279"
+ },
+ {
+  "src": "/screens/archive-footage-clearance-desk/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Board",
+  "mobile": true,
+  "v": "0175642a"
+ },
+ {
+  "src": "/screens/archive-footage-clearance-desk/05.webp",
+  "w": 1364,
+  "h": 820,
+  "caption": "Csv dashboard",
+  "mobile": false,
+  "v": "4fae6c3b"
+ },
+ {
+  "src": "/screens/archive-footage-clearance-desk/06.webp",
+  "w": 1364,
+  "h": 820,
+  "caption": "Clip list",
+  "mobile": false,
+  "v": "6bad0164"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/agrochemical-store-inventory/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "a06214bc"
+ },
+ {
+  "src": "/screens/agrochemical-store-inventory/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "4c115f21"
+ },
+ {
+  "src": "/screens/agrochemical-store-inventory/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Stock cards",
+  "mobile": true,
+  "v": "5b6259aa"
+ },
+ {
+  "src": "/screens/agrochemical-store-inventory/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "d89c7edd"
+ },
+ {
+  "src": "/screens/agrochemical-store-inventory/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Store map",
+  "mobile": true,
+  "v": "e22dfa1a"
+ },
+ {
+  "src": "/screens/agrochemical-store-inventory/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Expiry",
+  "mobile": true,
+  "v": "2841a0c1"
+ }
+]

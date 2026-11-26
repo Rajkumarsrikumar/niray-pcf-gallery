@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/grain-bin-storage-monitor/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "7e4db064"
+ },
+ {
+  "src": "/screens/grain-bin-storage-monitor/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "e7ba98e7"
+ },
+ {
+  "src": "/screens/grain-bin-storage-monitor/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Bin cards",
+  "mobile": true,
+  "v": "1ae40614"
+ },
+ {
+  "src": "/screens/grain-bin-storage-monitor/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Bin yard",
+  "mobile": true,
+  "v": "71f4b04f"
+ },
+ {
+  "src": "/screens/grain-bin-storage-monitor/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Temperature",
+  "mobile": true,
+  "v": "1876680e"
+ },
+ {
+  "src": "/screens/grain-bin-storage-monitor/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Bin panel",
+  "mobile": true,
+  "v": "0d61497d"
+ }
+]

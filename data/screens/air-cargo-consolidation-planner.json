@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/air-cargo-consolidation-planner/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "bd2dfcd3"
+ },
+ {
+  "src": "/screens/air-cargo-consolidation-planner/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "6bebe695"
+ },
+ {
+  "src": "/screens/air-cargo-consolidation-planner/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "List",
+  "mobile": true,
+  "v": "e9d53faf"
+ },
+ {
+  "src": "/screens/air-cargo-consolidation-planner/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Flights",
+  "mobile": true,
+  "v": "b722aad7"
+ },
+ {
+  "src": "/screens/air-cargo-consolidation-planner/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Editor",
+  "mobile": true,
+  "v": "14883ad2"
+ },
+ {
+  "src": "/screens/air-cargo-consolidation-planner/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Hawb list",
+  "mobile": false,
+  "v": "a3576179"
+ }
+]

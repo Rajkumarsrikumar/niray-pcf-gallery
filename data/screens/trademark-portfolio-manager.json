@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/trademark-portfolio-manager/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "d78a09a1"
+ },
+ {
+  "src": "/screens/trademark-portfolio-manager/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "M dashboard",
+  "mobile": true,
+  "v": "d9e3f421"
+ },
+ {
+  "src": "/screens/trademark-portfolio-manager/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "M detail",
+  "mobile": true,
+  "v": "3e5817e4"
+ },
+ {
+  "src": "/screens/trademark-portfolio-manager/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "M form validation",
+  "mobile": true,
+  "v": "a53967c2"
+ },
+ {
+  "src": "/screens/trademark-portfolio-manager/05.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "M portfolio cards",
+  "mobile": true,
+  "v": "9c003b51"
+ },
+ {
+  "src": "/screens/trademark-portfolio-manager/06.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Portfolio register",
+  "mobile": false,
+  "v": "e4e4cbca"
+ }
+]

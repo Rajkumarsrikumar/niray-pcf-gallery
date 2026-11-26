@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/renewable-certificate-registry/01.webp",
+  "w": 998,
+  "h": 840,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "0fc1fe9b"
+ },
+ {
+  "src": "/screens/renewable-certificate-registry/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "M claims",
+  "mobile": true,
+  "v": "67802a6b"
+ },
+ {
+  "src": "/screens/renewable-certificate-registry/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "M dashboard",
+  "mobile": true,
+  "v": "09b4264e"
+ },
+ {
+  "src": "/screens/renewable-certificate-registry/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "M detail",
+  "mobile": true,
+  "v": "e9efbcff"
+ },
+ {
+  "src": "/screens/renewable-certificate-registry/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "M inventory cards",
+  "mobile": true,
+  "v": "8039841f"
+ },
+ {
+  "src": "/screens/renewable-certificate-registry/06.webp",
+  "w": 998,
+  "h": 840,
+  "caption": "Dashboard sample data",
+  "mobile": false,
+  "v": "975bcdf4"
+ }
+]

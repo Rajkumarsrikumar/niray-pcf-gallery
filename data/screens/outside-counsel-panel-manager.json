@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/outside-counsel-panel-manager/01.webp",
+  "w": 1012,
+  "h": 896,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "ca2e524a"
+ },
+ {
+  "src": "/screens/outside-counsel-panel-manager/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Firms",
+  "mobile": true,
+  "v": "66443e85"
+ },
+ {
+  "src": "/screens/outside-counsel-panel-manager/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "f5d1a17f"
+ },
+ {
+  "src": "/screens/outside-counsel-panel-manager/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "abd21846"
+ },
+ {
+  "src": "/screens/outside-counsel-panel-manager/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Allocate",
+  "mobile": true,
+  "v": "ca013525"
+ },
+ {
+  "src": "/screens/outside-counsel-panel-manager/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Scorecards",
+  "mobile": true,
+  "v": "ed609a41"
+ }
+]

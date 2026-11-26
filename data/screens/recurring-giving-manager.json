@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/recurring-giving-manager/01.webp",
+  "w": 1334,
+  "h": 820,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "f8153d6f"
+ },
+ {
+  "src": "/screens/recurring-giving-manager/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "11c06012"
+ },
+ {
+  "src": "/screens/recurring-giving-manager/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Plans",
+  "mobile": true,
+  "v": "dbb0a121"
+ },
+ {
+  "src": "/screens/recurring-giving-manager/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "1d6c794f"
+ },
+ {
+  "src": "/screens/recurring-giving-manager/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Schedule",
+  "mobile": true,
+  "v": "b0e7285a"
+ },
+ {
+  "src": "/screens/recurring-giving-manager/06.webp",
+  "w": 1334,
+  "h": 820,
+  "caption": "Demo plans",
+  "mobile": false,
+  "v": "a999a2e8"
+ }
+]

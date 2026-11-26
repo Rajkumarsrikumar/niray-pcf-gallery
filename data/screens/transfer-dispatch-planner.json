@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/transfer-dispatch-planner/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "cfff5ca0"
+ },
+ {
+  "src": "/screens/transfer-dispatch-planner/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "3cc7bb09"
+ },
+ {
+  "src": "/screens/transfer-dispatch-planner/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Job cards",
+  "mobile": true,
+  "v": "ebe85c14"
+ },
+ {
+  "src": "/screens/transfer-dispatch-planner/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "e1340582"
+ },
+ {
+  "src": "/screens/transfer-dispatch-planner/05.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Dashboard sample data",
+  "mobile": false,
+  "v": "ffad0d3b"
+ },
+ {
+  "src": "/screens/transfer-dispatch-planner/06.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Jobs list",
+  "mobile": false,
+  "v": "536e5590"
+ }
+]

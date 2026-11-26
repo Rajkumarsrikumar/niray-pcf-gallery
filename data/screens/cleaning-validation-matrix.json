@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/cleaning-validation-matrix/01.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "0617d03f"
+ },
+ {
+  "src": "/screens/cleaning-validation-matrix/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "825aaa22"
+ },
+ {
+  "src": "/screens/cleaning-validation-matrix/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Home",
+  "mobile": true,
+  "v": "8571bf6c"
+ },
+ {
+  "src": "/screens/cleaning-validation-matrix/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Lifecycle",
+  "mobile": true,
+  "v": "b223fd82"
+ },
+ {
+  "src": "/screens/cleaning-validation-matrix/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Limits",
+  "mobile": true,
+  "v": "037605a2"
+ },
+ {
+  "src": "/screens/cleaning-validation-matrix/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Matrix",
+  "mobile": true,
+  "v": "d6e9742f"
+ }
+]

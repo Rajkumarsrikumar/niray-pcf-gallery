@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/lien-waiver-compliance-tracker/01.webp",
+  "w": 993,
+  "h": 820,
+  "caption": "Demo mode dashboard",
+  "mobile": false,
+  "v": "7ce3ba82"
+ },
+ {
+  "src": "/screens/lien-waiver-compliance-tracker/02.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "c5701ec8"
+ },
+ {
+  "src": "/screens/lien-waiver-compliance-tracker/03.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Waiver cards",
+  "mobile": true,
+  "v": "0c0fa6e5"
+ },
+ {
+  "src": "/screens/lien-waiver-compliance-tracker/04.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "66278fa4"
+ },
+ {
+  "src": "/screens/lien-waiver-compliance-tracker/05.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Holds",
+  "mobile": true,
+  "v": "ef6b0b8c"
+ },
+ {
+  "src": "/screens/lien-waiver-compliance-tracker/06.webp",
+  "w": 993,
+  "h": 820,
+  "caption": "Demo matrix",
+  "mobile": false,
+  "v": "d2611a16"
+ }
+]

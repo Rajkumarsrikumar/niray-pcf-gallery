@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/stockpile-blend-planner/01.webp",
+  "w": 1300,
+  "h": 860,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "1ad3c772"
+ },
+ {
+  "src": "/screens/stockpile-blend-planner/02.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "5fce7720"
+ },
+ {
+  "src": "/screens/stockpile-blend-planner/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Register",
+  "mobile": true,
+  "v": "b6302804"
+ },
+ {
+  "src": "/screens/stockpile-blend-planner/04.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Blend",
+  "mobile": true,
+  "v": "21fd8d62"
+ },
+ {
+  "src": "/screens/stockpile-blend-planner/05.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "81647b67"
+ },
+ {
+  "src": "/screens/stockpile-blend-planner/06.webp",
+  "w": 1300,
+  "h": 860,
+  "caption": "Stockpile register",
+  "mobile": false,
+  "v": "da9e0dd2"
+ }
+]

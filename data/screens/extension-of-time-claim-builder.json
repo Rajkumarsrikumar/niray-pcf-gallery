@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/extension-of-time-claim-builder/01.webp",
+  "w": 1238,
+  "h": 860,
+  "caption": "Demo mode dashboard",
+  "mobile": false,
+  "v": "fdef1190"
+ },
+ {
+  "src": "/screens/extension-of-time-claim-builder/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "52234b08"
+ },
+ {
+  "src": "/screens/extension-of-time-claim-builder/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Register cards",
+  "mobile": true,
+  "v": "b951b5e2"
+ },
+ {
+  "src": "/screens/extension-of-time-claim-builder/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "cf15d0b8"
+ },
+ {
+  "src": "/screens/extension-of-time-claim-builder/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Board",
+  "mobile": true,
+  "v": "2283f78b"
+ },
+ {
+  "src": "/screens/extension-of-time-claim-builder/06.webp",
+  "w": 1238,
+  "h": 860,
+  "caption": "Demo time bars",
+  "mobile": false,
+  "v": "533bf2d6"
+ }
+]

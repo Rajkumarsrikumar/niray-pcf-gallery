@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/payment-application-builder/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "296e5a00"
+ },
+ {
+  "src": "/screens/payment-application-builder/02.webp",
+  "w": 1100,
+  "h": 900,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "ed1e971f"
+ },
+ {
+  "src": "/screens/payment-application-builder/03.webp",
+  "w": 1100,
+  "h": 900,
+  "caption": "Apps",
+  "mobile": false,
+  "v": "5ae35a33"
+ },
+ {
+  "src": "/screens/payment-application-builder/04.webp",
+  "w": 1100,
+  "h": 900,
+  "caption": "Detail",
+  "mobile": false,
+  "v": "1205a429"
+ },
+ {
+  "src": "/screens/payment-application-builder/05.webp",
+  "w": 1100,
+  "h": 900,
+  "caption": "Sheet",
+  "mobile": false,
+  "v": "23b1ea75"
+ },
+ {
+  "src": "/screens/payment-application-builder/06.webp",
+  "w": 1100,
+  "h": 900,
+  "caption": "Contracts",
+  "mobile": false,
+  "v": "be536306"
+ }
+]

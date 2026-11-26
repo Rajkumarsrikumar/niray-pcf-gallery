@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/cleanroom-environmental-monitoring-log/01.webp",
+  "w": 1294,
+  "h": 900,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "e9122073"
+ },
+ {
+  "src": "/screens/cleanroom-environmental-monitoring-log/02.webp",
+  "w": 1294,
+  "h": 900,
+  "caption": "Locations heatmap",
+  "mobile": false,
+  "v": "0cefb694"
+ },
+ {
+  "src": "/screens/cleanroom-environmental-monitoring-log/03.webp",
+  "w": 1294,
+  "h": 900,
+  "caption": "Trends adverse",
+  "mobile": false,
+  "v": "b879fb9d"
+ },
+ {
+  "src": "/screens/cleanroom-environmental-monitoring-log/04.webp",
+  "w": 1294,
+  "h": 900,
+  "caption": "Detail action excursion",
+  "mobile": false,
+  "v": "66f20887"
+ },
+ {
+  "src": "/screens/cleanroom-environmental-monitoring-log/05.webp",
+  "w": 1294,
+  "h": 900,
+  "caption": "Close investigation validation",
+  "mobile": false,
+  "v": "d4752fd4"
+ },
+ {
+  "src": "/screens/cleanroom-environmental-monitoring-log/06.webp",
+  "w": 1294,
+  "h": 900,
+  "caption": "Enter result validation",
+  "mobile": false,
+  "v": "7c690bf8"
+ }
+]

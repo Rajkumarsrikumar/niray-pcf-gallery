@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/batch-record-review-release-console/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "61c5b048"
+ },
+ {
+  "src": "/screens/batch-record-review-release-console/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "f6eeded5"
+ },
+ {
+  "src": "/screens/batch-record-review-release-console/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Board ready",
+  "mobile": true,
+  "v": "6399a381"
+ },
+ {
+  "src": "/screens/batch-record-review-release-console/04.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Review board",
+  "mobile": false,
+  "v": "ed5496e3"
+ },
+ {
+  "src": "/screens/batch-record-review-release-console/05.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Board rule blocked",
+  "mobile": false,
+  "v": "8bc695e8"
+ },
+ {
+  "src": "/screens/batch-record-review-release-console/06.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Detail open checklist",
+  "mobile": false,
+  "v": "41461cec"
+ }
+]

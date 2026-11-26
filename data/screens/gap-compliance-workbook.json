@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/gap-compliance-workbook/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "2f595513"
+ },
+ {
+  "src": "/screens/gap-compliance-workbook/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "6c9c3de7"
+ },
+ {
+  "src": "/screens/gap-compliance-workbook/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Workbook cards",
+  "mobile": true,
+  "v": "5130e234"
+ },
+ {
+  "src": "/screens/gap-compliance-workbook/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "579861a4"
+ },
+ {
+  "src": "/screens/gap-compliance-workbook/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Actions lane tabs",
+  "mobile": true,
+  "v": "6f67763c"
+ },
+ {
+  "src": "/screens/gap-compliance-workbook/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Evidence",
+  "mobile": true,
+  "v": "6ebf2f2a"
+ }
+]

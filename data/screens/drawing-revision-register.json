@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/drawing-revision-register/01.webp",
+  "w": 1046,
+  "h": 820,
+  "caption": "Demo mode dashboard",
+  "mobile": false,
+  "v": "19ff9668"
+ },
+ {
+  "src": "/screens/drawing-revision-register/02.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "ae80c36f"
+ },
+ {
+  "src": "/screens/drawing-revision-register/03.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Register cards",
+  "mobile": true,
+  "v": "e93873bf"
+ },
+ {
+  "src": "/screens/drawing-revision-register/04.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "4c5219c9"
+ },
+ {
+  "src": "/screens/drawing-revision-register/05.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Issue history",
+  "mobile": true,
+  "v": "e35d5b51"
+ },
+ {
+  "src": "/screens/drawing-revision-register/06.webp",
+  "w": 1046,
+  "h": 820,
+  "caption": "Demo issue sheet",
+  "mobile": false,
+  "v": "b351810d"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/independence-confirmation-tracker/01.webp",
+  "w": 949,
+  "h": 860,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "1e57d63a"
+ },
+ {
+  "src": "/screens/independence-confirmation-tracker/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "695f453f"
+ },
+ {
+  "src": "/screens/independence-confirmation-tracker/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Cards",
+  "mobile": true,
+  "v": "d480ebcf"
+ },
+ {
+  "src": "/screens/independence-confirmation-tracker/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "31a6e02b"
+ },
+ {
+  "src": "/screens/independence-confirmation-tracker/05.webp",
+  "w": 949,
+  "h": 860,
+  "caption": "Confirmations list",
+  "mobile": false,
+  "v": "e2b6e560"
+ },
+ {
+  "src": "/screens/independence-confirmation-tracker/06.webp",
+  "w": 949,
+  "h": 860,
+  "caption": "Grouped by practice",
+  "mobile": false,
+  "v": "a875fc64"
+ }
+]

@@ -1,5 +1,7 @@
 import components from "@/data/components.json";
 import packs from "@/data/packs.json";
+import type { Screen } from "./shared";
+export * from "./shared";
 
 export type Component = (typeof components)[number];
 export type Pack = (typeof packs)[number];
@@ -15,33 +17,9 @@ export const getPack = (slug: string) => allPacks.find((p) => p.slug === slug);
 export const packComponents = (p: Pack) =>
   p.components.map((i) => allComponents.find((c) => c.slug === i.slug)).filter(Boolean) as Component[];
 export const packForComponent = (c: Component) => allPacks.find((p) => p.components.some((i) => i.slug === c.slug));
-export const isAvailable = (c: Component) => c.availability === "Available";
-export const industrySlug = (i: string) => i.toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]+/g, "-");
 
-export type Theme = { color: string; on: string; soft: string; icon: string; blurb: string };
-// Flat colours taken from the four logo tiles (plus one), one per industry.
-export const theme: Record<string, Theme> = {
-  "Cross-industry": { color: "#007B7F", on: "#FFFFFF", soft: "#E3F2F2", icon: "grid", blurb: "Grids, navigation, scheduling and maps for any business app." },
-  "Healthcare & Life Sciences": { color: "#3E9A3B", on: "#FFFFFF", soft: "#E8F5E7", icon: "heart", blurb: "Patient access, clinical documentation and care coordination." },
-  "Government & Public Sector": { color: "#003B5C", on: "#FFFFFF", soft: "#E3ECF1", icon: "landmark", blurb: "Citizen portals, permits, grants, benefits and case work." },
-  "Financial Services & Insurance": { color: "#5B7B8C", on: "#FFFFFF", soft: "#ECF1F4", icon: "bank", blurb: "Banking, lending, wealth, claims and policy servicing." },
-  Education: { color: "#8DC63F", on: "#003B5C", soft: "#F1F8E6", icon: "cap", blurb: "Admissions, student records, fees and timetables." },
-  Manufacturing: { color: "#C46A1B", on: "#FFFFFF", soft: "#FBF0E6", icon: "factory", blurb: "OEE, quality, shop-floor execution, traceability and maintenance." },
-  "Real Estate & Facilities": { color: "#6B4C9A", on: "#FFFFFF", soft: "#F0EBF6", icon: "box", blurb: "Property leasing, rent rolls, maintenance and facilities operations." },
-  "Media & Entertainment": { color: "#B23A48", on: "#FFFFFF", soft: "#F8E8EA", icon: "layers", blurb: "Production scheduling, rights, royalties and content operations." },
-};
-export const themeFor = (industry: string) => theme[industry] ?? theme["Cross-industry"];
-
-export const HEALTH_NOTICE = "UI/documentation aid – not a medical device; validate clinically before use.";
-export const CONTACT = "info@nirayitsolutions.com";
-
-/** Licence prices in Singapore dollars (set by Niray, Nov 2026). */
-export const PRICE = { component: 15, pack: 250 } as const;
-export const formatPrice = (sgd: number) => `S$${sgd}`;
-export const priceOf = (kind: "component" | "pack") => (kind === "pack" ? PRICE.pack : PRICE.component);
 
 import screens from "@/data/screens.json";
-export type Screen = { src: string; w: number; h: number; caption: string; mobile: boolean; v?: string };
 /** Screens for a component. `v` (a content hash from scripts/make-thumbs.py) is added to the URL so browsers fetch a replaced image instead of a cached one. */
 export const screensFor = (slug: string): Screen[] =>
   ((screens as Record<string, Screen[]>)[slug] ?? []).map((s) => (s.v ? { ...s, src: `${s.src}?v=${s.v}` } : s));
@@ -56,4 +34,13 @@ export const packPreviews = (p: Pack, n = Infinity): PackPreview[] => {
     return s && c ? [{ ...s, slug: c.slug, name: c.name }] : [];
   });
   return [...leads.filter((s) => !s.mobile), ...leads.filter((s) => s.mobile)].slice(0, n);
+};
+
+/** The few fields a product card needs, plus its lead screenshot, so client pages don't bundle the whole catalogue. */
+export type CardItem = Pick<Component, "slug" | "name" | "industry" | "tagline" | "availability" | "category" | "tags"> & { shot?: Screen };
+export const cardItem = (c: Component): CardItem => {
+  const shots = screensFor(c.slug);
+  // Prefer a desktop shot; components with only a phone shot show it centred instead of the placeholder art.
+  const shot = shots.find((s) => !s.mobile) ?? shots[0];
+  return { slug: c.slug, name: c.name, industry: c.industry, tagline: c.tagline, availability: c.availability, category: c.category, tags: c.tags, ...(shot ? { shot } : {}) };
 };

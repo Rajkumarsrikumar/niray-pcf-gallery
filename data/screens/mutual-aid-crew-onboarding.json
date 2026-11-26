@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/mutual-aid-crew-onboarding/01.webp",
+  "w": 1364,
+  "h": 840,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "6060dc9b"
+ },
+ {
+  "src": "/screens/mutual-aid-crew-onboarding/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "M board",
+  "mobile": true,
+  "v": "14e9c010"
+ },
+ {
+  "src": "/screens/mutual-aid-crew-onboarding/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "M crew portal not found",
+  "mobile": true,
+  "v": "438f6aad"
+ },
+ {
+  "src": "/screens/mutual-aid-crew-onboarding/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "M crews cards",
+  "mobile": true,
+  "v": "509bdcbb"
+ },
+ {
+  "src": "/screens/mutual-aid-crew-onboarding/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "M dashboard",
+  "mobile": true,
+  "v": "ea255cc8"
+ },
+ {
+  "src": "/screens/mutual-aid-crew-onboarding/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "M detail",
+  "mobile": true,
+  "v": "75d756c3"
+ }
+]

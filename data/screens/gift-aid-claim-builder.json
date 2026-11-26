@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/gift-aid-claim-builder/01.webp",
+  "w": 1334,
+  "h": 820,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "6b980db4"
+ },
+ {
+  "src": "/screens/gift-aid-claim-builder/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "e7059c4f"
+ },
+ {
+  "src": "/screens/gift-aid-claim-builder/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Gifts",
+  "mobile": true,
+  "v": "1379cade"
+ },
+ {
+  "src": "/screens/gift-aid-claim-builder/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "7d657865"
+ },
+ {
+  "src": "/screens/gift-aid-claim-builder/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Batch",
+  "mobile": true,
+  "v": "ef8efd1e"
+ },
+ {
+  "src": "/screens/gift-aid-claim-builder/06.webp",
+  "w": 1334,
+  "h": 820,
+  "caption": "Demo gifts",
+  "mobile": false,
+  "v": "6632c170"
+ }
+]

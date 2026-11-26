@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/localization-dubbing-tracker/01.webp",
+  "w": 1366,
+  "h": 820,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "a24aad4c"
+ },
+ {
+  "src": "/screens/localization-dubbing-tracker/02.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "0a144477"
+ },
+ {
+  "src": "/screens/localization-dubbing-tracker/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Tasks",
+  "mobile": true,
+  "v": "ea6de418"
+ },
+ {
+  "src": "/screens/localization-dubbing-tracker/04.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Vendors",
+  "mobile": true,
+  "v": "4600611f"
+ },
+ {
+  "src": "/screens/localization-dubbing-tracker/05.webp",
+  "w": 1366,
+  "h": 820,
+  "caption": "Demo matrix",
+  "mobile": false,
+  "v": "1630e407"
+ },
+ {
+  "src": "/screens/localization-dubbing-tracker/06.webp",
+  "w": 1366,
+  "h": 820,
+  "caption": "Dashboard sample data",
+  "mobile": false,
+  "v": "d30252be"
+ }
+]

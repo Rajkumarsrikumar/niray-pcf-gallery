@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/trial-master-file-completeness-tracker/01.webp",
+  "w": 1325,
+  "h": 900,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "299b5282"
+ },
+ {
+  "src": "/screens/trial-master-file-completeness-tracker/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Board",
+  "mobile": true,
+  "v": "ef02b7b7"
+ },
+ {
+  "src": "/screens/trial-master-file-completeness-tracker/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "01c36c58"
+ },
+ {
+  "src": "/screens/trial-master-file-completeness-tracker/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Home",
+  "mobile": true,
+  "v": "78faf4a6"
+ },
+ {
+  "src": "/screens/trial-master-file-completeness-tracker/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Milestones",
+  "mobile": true,
+  "v": "8a3dae6f"
+ },
+ {
+  "src": "/screens/trial-master-file-completeness-tracker/06.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Readiness",
+  "mobile": true,
+  "v": "b5339f89"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/animal-treatment-withdrawal-log/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "28120628"
+ },
+ {
+  "src": "/screens/animal-treatment-withdrawal-log/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "9696b6d5"
+ },
+ {
+  "src": "/screens/animal-treatment-withdrawal-log/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Treatment cards",
+  "mobile": true,
+  "v": "e17bed46"
+ },
+ {
+  "src": "/screens/animal-treatment-withdrawal-log/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "f003bdaf"
+ },
+ {
+  "src": "/screens/animal-treatment-withdrawal-log/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Withdrawal board",
+  "mobile": true,
+  "v": "90ecd00a"
+ },
+ {
+  "src": "/screens/animal-treatment-withdrawal-log/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Calendar agenda",
+  "mobile": true,
+  "v": "987a9e53"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/water-main-break-response-log/01.webp",
+  "w": 1334,
+  "h": 1000,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "275d18ff"
+ },
+ {
+  "src": "/screens/water-main-break-response-log/02.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "cd104880"
+ },
+ {
+  "src": "/screens/water-main-break-response-log/03.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "09c0f125"
+ },
+ {
+  "src": "/screens/water-main-break-response-log/04.webp",
+  "w": 1334,
+  "h": 1000,
+  "caption": "Filters drawer",
+  "mobile": false,
+  "v": "c92971c3"
+ },
+ {
+  "src": "/screens/water-main-break-response-log/05.webp",
+  "w": 1334,
+  "h": 1000,
+  "caption": "Detail p1 isolated",
+  "mobile": false,
+  "v": "c70c604a"
+ },
+ {
+  "src": "/screens/water-main-break-response-log/06.webp",
+  "w": 1334,
+  "h": 1000,
+  "caption": "Boil notice validation",
+  "mobile": false,
+  "v": "590a5635"
+ }
+]

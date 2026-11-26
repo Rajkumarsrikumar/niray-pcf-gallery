@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/core-logging-workbench/01.webp",
+  "w": 1038,
+  "h": 860,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "516a05ff"
+ },
+ {
+  "src": "/screens/core-logging-workbench/02.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "7dc3e43b"
+ },
+ {
+  "src": "/screens/core-logging-workbench/03.webp",
+  "w": 1038,
+  "h": 860,
+  "caption": "Core shed board",
+  "mobile": false,
+  "v": "e5fc7824"
+ },
+ {
+  "src": "/screens/core-logging-workbench/04.webp",
+  "w": 1038,
+  "h": 860,
+  "caption": "Detail photos blocked",
+  "mobile": false,
+  "v": "8c3f41c7"
+ },
+ {
+  "src": "/screens/core-logging-workbench/05.webp",
+  "w": 1038,
+  "h": 860,
+  "caption": "Status photographed undo",
+  "mobile": false,
+  "v": "289b5104"
+ },
+ {
+  "src": "/screens/core-logging-workbench/06.webp",
+  "w": 1038,
+  "h": 860,
+  "caption": "Workbench",
+  "mobile": false,
+  "v": "ab5fd075"
+ }
+]

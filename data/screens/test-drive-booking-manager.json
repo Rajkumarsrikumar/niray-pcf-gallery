@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/test-drive-booking-manager/01.webp",
+  "w": 1031,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "8b2f35a2"
+ },
+ {
+  "src": "/screens/test-drive-booking-manager/02.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "3dc87f99"
+ },
+ {
+  "src": "/screens/test-drive-booking-manager/03.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Schedule",
+  "mobile": true,
+  "v": "15c51a3c"
+ },
+ {
+  "src": "/screens/test-drive-booking-manager/04.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Menu",
+  "mobile": true,
+  "v": "edf39d92"
+ },
+ {
+  "src": "/screens/test-drive-booking-manager/05.webp",
+  "w": 1031,
+  "h": 900,
+  "caption": "Demo schedule",
+  "mobile": false,
+  "v": "f7145bd6"
+ },
+ {
+  "src": "/screens/test-drive-booking-manager/06.webp",
+  "w": 1031,
+  "h": 900,
+  "caption": "Demo board",
+  "mobile": false,
+  "v": "a8e1b561"
+ }
+]

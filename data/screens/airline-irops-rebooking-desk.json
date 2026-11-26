@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/airline-irops-rebooking-desk/01.webp",
+  "w": 1345,
+  "h": 820,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "7910701d"
+ },
+ {
+  "src": "/screens/airline-irops-rebooking-desk/02.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "219ada57"
+ },
+ {
+  "src": "/screens/airline-irops-rebooking-desk/03.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Passenger cards",
+  "mobile": true,
+  "v": "7b1b5820"
+ },
+ {
+  "src": "/screens/airline-irops-rebooking-desk/04.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "dd7b6917"
+ },
+ {
+  "src": "/screens/airline-irops-rebooking-desk/05.webp",
+  "w": 1345,
+  "h": 820,
+  "caption": "Passengers grid",
+  "mobile": false,
+  "v": "cb15f444"
+ },
+ {
+  "src": "/screens/airline-irops-rebooking-desk/06.webp",
+  "w": 1345,
+  "h": 820,
+  "caption": "Filter drawer p1 p2 unprotected",
+  "mobile": false,
+  "v": "1e3b16aa"
+ }
+]

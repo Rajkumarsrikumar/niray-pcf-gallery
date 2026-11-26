@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/concrete-pour-planner/01.webp",
+  "w": 1050,
+  "h": 800,
+  "caption": "Demo mode dashboard",
+  "mobile": false,
+  "v": "42f82a32"
+ },
+ {
+  "src": "/screens/concrete-pour-planner/02.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "ddd98e47"
+ },
+ {
+  "src": "/screens/concrete-pour-planner/03.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Schedule cards",
+  "mobile": true,
+  "v": "7c43477a"
+ },
+ {
+  "src": "/screens/concrete-pour-planner/04.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "40d81509"
+ },
+ {
+  "src": "/screens/concrete-pour-planner/05.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Calendar agenda",
+  "mobile": true,
+  "v": "9bb84bc2"
+ },
+ {
+  "src": "/screens/concrete-pour-planner/06.webp",
+  "w": 1050,
+  "h": 800,
+  "caption": "Demo calendar",
+  "mobile": false,
+  "v": "fb1bc337"
+ }
+]

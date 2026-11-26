@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/business-move-relocation-orders/01.webp",
+  "w": 1366,
+  "h": 800,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "f42ae25b"
+ },
+ {
+  "src": "/screens/business-move-relocation-orders/02.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "1b89dbd6"
+ },
+ {
+  "src": "/screens/business-move-relocation-orders/03.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Orders",
+  "mobile": true,
+  "v": "388cbd2c"
+ },
+ {
+  "src": "/screens/business-move-relocation-orders/04.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "89790ab1"
+ },
+ {
+  "src": "/screens/business-move-relocation-orders/05.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Timeline",
+  "mobile": true,
+  "v": "733c78e4"
+ },
+ {
+  "src": "/screens/business-move-relocation-orders/06.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Board",
+  "mobile": true,
+  "v": "af7d11bf"
+ }
+]

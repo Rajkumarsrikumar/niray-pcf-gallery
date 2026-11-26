@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/guest-request-service-desk/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo desk",
+  "mobile": false,
+  "v": "944ee266"
+ },
+ {
+  "src": "/screens/guest-request-service-desk/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Desk",
+  "mobile": true,
+  "v": "85223eba"
+ },
+ {
+  "src": "/screens/guest-request-service-desk/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Requests",
+  "mobile": true,
+  "v": "680a01aa"
+ },
+ {
+  "src": "/screens/guest-request-service-desk/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dispatch",
+  "mobile": true,
+  "v": "e5d2b909"
+ },
+ {
+  "src": "/screens/guest-request-service-desk/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "cfa26cee"
+ },
+ {
+  "src": "/screens/guest-request-service-desk/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo requests",
+  "mobile": false,
+  "v": "935508bc"
+ }
+]

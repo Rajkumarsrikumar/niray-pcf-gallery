@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/driver-qualification-file-manager/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "897b3e16"
+ },
+ {
+  "src": "/screens/driver-qualification-file-manager/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "91ec80ad"
+ },
+ {
+  "src": "/screens/driver-qualification-file-manager/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Expiries",
+  "mobile": true,
+  "v": "d31b2295"
+ },
+ {
+  "src": "/screens/driver-qualification-file-manager/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Editor",
+  "mobile": true,
+  "v": "1f92e795"
+ },
+ {
+  "src": "/screens/driver-qualification-file-manager/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Expiries 60 days",
+  "mobile": false,
+  "v": "3d8321f3"
+ },
+ {
+  "src": "/screens/driver-qualification-file-manager/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Expiries days",
+  "mobile": false,
+  "v": "7cda20d4"
+ }
+]

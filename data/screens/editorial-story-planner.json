@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/editorial-story-planner/01.webp",
+  "w": 1366,
+  "h": 820,
+  "caption": "Demo mode budget",
+  "mobile": false,
+  "v": "b2999216"
+ },
+ {
+  "src": "/screens/editorial-story-planner/02.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "Budget",
+  "mobile": true,
+  "v": "ae3af364"
+ },
+ {
+  "src": "/screens/editorial-story-planner/03.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "Lanes",
+  "mobile": true,
+  "v": "cb3ae4d9"
+ },
+ {
+  "src": "/screens/editorial-story-planner/04.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "B lane picker ready",
+  "mobile": true,
+  "v": "28ff11df"
+ },
+ {
+  "src": "/screens/editorial-story-planner/05.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "04703477"
+ },
+ {
+  "src": "/screens/editorial-story-planner/06.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "Create form",
+  "mobile": true,
+  "v": "c9cb3893"
+ }
+]

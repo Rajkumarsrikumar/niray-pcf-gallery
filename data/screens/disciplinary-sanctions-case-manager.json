@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/disciplinary-sanctions-case-manager/01.webp",
+  "w": 1340,
+  "h": 1120,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "4c45f458"
+ },
+ {
+  "src": "/screens/disciplinary-sanctions-case-manager/02.webp",
+  "w": 375,
+  "h": 820,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "5339a7e8"
+ },
+ {
+  "src": "/screens/disciplinary-sanctions-case-manager/03.webp",
+  "w": 375,
+  "h": 820,
+  "caption": "Cases",
+  "mobile": true,
+  "v": "2ef8cc96"
+ },
+ {
+  "src": "/screens/disciplinary-sanctions-case-manager/04.webp",
+  "w": 375,
+  "h": 820,
+  "caption": "Detail sheet",
+  "mobile": true,
+  "v": "3310ff3e"
+ },
+ {
+  "src": "/screens/disciplinary-sanctions-case-manager/05.webp",
+  "w": 1340,
+  "h": 1120,
+  "caption": "Dashboard division one",
+  "mobile": false,
+  "v": "f2e358ea"
+ },
+ {
+  "src": "/screens/disciplinary-sanctions-case-manager/06.webp",
+  "w": 1340,
+  "h": 960,
+  "caption": "Cases list",
+  "mobile": false,
+  "v": "be78310d"
+ }
+]

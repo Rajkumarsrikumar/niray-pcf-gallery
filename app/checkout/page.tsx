@@ -2,7 +2,7 @@
 import Link from "next/link";
 import { useState } from "react";
 import { useCart } from "@/lib/cart";
-import { CONTACT, formatPrice, priceOf } from "@/lib/catalog";
+import { CONTACT, formatPrice, priceOf } from "@/lib/shared";
 
 export default function Checkout() {
   const { items, remove } = useCart();

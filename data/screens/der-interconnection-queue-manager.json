@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/der-interconnection-queue-manager/01.webp",
+  "w": 1305,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "adc39c55"
+ },
+ {
+  "src": "/screens/der-interconnection-queue-manager/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "db5061f3"
+ },
+ {
+  "src": "/screens/der-interconnection-queue-manager/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Queue",
+  "mobile": true,
+  "v": "000b0a36"
+ },
+ {
+  "src": "/screens/der-interconnection-queue-manager/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Pipeline",
+  "mobile": true,
+  "v": "7c578d05"
+ },
+ {
+  "src": "/screens/der-interconnection-queue-manager/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Editor",
+  "mobile": true,
+  "v": "fd0da262"
+ },
+ {
+  "src": "/screens/der-interconnection-queue-manager/06.webp",
+  "w": 1305,
+  "h": 900,
+  "caption": "Queue active",
+  "mobile": false,
+  "v": "909999ca"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/athlete-wellness-readiness-monitor/01.webp",
+  "w": 1349,
+  "h": 900,
+  "caption": "Today demo",
+  "mobile": false,
+  "v": "c554f67a"
+ },
+ {
+  "src": "/screens/athlete-wellness-readiness-monitor/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Athlete",
+  "mobile": true,
+  "v": "0d484836"
+ },
+ {
+  "src": "/screens/athlete-wellness-readiness-monitor/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Board",
+  "mobile": true,
+  "v": "c8f782e9"
+ },
+ {
+  "src": "/screens/athlete-wellness-readiness-monitor/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "d4453d24"
+ },
+ {
+  "src": "/screens/athlete-wellness-readiness-monitor/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Form",
+  "mobile": true,
+  "v": "f8a5ae01"
+ },
+ {
+  "src": "/screens/athlete-wellness-readiness-monitor/06.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Heatmap",
+  "mobile": true,
+  "v": "17f3da06"
+ }
+]

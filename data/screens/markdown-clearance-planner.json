@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/markdown-clearance-planner/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "f5b398c5"
+ },
+ {
+  "src": "/screens/markdown-clearance-planner/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "87226fd9"
+ },
+ {
+  "src": "/screens/markdown-clearance-planner/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Items",
+  "mobile": true,
+  "v": "59d169ba"
+ },
+ {
+  "src": "/screens/markdown-clearance-planner/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Matrix",
+  "mobile": true,
+  "v": "a7e5c557"
+ },
+ {
+  "src": "/screens/markdown-clearance-planner/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "80623479"
+ },
+ {
+  "src": "/screens/markdown-clearance-planner/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo items",
+  "mobile": false,
+  "v": "39676450"
+ }
+]

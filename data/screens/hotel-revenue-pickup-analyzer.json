@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/hotel-revenue-pickup-analyzer/01.webp",
+  "w": 1364,
+  "h": 820,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "9a35cba0"
+ },
+ {
+  "src": "/screens/hotel-revenue-pickup-analyzer/02.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "00b062f9"
+ },
+ {
+  "src": "/screens/hotel-revenue-pickup-analyzer/03.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Pickup cards",
+  "mobile": true,
+  "v": "29fc3f80"
+ },
+ {
+  "src": "/screens/hotel-revenue-pickup-analyzer/04.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "772362f6"
+ },
+ {
+  "src": "/screens/hotel-revenue-pickup-analyzer/05.webp",
+  "w": 1364,
+  "h": 820,
+  "caption": "Calendar day panel",
+  "mobile": false,
+  "v": "e7bef748"
+ },
+ {
+  "src": "/screens/hotel-revenue-pickup-analyzer/06.webp",
+  "w": 1364,
+  "h": 820,
+  "caption": "Calendar forecast heat",
+  "mobile": false,
+  "v": "1ad9ff51"
+ }
+]

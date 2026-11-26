@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/tailings-facility-monitor/01.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "f40891a8"
+ },
+ {
+  "src": "/screens/tailings-facility-monitor/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Home",
+  "mobile": true,
+  "v": "a2d4eb16"
+ },
+ {
+  "src": "/screens/tailings-facility-monitor/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Instr",
+  "mobile": true,
+  "v": "aab7adb1"
+ },
+ {
+  "src": "/screens/tailings-facility-monitor/04.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Demo instruments",
+  "mobile": false,
+  "v": "23c1f5a6"
+ },
+ {
+  "src": "/screens/tailings-facility-monitor/05.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Demo tarp board",
+  "mobile": false,
+  "v": "1fe37366"
+ },
+ {
+  "src": "/screens/tailings-facility-monitor/06.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Demo inspections",
+  "mobile": false,
+  "v": "3a02fbef"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/tariff-rate-comparer/01.webp",
+  "w": 1338,
+  "h": 820,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "2a8ef161"
+ },
+ {
+  "src": "/screens/tariff-rate-comparer/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "37b6133b"
+ },
+ {
+  "src": "/screens/tariff-rate-comparer/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Cases",
+  "mobile": true,
+  "v": "ec3f021d"
+ },
+ {
+  "src": "/screens/tariff-rate-comparer/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Compare",
+  "mobile": true,
+  "v": "940a9cd1"
+ },
+ {
+  "src": "/screens/tariff-rate-comparer/05.webp",
+  "w": 1338,
+  "h": 820,
+  "caption": "Dashboard sample data",
+  "mobile": false,
+  "v": "a8aa3de6"
+ },
+ {
+  "src": "/screens/tariff-rate-comparer/06.webp",
+  "w": 1338,
+  "h": 820,
+  "caption": "Cases grid",
+  "mobile": false,
+  "v": "88a87b2d"
+ }
+]

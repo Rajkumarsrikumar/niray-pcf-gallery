@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/tenant-improvement-allowance-tracker/01.webp",
+  "w": 1366,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "1c4349b9"
+ },
+ {
+  "src": "/screens/tenant-improvement-allowance-tracker/02.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Overview bottom bar",
+  "mobile": true,
+  "v": "cae9638c"
+ },
+ {
+  "src": "/screens/tenant-improvement-allowance-tracker/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Draw cards",
+  "mobile": true,
+  "v": "879651bb"
+ },
+ {
+  "src": "/screens/tenant-improvement-allowance-tracker/04.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Draw detail",
+  "mobile": true,
+  "v": "6f33a2ff"
+ },
+ {
+  "src": "/screens/tenant-improvement-allowance-tracker/05.webp",
+  "w": 1366,
+  "h": 900,
+  "caption": "Csv mapped overview",
+  "mobile": false,
+  "v": "dc45ce06"
+ },
+ {
+  "src": "/screens/tenant-improvement-allowance-tracker/06.webp",
+  "w": 1366,
+  "h": 900,
+  "caption": "Allowances",
+  "mobile": false,
+  "v": "5a1eb5f0"
+ }
+]

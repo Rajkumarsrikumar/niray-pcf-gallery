@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/cold-chain-excursion-log/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "5dbdf6c0"
+ },
+ {
+  "src": "/screens/cold-chain-excursion-log/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "3c0efefb"
+ },
+ {
+  "src": "/screens/cold-chain-excursion-log/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Editor",
+  "mobile": true,
+  "v": "fe1d5462"
+ },
+ {
+  "src": "/screens/cold-chain-excursion-log/04.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Qa board",
+  "mobile": false,
+  "v": "937f247a"
+ },
+ {
+  "src": "/screens/cold-chain-excursion-log/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Timeline units",
+  "mobile": false,
+  "v": "41f54bef"
+ },
+ {
+  "src": "/screens/cold-chain-excursion-log/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Timeline lanes 30d",
+  "mobile": false,
+  "v": "962f155b"
+ }
+]

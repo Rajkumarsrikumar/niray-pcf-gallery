@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/client-feedback-nps-loop/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "cc040866"
+ },
+ {
+  "src": "/screens/client-feedback-nps-loop/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "6a553d4e"
+ },
+ {
+  "src": "/screens/client-feedback-nps-loop/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Response cards",
+  "mobile": true,
+  "v": "2764f9ad"
+ },
+ {
+  "src": "/screens/client-feedback-nps-loop/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "ecb9905a"
+ },
+ {
+  "src": "/screens/client-feedback-nps-loop/05.webp",
+  "w": 1000,
+  "h": 900,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "f8cef53b"
+ },
+ {
+  "src": "/screens/client-feedback-nps-loop/06.webp",
+  "w": 1000,
+  "h": 900,
+  "caption": "Responses open loop",
+  "mobile": false,
+  "v": "5a26118e"
+ }
+]

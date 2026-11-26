@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/annual-product-quality-review-builder/01.webp",
+  "w": 1329,
+  "h": 900,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "b1fa787f"
+ },
+ {
+  "src": "/screens/annual-product-quality-review-builder/02.webp",
+  "w": 304,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "3833e6a4"
+ },
+ {
+  "src": "/screens/annual-product-quality-review-builder/03.webp",
+  "w": 304,
+  "h": 740,
+  "caption": "Home",
+  "mobile": true,
+  "v": "54d6cd14"
+ },
+ {
+  "src": "/screens/annual-product-quality-review-builder/04.webp",
+  "w": 304,
+  "h": 740,
+  "caption": "Reviews",
+  "mobile": true,
+  "v": "386101d0"
+ },
+ {
+  "src": "/screens/annual-product-quality-review-builder/05.webp",
+  "w": 304,
+  "h": 740,
+  "caption": "Schedule",
+  "mobile": true,
+  "v": "ea15747e"
+ },
+ {
+  "src": "/screens/annual-product-quality-review-builder/06.webp",
+  "w": 304,
+  "h": 740,
+  "caption": "Sections",
+  "mobile": true,
+  "v": "ff572dc9"
+ }
+]

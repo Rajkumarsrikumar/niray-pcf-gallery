@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/league-results-standings-manager/01.webp",
+  "w": 1340,
+  "h": 1120,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "5da8b01f"
+ },
+ {
+  "src": "/screens/league-results-standings-manager/02.webp",
+  "w": 375,
+  "h": 820,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "5cda6f2d"
+ },
+ {
+  "src": "/screens/league-results-standings-manager/03.webp",
+  "w": 375,
+  "h": 820,
+  "caption": "Entry",
+  "mobile": true,
+  "v": "69a1becc"
+ },
+ {
+  "src": "/screens/league-results-standings-manager/04.webp",
+  "w": 375,
+  "h": 820,
+  "caption": "Detail sheet",
+  "mobile": true,
+  "v": "10acd583"
+ },
+ {
+  "src": "/screens/league-results-standings-manager/05.webp",
+  "w": 1340,
+  "h": 1120,
+  "caption": "Dashboard division one",
+  "mobile": false,
+  "v": "f18830de"
+ },
+ {
+  "src": "/screens/league-results-standings-manager/06.webp",
+  "w": 1340,
+  "h": 900,
+  "caption": "Round entry",
+  "mobile": false,
+  "v": "4e7d0db9"
+ }
+]

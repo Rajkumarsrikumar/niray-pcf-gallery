@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/mineral-tenement-manager/01.webp",
+  "w": 1033,
+  "h": 860,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "07447aae"
+ },
+ {
+  "src": "/screens/mineral-tenement-manager/02.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "6e97a681"
+ },
+ {
+  "src": "/screens/mineral-tenement-manager/03.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Calendar agenda",
+  "mobile": true,
+  "v": "59d9af47"
+ },
+ {
+  "src": "/screens/mineral-tenement-manager/04.webp",
+  "w": 1033,
+  "h": 860,
+  "caption": "Calendar",
+  "mobile": false,
+  "v": "ff9537d5"
+ },
+ {
+  "src": "/screens/mineral-tenement-manager/05.webp",
+  "w": 1033,
+  "h": 860,
+  "caption": "Calendar december day",
+  "mobile": false,
+  "v": "fb99d10f"
+ },
+ {
+  "src": "/screens/mineral-tenement-manager/06.webp",
+  "w": 1033,
+  "h": 860,
+  "caption": "Rent paid undo",
+  "mobile": false,
+  "v": "9082e369"
+ }
+]

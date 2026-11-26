@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/manuscript-acquisition-pipeline/01.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "18d1b495"
+ },
+ {
+  "src": "/screens/manuscript-acquisition-pipeline/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "60d28075"
+ },
+ {
+  "src": "/screens/manuscript-acquisition-pipeline/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Board",
+  "mobile": true,
+  "v": "ff81f9a4"
+ },
+ {
+  "src": "/screens/manuscript-acquisition-pipeline/04.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Csv dashboard",
+  "mobile": false,
+  "v": "cbcfd283"
+ },
+ {
+  "src": "/screens/manuscript-acquisition-pipeline/05.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Pipeline board",
+  "mobile": false,
+  "v": "bd442cc2"
+ },
+ {
+  "src": "/screens/manuscript-acquisition-pipeline/06.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Board drag blocked",
+  "mobile": false,
+  "v": "4176fb1e"
+ }
+]

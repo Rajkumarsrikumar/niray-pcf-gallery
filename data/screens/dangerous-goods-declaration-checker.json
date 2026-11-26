@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/dangerous-goods-declaration-checker/01.webp",
+  "w": 1281,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "ee418e7f"
+ },
+ {
+  "src": "/screens/dangerous-goods-declaration-checker/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "42df3ba7"
+ },
+ {
+  "src": "/screens/dangerous-goods-declaration-checker/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Lines",
+  "mobile": true,
+  "v": "85db3b2b"
+ },
+ {
+  "src": "/screens/dangerous-goods-declaration-checker/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Shipments",
+  "mobile": true,
+  "v": "e80512ed"
+ },
+ {
+  "src": "/screens/dangerous-goods-declaration-checker/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Editor",
+  "mobile": true,
+  "v": "7fb7abff"
+ },
+ {
+  "src": "/screens/dangerous-goods-declaration-checker/06.webp",
+  "w": 1281,
+  "h": 900,
+  "caption": "Dg lines",
+  "mobile": false,
+  "v": "7ef4e744"
+ }
+]

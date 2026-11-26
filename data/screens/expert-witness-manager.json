@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/expert-witness-manager/01.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "4cd488de"
+ },
+ {
+  "src": "/screens/expert-witness-manager/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "4c0003ad"
+ },
+ {
+  "src": "/screens/expert-witness-manager/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Sourcing desk",
+  "mobile": true,
+  "v": "f63f990a"
+ },
+ {
+  "src": "/screens/expert-witness-manager/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Board status chips",
+  "mobile": true,
+  "v": "8a6fa437"
+ },
+ {
+  "src": "/screens/expert-witness-manager/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Expert cards",
+  "mobile": true,
+  "v": "bbf196f9"
+ },
+ {
+  "src": "/screens/expert-witness-manager/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "f38b99bc"
+ }
+]

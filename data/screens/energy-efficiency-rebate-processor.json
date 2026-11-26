@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/energy-efficiency-rebate-processor/01.webp",
+  "w": 1298,
+  "h": 860,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "29d1f143"
+ },
+ {
+  "src": "/screens/energy-efficiency-rebate-processor/02.webp",
+  "w": 341,
+  "h": 700,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "3000efbe"
+ },
+ {
+  "src": "/screens/energy-efficiency-rebate-processor/03.webp",
+  "w": 341,
+  "h": 700,
+  "caption": "Queue",
+  "mobile": true,
+  "v": "2becc10c"
+ },
+ {
+  "src": "/screens/energy-efficiency-rebate-processor/04.webp",
+  "w": 341,
+  "h": 700,
+  "caption": "Review",
+  "mobile": true,
+  "v": "e529c936"
+ },
+ {
+  "src": "/screens/energy-efficiency-rebate-processor/05.webp",
+  "w": 1298,
+  "h": 860,
+  "caption": "Dashboard sample data",
+  "mobile": false,
+  "v": "865da726"
+ },
+ {
+  "src": "/screens/energy-efficiency-rebate-processor/06.webp",
+  "w": 1298,
+  "h": 860,
+  "caption": "Queue grid",
+  "mobile": false,
+  "v": "9c9a3842"
+ }
+]

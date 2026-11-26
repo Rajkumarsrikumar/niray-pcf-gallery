@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/vehicle-delivery-handover-planner/01.webp",
+  "w": 967,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "12bfc381"
+ },
+ {
+  "src": "/screens/vehicle-delivery-handover-planner/02.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "fd01c2cc"
+ },
+ {
+  "src": "/screens/vehicle-delivery-handover-planner/03.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Schedule",
+  "mobile": true,
+  "v": "19ec39a0"
+ },
+ {
+  "src": "/screens/vehicle-delivery-handover-planner/04.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Menu",
+  "mobile": true,
+  "v": "46ce44bd"
+ },
+ {
+  "src": "/screens/vehicle-delivery-handover-planner/05.webp",
+  "w": 967,
+  "h": 900,
+  "caption": "Demo schedule",
+  "mobile": false,
+  "v": "05392580"
+ },
+ {
+  "src": "/screens/vehicle-delivery-handover-planner/06.webp",
+  "w": 967,
+  "h": 900,
+  "caption": "Demo board",
+  "mobile": false,
+  "v": "ab1c1c5f"
+ }
+]

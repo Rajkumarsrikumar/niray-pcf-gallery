@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/client-deliverable-acceptance-tracker/01.webp",
+  "w": 1338,
+  "h": 860,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "8650da5a"
+ },
+ {
+  "src": "/screens/client-deliverable-acceptance-tracker/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Register",
+  "mobile": true,
+  "v": "435dea76"
+ },
+ {
+  "src": "/screens/client-deliverable-acceptance-tracker/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "A dashboard",
+  "mobile": true,
+  "v": "a1475511"
+ },
+ {
+  "src": "/screens/client-deliverable-acceptance-tracker/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Board",
+  "mobile": true,
+  "v": "01053c15"
+ },
+ {
+  "src": "/screens/client-deliverable-acceptance-tracker/05.webp",
+  "w": 1338,
+  "h": 860,
+  "caption": "Dashboard sample data",
+  "mobile": false,
+  "v": "12662e2f"
+ },
+ {
+  "src": "/screens/client-deliverable-acceptance-tracker/06.webp",
+  "w": 1338,
+  "h": 860,
+  "caption": "Register",
+  "mobile": false,
+  "v": "c1f276c8"
+ }
+]

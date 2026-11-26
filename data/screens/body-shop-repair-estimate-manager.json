@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/body-shop-repair-estimate-manager/01.webp",
+  "w": 956,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "facabdff"
+ },
+ {
+  "src": "/screens/body-shop-repair-estimate-manager/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "5a2fcbbe"
+ },
+ {
+  "src": "/screens/body-shop-repair-estimate-manager/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Stages",
+  "mobile": true,
+  "v": "e69e9869"
+ },
+ {
+  "src": "/screens/body-shop-repair-estimate-manager/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Jobs",
+  "mobile": true,
+  "v": "ea446453"
+ },
+ {
+  "src": "/screens/body-shop-repair-estimate-manager/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "4989ab93"
+ },
+ {
+  "src": "/screens/body-shop-repair-estimate-manager/06.webp",
+  "w": 956,
+  "h": 900,
+  "caption": "Demo stage board",
+  "mobile": false,
+  "v": "06450f1c"
+ }
+]

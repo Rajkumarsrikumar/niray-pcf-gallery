@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/legal-hold-notice-manager/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "d1c3f265"
+ },
+ {
+  "src": "/screens/legal-hold-notice-manager/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "e83ba8fc"
+ },
+ {
+  "src": "/screens/legal-hold-notice-manager/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Custodians",
+  "mobile": true,
+  "v": "67e9b987"
+ },
+ {
+  "src": "/screens/legal-hold-notice-manager/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "e108c4d7"
+ },
+ {
+  "src": "/screens/legal-hold-notice-manager/05.webp",
+  "w": 980,
+  "h": 860,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "5231a874"
+ },
+ {
+  "src": "/screens/legal-hold-notice-manager/06.webp",
+  "w": 980,
+  "h": 860,
+  "caption": "Holds",
+  "mobile": false,
+  "v": "8cec2988"
+ }
+]

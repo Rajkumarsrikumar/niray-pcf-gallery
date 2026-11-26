@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/room-out-of-order-manager/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "1c1e7e60"
+ },
+ {
+  "src": "/screens/room-out-of-order-manager/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "ff0580e6"
+ },
+ {
+  "src": "/screens/room-out-of-order-manager/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Block cards",
+  "mobile": true,
+  "v": "36f81a34"
+ },
+ {
+  "src": "/screens/room-out-of-order-manager/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "8f3fb76e"
+ },
+ {
+  "src": "/screens/room-out-of-order-manager/05.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Dashboard sample data",
+  "mobile": false,
+  "v": "2f149383"
+ },
+ {
+  "src": "/screens/room-out-of-order-manager/06.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Room blocks list",
+  "mobile": false,
+  "v": "8ef99cd9"
+ }
+]

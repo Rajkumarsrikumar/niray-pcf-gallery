@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/spill-release-reporting-manager/01.webp",
+  "w": 1340,
+  "h": 820,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "d4a2f5f5"
+ },
+ {
+  "src": "/screens/spill-release-reporting-manager/02.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "74875efb"
+ },
+ {
+  "src": "/screens/spill-release-reporting-manager/03.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "Register cards",
+  "mobile": true,
+  "v": "507b3a01"
+ },
+ {
+  "src": "/screens/spill-release-reporting-manager/04.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "98dbc269"
+ },
+ {
+  "src": "/screens/spill-release-reporting-manager/05.webp",
+  "w": 1340,
+  "h": 820,
+  "caption": "Dashboard sample data",
+  "mobile": false,
+  "v": "fcc2494b"
+ },
+ {
+  "src": "/screens/spill-release-reporting-manager/06.webp",
+  "w": 1340,
+  "h": 820,
+  "caption": "Register",
+  "mobile": false,
+  "v": "b9736243"
+ }
+]

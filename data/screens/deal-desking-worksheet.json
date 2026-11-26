@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/deal-desking-worksheet/01.webp",
+  "w": 1366,
+  "h": 860,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "6e0705ad"
+ },
+ {
+  "src": "/screens/deal-desking-worksheet/02.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "6a9f0417"
+ },
+ {
+  "src": "/screens/deal-desking-worksheet/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Deals",
+  "mobile": true,
+  "v": "7a55b9be"
+ },
+ {
+  "src": "/screens/deal-desking-worksheet/04.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Board",
+  "mobile": true,
+  "v": "4343d7fb"
+ },
+ {
+  "src": "/screens/deal-desking-worksheet/05.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Worksheet",
+  "mobile": true,
+  "v": "3a21f100"
+ },
+ {
+  "src": "/screens/deal-desking-worksheet/06.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "B payment grid",
+  "mobile": true,
+  "v": "bb5ed277"
+ }
+]

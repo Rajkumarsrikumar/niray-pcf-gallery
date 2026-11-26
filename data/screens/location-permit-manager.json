@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/location-permit-manager/01.webp",
+  "w": 1366,
+  "h": 760,
+  "caption": "Demo board",
+  "mobile": false,
+  "v": "29dbb5a7"
+ },
+ {
+  "src": "/screens/location-permit-manager/02.webp",
+  "w": 375,
+  "h": 792,
+  "caption": "Board",
+  "mobile": true,
+  "v": "b8a43003"
+ },
+ {
+  "src": "/screens/location-permit-manager/03.webp",
+  "w": 375,
+  "h": 792,
+  "caption": "B applied column",
+  "mobile": true,
+  "v": "3ddb4135"
+ },
+ {
+  "src": "/screens/location-permit-manager/04.webp",
+  "w": 375,
+  "h": 792,
+  "caption": "Detail sheet",
+  "mobile": true,
+  "v": "75719111"
+ },
+ {
+  "src": "/screens/location-permit-manager/05.webp",
+  "w": 375,
+  "h": 792,
+  "caption": "Calendar agenda",
+  "mobile": true,
+  "v": "2f053675"
+ },
+ {
+  "src": "/screens/location-permit-manager/06.webp",
+  "w": 1366,
+  "h": 760,
+  "caption": "Board project glass orchard",
+  "mobile": false,
+  "v": "30367542"
+ }
+]

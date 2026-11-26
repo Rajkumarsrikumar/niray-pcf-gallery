@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/sports-camp-programme-manager/01.webp",
+  "w": 1340,
+  "h": 1150,
+  "caption": "Overview demo",
+  "mobile": false,
+  "v": "8ff64bf4"
+ },
+ {
+  "src": "/screens/sports-camp-programme-manager/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "6299f3e1"
+ },
+ {
+  "src": "/screens/sports-camp-programme-manager/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Register",
+  "mobile": true,
+  "v": "233a1e3f"
+ },
+ {
+  "src": "/screens/sports-camp-programme-manager/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Detail sheet",
+  "mobile": true,
+  "v": "54cb19b0"
+ },
+ {
+  "src": "/screens/sports-camp-programme-manager/05.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Checkout",
+  "mobile": true,
+  "v": "0192698c"
+ },
+ {
+  "src": "/screens/sports-camp-programme-manager/06.webp",
+  "w": 1340,
+  "h": 1150,
+  "caption": "Register today",
+  "mobile": false,
+  "v": "4bde693c"
+ }
+]

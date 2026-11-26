@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/service-lane-repair-order-manager/01.webp",
+  "w": 964,
+  "h": 860,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "9ffa8d7b"
+ },
+ {
+  "src": "/screens/service-lane-repair-order-manager/02.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "5d467d44"
+ },
+ {
+  "src": "/screens/service-lane-repair-order-manager/03.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Ro cards",
+  "mobile": true,
+  "v": "2cb07ceb"
+ },
+ {
+  "src": "/screens/service-lane-repair-order-manager/04.webp",
+  "w": 964,
+  "h": 860,
+  "caption": "Repair orders",
+  "mobile": false,
+  "v": "60d8c89c"
+ },
+ {
+  "src": "/screens/service-lane-repair-order-manager/05.webp",
+  "w": 964,
+  "h": 860,
+  "caption": "Grouped multiselect",
+  "mobile": false,
+  "v": "446bb66f"
+ },
+ {
+  "src": "/screens/service-lane-repair-order-manager/06.webp",
+  "w": 964,
+  "h": 860,
+  "caption": "Bulk status toast undo",
+  "mobile": false,
+  "v": "d06870a2"
+ }
+]

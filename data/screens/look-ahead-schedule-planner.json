@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/look-ahead-schedule-planner/01.webp",
+  "w": 1100,
+  "h": 780,
+  "caption": "Demo mode dashboard",
+  "mobile": false,
+  "v": "4fc0101c"
+ },
+ {
+  "src": "/screens/look-ahead-schedule-planner/02.webp",
+  "w": 375,
+  "h": 792,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "59063406"
+ },
+ {
+  "src": "/screens/look-ahead-schedule-planner/03.webp",
+  "w": 375,
+  "h": 792,
+  "caption": "Look ahead list",
+  "mobile": true,
+  "v": "40cf7a23"
+ },
+ {
+  "src": "/screens/look-ahead-schedule-planner/04.webp",
+  "w": 375,
+  "h": 792,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "e577870e"
+ },
+ {
+  "src": "/screens/look-ahead-schedule-planner/05.webp",
+  "w": 375,
+  "h": 792,
+  "caption": "Weekly plan",
+  "mobile": true,
+  "v": "4cd8db6a"
+ },
+ {
+  "src": "/screens/look-ahead-schedule-planner/06.webp",
+  "w": 1100,
+  "h": 780,
+  "caption": "Demo look ahead",
+  "mobile": false,
+  "v": "f8a018b9"
+ }
+]

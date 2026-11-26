@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/greenhouse-crop-cycle-manager/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "c8f142ab"
+ },
+ {
+  "src": "/screens/greenhouse-crop-cycle-manager/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "13271d68"
+ },
+ {
+  "src": "/screens/greenhouse-crop-cycle-manager/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Registration cards",
+  "mobile": true,
+  "v": "ed3dafa4"
+ },
+ {
+  "src": "/screens/greenhouse-crop-cycle-manager/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Registration panel",
+  "mobile": true,
+  "v": "a91f352d"
+ },
+ {
+  "src": "/screens/greenhouse-crop-cycle-manager/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Compartments",
+  "mobile": true,
+  "v": "99506ba6"
+ },
+ {
+  "src": "/screens/greenhouse-crop-cycle-manager/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Planning",
+  "mobile": true,
+  "v": "b00ce695"
+ }
+]

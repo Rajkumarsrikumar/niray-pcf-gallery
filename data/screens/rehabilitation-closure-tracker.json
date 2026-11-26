@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/rehabilitation-closure-tracker/01.webp",
+  "w": 1008,
+  "h": 860,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "ea216a17"
+ },
+ {
+  "src": "/screens/rehabilitation-closure-tracker/02.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "3f559085"
+ },
+ {
+  "src": "/screens/rehabilitation-closure-tracker/03.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Area cards",
+  "mobile": true,
+  "v": "f73103d2"
+ },
+ {
+  "src": "/screens/rehabilitation-closure-tracker/04.webp",
+  "w": 1008,
+  "h": 860,
+  "caption": "Areas register",
+  "mobile": false,
+  "v": "09fe5a08"
+ },
+ {
+  "src": "/screens/rehabilitation-closure-tracker/05.webp",
+  "w": 1008,
+  "h": 860,
+  "caption": "Grouped multiselect",
+  "mobile": false,
+  "v": "ddd222e5"
+ },
+ {
+  "src": "/screens/rehabilitation-closure-tracker/06.webp",
+  "w": 1008,
+  "h": 860,
+  "caption": "Bulk stage toast undo",
+  "mobile": false,
+  "v": "ddb0fc3d"
+ }
+]

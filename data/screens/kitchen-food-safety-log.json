@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/kitchen-food-safety-log/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo today dashboard",
+  "mobile": false,
+  "v": "6784d901"
+ },
+ {
+  "src": "/screens/kitchen-food-safety-log/02.webp",
+  "w": 1334,
+  "h": 760,
+  "caption": "Fahrenheit defaults",
+  "mobile": false,
+  "v": "12cd5eb3"
+ },
+ {
+  "src": "/screens/kitchen-food-safety-log/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Today",
+  "mobile": true,
+  "v": "de770110"
+ },
+ {
+  "src": "/screens/kitchen-food-safety-log/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Due checks",
+  "mobile": true,
+  "v": "5a20f497"
+ },
+ {
+  "src": "/screens/kitchen-food-safety-log/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "28c18cf8"
+ },
+ {
+  "src": "/screens/kitchen-food-safety-log/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo due checks",
+  "mobile": false,
+  "v": "10ac59df"
+ }
+]

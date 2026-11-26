@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/planned-outage-notification-planner/01.webp",
+  "w": 951,
+  "h": 1130,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "b3c447ff"
+ },
+ {
+  "src": "/screens/planned-outage-notification-planner/02.webp",
+  "w": 373,
+  "h": 1729,
+  "caption": "M dashboard",
+  "mobile": true,
+  "v": "6d89a748"
+ },
+ {
+  "src": "/screens/planned-outage-notification-planner/03.webp",
+  "w": 373,
+  "h": 2400,
+  "caption": "M outages cards",
+  "mobile": true,
+  "v": "d04a3846"
+ },
+ {
+  "src": "/screens/planned-outage-notification-planner/04.webp",
+  "w": 373,
+  "h": 1373,
+  "caption": "M public lookup",
+  "mobile": true,
+  "v": "e41733ff"
+ },
+ {
+  "src": "/screens/planned-outage-notification-planner/05.webp",
+  "w": 951,
+  "h": 1092,
+  "caption": "Dashboard sample data",
+  "mobile": false,
+  "v": "a596fa47"
+ },
+ {
+  "src": "/screens/planned-outage-notification-planner/06.webp",
+  "w": 951,
+  "h": 1961,
+  "caption": "Outages list",
+  "mobile": false,
+  "v": "f20a8177"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/fuel-card-reconciler/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "48e1be00"
+ },
+ {
+  "src": "/screens/fuel-card-reconciler/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "b98cb3b2"
+ },
+ {
+  "src": "/screens/fuel-card-reconciler/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Exceptions",
+  "mobile": true,
+  "v": "8d7a5c74"
+ },
+ {
+  "src": "/screens/fuel-card-reconciler/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Editor",
+  "mobile": true,
+  "v": "f7557f54"
+ },
+ {
+  "src": "/screens/fuel-card-reconciler/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Exceptions queue",
+  "mobile": false,
+  "v": "0f77e953"
+ },
+ {
+  "src": "/screens/fuel-card-reconciler/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Exceptions economy",
+  "mobile": false,
+  "v": "5f0980c8"
+ }
+]

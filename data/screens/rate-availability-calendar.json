@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/rate-availability-calendar/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "caf0b0f0"
+ },
+ {
+  "src": "/screens/rate-availability-calendar/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "fa204378"
+ },
+ {
+  "src": "/screens/rate-availability-calendar/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Grid agenda",
+  "mobile": true,
+  "v": "16b7bd5a"
+ },
+ {
+  "src": "/screens/rate-availability-calendar/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Month",
+  "mobile": true,
+  "v": "7f87ddf2"
+ },
+ {
+  "src": "/screens/rate-availability-calendar/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Rows",
+  "mobile": true,
+  "v": "aac701aa"
+ },
+ {
+  "src": "/screens/rate-availability-calendar/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Approvals",
+  "mobile": true,
+  "v": "45d245ac"
+ }
+]

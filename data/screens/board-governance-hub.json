@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/board-governance-hub/01.webp",
+  "w": 1334,
+  "h": 860,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "9faf9985"
+ },
+ {
+  "src": "/screens/board-governance-hub/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "ecdd59e3"
+ },
+ {
+  "src": "/screens/board-governance-hub/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Members",
+  "mobile": true,
+  "v": "23867983"
+ },
+ {
+  "src": "/screens/board-governance-hub/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Member detail",
+  "mobile": true,
+  "v": "799d8cfe"
+ },
+ {
+  "src": "/screens/board-governance-hub/05.webp",
+  "w": 1334,
+  "h": 860,
+  "caption": "Demo members",
+  "mobile": false,
+  "v": "d112702c"
+ },
+ {
+  "src": "/screens/board-governance-hub/06.webp",
+  "w": 1334,
+  "h": 860,
+  "caption": "Demo committees",
+  "mobile": false,
+  "v": "dccb6ee2"
+ }
+]

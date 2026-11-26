@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/tank-battery-inventory-monitor/01.webp",
+  "w": 1340,
+  "h": 900,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "40b6dc1e"
+ },
+ {
+  "src": "/screens/tank-battery-inventory-monitor/02.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "8d178cd3"
+ },
+ {
+  "src": "/screens/tank-battery-inventory-monitor/03.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Tank levels",
+  "mobile": true,
+  "v": "3339daa1"
+ },
+ {
+  "src": "/screens/tank-battery-inventory-monitor/04.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Panel",
+  "mobile": true,
+  "v": "948f17d2"
+ },
+ {
+  "src": "/screens/tank-battery-inventory-monitor/05.webp",
+  "w": 1340,
+  "h": 900,
+  "caption": "Tank levels",
+  "mobile": false,
+  "v": "9f1b8a4f"
+ },
+ {
+  "src": "/screens/tank-battery-inventory-monitor/06.webp",
+  "w": 1340,
+  "h": 900,
+  "caption": "Haul board",
+  "mobile": false,
+  "v": "79d00a03"
+ }
+]

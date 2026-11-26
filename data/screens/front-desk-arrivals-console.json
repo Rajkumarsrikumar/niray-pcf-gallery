@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/front-desk-arrivals-console/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "4ee458f9"
+ },
+ {
+  "src": "/screens/front-desk-arrivals-console/02.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "427ff85f"
+ },
+ {
+  "src": "/screens/front-desk-arrivals-console/03.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Movements",
+  "mobile": true,
+  "v": "53704e4e"
+ },
+ {
+  "src": "/screens/front-desk-arrivals-console/04.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Plan",
+  "mobile": true,
+  "v": "d4927601"
+ },
+ {
+  "src": "/screens/front-desk-arrivals-console/05.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Board",
+  "mobile": true,
+  "v": "3782c177"
+ },
+ {
+  "src": "/screens/front-desk-arrivals-console/06.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Form",
+  "mobile": true,
+  "v": "5496ac3f"
+ }
+]

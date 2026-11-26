@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/gym-member-retention-risk-console/01.webp",
+  "w": 1343,
+  "h": 900,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "ea819186"
+ },
+ {
+  "src": "/screens/gym-member-retention-risk-console/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Clubs",
+  "mobile": true,
+  "v": "eb48f74f"
+ },
+ {
+  "src": "/screens/gym-member-retention-risk-console/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Cohorts",
+  "mobile": true,
+  "v": "c930a7df"
+ },
+ {
+  "src": "/screens/gym-member-retention-risk-console/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Desk",
+  "mobile": true,
+  "v": "c3dbfa9d"
+ },
+ {
+  "src": "/screens/gym-member-retention-risk-console/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "3b592380"
+ },
+ {
+  "src": "/screens/gym-member-retention-risk-console/06.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Home",
+  "mobile": true,
+  "v": "c8067a61"
+ }
+]

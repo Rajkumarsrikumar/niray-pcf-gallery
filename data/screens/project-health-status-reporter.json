@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/project-health-status-reporter/01.webp",
+  "w": 1012,
+  "h": 896,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "a3e19326"
+ },
+ {
+  "src": "/screens/project-health-status-reporter/02.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "a57f3bb6"
+ },
+ {
+  "src": "/screens/project-health-status-reporter/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Project cards",
+  "mobile": true,
+  "v": "e2357fbd"
+ },
+ {
+  "src": "/screens/project-health-status-reporter/04.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "35e43098"
+ },
+ {
+  "src": "/screens/project-health-status-reporter/05.webp",
+  "w": 1012,
+  "h": 896,
+  "caption": "Portfolio grouped by practice",
+  "mobile": false,
+  "v": "38ed118f"
+ },
+ {
+  "src": "/screens/project-health-status-reporter/06.webp",
+  "w": 1012,
+  "h": 896,
+  "caption": "Portfolio multiselect bulk bar",
+  "mobile": false,
+  "v": "00a22577"
+ }
+]

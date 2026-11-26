@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/kitchen-prep-production-planner/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "bbaf210c"
+ },
+ {
+  "src": "/screens/kitchen-prep-production-planner/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "0599a971"
+ },
+ {
+  "src": "/screens/kitchen-prep-production-planner/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Prep list",
+  "mobile": true,
+  "v": "a59d2622"
+ },
+ {
+  "src": "/screens/kitchen-prep-production-planner/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Board",
+  "mobile": true,
+  "v": "9a348397"
+ },
+ {
+  "src": "/screens/kitchen-prep-production-planner/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo prep list",
+  "mobile": false,
+  "v": "f4de86a3"
+ },
+ {
+  "src": "/screens/kitchen-prep-production-planner/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo station board",
+  "mobile": false,
+  "v": "df915518"
+ }
+]

@@ -1331,20 +1331,20 @@
   "industry": "Media & Entertainment",
   "status": "in progress",
   "componentsPlanned": 30,
-  "componentsBuilt": 7,
+  "componentsBuilt": 29,
   "price": null,
   "components": [
    {
     "order": 1,
     "component": "RightsAvailsWindowManager",
-    "slug": null,
+    "slug": "rights-avails-window-manager",
     "subCategory": "Rights & Licensing",
     "status": "pending-sync"
    },
    {
     "order": 2,
     "component": "ProductionCallSheetBuilder",
-    "slug": null,
+    "slug": "production-call-sheet-builder",
     "subCategory": "Production",
     "status": "pending-sync"
    },
@@ -1358,140 +1358,140 @@
    {
     "order": 4,
     "component": "RoyaltyStatementProcessor",
-    "slug": null,
+    "slug": "royalty-statement-processor",
     "subCategory": "Music & Publishing",
     "status": "pending-sync"
    },
    {
     "order": 5,
     "component": "AdOrderSpotLogManager",
-    "slug": null,
+    "slug": "ad-order-spot-log-manager",
     "subCategory": "Broadcast & Ad Sales",
     "status": "pending-sync"
    },
    {
     "order": 6,
     "component": "PostProductionDeliverablesTracker",
-    "slug": null,
+    "slug": "post-production-deliverables-tracker",
     "subCategory": "Post-production",
     "status": "pending-sync"
    },
    {
     "order": 7,
     "component": "EditorialStoryPlanner",
-    "slug": null,
+    "slug": "editorial-story-planner",
     "subCategory": "News & Publishing",
     "status": "pending-sync"
    },
    {
     "order": 8,
     "component": "ProductionCostReportWorkbench",
-    "slug": null,
+    "slug": "production-cost-report-workbench",
     "subCategory": "Production Finance",
     "status": "reserved"
    },
    {
     "order": 9,
     "component": "TalentDealMemoManager",
-    "slug": null,
+    "slug": "talent-deal-memo-manager",
     "subCategory": "Talent & Contracts",
     "status": "planned"
    },
    {
     "order": 10,
     "component": "MusicCueSheetEditor",
-    "slug": null,
+    "slug": "music-cue-sheet-editor",
     "subCategory": "Music & Publishing",
     "status": "planned"
    },
    {
     "order": 11,
     "component": "SyncLicensingRequestDesk",
-    "slug": null,
+    "slug": "sync-licensing-request-desk",
     "subCategory": "Music & Publishing",
     "status": "planned"
    },
    {
     "order": 12,
     "component": "LocalizationDubbingTracker",
-    "slug": null,
+    "slug": "localization-dubbing-tracker",
     "subCategory": "Localization",
     "status": "planned"
    },
    {
     "order": 13,
     "component": "ContentQcIssueLog",
-    "slug": null,
+    "slug": "content-qc-issue-log",
     "subCategory": "Post-production",
     "status": "planned"
    },
    {
     "order": 14,
     "component": "LinearPlayoutScheduleGrid",
-    "slug": null,
+    "slug": "linear-playout-schedule-grid",
     "subCategory": "Broadcast",
     "status": "planned"
    },
    {
     "order": 15,
     "component": "CastingSubmissionsBoard",
-    "slug": null,
+    "slug": "casting-submissions-board",
     "subCategory": "Talent & Casting",
     "status": "planned"
    },
    {
     "order": 16,
     "component": "LocationPermitManager",
-    "slug": null,
+    "slug": "location-permit-manager",
     "subCategory": "Production",
     "status": "planned"
    },
    {
     "order": 17,
     "component": "VfxShotTracker",
-    "slug": null,
+    "slug": "vfx-shot-tracker",
     "subCategory": "Post-production",
     "status": "planned"
    },
    {
     "order": 18,
     "component": "LiveEventRunOfShow",
-    "slug": null,
+    "slug": "live-event-run-of-show",
     "subCategory": "Live Events",
     "status": "planned"
    },
    {
     "order": 19,
     "component": "SponsorshipDeliverablesTracker",
-    "slug": null,
+    "slug": "sponsorship-deliverables-tracker",
     "subCategory": "Sponsorship",
     "status": "planned"
    },
    {
     "order": 20,
     "component": "PodcastEpisodePipeline",
-    "slug": null,
+    "slug": "podcast-episode-pipeline",
     "subCategory": "Audio",
     "status": "planned"
    },
    {
     "order": 21,
     "component": "ResidualsParticipationsCalculator",
-    "slug": null,
+    "slug": "residuals-participations-calculator",
     "subCategory": "Talent & Contracts",
     "status": "planned"
    },
    {
     "order": 22,
     "component": "FestivalSubmissionsManager",
-    "slug": null,
+    "slug": "festival-submissions-manager",
     "subCategory": "Distribution",
     "status": "planned"
    },
    {
     "order": 23,
     "component": "ArchiveFootageClearanceDesk",
-    "slug": null,
+    "slug": "archive-footage-clearance-desk",
     "subCategory": "Rights & Licensing",
     "status": "planned"
    },
@@ -1505,44 +1505,3359 @@
    {
     "order": 25,
     "component": "AudienceRatingsAnalyzer",
-    "slug": null,
+    "slug": "audience-ratings-analyzer",
     "subCategory": "Broadcast",
     "status": "planned"
    },
    {
     "order": 26,
     "component": "ManuscriptAcquisitionPipeline",
-    "slug": null,
+    "slug": "manuscript-acquisition-pipeline",
     "subCategory": "Publishing",
     "status": "planned"
    },
    {
     "order": 27,
     "component": "TourRoutingPlanner",
-    "slug": null,
+    "slug": "tour-routing-planner",
     "subCategory": "Live Music",
     "status": "planned"
    },
    {
     "order": 28,
     "component": "EquipmentRentalCheckout",
-    "slug": null,
+    "slug": "equipment-rental-checkout",
     "subCategory": "Production",
     "status": "planned"
    },
    {
     "order": 29,
     "component": "PressJunketScheduler",
-    "slug": null,
+    "slug": "press-junket-scheduler",
     "subCategory": "Publicity",
     "status": "planned"
    },
    {
     "order": 30,
     "component": "TitleMetadataReadinessConsole",
-    "slug": null,
+    "slug": "title-metadata-readiness-console",
     "subCategory": "Distribution",
     "status": "planned"
+   }
+  ]
+ },
+ {
+  "packName": "Niray Nonprofit PCF Pack",
+  "slug": "nonprofit-pcf-pack",
+  "industry": "Nonprofit",
+  "status": "complete",
+  "componentsPlanned": 30,
+  "componentsBuilt": 30,
+  "price": null,
+  "components": [
+   {
+    "order": 1,
+    "component": "DonorGiftEntryConsole",
+    "slug": "donor-gift-entry-console",
+    "subCategory": "Fundraising",
+    "status": "pending-sync"
+   },
+   {
+    "order": 2,
+    "component": "RecurringGivingManager",
+    "slug": "recurring-giving-manager",
+    "subCategory": "Fundraising",
+    "status": "pending-sync"
+   },
+   {
+    "order": 3,
+    "component": "MajorGiftMovesManager",
+    "slug": "major-gift-moves-manager",
+    "subCategory": "Fundraising",
+    "status": "pending-sync"
+   },
+   {
+    "order": 4,
+    "component": "VolunteerShiftCoordinator",
+    "slug": "volunteer-shift-coordinator",
+    "subCategory": "Volunteering",
+    "status": "pending-sync"
+   },
+   {
+    "order": 5,
+    "component": "BeneficiaryCaseManager",
+    "slug": "beneficiary-case-manager",
+    "subCategory": "Programs",
+    "status": "pending-sync"
+   },
+   {
+    "order": 6,
+    "component": "GrantPortfolioTracker",
+    "slug": "grant-portfolio-tracker",
+    "subCategory": "Grants & Awards",
+    "status": "pending-sync"
+   },
+   {
+    "order": 7,
+    "component": "ProgramOutcomeIndicatorTracker",
+    "slug": "program-outcome-indicator-tracker",
+    "subCategory": "Impact",
+    "status": "pending-sync"
+   },
+   {
+    "order": 8,
+    "component": "CapitalCampaignTracker",
+    "slug": "capital-campaign-tracker",
+    "subCategory": "Fundraising",
+    "status": "pending-sync"
+   },
+   {
+    "order": 9,
+    "component": "GiftAidClaimBuilder",
+    "slug": "gift-aid-claim-builder",
+    "subCategory": "Fundraising",
+    "status": "pending-sync"
+   },
+   {
+    "order": 10,
+    "component": "FoodBankDistributionConsole",
+    "slug": "food-bank-distribution-console",
+    "subCategory": "Programs",
+    "status": "pending-sync"
+   },
+   {
+    "order": 11,
+    "component": "MembershipRenewalManager",
+    "slug": "membership-renewal-manager",
+    "subCategory": "Membership",
+    "status": "pending-sync"
+   },
+   {
+    "order": 12,
+    "component": "GalaAuctionManager",
+    "slug": "gala-auction-manager",
+    "subCategory": "Events",
+    "status": "pending-sync"
+   },
+   {
+    "order": 13,
+    "component": "PeerToPeerFundraisingHub",
+    "slug": "peer-to-peer-fundraising-hub",
+    "subCategory": "Fundraising",
+    "status": "pending-sync"
+   },
+   {
+    "order": 14,
+    "component": "InKindDonationIntake",
+    "slug": "in-kind-donation-intake",
+    "subCategory": "Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 15,
+    "component": "RestrictedFundAllocator",
+    "slug": "restricted-fund-allocator",
+    "subCategory": "Finance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 16,
+    "component": "DonorStewardshipPlanner",
+    "slug": "donor-stewardship-planner",
+    "subCategory": "Fundraising",
+    "status": "pending-sync"
+   },
+   {
+    "order": 17,
+    "component": "SponsorshipMatchingManager",
+    "slug": "sponsorship-matching-manager",
+    "subCategory": "Programs",
+    "status": "pending-sync"
+   },
+   {
+    "order": 18,
+    "component": "VolunteerComplianceTracker",
+    "slug": "volunteer-compliance-tracker",
+    "subCategory": "Volunteering",
+    "status": "pending-sync"
+   },
+   {
+    "order": 19,
+    "component": "ImpactReportComposer",
+    "slug": "impact-report-composer",
+    "subCategory": "Impact",
+    "status": "pending-sync"
+   },
+   {
+    "order": 20,
+    "component": "BoardGovernanceHub",
+    "slug": "board-governance-hub",
+    "subCategory": "Governance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 21,
+    "component": "DonorDedupeHouseholding",
+    "slug": "donor-dedupe-householding",
+    "subCategory": "Data Quality",
+    "status": "pending-sync"
+   },
+   {
+    "order": 22,
+    "component": "LegacyGivingPipeline",
+    "slug": "legacy-giving-pipeline",
+    "subCategory": "Fundraising",
+    "status": "pending-sync"
+   },
+   {
+    "order": 23,
+    "component": "SubgrantDisbursementManager",
+    "slug": "subgrant-disbursement-manager",
+    "subCategory": "Grants & Awards",
+    "status": "pending-sync"
+   },
+   {
+    "order": 24,
+    "component": "MentorMatchingManager",
+    "slug": "mentor-matching-manager",
+    "subCategory": "Programs",
+    "status": "pending-sync"
+   },
+   {
+    "order": 25,
+    "component": "OutreachEncounterLog",
+    "slug": "outreach-encounter-log",
+    "subCategory": "Programs",
+    "status": "pending-sync"
+   },
+   {
+    "order": 26,
+    "component": "ReliefRequestTriage",
+    "slug": "relief-request-triage",
+    "subCategory": "Programs",
+    "status": "pending-sync"
+   },
+   {
+    "order": 27,
+    "component": "AppealSegmentationBuilder",
+    "slug": "appeal-segmentation-builder",
+    "subCategory": "Fundraising",
+    "status": "pending-sync"
+   },
+   {
+    "order": 28,
+    "component": "MatchingGiftTracker",
+    "slug": "matching-gift-tracker",
+    "subCategory": "Fundraising",
+    "status": "pending-sync"
+   },
+   {
+    "order": 29,
+    "component": "TributeGiftManager",
+    "slug": "tribute-gift-manager",
+    "subCategory": "Fundraising",
+    "status": "pending-sync"
+   },
+   {
+    "order": 30,
+    "component": "AdvocacyActionCentre",
+    "slug": "advocacy-action-centre",
+    "subCategory": "Advocacy",
+    "status": "pending-sync"
+   }
+  ]
+ },
+ {
+  "packName": "Niray Retail & Hospitality PCF Pack",
+  "slug": "retail-and-hospitality-pcf-pack",
+  "industry": "Retail & Hospitality",
+  "status": "complete",
+  "componentsPlanned": 30,
+  "componentsBuilt": 30,
+  "price": null,
+  "components": [
+   {
+    "order": 1,
+    "component": "HotelHousekeepingBoard",
+    "slug": "hotel-housekeeping-board",
+    "subCategory": "Hospitality – Hotels",
+    "status": "pending-sync"
+   },
+   {
+    "order": 2,
+    "component": "StoreTaskExecutionHub",
+    "slug": "store-task-execution-hub",
+    "subCategory": "Retail – Store Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 3,
+    "component": "ClientelingClientBook",
+    "slug": "clienteling-client-book",
+    "subCategory": "Retail – Store Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 4,
+    "component": "RestaurantReservationManager",
+    "slug": "restaurant-reservation-manager",
+    "subCategory": "Hospitality – Food & Beverage",
+    "status": "pending-sync"
+   },
+   {
+    "order": 5,
+    "component": "KitchenFoodSafetyLog",
+    "slug": "kitchen-food-safety-log",
+    "subCategory": "Hospitality – Food & Beverage",
+    "status": "pending-sync"
+   },
+   {
+    "order": 6,
+    "component": "AreaManagerStoreVisit",
+    "slug": "area-manager-store-visit",
+    "subCategory": "Retail – Store Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 7,
+    "component": "PlanogramComplianceChecker",
+    "slug": "planogram-compliance-checker",
+    "subCategory": "Retail – Store Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 8,
+    "component": "MarkdownClearancePlanner",
+    "slug": "markdown-clearance-planner",
+    "subCategory": "Retail – Store Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 9,
+    "component": "StockCountCycleManager",
+    "slug": "stock-count-cycle-manager",
+    "subCategory": "Retail – Store Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 10,
+    "component": "ClickAndCollectOrderConsole",
+    "slug": "click-and-collect-order-console",
+    "subCategory": "Retail – Store Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 11,
+    "component": "ReturnsAuthorisationDesk",
+    "slug": "returns-authorisation-desk",
+    "subCategory": "Retail – Store Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 12,
+    "component": "GuestRequestServiceDesk",
+    "slug": "guest-request-service-desk",
+    "subCategory": "Hospitality – Hotels",
+    "status": "pending-sync"
+   },
+   {
+    "order": 13,
+    "component": "BanquetEventOrderBuilder",
+    "slug": "banquet-event-order-builder",
+    "subCategory": "Hospitality – Food & Beverage",
+    "status": "pending-sync"
+   },
+   {
+    "order": 14,
+    "component": "RecipeCostingMenuEngineering",
+    "slug": "recipe-costing-menu-engineering",
+    "subCategory": "Hospitality – Food & Beverage",
+    "status": "pending-sync"
+   },
+   {
+    "order": 15,
+    "component": "FoodWasteTracker",
+    "slug": "food-waste-tracker",
+    "subCategory": "Hospitality – Food & Beverage",
+    "status": "pending-sync"
+   },
+   {
+    "order": 16,
+    "component": "LoyaltyMemberConsole",
+    "slug": "loyalty-member-console",
+    "subCategory": "Retail – Store Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 17,
+    "component": "VendorDeliveryReceiving",
+    "slug": "vendor-delivery-receiving",
+    "subCategory": "Retail – Store Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 18,
+    "component": "ShrinkLossPreventionLog",
+    "slug": "shrink-loss-prevention-log",
+    "subCategory": "Retail – Store Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 19,
+    "component": "PromotionCalendarPlanner",
+    "slug": "promotion-calendar-planner",
+    "subCategory": "Retail – Store Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 20,
+    "component": "CashOfficeReconciliation",
+    "slug": "cash-office-reconciliation",
+    "subCategory": "Retail – Store Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 21,
+    "component": "GroupRoomBlockManager",
+    "slug": "group-room-block-manager",
+    "subCategory": "Hospitality – Hotels",
+    "status": "pending-sync"
+   },
+   {
+    "order": 22,
+    "component": "LostAndFoundRegister",
+    "slug": "lost-and-found-register",
+    "subCategory": "Hospitality – Hotels",
+    "status": "pending-sync"
+   },
+   {
+    "order": 23,
+    "component": "PriceChangeBatchManager",
+    "slug": "price-change-batch-manager",
+    "subCategory": "Retail – Store Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 24,
+    "component": "ProductRecallWithdrawalConsole",
+    "slug": "product-recall-withdrawal-console",
+    "subCategory": "Retail – Store Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 25,
+    "component": "MenuAllergenMatrix",
+    "slug": "menu-allergen-matrix",
+    "subCategory": "Hospitality – Food & Beverage",
+    "status": "pending-sync"
+   },
+   {
+    "order": 26,
+    "component": "RateAvailabilityCalendar",
+    "slug": "rate-availability-calendar",
+    "subCategory": "Hospitality – Hotels",
+    "status": "pending-sync"
+   },
+   {
+    "order": 27,
+    "component": "ConciergeItineraryBuilder",
+    "slug": "concierge-itinerary-builder",
+    "subCategory": "Hospitality – Hotels",
+    "status": "pending-sync"
+   },
+   {
+    "order": 28,
+    "component": "InterStoreTransferManager",
+    "slug": "inter-store-transfer-manager",
+    "subCategory": "Retail – Store Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 29,
+    "component": "KitchenPrepProductionPlanner",
+    "slug": "kitchen-prep-production-planner",
+    "subCategory": "Hospitality – Food & Beverage",
+    "status": "pending-sync"
+   },
+   {
+    "order": 30,
+    "component": "TipPoolDistributionCalculator",
+    "slug": "tip-pool-distribution-calculator",
+    "subCategory": "Hospitality – Food & Beverage",
+    "status": "pending-sync"
+   }
+  ]
+ },
+ {
+  "packName": "Niray Logistics & Transport PCF Pack",
+  "slug": "logistics-and-transport-pcf-pack",
+  "industry": "Logistics & Transport",
+  "status": "complete",
+  "componentsPlanned": 30,
+  "componentsBuilt": 30,
+  "price": null,
+  "components": [
+   {
+    "order": 1,
+    "component": "DockAppointmentScheduler",
+    "slug": "dock-appointment-scheduler",
+    "subCategory": "Dock & Yard",
+    "status": "pending-sync"
+   },
+   {
+    "order": 2,
+    "component": "YardTrailerManager",
+    "slug": "yard-trailer-manager",
+    "subCategory": "Dock & Yard",
+    "status": "pending-sync"
+   },
+   {
+    "order": 3,
+    "component": "FreightInvoiceAuditConsole",
+    "slug": "freight-invoice-audit-console",
+    "subCategory": "Freight Finance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 4,
+    "component": "LoadTenderBoard",
+    "slug": "load-tender-board",
+    "subCategory": "Transportation Planning",
+    "status": "pending-sync"
+   },
+   {
+    "order": 5,
+    "component": "TruckloadDispatchConsole",
+    "slug": "truckload-dispatch-console",
+    "subCategory": "Dispatch",
+    "status": "pending-sync"
+   },
+   {
+    "order": 6,
+    "component": "ProofOfDeliveryExceptionDesk",
+    "slug": "proof-of-delivery-exception-desk",
+    "subCategory": "Delivery",
+    "status": "pending-sync"
+   },
+   {
+    "order": 7,
+    "component": "CargoClaimsManager",
+    "slug": "cargo-claims-manager",
+    "subCategory": "Freight Finance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 8,
+    "component": "FreightQuoteBuilder",
+    "slug": "freight-quote-builder",
+    "subCategory": "Sales",
+    "status": "pending-sync"
+   },
+   {
+    "order": 9,
+    "component": "CarrierRateCardManager",
+    "slug": "carrier-rate-card-manager",
+    "subCategory": "Transportation Planning",
+    "status": "pending-sync"
+   },
+   {
+    "order": 10,
+    "component": "ContainerDemurrageTracker",
+    "slug": "container-demurrage-tracker",
+    "subCategory": "Ocean & Ports",
+    "status": "pending-sync"
+   },
+   {
+    "order": 11,
+    "component": "CustomsEntryWorkbench",
+    "slug": "customs-entry-workbench",
+    "subCategory": "Customs & Trade",
+    "status": "pending-sync"
+   },
+   {
+    "order": 12,
+    "component": "ShipmentBookingDesk",
+    "slug": "shipment-booking-desk",
+    "subCategory": "Customer Service",
+    "status": "pending-sync"
+   },
+   {
+    "order": 13,
+    "component": "CrossDockFlowPlanner",
+    "slug": "cross-dock-flow-planner",
+    "subCategory": "Warehouse",
+    "status": "pending-sync"
+   },
+   {
+    "order": 14,
+    "component": "CarrierScorecardManager",
+    "slug": "carrier-scorecard-manager",
+    "subCategory": "Carrier Management",
+    "status": "pending-sync"
+   },
+   {
+    "order": 15,
+    "component": "DriverQualificationFileManager",
+    "slug": "driver-qualification-file-manager",
+    "subCategory": "Fleet Compliance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 16,
+    "component": "DriverHoursCompliancePanel",
+    "slug": "driver-hours-compliance-panel",
+    "subCategory": "Fleet Compliance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 17,
+    "component": "FuelCardReconciler",
+    "slug": "fuel-card-reconciler",
+    "subCategory": "Fleet Finance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 18,
+    "component": "TelematicsAlertTriage",
+    "slug": "telematics-alert-triage",
+    "subCategory": "Fleet Safety",
+    "status": "pending-sync"
+   },
+   {
+    "order": 19,
+    "component": "FleetIncidentInvestigation",
+    "slug": "fleet-incident-investigation",
+    "subCategory": "Fleet Safety",
+    "status": "pending-sync"
+   },
+   {
+    "order": 20,
+    "component": "TripSettlementCalculator",
+    "slug": "trip-settlement-calculator",
+    "subCategory": "Driver Pay",
+    "status": "pending-sync"
+   },
+   {
+    "order": 21,
+    "component": "ColdChainExcursionLog",
+    "slug": "cold-chain-excursion-log",
+    "subCategory": "Cold Chain",
+    "status": "pending-sync"
+   },
+   {
+    "order": 22,
+    "component": "DangerousGoodsDeclarationChecker",
+    "slug": "dangerous-goods-declaration-checker",
+    "subCategory": "Compliance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 23,
+    "component": "LastMileManifestManager",
+    "slug": "last-mile-manifest-manager",
+    "subCategory": "Delivery",
+    "status": "pending-sync"
+   },
+   {
+    "order": 24,
+    "component": "TyreLifecycleManager",
+    "slug": "tyre-lifecycle-manager",
+    "subCategory": "Fleet Maintenance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 25,
+    "component": "WarehouseWavePlanner",
+    "slug": "warehouse-wave-planner",
+    "subCategory": "Warehouse",
+    "status": "pending-sync"
+   },
+   {
+    "order": 26,
+    "component": "WarehouseSlottingOptimizer",
+    "slug": "warehouse-slotting-optimizer",
+    "subCategory": "Warehouse",
+    "status": "pending-sync"
+   },
+   {
+    "order": 27,
+    "component": "VesselBerthScheduler",
+    "slug": "vessel-berth-scheduler",
+    "subCategory": "Ocean & Ports",
+    "status": "pending-sync"
+   },
+   {
+    "order": 28,
+    "component": "AirCargoConsolidationPlanner",
+    "slug": "air-cargo-consolidation-planner",
+    "subCategory": "Air Freight",
+    "status": "pending-sync"
+   },
+   {
+    "order": 29,
+    "component": "OversizePermitTracker",
+    "slug": "oversize-permit-tracker",
+    "subCategory": "Fleet Compliance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 30,
+    "component": "ShipperDocumentHub",
+    "slug": "shipper-document-hub",
+    "subCategory": "Customer Service",
+    "status": "pending-sync"
+   }
+  ]
+ },
+ {
+  "packName": "Niray Energy & Utilities PCF Pack",
+  "slug": "energy-and-utilities-pcf-pack",
+  "industry": "Energy & Utilities",
+  "status": "complete",
+  "componentsPlanned": 30,
+  "componentsBuilt": 30,
+  "price": null,
+  "components": [
+   {
+    "order": 1,
+    "component": "StormOutageRestorationConsole",
+    "slug": "storm-outage-restoration-console",
+    "subCategory": "Outage & restoration",
+    "status": "pending-sync"
+   },
+   {
+    "order": 2,
+    "component": "DerInterconnectionQueueManager",
+    "slug": "der-interconnection-queue-manager",
+    "subCategory": "Grid connections",
+    "status": "pending-sync"
+   },
+   {
+    "order": 3,
+    "component": "MeterReadExceptionWorkbench",
+    "slug": "meter-read-exception-workbench",
+    "subCategory": "Meter to cash",
+    "status": "pending-sync"
+   },
+   {
+    "order": 4,
+    "component": "VegetationManagementPlanner",
+    "slug": "vegetation-management-planner",
+    "subCategory": "Asset management",
+    "status": "pending-sync"
+   },
+   {
+    "order": 5,
+    "component": "NewServiceConnectionDesk",
+    "slug": "new-service-connection-desk",
+    "subCategory": "Customer operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 6,
+    "component": "SwitchingOrderBuilder",
+    "slug": "switching-order-builder",
+    "subCategory": "Network operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 7,
+    "component": "PoleTestTreatProgramManager",
+    "slug": "pole-test-treat-program-manager",
+    "subCategory": "Asset management",
+    "status": "pending-sync"
+   },
+   {
+    "order": 8,
+    "component": "MeterExchangeCampaignManager",
+    "slug": "meter-exchange-campaign-manager",
+    "subCategory": "Metering",
+    "status": "pending-sync"
+   },
+   {
+    "order": 9,
+    "component": "GasLeakSurveyTracker",
+    "slug": "gas-leak-survey-tracker",
+    "subCategory": "Gas operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 10,
+    "component": "WaterMainBreakResponseLog",
+    "slug": "water-main-break-response-log",
+    "subCategory": "Water operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 11,
+    "component": "BackflowTestComplianceTracker",
+    "slug": "backflow-test-compliance-tracker",
+    "subCategory": "Water compliance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 12,
+    "component": "DisconnectReconnectScheduler",
+    "slug": "disconnect-reconnect-scheduler",
+    "subCategory": "Customer operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 13,
+    "component": "DemandResponseEventManager",
+    "slug": "demand-response-event-manager",
+    "subCategory": "Grid flexibility",
+    "status": "pending-sync"
+   },
+   {
+    "order": 14,
+    "component": "EvChargingSiteOperationsConsole",
+    "slug": "ev-charging-site-operations-console",
+    "subCategory": "E-mobility",
+    "status": "pending-sync"
+   },
+   {
+    "order": 15,
+    "component": "WindFarmAvailabilityTracker",
+    "slug": "wind-farm-availability-tracker",
+    "subCategory": "Generation",
+    "status": "pending-sync"
+   },
+   {
+    "order": 16,
+    "component": "SolarFarmPerformanceMonitor",
+    "slug": "solar-farm-performance-monitor",
+    "subCategory": "Generation",
+    "status": "pending-sync"
+   },
+   {
+    "order": 17,
+    "component": "SubstationInspectionRounds",
+    "slug": "substation-inspection-rounds",
+    "subCategory": "Network assets",
+    "status": "pending-sync"
+   },
+   {
+    "order": 18,
+    "component": "TransformerLoadingMonitor",
+    "slug": "transformer-loading-monitor",
+    "subCategory": "Network assets",
+    "status": "pending-sync"
+   },
+   {
+    "order": 19,
+    "component": "RightOfWayEasementManager",
+    "slug": "right-of-way-easement-manager",
+    "subCategory": "Land & property",
+    "status": "pending-sync"
+   },
+   {
+    "order": 20,
+    "component": "CompatibleUnitWorkEstimator",
+    "slug": "compatible-unit-work-estimator",
+    "subCategory": "Capital works",
+    "status": "pending-sync"
+   },
+   {
+    "order": 21,
+    "component": "LocateTicketManager",
+    "slug": "locate-ticket-manager",
+    "subCategory": "Damage prevention",
+    "status": "pending-sync"
+   },
+   {
+    "order": 22,
+    "component": "TariffRateComparer",
+    "slug": "tariff-rate-comparer",
+    "subCategory": "Customer operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 23,
+    "component": "EnergyAssistanceApplicationDesk",
+    "slug": "energy-assistance-application-desk",
+    "subCategory": "Customer assistance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 24,
+    "component": "StreetlightFaultManager",
+    "slug": "streetlight-fault-manager",
+    "subCategory": "Public lighting",
+    "status": "pending-sync"
+   },
+   {
+    "order": 25,
+    "component": "PlannedOutageNotificationPlanner",
+    "slug": "planned-outage-notification-planner",
+    "subCategory": "Network operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 26,
+    "component": "PowerPurchaseAgreementTracker",
+    "slug": "power-purchase-agreement-tracker",
+    "subCategory": "Energy trading",
+    "status": "pending-sync"
+   },
+   {
+    "order": 27,
+    "component": "RenewableCertificateRegistry",
+    "slug": "renewable-certificate-registry",
+    "subCategory": "Sustainability",
+    "status": "pending-sync"
+   },
+   {
+    "order": 28,
+    "component": "HydrantValveExerciseTracker",
+    "slug": "hydrant-valve-exercise-tracker",
+    "subCategory": "Water assets",
+    "status": "pending-sync"
+   },
+   {
+    "order": 29,
+    "component": "MutualAidCrewOnboarding",
+    "slug": "mutual-aid-crew-onboarding",
+    "subCategory": "Emergency response",
+    "status": "pending-sync"
+   },
+   {
+    "order": 30,
+    "component": "EnergyEfficiencyRebateProcessor",
+    "slug": "energy-efficiency-rebate-processor",
+    "subCategory": "Customer programmes",
+    "status": "pending-sync"
+   }
+  ]
+ },
+ {
+  "packName": "Niray Professional Services PCF Pack",
+  "slug": "professional-services-pcf-pack",
+  "industry": "Professional Services",
+  "status": "complete",
+  "componentsPlanned": 30,
+  "componentsBuilt": 30,
+  "price": null,
+  "components": [
+   {
+    "order": 1,
+    "component": "WipBillingReviewConsole",
+    "slug": "wip-billing-review-console",
+    "subCategory": "Billing & revenue",
+    "status": "pending-sync"
+   },
+   {
+    "order": 2,
+    "component": "ConflictCheckIntakeDesk",
+    "slug": "conflict-check-intake-desk",
+    "subCategory": "Risk & intake",
+    "status": "pending-sync"
+   },
+   {
+    "order": 3,
+    "component": "SowChangeOrderManager",
+    "slug": "sow-change-order-manager",
+    "subCategory": "Delivery",
+    "status": "pending-sync"
+   },
+   {
+    "order": 4,
+    "component": "MilestoneBillingScheduler",
+    "slug": "milestone-billing-scheduler",
+    "subCategory": "Billing & revenue",
+    "status": "pending-sync"
+   },
+   {
+    "order": 5,
+    "component": "TimeEntryApprovalWorkbench",
+    "slug": "time-entry-approval-workbench",
+    "subCategory": "Time & expense",
+    "status": "pending-sync"
+   },
+   {
+    "order": 6,
+    "component": "RateCardDealEstimator",
+    "slug": "rate-card-deal-estimator",
+    "subCategory": "Sales",
+    "status": "pending-sync"
+   },
+   {
+    "order": 7,
+    "component": "UtilisationForecastPlanner",
+    "slug": "utilisation-forecast-planner",
+    "subCategory": "Resource management",
+    "status": "pending-sync"
+   },
+   {
+    "order": 8,
+    "component": "ProjectHealthStatusReporter",
+    "slug": "project-health-status-reporter",
+    "subCategory": "Delivery",
+    "status": "pending-sync"
+   },
+   {
+    "order": 9,
+    "component": "EngagementLetterManager",
+    "slug": "engagement-letter-manager",
+    "subCategory": "Client onboarding",
+    "status": "pending-sync"
+   },
+   {
+    "order": 10,
+    "component": "RetainerTrustBalanceManager",
+    "slug": "retainer-trust-balance-manager",
+    "subCategory": "Billing & revenue",
+    "status": "pending-sync"
+   },
+   {
+    "order": 11,
+    "component": "StaffingRequestFulfilmentDesk",
+    "slug": "staffing-request-fulfilment-desk",
+    "subCategory": "Resource management",
+    "status": "pending-sync"
+   },
+   {
+    "order": 12,
+    "component": "ProjectProfitabilityAnalyzer",
+    "slug": "project-profitability-analyzer",
+    "subCategory": "Finance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 13,
+    "component": "RaidLogManager",
+    "slug": "raid-log-manager",
+    "subCategory": "Delivery",
+    "status": "pending-sync"
+   },
+   {
+    "order": 14,
+    "component": "ClientDeliverableAcceptanceTracker",
+    "slug": "client-deliverable-acceptance-tracker",
+    "subCategory": "Delivery",
+    "status": "pending-sync"
+   },
+   {
+    "order": 15,
+    "component": "TaxReturnPipelineTracker",
+    "slug": "tax-return-pipeline-tracker",
+    "subCategory": "Accounting firms",
+    "status": "pending-sync"
+   },
+   {
+    "order": 16,
+    "component": "AuditPbcRequestTracker",
+    "slug": "audit-pbc-request-tracker",
+    "subCategory": "Accounting firms",
+    "status": "pending-sync"
+   },
+   {
+    "order": 17,
+    "component": "LegalMatterBudgetTracker",
+    "slug": "legal-matter-budget-tracker",
+    "subCategory": "Legal",
+    "status": "pending-sync"
+   },
+   {
+    "order": 18,
+    "component": "EbillingInvoiceValidator",
+    "slug": "ebilling-invoice-validator",
+    "subCategory": "Legal",
+    "status": "pending-sync"
+   },
+   {
+    "order": 19,
+    "component": "BenchRollOffPlanner",
+    "slug": "bench-roll-off-planner",
+    "subCategory": "Resource management",
+    "status": "pending-sync"
+   },
+   {
+    "order": 20,
+    "component": "ProjectKickoffReadinessHub",
+    "slug": "project-kickoff-readiness-hub",
+    "subCategory": "Delivery",
+    "status": "pending-sync"
+   },
+   {
+    "order": 21,
+    "component": "OriginationCreditSplitter",
+    "slug": "origination-credit-splitter",
+    "subCategory": "Finance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 22,
+    "component": "RfpResponseManager",
+    "slug": "rfp-response-manager",
+    "subCategory": "Sales",
+    "status": "pending-sync"
+   },
+   {
+    "order": 23,
+    "component": "SubcontractorEngagementManager",
+    "slug": "subcontractor-engagement-manager",
+    "subCategory": "Delivery",
+    "status": "pending-sync"
+   },
+   {
+    "order": 24,
+    "component": "ClientFilingDeadlineTracker",
+    "slug": "client-filing-deadline-tracker",
+    "subCategory": "Accounting firms",
+    "status": "pending-sync"
+   },
+   {
+    "order": 25,
+    "component": "ClientAccountPlanBuilder",
+    "slug": "client-account-plan-builder",
+    "subCategory": "Sales",
+    "status": "pending-sync"
+   },
+   {
+    "order": 26,
+    "component": "AuditWorkpaperSignoffTracker",
+    "slug": "audit-workpaper-signoff-tracker",
+    "subCategory": "Accounting firms",
+    "status": "pending-sync"
+   },
+   {
+    "order": 27,
+    "component": "LegalHoldNoticeManager",
+    "slug": "legal-hold-notice-manager",
+    "subCategory": "Legal",
+    "status": "pending-sync"
+   },
+   {
+    "order": 28,
+    "component": "ContractObligationTracker",
+    "slug": "contract-obligation-tracker",
+    "subCategory": "Legal",
+    "status": "pending-sync"
+   },
+   {
+    "order": 29,
+    "component": "ClientFeedbackNpsLoop",
+    "slug": "client-feedback-nps-loop",
+    "subCategory": "Client experience",
+    "status": "pending-sync"
+   },
+   {
+    "order": 30,
+    "component": "IndependenceConfirmationTracker",
+    "slug": "independence-confirmation-tracker",
+    "subCategory": "Risk & intake",
+    "status": "pending-sync"
+   }
+  ]
+ },
+ {
+  "packName": "Niray Agriculture PCF Pack",
+  "slug": "agriculture-pcf-pack",
+  "industry": "Agriculture",
+  "status": "complete",
+  "componentsPlanned": 30,
+  "componentsBuilt": 30,
+  "price": null,
+  "components": [
+   {
+    "order": 1,
+    "component": "SprayApplicationRecordManager",
+    "slug": "spray-application-record-manager",
+    "subCategory": "Crop protection",
+    "status": "pending-sync"
+   },
+   {
+    "order": 2,
+    "component": "GrainIntakeWeighbridgeConsole",
+    "slug": "grain-intake-weighbridge-console",
+    "subCategory": "Grain & storage",
+    "status": "pending-sync"
+   },
+   {
+    "order": 3,
+    "component": "GrowerContractDeliveryTracker",
+    "slug": "grower-contract-delivery-tracker",
+    "subCategory": "Grain & storage",
+    "status": "pending-sync"
+   },
+   {
+    "order": 4,
+    "component": "CropSamplingLabResults",
+    "slug": "crop-sampling-lab-results",
+    "subCategory": "Agronomy",
+    "status": "pending-sync"
+   },
+   {
+    "order": 5,
+    "component": "FieldScoutingObservationApp",
+    "slug": "field-scouting-observations",
+    "subCategory": "Agronomy",
+    "status": "pending-sync"
+   },
+   {
+    "order": 6,
+    "component": "FieldSeasonCropPlanner",
+    "slug": "field-season-crop-planner",
+    "subCategory": "Planning",
+    "status": "pending-sync"
+   },
+   {
+    "order": 7,
+    "component": "NutrientManagementPlanner",
+    "slug": "nutrient-management-planner",
+    "subCategory": "Agronomy",
+    "status": "pending-sync"
+   },
+   {
+    "order": 8,
+    "component": "AgrochemicalStoreInventory",
+    "slug": "agrochemical-store-inventory",
+    "subCategory": "Inputs",
+    "status": "pending-sync"
+   },
+   {
+    "order": 9,
+    "component": "LivestockHerdRegister",
+    "slug": "livestock-herd-register",
+    "subCategory": "Livestock",
+    "status": "pending-sync"
+   },
+   {
+    "order": 10,
+    "component": "AnimalTreatmentWithdrawalLog",
+    "slug": "animal-treatment-withdrawal-log",
+    "subCategory": "Livestock",
+    "status": "pending-sync"
+   },
+   {
+    "order": 11,
+    "component": "BreedingCalvingManager",
+    "slug": "breeding-calving-manager",
+    "subCategory": "Livestock",
+    "status": "pending-sync"
+   },
+   {
+    "order": 12,
+    "component": "DairyMilkQualityTracker",
+    "slug": "dairy-milk-quality-tracker",
+    "subCategory": "Livestock",
+    "status": "pending-sync"
+   },
+   {
+    "order": 13,
+    "component": "FeedRationPlanner",
+    "slug": "feed-ration-planner",
+    "subCategory": "Livestock",
+    "status": "pending-sync"
+   },
+   {
+    "order": 14,
+    "component": "IrrigationSchedulePlanner",
+    "slug": "irrigation-schedule-planner",
+    "subCategory": "Water",
+    "status": "pending-sync"
+   },
+   {
+    "order": 15,
+    "component": "HarvestYieldTracker",
+    "slug": "harvest-yield-tracker",
+    "subCategory": "Harvest",
+    "status": "pending-sync"
+   },
+   {
+    "order": 16,
+    "component": "PackhouseLotTraceability",
+    "slug": "packhouse-lot-traceability",
+    "subCategory": "Harvest",
+    "status": "pending-sync"
+   },
+   {
+    "order": 17,
+    "component": "FarmLabourPieceRateTracker",
+    "slug": "farm-labour-piece-rate-tracker",
+    "subCategory": "Labour",
+    "status": "pending-sync"
+   },
+   {
+    "order": 18,
+    "component": "SeasonalWorkerOnboardingHub",
+    "slug": "seasonal-worker-onboarding-hub",
+    "subCategory": "Labour",
+    "status": "pending-sync"
+   },
+   {
+    "order": 19,
+    "component": "GlobalGapComplianceWorkbook",
+    "slug": "gap-compliance-workbook",
+    "subCategory": "Compliance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 20,
+    "component": "FarmMachineryServiceLog",
+    "slug": "farm-machinery-service-log",
+    "subCategory": "Assets",
+    "status": "pending-sync"
+   },
+   {
+    "order": 21,
+    "component": "GrainBinStorageMonitor",
+    "slug": "grain-bin-storage-monitor",
+    "subCategory": "Grain & storage",
+    "status": "pending-sync"
+   },
+   {
+    "order": 22,
+    "component": "CommoditySalesContractBook",
+    "slug": "commodity-sales-contract-book",
+    "subCategory": "Marketing",
+    "status": "pending-sync"
+   },
+   {
+    "order": 23,
+    "component": "GrowerSettlementStatement",
+    "slug": "grower-settlement-statement",
+    "subCategory": "Finance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 24,
+    "component": "AgriSubsidyClaimTracker",
+    "slug": "agri-subsidy-claim-tracker",
+    "subCategory": "Finance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 25,
+    "component": "CropInsuranceLossClaim",
+    "slug": "crop-insurance-loss-claim",
+    "subCategory": "Finance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 26,
+    "component": "GreenhouseCropCycleManager",
+    "slug": "greenhouse-crop-cycle-manager",
+    "subCategory": "Protected cropping",
+    "status": "pending-sync"
+   },
+   {
+    "order": 27,
+    "component": "OrchardBlockManager",
+    "slug": "orchard-block-manager",
+    "subCategory": "Perennial crops",
+    "status": "pending-sync"
+   },
+   {
+    "order": 28,
+    "component": "HarvestMaturityPickScheduler",
+    "slug": "harvest-maturity-pick-scheduler",
+    "subCategory": "Perennial crops",
+    "status": "pending-sync"
+   },
+   {
+    "order": 29,
+    "component": "CarbonFarmingPracticeLedger",
+    "slug": "carbon-farming-practice-ledger",
+    "subCategory": "Sustainability",
+    "status": "pending-sync"
+   },
+   {
+    "order": 30,
+    "component": "AgInputBookingDesk",
+    "slug": "ag-input-booking-desk",
+    "subCategory": "Ag retail",
+    "status": "pending-sync"
+   }
+  ]
+ },
+ {
+  "packName": "Niray Telecommunications PCF Pack",
+  "slug": "telecommunications-pcf-pack",
+  "industry": "Telecommunications",
+  "status": "complete",
+  "componentsPlanned": 30,
+  "componentsBuilt": 30,
+  "price": null,
+  "components": [
+   {
+    "order": 1,
+    "component": "FibreOrderToActivationTracker",
+    "slug": "fibre-order-to-activation-tracker",
+    "subCategory": "Order fulfilment",
+    "status": "pending-sync"
+   },
+   {
+    "order": 2,
+    "component": "NetworkTroubleTicketConsole",
+    "slug": "network-trouble-ticket-console",
+    "subCategory": "Service assurance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 3,
+    "component": "ChurnSaveDeskWorkbench",
+    "slug": "churn-save-desk-workbench",
+    "subCategory": "Retention",
+    "status": "pending-sync"
+   },
+   {
+    "order": 4,
+    "component": "NumberPortingRequestManager",
+    "slug": "number-porting-request-manager",
+    "subCategory": "Numbering",
+    "status": "pending-sync"
+   },
+   {
+    "order": 5,
+    "component": "CellSiteMaintenanceManager",
+    "slug": "cell-site-maintenance-manager",
+    "subCategory": "Network field ops",
+    "status": "pending-sync"
+   },
+   {
+    "order": 6,
+    "component": "FibreBuildProgressTracker",
+    "slug": "fibre-build-progress-tracker",
+    "subCategory": "Network build",
+    "status": "pending-sync"
+   },
+   {
+    "order": 7,
+    "component": "ServiceabilityAddressChecker",
+    "slug": "serviceability-address-checker",
+    "subCategory": "Sales",
+    "status": "pending-sync"
+   },
+   {
+    "order": 8,
+    "component": "EnterpriseConnectivityQuoteBuilder",
+    "slug": "enterprise-connectivity-quote-builder",
+    "subCategory": "B2B sales",
+    "status": "pending-sync"
+   },
+   {
+    "order": 9,
+    "component": "BillingDisputeResolutionDesk",
+    "slug": "billing-dispute-resolution-desk",
+    "subCategory": "Billing",
+    "status": "pending-sync"
+   },
+   {
+    "order": 10,
+    "component": "InstallJeopardyManager",
+    "slug": "install-jeopardy-manager",
+    "subCategory": "Field fulfilment",
+    "status": "pending-sync"
+   },
+   {
+    "order": 11,
+    "component": "HandsetUpgradeEligibilityDesk",
+    "slug": "handset-upgrade-eligibility-desk",
+    "subCategory": "Devices",
+    "status": "pending-sync"
+   },
+   {
+    "order": 12,
+    "component": "SimInventoryActivationConsole",
+    "slug": "sim-inventory-activation-console",
+    "subCategory": "Devices",
+    "status": "pending-sync"
+   },
+   {
+    "order": 13,
+    "component": "TowerColocationTenancyManager",
+    "slug": "tower-colocation-tenancy-manager",
+    "subCategory": "Infrastructure",
+    "status": "pending-sync"
+   },
+   {
+    "order": 14,
+    "component": "WayleaveEasementTracker",
+    "slug": "wayleave-easement-tracker",
+    "subCategory": "Network build",
+    "status": "pending-sync"
+   },
+   {
+    "order": 15,
+    "component": "NetworkChangeWindowPlanner",
+    "slug": "network-change-window-planner",
+    "subCategory": "Change management",
+    "status": "pending-sync"
+   },
+   {
+    "order": 16,
+    "component": "SlaServiceCreditCalculator",
+    "slug": "sla-service-credit-calculator",
+    "subCategory": "B2B assurance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 17,
+    "component": "RoamingAgreementManager",
+    "slug": "roaming-agreement-manager",
+    "subCategory": "Wholesale",
+    "status": "pending-sync"
+   },
+   {
+    "order": 18,
+    "component": "SpectrumLicenceRegister",
+    "slug": "spectrum-licence-register",
+    "subCategory": "Regulatory",
+    "status": "pending-sync"
+   },
+   {
+    "order": 19,
+    "component": "CircuitInventoryExplorer",
+    "slug": "circuit-inventory-explorer",
+    "subCategory": "Network inventory",
+    "status": "pending-sync"
+   },
+   {
+    "order": 20,
+    "component": "DealerCommissionTracker",
+    "slug": "dealer-commission-tracker",
+    "subCategory": "Channel",
+    "status": "pending-sync"
+   },
+   {
+    "order": 21,
+    "component": "RegulatoryComplaintCaseManager",
+    "slug": "regulatory-complaint-case-manager",
+    "subCategory": "Customer care",
+    "status": "pending-sync"
+   },
+   {
+    "order": 22,
+    "component": "NetworkCapacityPlanningBoard",
+    "slug": "network-capacity-planning-board",
+    "subCategory": "Network planning",
+    "status": "pending-sync"
+   },
+   {
+    "order": 23,
+    "component": "MduBuildingAccessManager",
+    "slug": "mdu-building-access-manager",
+    "subCategory": "Network build",
+    "status": "pending-sync"
+   },
+   {
+    "order": 24,
+    "component": "SubscriptionFraudReviewQueue",
+    "slug": "subscription-fraud-review-queue",
+    "subCategory": "Fraud",
+    "status": "pending-sync"
+   },
+   {
+    "order": 25,
+    "component": "CpeReturnsTracker",
+    "slug": "cpe-returns-tracker",
+    "subCategory": "Devices",
+    "status": "pending-sync"
+   },
+   {
+    "order": 26,
+    "component": "InterconnectSettlementReconciler",
+    "slug": "interconnect-settlement-reconciler",
+    "subCategory": "Wholesale",
+    "status": "pending-sync"
+   },
+   {
+    "order": 27,
+    "component": "BroadbandSpeedComplaintTester",
+    "slug": "broadband-speed-complaint-tester",
+    "subCategory": "Customer care",
+    "status": "pending-sync"
+   },
+   {
+    "order": 28,
+    "component": "PrepaidTopUpPromotionManager",
+    "slug": "prepaid-top-up-promotion-manager",
+    "subCategory": "Marketing",
+    "status": "pending-sync"
+   },
+   {
+    "order": 29,
+    "component": "BusinessMoveRelocationOrders",
+    "slug": "business-move-relocation-orders",
+    "subCategory": "B2B fulfilment",
+    "status": "pending-sync"
+   },
+   {
+    "order": 30,
+    "component": "PoleAttachmentApplicationManager",
+    "slug": "pole-attachment-application-manager",
+    "subCategory": "Network build",
+    "status": "pending-sync"
+   }
+  ]
+ },
+ {
+  "packName": "Niray Construction & Engineering PCF Pack",
+  "slug": "construction-and-engineering-pcf-pack",
+  "industry": "Construction & Engineering",
+  "status": "complete",
+  "componentsPlanned": 30,
+  "componentsBuilt": 30,
+  "price": null,
+  "components": [
+   {
+    "order": 1,
+    "component": "RfiResponseTracker",
+    "slug": "rfi-response-tracker",
+    "subCategory": "Project controls",
+    "status": "pending-sync"
+   },
+   {
+    "order": 2,
+    "component": "SubmittalRegisterManager",
+    "slug": "submittal-register-manager",
+    "subCategory": "Project controls",
+    "status": "pending-sync"
+   },
+   {
+    "order": 3,
+    "component": "ConstructionChangeOrderManager",
+    "slug": "construction-change-order-manager",
+    "subCategory": "Commercial",
+    "status": "pending-sync"
+   },
+   {
+    "order": 4,
+    "component": "PunchListCloseoutManager",
+    "slug": "punch-list-closeout-manager",
+    "subCategory": "Quality & closeout",
+    "status": "pending-sync"
+   },
+   {
+    "order": 5,
+    "component": "DailySiteDiary",
+    "slug": "daily-site-diary",
+    "subCategory": "Field",
+    "status": "pending-sync"
+   },
+   {
+    "order": 6,
+    "component": "PaymentApplicationBuilder",
+    "slug": "payment-application-builder",
+    "subCategory": "Commercial",
+    "status": "pending-sync"
+   },
+   {
+    "order": 7,
+    "component": "SubcontractorPrequalificationHub",
+    "slug": "subcontractor-prequalification-hub",
+    "subCategory": "Preconstruction",
+    "status": "pending-sync"
+   },
+   {
+    "order": 8,
+    "component": "BidPackageLevelingBoard",
+    "slug": "bid-package-leveling-board",
+    "subCategory": "Preconstruction",
+    "status": "pending-sync"
+   },
+   {
+    "order": 9,
+    "component": "LookAheadSchedulePlanner",
+    "slug": "look-ahead-schedule-planner",
+    "subCategory": "Planning",
+    "status": "pending-sync"
+   },
+   {
+    "order": 10,
+    "component": "SiteSafetyObservationManager",
+    "slug": "site-safety-observation-manager",
+    "subCategory": "Safety",
+    "status": "pending-sync"
+   },
+   {
+    "order": 11,
+    "component": "ConcretePourPlanner",
+    "slug": "concrete-pour-planner",
+    "subCategory": "Field",
+    "status": "pending-sync"
+   },
+   {
+    "order": 12,
+    "component": "CraneLiftPlanManager",
+    "slug": "crane-lift-plan-manager",
+    "subCategory": "Field",
+    "status": "pending-sync"
+   },
+   {
+    "order": 13,
+    "component": "DrawingRevisionRegister",
+    "slug": "drawing-revision-register",
+    "subCategory": "Document control",
+    "status": "pending-sync"
+   },
+   {
+    "order": 14,
+    "component": "PlantEquipmentHireTracker",
+    "slug": "plant-equipment-hire-tracker",
+    "subCategory": "Field",
+    "status": "pending-sync"
+   },
+   {
+    "order": 15,
+    "component": "MaterialDeliveryLogistics",
+    "slug": "material-delivery-site-logistics",
+    "subCategory": "Field",
+    "status": "pending-sync"
+   },
+   {
+    "order": 16,
+    "component": "RetentionReleaseTracker",
+    "slug": "retention-release-tracker",
+    "subCategory": "Commercial",
+    "status": "pending-sync"
+   },
+   {
+    "order": 17,
+    "component": "ProjectCostForecastWorkbench",
+    "slug": "project-cost-forecast-workbench",
+    "subCategory": "Commercial",
+    "status": "pending-sync"
+   },
+   {
+    "order": 18,
+    "component": "HandoverCommissioningTracker",
+    "slug": "handover-commissioning-tracker",
+    "subCategory": "Quality & closeout",
+    "status": "pending-sync"
+   },
+   {
+    "order": 19,
+    "component": "DefectsLiabilityWarrantyManager",
+    "slug": "defects-liability-warranty-manager",
+    "subCategory": "Quality & closeout",
+    "status": "pending-sync"
+   },
+   {
+    "order": 20,
+    "component": "SiteLabourTimesheetConsole",
+    "slug": "site-labour-timesheet-console",
+    "subCategory": "Field",
+    "status": "pending-sync"
+   },
+   {
+    "order": 21,
+    "component": "QuantityTakeoffEstimator",
+    "slug": "quantity-takeoff-estimator",
+    "subCategory": "Preconstruction",
+    "status": "pending-sync"
+   },
+   {
+    "order": 22,
+    "component": "BimClashIssueTracker",
+    "slug": "bim-clash-issue-tracker",
+    "subCategory": "Design",
+    "status": "pending-sync"
+   },
+   {
+    "order": 23,
+    "component": "ProjectMeetingMinutesManager",
+    "slug": "project-meeting-minutes-manager",
+    "subCategory": "Project controls",
+    "status": "pending-sync"
+   },
+   {
+    "order": 24,
+    "component": "LienWaiverComplianceTracker",
+    "slug": "lien-waiver-compliance-tracker",
+    "subCategory": "Commercial",
+    "status": "pending-sync"
+   },
+   {
+    "order": 25,
+    "component": "SiteInductionAccessManager",
+    "slug": "site-induction-access-manager",
+    "subCategory": "Safety",
+    "status": "pending-sync"
+   },
+   {
+    "order": 26,
+    "component": "TemporaryWorksRegister",
+    "slug": "temporary-works-register",
+    "subCategory": "Engineering",
+    "status": "pending-sync"
+   },
+   {
+    "order": 27,
+    "component": "InspectionTestPlanManager",
+    "slug": "inspection-test-plan-manager",
+    "subCategory": "Quality & closeout",
+    "status": "pending-sync"
+   },
+   {
+    "order": 28,
+    "component": "EnvironmentalSiteComplianceLog",
+    "slug": "environmental-site-compliance-log",
+    "subCategory": "Safety",
+    "status": "pending-sync"
+   },
+   {
+    "order": 29,
+    "component": "BidGoNoGoDecisionBoard",
+    "slug": "bid-go-no-go-decision-board",
+    "subCategory": "Preconstruction",
+    "status": "pending-sync"
+   },
+   {
+    "order": 30,
+    "component": "ExtensionOfTimeClaimBuilder",
+    "slug": "extension-of-time-claim-builder",
+    "subCategory": "Commercial",
+    "status": "pending-sync"
+   }
+  ]
+ },
+ {
+  "packName": "Niray Legal PCF Pack",
+  "slug": "legal-pcf-pack",
+  "industry": "Legal",
+  "status": "complete",
+  "componentsPlanned": 30,
+  "componentsBuilt": 30,
+  "price": null,
+  "components": [
+   {
+    "order": 1,
+    "component": "LegalRequestFrontDoor",
+    "slug": "legal-request-front-door",
+    "subCategory": "Legal operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 2,
+    "component": "LitigationDeadlineDocketer",
+    "slug": "litigation-deadline-docketer",
+    "subCategory": "Litigation",
+    "status": "pending-sync"
+   },
+   {
+    "order": 3,
+    "component": "ContractRequestNegotiationTracker",
+    "slug": "contract-request-negotiation-tracker",
+    "subCategory": "Contracts",
+    "status": "pending-sync"
+   },
+   {
+    "order": 4,
+    "component": "LitigationExposureRegister",
+    "slug": "litigation-exposure-register",
+    "subCategory": "Litigation",
+    "status": "pending-sync"
+   },
+   {
+    "order": 5,
+    "component": "OutsideCounselPanelManager",
+    "slug": "outside-counsel-panel-manager",
+    "subCategory": "Legal operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 6,
+    "component": "PrivilegeLogBuilder",
+    "slug": "privilege-log-builder",
+    "subCategory": "eDiscovery",
+    "status": "pending-sync"
+   },
+   {
+    "order": 7,
+    "component": "DocumentReviewBatchConsole",
+    "slug": "document-review-batch-console",
+    "subCategory": "eDiscovery",
+    "status": "pending-sync"
+   },
+   {
+    "order": 8,
+    "component": "NdaSelfServiceGenerator",
+    "slug": "nda-self-service-generator",
+    "subCategory": "Contracts",
+    "status": "pending-sync"
+   },
+   {
+    "order": 9,
+    "component": "ClausePlaybookLibrary",
+    "slug": "clause-playbook-library",
+    "subCategory": "Contracts",
+    "status": "pending-sync"
+   },
+   {
+    "order": 10,
+    "component": "SubpoenaResponseTracker",
+    "slug": "subpoena-response-tracker",
+    "subCategory": "Litigation",
+    "status": "pending-sync"
+   },
+   {
+    "order": 11,
+    "component": "TrademarkPortfolioManager",
+    "slug": "trademark-portfolio-manager",
+    "subCategory": "Intellectual property",
+    "status": "pending-sync"
+   },
+   {
+    "order": 12,
+    "component": "PatentPortfolioDocket",
+    "slug": "patent-portfolio-docket",
+    "subCategory": "Intellectual property",
+    "status": "pending-sync"
+   },
+   {
+    "order": 13,
+    "component": "LegalEntityManagementRegister",
+    "slug": "legal-entity-management-register",
+    "subCategory": "Corporate",
+    "status": "pending-sync"
+   },
+   {
+    "order": 14,
+    "component": "DepositionScheduler",
+    "slug": "deposition-scheduler",
+    "subCategory": "Litigation",
+    "status": "pending-sync"
+   },
+   {
+    "order": 15,
+    "component": "TrialExhibitManager",
+    "slug": "trial-exhibit-manager",
+    "subCategory": "Litigation",
+    "status": "pending-sync"
+   },
+   {
+    "order": 16,
+    "component": "RegulatoryChangeTracker",
+    "slug": "regulatory-change-tracker",
+    "subCategory": "Compliance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 17,
+    "component": "DataSubjectRequestManager",
+    "slug": "data-subject-request-manager",
+    "subCategory": "Privacy",
+    "status": "pending-sync"
+   },
+   {
+    "order": 18,
+    "component": "SpeakUpCaseManager",
+    "slug": "speak-up-case-manager",
+    "subCategory": "Compliance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 19,
+    "component": "PolicyAttestationManager",
+    "slug": "policy-attestation-manager",
+    "subCategory": "Compliance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 20,
+    "component": "SettlementAuthorityTracker",
+    "slug": "settlement-authority-tracker",
+    "subCategory": "Litigation",
+    "status": "pending-sync"
+   },
+   {
+    "order": 21,
+    "component": "SigningAuthorityRegister",
+    "slug": "signing-authority-register",
+    "subCategory": "Corporate",
+    "status": "pending-sync"
+   },
+   {
+    "order": 22,
+    "component": "InventionDisclosureReviewBoard",
+    "slug": "invention-disclosure-review-board",
+    "subCategory": "Intellectual property",
+    "status": "pending-sync"
+   },
+   {
+    "order": 23,
+    "component": "ProBonoMatterTracker",
+    "slug": "pro-bono-matter-tracker",
+    "subCategory": "Law firm",
+    "status": "pending-sync"
+   },
+   {
+    "order": 24,
+    "component": "PrecedentKnowledgeBank",
+    "slug": "precedent-knowledge-bank",
+    "subCategory": "Knowledge",
+    "status": "pending-sync"
+   },
+   {
+    "order": 25,
+    "component": "CourtFilingPreparationConsole",
+    "slug": "court-filing-preparation-console",
+    "subCategory": "Litigation",
+    "status": "pending-sync"
+   },
+   {
+    "order": 26,
+    "component": "MatterFileRetentionManager",
+    "slug": "matter-file-retention-manager",
+    "subCategory": "Law firm",
+    "status": "pending-sync"
+   },
+   {
+    "order": 27,
+    "component": "ExpertWitnessManager",
+    "slug": "expert-witness-manager",
+    "subCategory": "Litigation",
+    "status": "pending-sync"
+   },
+   {
+    "order": 28,
+    "component": "TransactionClosingChecklist",
+    "slug": "transaction-closing-checklist",
+    "subCategory": "Corporate",
+    "status": "pending-sync"
+   },
+   {
+    "order": 29,
+    "component": "DueDiligenceFindingsTracker",
+    "slug": "due-diligence-findings-tracker",
+    "subCategory": "Corporate",
+    "status": "pending-sync"
+   },
+   {
+    "order": 30,
+    "component": "LawyerCpdComplianceTracker",
+    "slug": "lawyer-cpd-compliance-tracker",
+    "subCategory": "Law firm",
+    "status": "pending-sync"
+   }
+  ]
+ },
+ {
+  "packName": "Niray Mining & Natural Resources PCF Pack",
+  "slug": "mining-and-natural-resources-pcf-pack",
+  "industry": "Mining & Natural Resources",
+  "status": "complete",
+  "componentsPlanned": 30,
+  "componentsBuilt": 28,
+  "price": null,
+  "components": [
+   {
+    "order": 1,
+    "component": "ShortIntervalControlBoard",
+    "slug": "short-interval-control-board",
+    "subCategory": "Mine Production",
+    "status": "pending-sync"
+   },
+   {
+    "order": 2,
+    "component": "CriticalControlVerificationHub",
+    "slug": "critical-control-verification-hub",
+    "subCategory": "Safety",
+    "status": "pending-sync"
+   },
+   {
+    "order": 3,
+    "component": "EnergyIsolationLotoManager",
+    "slug": "energy-isolation-loto-manager",
+    "subCategory": "Safety",
+    "status": "pending-sync"
+   },
+   {
+    "order": 4,
+    "component": "TailingsFacilityMonitor",
+    "slug": "tailings-facility-monitor",
+    "subCategory": "Tailings & Dams",
+    "status": "pending-sync"
+   },
+   {
+    "order": 5,
+    "component": "DrillBlastPatternManager",
+    "slug": "drill-blast-pattern-manager",
+    "subCategory": "Drill & Blast",
+    "status": "pending-sync"
+   },
+   {
+    "order": 6,
+    "component": "GradeControlSampleTracker",
+    "slug": "grade-control-sample-tracker",
+    "subCategory": "Geology",
+    "status": "pending-sync"
+   },
+   {
+    "order": 7,
+    "component": "StockpileBlendPlanner",
+    "slug": "stockpile-blend-planner",
+    "subCategory": "Mine Production",
+    "status": "pending-sync"
+   },
+   {
+    "order": 8,
+    "component": "HaulFleetDispatchBoard",
+    "slug": "haul-fleet-dispatch-board",
+    "subCategory": "Mine Production",
+    "status": "pending-sync"
+   },
+   {
+    "order": 9,
+    "component": "MobileEquipmentPrestartChecks",
+    "slug": "mobile-equipment-prestart-checks",
+    "subCategory": "Maintenance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 10,
+    "component": "FixedPlantShutdownPlanner",
+    "slug": "fixed-plant-shutdown-planner",
+    "subCategory": "Maintenance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 11,
+    "component": "ComponentChangeoutTracker",
+    "slug": "component-changeout-tracker",
+    "subCategory": "Maintenance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 12,
+    "component": "FifoRosterTravelPlanner",
+    "slug": "fifo-roster-travel-planner",
+    "subCategory": "Workforce",
+    "status": "pending-sync"
+   },
+   {
+    "order": 13,
+    "component": "UndergroundVentilationGasLog",
+    "slug": "underground-ventilation-gas-log",
+    "subCategory": "Underground",
+    "status": "pending-sync"
+   },
+   {
+    "order": 14,
+    "component": "GroundControlInspectionRegister",
+    "slug": "ground-control-inspection-register",
+    "subCategory": "Geotechnical",
+    "status": "pending-sync"
+   },
+   {
+    "order": 15,
+    "component": "ExplorationDrillProgramManager",
+    "slug": "exploration-drill-program-manager",
+    "subCategory": "Exploration",
+    "status": "pending-sync"
+   },
+   {
+    "order": 16,
+    "component": "CoreLoggingWorkbench",
+    "slug": "core-logging-workbench",
+    "subCategory": "Geology",
+    "status": "pending-sync"
+   },
+   {
+    "order": 17,
+    "component": "MineralTenementManager",
+    "slug": "mineral-tenement-manager",
+    "subCategory": "Land & Tenure",
+    "status": "pending-sync"
+   },
+   {
+    "order": 18,
+    "component": "CommunityGrievanceManager",
+    "slug": "community-grievance-manager",
+    "subCategory": "Social Performance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 19,
+    "component": "EnvironmentalLicenceMonitor",
+    "slug": null,
+    "subCategory": "Environment",
+    "status": "covered"
+   },
+   {
+    "order": 20,
+    "component": "SiteWaterBalanceTracker",
+    "slug": "site-water-balance-tracker",
+    "subCategory": "Environment",
+    "status": "pending-sync"
+   },
+   {
+    "order": 21,
+    "component": "RehabilitationClosureTracker",
+    "slug": "rehabilitation-closure-tracker",
+    "subCategory": "Closure",
+    "status": "pending-sync"
+   },
+   {
+    "order": 22,
+    "component": "ConcentrateShipmentScheduler",
+    "slug": "concentrate-shipment-scheduler",
+    "subCategory": "Marketing & Logistics",
+    "status": "pending-sync"
+   },
+   {
+    "order": 23,
+    "component": "MetallurgicalAccountingReconciler",
+    "slug": "metallurgical-accounting-reconciler",
+    "subCategory": "Processing",
+    "status": "pending-sync"
+   },
+   {
+    "order": 24,
+    "component": "EquipmentCompetencyVocTracker",
+    "slug": "equipment-competency-voc-tracker",
+    "subCategory": "Workforce",
+    "status": "pending-sync"
+   },
+   {
+    "order": 25,
+    "component": "HazardObservationReporter",
+    "slug": null,
+    "subCategory": "Safety",
+    "status": "covered"
+   },
+   {
+    "order": 26,
+    "component": "ExplosivesMagazineInventory",
+    "slug": "explosives-magazine-inventory",
+    "subCategory": "Drill & Blast",
+    "status": "pending-sync"
+   },
+   {
+    "order": 27,
+    "component": "UndergroundDevelopmentAdvanceTracker",
+    "slug": "underground-development-advance-tracker",
+    "subCategory": "Underground",
+    "status": "pending-sync"
+   },
+   {
+    "order": 28,
+    "component": "MineralRoyaltyReturnBuilder",
+    "slug": "mineral-royalty-return-builder",
+    "subCategory": "Finance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 29,
+    "component": "EmergencyMusterTracker",
+    "slug": "emergency-muster-tracker",
+    "subCategory": "Safety",
+    "status": "pending-sync"
+   },
+   {
+    "order": 30,
+    "component": "ProcessPlantShiftLogbook",
+    "slug": "process-plant-shift-logbook",
+    "subCategory": "Processing",
+    "status": "pending-sync"
+   }
+  ]
+ },
+ {
+  "packName": "Niray Automotive PCF Pack",
+  "slug": "automotive-pcf-pack",
+  "industry": "Automotive",
+  "status": "complete",
+  "componentsPlanned": 30,
+  "componentsBuilt": 30,
+  "price": null,
+  "components": [
+   {
+    "order": 1,
+    "component": "ServiceLaneRepairOrderManager",
+    "slug": "service-lane-repair-order-manager",
+    "subCategory": "Service",
+    "status": "pending-sync"
+   },
+   {
+    "order": 2,
+    "component": "DigitalVehicleHealthCheck",
+    "slug": "digital-vehicle-health-check",
+    "subCategory": "Service",
+    "status": "pending-sync"
+   },
+   {
+    "order": 3,
+    "component": "UsedVehicleReconTracker",
+    "slug": "used-vehicle-recon-tracker",
+    "subCategory": "Used cars",
+    "status": "pending-sync"
+   },
+   {
+    "order": 4,
+    "component": "TradeInAppraisalWorkbench",
+    "slug": "trade-in-appraisal-workbench",
+    "subCategory": "Used cars",
+    "status": "pending-sync"
+   },
+   {
+    "order": 5,
+    "component": "DealDeskingWorksheet",
+    "slug": "deal-desking-worksheet",
+    "subCategory": "Sales",
+    "status": "pending-sync"
+   },
+   {
+    "order": 6,
+    "component": "FiMenuPresenter",
+    "slug": "fi-menu-presenter",
+    "subCategory": "F&I",
+    "status": "pending-sync"
+   },
+   {
+    "order": 7,
+    "component": "WorkshopLoadingPlanner",
+    "slug": "workshop-loading-planner",
+    "subCategory": "Service",
+    "status": "pending-sync"
+   },
+   {
+    "order": 8,
+    "component": "TechnicianClockingEfficiencyBoard",
+    "slug": "technician-clocking-efficiency-board",
+    "subCategory": "Service",
+    "status": "pending-sync"
+   },
+   {
+    "order": 9,
+    "component": "RecallCampaignCompletionTracker",
+    "slug": "recall-campaign-completion-tracker",
+    "subCategory": "After-sales",
+    "status": "pending-sync"
+   },
+   {
+    "order": 10,
+    "component": "TestDriveBookingManager",
+    "slug": "test-drive-booking-manager",
+    "subCategory": "Sales",
+    "status": "pending-sync"
+   },
+   {
+    "order": 11,
+    "component": "VehicleOrderBankTracker",
+    "slug": "vehicle-order-bank-tracker",
+    "subCategory": "Sales",
+    "status": "pending-sync"
+   },
+   {
+    "order": 12,
+    "component": "VehicleDeliveryHandoverPlanner",
+    "slug": "vehicle-delivery-handover-planner",
+    "subCategory": "Sales",
+    "status": "pending-sync"
+   },
+   {
+    "order": 13,
+    "component": "CourtesyVehicleFleetManager",
+    "slug": "courtesy-vehicle-fleet-manager",
+    "subCategory": "Service",
+    "status": "pending-sync"
+   },
+   {
+    "order": 14,
+    "component": "PartsSpecialOrderTracker",
+    "slug": "parts-special-order-tracker",
+    "subCategory": "Parts",
+    "status": "pending-sync"
+   },
+   {
+    "order": 15,
+    "component": "BodyShopRepairEstimateManager",
+    "slug": "body-shop-repair-estimate-manager",
+    "subCategory": "Collision",
+    "status": "pending-sync"
+   },
+   {
+    "order": 16,
+    "component": "VehicleStockFloorplanAudit",
+    "slug": "vehicle-stock-floorplan-audit",
+    "subCategory": "Finance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 17,
+    "component": "ContractsInTransitFundingTracker",
+    "slug": "contracts-in-transit-funding-tracker",
+    "subCategory": "F&I",
+    "status": "pending-sync"
+   },
+   {
+    "order": 18,
+    "component": "ServiceReminderCampaignPlanner",
+    "slug": "service-reminder-campaign-planner",
+    "subCategory": "Service marketing",
+    "status": "pending-sync"
+   },
+   {
+    "order": 19,
+    "component": "DemonstratorFleetManager",
+    "slug": "demonstrator-fleet-manager",
+    "subCategory": "Sales",
+    "status": "pending-sync"
+   },
+   {
+    "order": 20,
+    "component": "LeaseReturnRemarketingDesk",
+    "slug": "lease-return-remarketing-desk",
+    "subCategory": "Remarketing",
+    "status": "pending-sync"
+   },
+   {
+    "order": 21,
+    "component": "ShowroomTrafficUpsBoard",
+    "slug": "showroom-traffic-ups-board",
+    "subCategory": "Sales",
+    "status": "pending-sync"
+   },
+   {
+    "order": 22,
+    "component": "CoopMarketingFundClaims",
+    "slug": "coop-marketing-fund-claims",
+    "subCategory": "OEM marketing",
+    "status": "pending-sync"
+   },
+   {
+    "order": 23,
+    "component": "DealerStandardsAuditManager",
+    "slug": "dealer-standards-audit-manager",
+    "subCategory": "OEM network",
+    "status": "pending-sync"
+   },
+   {
+    "order": 24,
+    "component": "VehicleAllocationPlanner",
+    "slug": "vehicle-allocation-planner",
+    "subCategory": "OEM network",
+    "status": "pending-sync"
+   },
+   {
+    "order": 25,
+    "component": "EvBatteryHealthCertificate",
+    "slug": "ev-battery-health-certificate",
+    "subCategory": "Used EV",
+    "status": "pending-sync"
+   },
+   {
+    "order": 26,
+    "component": "TyreHotelStorageManager",
+    "slug": "tyre-hotel-storage-manager",
+    "subCategory": "Service",
+    "status": "pending-sync"
+   },
+   {
+    "order": 27,
+    "component": "AccessoryFitmentScheduler",
+    "slug": "accessory-fitment-scheduler",
+    "subCategory": "Sales / parts",
+    "status": "pending-sync"
+   },
+   {
+    "order": 28,
+    "component": "VehicleTransportMovementBoard",
+    "slug": "vehicle-transport-movement-board",
+    "subCategory": "Logistics",
+    "status": "pending-sync"
+   },
+   {
+    "order": 29,
+    "component": "PartsCounterQuoteBuilder",
+    "slug": "parts-counter-quote-builder",
+    "subCategory": "Parts",
+    "status": "pending-sync"
+   },
+   {
+    "order": 30,
+    "component": "ConnectedVehicleServiceAlertDesk",
+    "slug": "connected-vehicle-service-alert-desk",
+    "subCategory": "Service",
+    "status": "pending-sync"
+   }
+  ]
+ },
+ {
+  "packName": "Niray Hospitality & Travel PCF Pack",
+  "slug": "hospitality-and-travel-pcf-pack",
+  "industry": "Hospitality & Travel",
+  "status": "complete",
+  "componentsPlanned": 30,
+  "componentsBuilt": 30,
+  "price": null,
+  "components": [
+   {
+    "order": 1,
+    "component": "FrontDeskArrivalsConsole",
+    "slug": "front-desk-arrivals-console",
+    "subCategory": "Hotel front office",
+    "status": "pending-sync"
+   },
+   {
+    "order": 2,
+    "component": "TourDepartureManifestManager",
+    "slug": "tour-departure-manifest-manager",
+    "subCategory": "Tour operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 3,
+    "component": "TravelerDutyOfCareMonitor",
+    "slug": "traveler-duty-of-care-monitor",
+    "subCategory": "Corporate travel",
+    "status": "pending-sync"
+   },
+   {
+    "order": 4,
+    "component": "NightAuditCloseConsole",
+    "slug": "night-audit-close-console",
+    "subCategory": "Hotel finance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 5,
+    "component": "TourCostingQuoteBuilder",
+    "slug": "tour-costing-quote-builder",
+    "subCategory": "Tour operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 6,
+    "component": "SupplierAllotmentManager",
+    "slug": "supplier-allotment-manager",
+    "subCategory": "Tour operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 7,
+    "component": "CorporateTravelRequestApprovals",
+    "slug": "corporate-travel-request-approvals",
+    "subCategory": "Corporate travel",
+    "status": "pending-sync"
+   },
+   {
+    "order": 8,
+    "component": "AirlineIrregularOpsRebookingDesk",
+    "slug": "airline-irops-rebooking-desk",
+    "subCategory": "Airlines",
+    "status": "pending-sync"
+   },
+   {
+    "order": 9,
+    "component": "HotelRevenuePickupAnalyzer",
+    "slug": "hotel-revenue-pickup-analyzer",
+    "subCategory": "Hotel revenue",
+    "status": "pending-sync"
+   },
+   {
+    "order": 10,
+    "component": "AircraftTurnaroundCoordinator",
+    "slug": "aircraft-turnaround-coordinator",
+    "subCategory": "Ground handling",
+    "status": "pending-sync"
+   },
+   {
+    "order": 11,
+    "component": "TravelBookingAmendmentDesk",
+    "slug": "travel-booking-amendment-desk",
+    "subCategory": "Travel agency",
+    "status": "pending-sync"
+   },
+   {
+    "order": 12,
+    "component": "GuestFolioDisputeDesk",
+    "slug": "guest-folio-dispute-desk",
+    "subCategory": "Hotel finance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 13,
+    "component": "RoomOutOfOrderManager",
+    "slug": "room-out-of-order-manager",
+    "subCategory": "Hotel operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 14,
+    "component": "ChannelRateParityMonitor",
+    "slug": "channel-rate-parity-monitor",
+    "subCategory": "Hotel distribution",
+    "status": "pending-sync"
+   },
+   {
+    "order": 15,
+    "component": "TransferDispatchPlanner",
+    "slug": "transfer-dispatch-planner",
+    "subCategory": "DMC / ground transport",
+    "status": "pending-sync"
+   },
+   {
+    "order": 16,
+    "component": "BaggageMishandlingClaimsDesk",
+    "slug": "baggage-mishandling-claims-desk",
+    "subCategory": "Airlines",
+    "status": "pending-sync"
+   },
+   {
+    "order": 17,
+    "component": "CruiseShoreExcursionManager",
+    "slug": "cruise-shore-excursion-manager",
+    "subCategory": "Cruise",
+    "status": "pending-sync"
+   },
+   {
+    "order": 18,
+    "component": "SpaWellnessAppointmentBook",
+    "slug": "spa-wellness-appointment-book",
+    "subCategory": "Hotel spa",
+    "status": "pending-sync"
+   },
+   {
+    "order": 19,
+    "component": "TravelAgentCommissionReconciler",
+    "slug": "travel-agent-commission-reconciler",
+    "subCategory": "Travel agency / hotel",
+    "status": "pending-sync"
+   },
+   {
+    "order": 20,
+    "component": "VisaDocumentReadinessTracker",
+    "slug": "visa-document-readiness-tracker",
+    "subCategory": "Group travel",
+    "status": "pending-sync"
+   },
+   {
+    "order": 21,
+    "component": "CrewLayoverAccommodationPlanner",
+    "slug": "crew-layover-accommodation-planner",
+    "subCategory": "Airlines",
+    "status": "pending-sync"
+   },
+   {
+    "order": 22,
+    "component": "TourGuideAssignmentPlanner",
+    "slug": "tour-guide-assignment-planner",
+    "subCategory": "Tour operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 23,
+    "component": "PassengerSpecialAssistanceDesk",
+    "slug": "passenger-special-assistance-desk",
+    "subCategory": "Airports / airlines",
+    "status": "pending-sync"
+   },
+   {
+    "order": 24,
+    "component": "HotelPreArrivalUpsellManager",
+    "slug": "hotel-pre-arrival-upsell-manager",
+    "subCategory": "Hotel revenue",
+    "status": "pending-sync"
+   },
+   {
+    "order": 25,
+    "component": "TravelPolicyComplianceAuditor",
+    "slug": "travel-policy-compliance-auditor",
+    "subCategory": "Corporate travel",
+    "status": "pending-sync"
+   },
+   {
+    "order": 26,
+    "component": "VacationRentalOwnerStatement",
+    "slug": "vacation-rental-owner-statement",
+    "subCategory": "Vacation rentals",
+    "status": "pending-sync"
+   },
+   {
+    "order": 27,
+    "component": "GolfTeeSheetManager",
+    "slug": "golf-tee-sheet-manager",
+    "subCategory": "Resorts / leisure",
+    "status": "pending-sync"
+   },
+   {
+    "order": 28,
+    "component": "AirportLoungeAccessManager",
+    "slug": "airport-lounge-access-manager",
+    "subCategory": "Airports",
+    "status": "pending-sync"
+   },
+   {
+    "order": 29,
+    "component": "CruiseCabinInventoryAllocator",
+    "slug": "cruise-cabin-inventory-allocator",
+    "subCategory": "Cruise",
+    "status": "pending-sync"
+   },
+   {
+    "order": 30,
+    "component": "AttractionCapacityTimedEntryManager",
+    "slug": "attraction-capacity-timed-entry-manager",
+    "subCategory": "Attractions",
+    "status": "pending-sync"
+   }
+  ]
+ },
+ {
+  "packName": "Niray Pharmaceuticals PCF Pack",
+  "slug": "pharmaceuticals-pcf-pack",
+  "industry": "Pharmaceuticals",
+  "status": "complete",
+  "componentsPlanned": 30,
+  "componentsBuilt": 30,
+  "price": null,
+  "components": [
+   {
+    "order": 1,
+    "component": "BatchRecordReviewReleaseConsole",
+    "slug": "batch-record-review-release-console",
+    "subCategory": "GMP Quality / Batch Disposition",
+    "status": "pending-sync"
+   },
+   {
+    "order": 2,
+    "component": "GmpDeviationInvestigationManager",
+    "slug": "gmp-deviation-investigation-manager",
+    "subCategory": "GMP Quality / Deviations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 3,
+    "component": "AdverseEventCaseIntakeTriage",
+    "slug": "ae-case-intake-triage",
+    "subCategory": "Pharmacovigilance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 4,
+    "component": "ClinicalTrialSupplyDepotManager",
+    "slug": "clinical-trial-supply-depot-manager",
+    "subCategory": "Clinical Supply",
+    "status": "pending-sync"
+   },
+   {
+    "order": 5,
+    "component": "GmpChangeControlBoard",
+    "slug": "gmp-change-control-board",
+    "subCategory": "GMP Quality / Change Control",
+    "status": "pending-sync"
+   },
+   {
+    "order": 6,
+    "component": "StabilityStudyPullScheduler",
+    "slug": "stability-study-pull-scheduler",
+    "subCategory": "QC / Stability",
+    "status": "pending-sync"
+   },
+   {
+    "order": 7,
+    "component": "RegulatorySubmissionTracker",
+    "slug": "regulatory-submission-tracker",
+    "subCategory": "Regulatory Affairs",
+    "status": "pending-sync"
+   },
+   {
+    "order": 8,
+    "component": "MedicalInformationRequestDesk",
+    "slug": "medical-information-request-desk",
+    "subCategory": "Medical Affairs",
+    "status": "pending-sync"
+   },
+   {
+    "order": 9,
+    "component": "LabOosInvestigationTracker",
+    "slug": "lab-oos-investigation-tracker",
+    "subCategory": "QC Lab",
+    "status": "pending-sync"
+   },
+   {
+    "order": 10,
+    "component": "ClinicalSiteActivationTracker",
+    "slug": "clinical-site-activation-tracker",
+    "subCategory": "Clinical Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 11,
+    "component": "GxpTrainingMatrixManager",
+    "slug": "gxp-training-matrix-manager",
+    "subCategory": "GMP Quality / Training",
+    "status": "pending-sync"
+   },
+   {
+    "order": 12,
+    "component": "EquipmentQualificationTracker",
+    "slug": "equipment-qualification-tracker",
+    "subCategory": "Validation",
+    "status": "pending-sync"
+   },
+   {
+    "order": 13,
+    "component": "CleanroomEnvironmentalMonitoringLog",
+    "slug": "cleanroom-environmental-monitoring-log",
+    "subCategory": "Sterile Manufacturing",
+    "status": "pending-sync"
+   },
+   {
+    "order": 14,
+    "component": "SupplierQualificationAuditManager",
+    "slug": "supplier-qualification-audit-manager",
+    "subCategory": "GMP Quality / Suppliers",
+    "status": "pending-sync"
+   },
+   {
+    "order": 15,
+    "component": "SopDocumentLifecycleManager",
+    "slug": "sop-document-lifecycle-manager",
+    "subCategory": "GMP Quality / Documents",
+    "status": "pending-sync"
+   },
+   {
+    "order": 16,
+    "component": "PatientSupportProgramEnrolment",
+    "slug": "patient-support-program-enrolment",
+    "subCategory": "Patient Services",
+    "status": "pending-sync"
+   },
+   {
+    "order": 17,
+    "component": "KolEngagementPlanner",
+    "slug": "kol-engagement-planner",
+    "subCategory": "Medical Affairs",
+    "status": "pending-sync"
+   },
+   {
+    "order": 18,
+    "component": "HcpSpeakerProgramManager",
+    "slug": "hcp-speaker-program-manager",
+    "subCategory": "Commercial Compliance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 19,
+    "component": "SampleAccountabilityReconciler",
+    "slug": "sample-accountability-reconciler",
+    "subCategory": "Commercial Compliance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 20,
+    "component": "ArtworkLabelChangeTracker",
+    "slug": "artwork-label-change-tracker",
+    "subCategory": "Packaging / Labelling",
+    "status": "pending-sync"
+   },
+   {
+    "order": 21,
+    "component": "SerializationExceptionDesk",
+    "slug": "serialisation-exception-desk",
+    "subCategory": "Supply Chain / Serialisation",
+    "status": "pending-sync"
+   },
+   {
+    "order": 22,
+    "component": "ClinicalMonitoringVisitTracker",
+    "slug": "clinical-monitoring-visit-tracker",
+    "subCategory": "Clinical Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 23,
+    "component": "TrialMasterFileCompletenessTracker",
+    "slug": "trial-master-file-completeness-tracker",
+    "subCategory": "Clinical Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 24,
+    "component": "ClinicalProtocolDeviationLog",
+    "slug": "clinical-protocol-deviation-log",
+    "subCategory": "Clinical Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 25,
+    "component": "MarketAccessHtaDossierPlanner",
+    "slug": "market-access-hta-dossier-planner",
+    "subCategory": "Market Access",
+    "status": "pending-sync"
+   },
+   {
+    "order": 26,
+    "component": "AnnualProductQualityReviewBuilder",
+    "slug": "annual-product-quality-review-builder",
+    "subCategory": "GMP Quality / APQR",
+    "status": "pending-sync"
+   },
+   {
+    "order": 27,
+    "component": "CleaningValidationMatrix",
+    "slug": "cleaning-validation-matrix",
+    "subCategory": "Validation",
+    "status": "pending-sync"
+   },
+   {
+    "order": 28,
+    "component": "InvestigatorSitePaymentTracker",
+    "slug": "investigator-site-payment-tracker",
+    "subCategory": "Clinical Finance",
+    "status": "pending-sync"
+   },
+   {
+    "order": 29,
+    "component": "DrugShortageSupplyRiskMonitor",
+    "slug": "drug-shortage-supply-risk-monitor",
+    "subCategory": "Supply Chain",
+    "status": "pending-sync"
+   },
+   {
+    "order": 30,
+    "component": "ProductLaunchReadinessTracker",
+    "slug": "product-launch-readiness-tracker",
+    "subCategory": "Commercial",
+    "status": "pending-sync"
+   }
+  ]
+ },
+ {
+  "packName": "Niray Sports & Fitness PCF Pack",
+  "slug": "sports-and-fitness-pcf-pack",
+  "industry": "Sports & Fitness",
+  "status": "complete",
+  "componentsPlanned": 30,
+  "componentsBuilt": 29,
+  "price": null,
+  "components": [
+   {
+    "order": 1,
+    "component": "GymMemberRetentionRiskConsole",
+    "slug": "gym-member-retention-risk-console",
+    "subCategory": "Club & Membership",
+    "status": "pending-sync"
+   },
+   {
+    "order": 2,
+    "component": "AthleteWellnessReadinessMonitor",
+    "slug": "athlete-wellness-readiness-monitor",
+    "subCategory": "Performance & Sports Science",
+    "status": "pending-sync"
+   },
+   {
+    "order": 3,
+    "component": "TrainingLoadAcwrPlanner",
+    "slug": "training-load-acwr-planner",
+    "subCategory": "Performance & Sports Science",
+    "status": "pending-sync"
+   },
+   {
+    "order": 4,
+    "component": "FixtureSchedulingConflictPlanner",
+    "slug": "fixture-scheduling-conflict-planner",
+    "subCategory": "Leagues & Competitions",
+    "status": "pending-sync"
+   },
+   {
+    "order": 5,
+    "component": "YouthPlayerRegistrationConsole",
+    "slug": "youth-player-registration-console",
+    "subCategory": "Clubs & Grassroots",
+    "status": "pending-sync"
+   },
+   {
+    "order": 6,
+    "component": "SportsInjuryReturnToPlayTracker",
+    "slug": "sports-injury-return-to-play-tracker",
+    "subCategory": "Sports Medicine",
+    "status": "pending-sync"
+   },
+   {
+    "order": 7,
+    "component": "PersonalTrainerSessionPackManager",
+    "slug": "personal-trainer-session-pack-manager",
+    "subCategory": "Fitness Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 8,
+    "component": "TalentScoutingPlayerEvaluator",
+    "slug": "talent-scouting-player-evaluator",
+    "subCategory": "Recruitment & Scouting",
+    "status": "pending-sync"
+   },
+   {
+    "order": 9,
+    "component": "MatchdaySquadSelectionBoard",
+    "slug": "matchday-squad-selection-board",
+    "subCategory": "Team Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 10,
+    "component": "CourtPitchBookingBoard",
+    "slug": "court-pitch-booking-board",
+    "subCategory": "Venues & Facilities",
+    "status": "pending-sync"
+   },
+   {
+    "order": 11,
+    "component": "CoachCredentialSafeguardingTracker",
+    "slug": null,
+    "subCategory": "Clubs & Grassroots",
+    "status": "covered"
+   },
+   {
+    "order": 12,
+    "component": "MatchOfficialAppointmentsManager",
+    "slug": "match-official-appointments-manager",
+    "subCategory": "Leagues & Competitions",
+    "status": "pending-sync"
+   },
+   {
+    "order": 13,
+    "component": "TournamentBracketManager",
+    "slug": "tournament-bracket-manager",
+    "subCategory": "Leagues & Competitions",
+    "status": "pending-sync"
+   },
+   {
+    "order": 14,
+    "component": "SeasonTicketAccountManager",
+    "slug": "season-ticket-account-manager",
+    "subCategory": "Fan & Commercial",
+    "status": "pending-sync"
+   },
+   {
+    "order": 15,
+    "component": "StadiumMatchdayIncidentLog",
+    "slug": "stadium-matchday-incident-log",
+    "subCategory": "Venues & Facilities",
+    "status": "pending-sync"
+   },
+   {
+    "order": 16,
+    "component": "PlayerContractRegistrationManager",
+    "slug": "player-contract-registration-manager",
+    "subCategory": "Team Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 17,
+    "component": "AcademyPlayerDevelopmentPlan",
+    "slug": "academy-player-development-plan",
+    "subCategory": "Performance & Sports Science",
+    "status": "pending-sync"
+   },
+   {
+    "order": 18,
+    "component": "StrengthConditioningProgramBuilder",
+    "slug": "strength-conditioning-program-builder",
+    "subCategory": "Performance & Sports Science",
+    "status": "pending-sync"
+   },
+   {
+    "order": 19,
+    "component": "PerformanceTestingBatteryTracker",
+    "slug": "performance-testing-battery-tracker",
+    "subCategory": "Performance & Sports Science",
+    "status": "pending-sync"
+   },
+   {
+    "order": 20,
+    "component": "GroupFitnessTimetablePlanner",
+    "slug": "group-fitness-timetable-planner",
+    "subCategory": "Fitness Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 21,
+    "component": "ClubOccupancyCheckInMonitor",
+    "slug": "club-occupancy-check-in-monitor",
+    "subCategory": "Fitness Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 22,
+    "component": "AthleteNutritionPlanTracker",
+    "slug": "athlete-nutrition-plan-tracker",
+    "subCategory": "Performance & Sports Science",
+    "status": "pending-sync"
+   },
+   {
+    "order": 23,
+    "component": "SportsCampProgramManager",
+    "slug": "sports-camp-programme-manager",
+    "subCategory": "Clubs & Grassroots",
+    "status": "pending-sync"
+   },
+   {
+    "order": 24,
+    "component": "MemberOnboardingInductionTracker",
+    "slug": "member-onboarding-induction-tracker",
+    "subCategory": "Club & Membership",
+    "status": "pending-sync"
+   },
+   {
+    "order": 25,
+    "component": "SwimSchoolLevelProgressTracker",
+    "slug": "swim-school-level-progress-tracker",
+    "subCategory": "Clubs & Grassroots",
+    "status": "pending-sync"
+   },
+   {
+    "order": 26,
+    "component": "LeagueResultsStandingsManager",
+    "slug": "league-results-standings-manager",
+    "subCategory": "Leagues & Competitions",
+    "status": "pending-sync"
+   },
+   {
+    "order": 27,
+    "component": "DisciplinarySanctionsCaseManager",
+    "slug": "disciplinary-sanctions-case-manager",
+    "subCategory": "Leagues & Competitions",
+    "status": "pending-sync"
+   },
+   {
+    "order": 28,
+    "component": "AntiDopingWhereaboutsTracker",
+    "slug": "anti-doping-whereabouts-tracker",
+    "subCategory": "Sports Medicine",
+    "status": "pending-sync"
+   },
+   {
+    "order": 29,
+    "component": "TeamTravelLogisticsPlanner",
+    "slug": "team-travel-logistics-planner",
+    "subCategory": "Team Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 30,
+    "component": "TeamKitEquipmentIssueTracker",
+    "slug": "team-kit-equipment-issue-tracker",
+    "subCategory": "Team Operations",
+    "status": "pending-sync"
+   }
+  ]
+ },
+ {
+  "packName": "Niray Oil & Gas PCF Pack",
+  "slug": "oil-and-gas-pcf-pack",
+  "industry": "Oil & Gas",
+  "status": "in progress",
+  "componentsPlanned": 30,
+  "componentsBuilt": 30,
+  "price": null,
+  "components": [
+   {
+    "order": 1,
+    "component": "WellIntegrityBarrierManager",
+    "slug": "well-integrity-barrier-manager",
+    "subCategory": "Wells & Integrity",
+    "status": "pending-sync"
+   },
+   {
+    "order": 2,
+    "component": "FieldTicketAfeCoder",
+    "slug": "field-ticket-afe-coder",
+    "subCategory": "Field Spend",
+    "status": "pending-sync"
+   },
+   {
+    "order": 3,
+    "component": "DailyDrillingReportBuilder",
+    "slug": "daily-drilling-report-builder",
+    "subCategory": "Drilling",
+    "status": "pending-sync"
+   },
+   {
+    "order": 4,
+    "component": "ProductionDefermentTracker",
+    "slug": "production-deferment-tracker",
+    "subCategory": "Production",
+    "status": "pending-sync"
+   },
+   {
+    "order": 5,
+    "component": "LdarSurveyRepairManager",
+    "slug": "ldar-survey-repair-manager",
+    "subCategory": "Emissions & Environment",
+    "status": "pending-sync"
+   },
+   {
+    "order": 6,
+    "component": "AfeJvApprovalConsole",
+    "slug": "afe-jv-approval-console",
+    "subCategory": "Field Spend",
+    "status": "pending-sync"
+   },
+   {
+    "order": 7,
+    "component": "PumperRouteGaugeSheet",
+    "slug": "pumper-route-gauge-sheet",
+    "subCategory": "Production",
+    "status": "pending-sync"
+   },
+   {
+    "order": 8,
+    "component": "ProcessSafetyMocPssrTracker",
+    "slug": "process-safety-moc-pssr-tracker",
+    "subCategory": "Process Safety",
+    "status": "pending-sync"
+   },
+   {
+    "order": 9,
+    "component": "FlareVentEventLog",
+    "slug": "flare-vent-event-log",
+    "subCategory": "Emissions & Environment",
+    "status": "pending-sync"
+   },
+   {
+    "order": 10,
+    "component": "WellHandoverManager",
+    "slug": "well-handover-manager",
+    "subCategory": "Wells & Integrity",
+    "status": "pending-sync"
+   },
+   {
+    "order": 11,
+    "component": "RigMoveSchedulePlanner",
+    "slug": "rig-move-schedule-planner",
+    "subCategory": "Drilling",
+    "status": "pending-sync"
+   },
+   {
+    "order": 12,
+    "component": "FracStageCompletionTracker",
+    "slug": "frac-stage-completion-tracker",
+    "subCategory": "Completions",
+    "status": "pending-sync"
+   },
+   {
+    "order": 13,
+    "component": "WellInterventionWorkoverPlanner",
+    "slug": "well-intervention-workover-planner",
+    "subCategory": "Wells & Integrity",
+    "status": "pending-sync"
+   },
+   {
+    "order": 14,
+    "component": "PipelinePiggingScheduler",
+    "slug": "pipeline-pigging-scheduler",
+    "subCategory": "Midstream",
+    "status": "pending-sync"
+   },
+   {
+    "order": 15,
+    "component": "CorrosionChemicalProgramTracker",
+    "slug": "corrosion-chemical-program-tracker",
+    "subCategory": "Integrity",
+    "status": "pending-sync"
+   },
+   {
+    "order": 16,
+    "component": "ProducedWaterHaulingTracker",
+    "slug": "produced-water-hauling-tracker",
+    "subCategory": "Production",
+    "status": "pending-sync"
+   },
+   {
+    "order": 17,
+    "component": "TankBatteryInventoryMonitor",
+    "slug": "tank-battery-inventory-monitor",
+    "subCategory": "Production",
+    "status": "pending-sync"
+   },
+   {
+    "order": 18,
+    "component": "GasNominationImbalanceDesk",
+    "slug": "gas-nomination-imbalance-desk",
+    "subCategory": "Midstream",
+    "status": "pending-sync"
+   },
+   {
+    "order": 19,
+    "component": "DivisionOrderOwnerManager",
+    "slug": "division-order-owner-manager",
+    "subCategory": "Land & Revenue",
+    "status": "pending-sync"
+   },
+   {
+    "order": 20,
+    "component": "JointInterestBillingDisputeDesk",
+    "slug": "jib-dispute-desk",
+    "subCategory": "Land & Revenue",
+    "status": "pending-sync"
+   },
+   {
+    "order": 21,
+    "component": "HazopActionCloseoutTracker",
+    "slug": "hazop-action-closeout-tracker",
+    "subCategory": "Process Safety",
+    "status": "pending-sync"
+   },
+   {
+    "order": 22,
+    "component": "SafetyCriticalElementAssurance",
+    "slug": "safety-critical-element-assurance",
+    "subCategory": "Process Safety",
+    "status": "pending-sync"
+   },
+   {
+    "order": 23,
+    "component": "OffshorePobManifestManager",
+    "slug": "offshore-pob-manifest-manager",
+    "subCategory": "Offshore Logistics",
+    "status": "pending-sync"
+   },
+   {
+    "order": 24,
+    "component": "DrillingFluidInventoryTracker",
+    "slug": "drilling-fluid-inventory-tracker",
+    "subCategory": "Drilling",
+    "status": "pending-sync"
+   },
+   {
+    "order": 25,
+    "component": "WellTestAllocationValidator",
+    "slug": "well-test-allocation-validator",
+    "subCategory": "Production",
+    "status": "pending-sync"
+   },
+   {
+    "order": 26,
+    "component": "LoadingRackSlotScheduler",
+    "slug": "loading-rack-slot-scheduler",
+    "subCategory": "Downstream",
+    "status": "pending-sync"
+   },
+   {
+    "order": 27,
+    "component": "SpillReleaseReportingManager",
+    "slug": "spill-release-reporting-manager",
+    "subCategory": "Emissions & Environment",
+    "status": "pending-sync"
+   },
+   {
+    "order": 28,
+    "component": "SimopsConflictPlanner",
+    "slug": "simops-conflict-planner",
+    "subCategory": "Operations",
+    "status": "pending-sync"
+   },
+   {
+    "order": 29,
+    "component": "PlugAbandonmentLiabilityTracker",
+    "slug": "plug-abandonment-liability-tracker",
+    "subCategory": "Wells & Integrity",
+    "status": "pending-sync"
+   },
+   {
+    "order": 30,
+    "component": "MethaneOgmpInventoryReporter",
+    "slug": "methane-ogmp-inventory-reporter",
+    "subCategory": "Emissions & Environment",
+    "status": "pending-sync"
    }
   ]
  }

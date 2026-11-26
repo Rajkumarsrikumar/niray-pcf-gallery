@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/harvest-yield-tracker/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "660f6655"
+ },
+ {
+  "src": "/screens/harvest-yield-tracker/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "35a02357"
+ },
+ {
+  "src": "/screens/harvest-yield-tracker/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Load cards",
+  "mobile": true,
+  "v": "4d3f95be"
+ },
+ {
+  "src": "/screens/harvest-yield-tracker/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Board",
+  "mobile": true,
+  "v": "89b94560"
+ },
+ {
+  "src": "/screens/harvest-yield-tracker/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Fields",
+  "mobile": true,
+  "v": "399632a3"
+ },
+ {
+  "src": "/screens/harvest-yield-tracker/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Field panel",
+  "mobile": true,
+  "v": "447b8023"
+ }
+]

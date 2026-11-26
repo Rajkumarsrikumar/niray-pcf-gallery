@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/warehouse-slotting-optimizer/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "5e4beacf"
+ },
+ {
+  "src": "/screens/warehouse-slotting-optimizer/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "676e93c1"
+ },
+ {
+  "src": "/screens/warehouse-slotting-optimizer/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Sku cards",
+  "mobile": true,
+  "v": "c3c1489c"
+ },
+ {
+  "src": "/screens/warehouse-slotting-optimizer/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "8b6826d7"
+ },
+ {
+  "src": "/screens/warehouse-slotting-optimizer/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Impact",
+  "mobile": true,
+  "v": "8284e2f9"
+ },
+ {
+  "src": "/screens/warehouse-slotting-optimizer/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Sku slotting list",
+  "mobile": false,
+  "v": "5cb462ce"
+ }
+]

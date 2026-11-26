@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/underground-development-advance-tracker/01.webp",
+  "w": 872,
+  "h": 860,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "bc53e648"
+ },
+ {
+  "src": "/screens/underground-development-advance-tracker/02.webp",
+  "w": 373,
+  "h": 752,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "06b08f6f"
+ },
+ {
+  "src": "/screens/underground-development-advance-tracker/03.webp",
+  "w": 373,
+  "h": 752,
+  "caption": "Headings",
+  "mobile": true,
+  "v": "e67d2bfc"
+ },
+ {
+  "src": "/screens/underground-development-advance-tracker/04.webp",
+  "w": 373,
+  "h": 752,
+  "caption": "Board",
+  "mobile": true,
+  "v": "798e63ee"
+ },
+ {
+  "src": "/screens/underground-development-advance-tracker/05.webp",
+  "w": 373,
+  "h": 752,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "caa25f47"
+ },
+ {
+  "src": "/screens/underground-development-advance-tracker/06.webp",
+  "w": 872,
+  "h": 860,
+  "caption": "Dashboard sample data",
+  "mobile": false,
+  "v": "8520a317"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/metallurgical-accounting-reconciler/01.webp",
+  "w": 947,
+  "h": 880,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "df4008d8"
+ },
+ {
+  "src": "/screens/metallurgical-accounting-reconciler/02.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "25c8847f"
+ },
+ {
+  "src": "/screens/metallurgical-accounting-reconciler/03.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Period cards",
+  "mobile": true,
+  "v": "2119487e"
+ },
+ {
+  "src": "/screens/metallurgical-accounting-reconciler/04.webp",
+  "w": 947,
+  "h": 880,
+  "caption": "Periods register",
+  "mobile": false,
+  "v": "c0e24ee2"
+ },
+ {
+  "src": "/screens/metallurgical-accounting-reconciler/05.webp",
+  "w": 947,
+  "h": 880,
+  "caption": "Grouped multiselect",
+  "mobile": false,
+  "v": "0453b1af"
+ },
+ {
+  "src": "/screens/metallurgical-accounting-reconciler/06.webp",
+  "w": 947,
+  "h": 880,
+  "caption": "Bulk status toast undo",
+  "mobile": false,
+  "v": "2a757ecc"
+ }
+]

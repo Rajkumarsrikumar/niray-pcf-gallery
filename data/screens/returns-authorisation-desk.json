@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/returns-authorisation-desk/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo desk",
+  "mobile": false,
+  "v": "3918a3c3"
+ },
+ {
+  "src": "/screens/returns-authorisation-desk/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Desk",
+  "mobile": true,
+  "v": "3ad299ed"
+ },
+ {
+  "src": "/screens/returns-authorisation-desk/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Returns",
+  "mobile": true,
+  "v": "5557e48a"
+ },
+ {
+  "src": "/screens/returns-authorisation-desk/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Disposition",
+  "mobile": true,
+  "v": "5546e935"
+ },
+ {
+  "src": "/screens/returns-authorisation-desk/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "8c37e96e"
+ },
+ {
+  "src": "/screens/returns-authorisation-desk/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo returns",
+  "mobile": false,
+  "v": "480d5852"
+ }
+]
