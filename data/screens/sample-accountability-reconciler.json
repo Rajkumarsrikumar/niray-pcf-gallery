@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/sample-accountability-reconciler/01.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "a98eef09"
+ },
+ {
+  "src": "/screens/sample-accountability-reconciler/02.webp",
+  "w": 341,
+  "h": 740,
+  "caption": "Audit",
+  "mobile": true,
+  "v": "73c66bb8"
+ },
+ {
+  "src": "/screens/sample-accountability-reconciler/03.webp",
+  "w": 341,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "726c830a"
+ },
+ {
+  "src": "/screens/sample-accountability-reconciler/04.webp",
+  "w": 341,
+  "h": 740,
+  "caption": "Home",
+  "mobile": true,
+  "v": "d21c728c"
+ },
+ {
+  "src": "/screens/sample-accountability-reconciler/05.webp",
+  "w": 341,
+  "h": 740,
+  "caption": "Ledger",
+  "mobile": true,
+  "v": "6067ad37"
+ },
+ {
+  "src": "/screens/sample-accountability-reconciler/06.webp",
+  "w": 341,
+  "h": 740,
+  "caption": "Reps",
+  "mobile": true,
+  "v": "feecd6c1"
+ }
+]

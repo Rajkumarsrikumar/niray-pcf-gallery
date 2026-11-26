@@ -106,7 +106,7 @@ def process(tgz):
         shots = [m for m in tf.getmembers() if m.isfile() and "/docs/screenshots/" in m.name and m.name.lower().endswith(".png") and not SKIP.search(os.path.basename(m.name))]
         if not shots:
             print("no screenshots in", tgz); return None
-        comp = shots[0].name.split("/")[0].split("_")[0]
+        comp = re.sub(r"^\./", "", shots[0].name).split("/")[0].split("_")[0]
         slug = slugify(comp)
         ordered = sorted(shots, key=lambda m: rank(os.path.basename(m.name)))
         candidates, seen = [], set()

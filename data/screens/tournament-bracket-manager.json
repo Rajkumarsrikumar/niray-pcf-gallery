@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/tournament-bracket-manager/01.webp",
+  "w": 1012,
+  "h": 1742,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "de51e2b0"
+ },
+ {
+  "src": "/screens/tournament-bracket-manager/02.webp",
+  "w": 746,
+  "h": 1560,
+  "caption": "Bracket",
+  "mobile": false,
+  "v": "131c6d27"
+ },
+ {
+  "src": "/screens/tournament-bracket-manager/03.webp",
+  "w": 746,
+  "h": 1560,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "ee1ed5f2"
+ },
+ {
+  "src": "/screens/tournament-bracket-manager/04.webp",
+  "w": 1012,
+  "h": 1744,
+  "caption": "Bracket single elimination",
+  "mobile": false,
+  "v": "ef9295df"
+ },
+ {
+  "src": "/screens/tournament-bracket-manager/05.webp",
+  "w": 1012,
+  "h": 1744,
+  "caption": "Bracket double elimination",
+  "mobile": false,
+  "v": "c51c620a"
+ },
+ {
+  "src": "/screens/tournament-bracket-manager/06.webp",
+  "w": 1012,
+  "h": 1742,
+  "caption": "Groups standings",
+  "mobile": false,
+  "v": "9dcfb012"
+ }
+]

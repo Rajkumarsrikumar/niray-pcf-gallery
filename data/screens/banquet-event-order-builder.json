@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/banquet-event-order-builder/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "79022232"
+ },
+ {
+  "src": "/screens/banquet-event-order-builder/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "2c57319d"
+ },
+ {
+  "src": "/screens/banquet-event-order-builder/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Events",
+  "mobile": true,
+  "v": "66a777c6"
+ },
+ {
+  "src": "/screens/banquet-event-order-builder/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Diary",
+  "mobile": true,
+  "v": "d313f5d3"
+ },
+ {
+  "src": "/screens/banquet-event-order-builder/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "7867e6ae"
+ },
+ {
+  "src": "/screens/banquet-event-order-builder/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo events",
+  "mobile": false,
+  "v": "7b5757a8"
+ }
+]

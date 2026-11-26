@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/beneficiary-case-manager/01.webp",
+  "w": 1334,
+  "h": 820,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "c752ec64"
+ },
+ {
+  "src": "/screens/beneficiary-case-manager/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "4826868e"
+ },
+ {
+  "src": "/screens/beneficiary-case-manager/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Cases",
+  "mobile": true,
+  "v": "d6a7b815"
+ },
+ {
+  "src": "/screens/beneficiary-case-manager/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "7e3c306c"
+ },
+ {
+  "src": "/screens/beneficiary-case-manager/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Reviews",
+  "mobile": true,
+  "v": "cda91b70"
+ },
+ {
+  "src": "/screens/beneficiary-case-manager/06.webp",
+  "w": 1334,
+  "h": 820,
+  "caption": "Demo cases",
+  "mobile": false,
+  "v": "f10b4b20"
+ }
+]

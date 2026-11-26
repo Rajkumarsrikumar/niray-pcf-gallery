@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/supplier-allotment-manager/01.webp",
+  "w": 1364,
+  "h": 820,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "b5366919"
+ },
+ {
+  "src": "/screens/supplier-allotment-manager/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "a47c1595"
+ },
+ {
+  "src": "/screens/supplier-allotment-manager/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Allotment cards",
+  "mobile": true,
+  "v": "592f853a"
+ },
+ {
+  "src": "/screens/supplier-allotment-manager/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "70bc6b0d"
+ },
+ {
+  "src": "/screens/supplier-allotment-manager/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Calendar",
+  "mobile": true,
+  "v": "eedbe45d"
+ },
+ {
+  "src": "/screens/supplier-allotment-manager/06.webp",
+  "w": 1364,
+  "h": 820,
+  "caption": "Allotments list",
+  "mobile": false,
+  "v": "bb0c1744"
+ }
+]

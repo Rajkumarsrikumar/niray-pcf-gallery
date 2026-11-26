@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/concentrate-shipment-scheduler/01.webp",
+  "w": 977,
+  "h": 860,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "6271af80"
+ },
+ {
+  "src": "/screens/concentrate-shipment-scheduler/02.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "1138af1f"
+ },
+ {
+  "src": "/screens/concentrate-shipment-scheduler/03.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Shipment cards",
+  "mobile": true,
+  "v": "c5a4e58a"
+ },
+ {
+  "src": "/screens/concentrate-shipment-scheduler/04.webp",
+  "w": 977,
+  "h": 860,
+  "caption": "Shipments register",
+  "mobile": false,
+  "v": "773aad4a"
+ },
+ {
+  "src": "/screens/concentrate-shipment-scheduler/05.webp",
+  "w": 977,
+  "h": 860,
+  "caption": "Grouped multiselect",
+  "mobile": false,
+  "v": "ecec2586"
+ },
+ {
+  "src": "/screens/concentrate-shipment-scheduler/06.webp",
+  "w": 977,
+  "h": 860,
+  "caption": "Bulk status toast undo",
+  "mobile": false,
+  "v": "8b153317"
+ }
+]

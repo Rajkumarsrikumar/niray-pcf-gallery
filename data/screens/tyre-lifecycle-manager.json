@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/tyre-lifecycle-manager/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "a6c53e50"
+ },
+ {
+  "src": "/screens/tyre-lifecycle-manager/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "088e661e"
+ },
+ {
+  "src": "/screens/tyre-lifecycle-manager/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Vehicle",
+  "mobile": true,
+  "v": "7a8e2b53"
+ },
+ {
+  "src": "/screens/tyre-lifecycle-manager/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Register",
+  "mobile": true,
+  "v": "845be81b"
+ },
+ {
+  "src": "/screens/tyre-lifecycle-manager/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Editor",
+  "mobile": true,
+  "v": "5b3b3114"
+ },
+ {
+  "src": "/screens/tyre-lifecycle-manager/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Vehicles axles",
+  "mobile": false,
+  "v": "43e3526d"
+ }
+]

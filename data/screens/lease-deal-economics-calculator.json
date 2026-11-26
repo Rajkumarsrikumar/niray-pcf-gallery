@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/lease-deal-economics-calculator/01.webp",
+  "w": 1366,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "6ce3bba6"
+ },
+ {
+  "src": "/screens/lease-deal-economics-calculator/02.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "1ff304f8"
+ },
+ {
+  "src": "/screens/lease-deal-economics-calculator/03.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Offer cards",
+  "mobile": true,
+  "v": "d5bd2734"
+ },
+ {
+  "src": "/screens/lease-deal-economics-calculator/04.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "82f4c162"
+ },
+ {
+  "src": "/screens/lease-deal-economics-calculator/05.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Compare",
+  "mobile": true,
+  "v": "9622a3c5"
+ },
+ {
+  "src": "/screens/lease-deal-economics-calculator/06.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Cashflow",
+  "mobile": true,
+  "v": "a413a687"
+ }
+]

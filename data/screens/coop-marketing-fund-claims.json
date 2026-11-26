@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/coop-marketing-fund-claims/01.webp",
+  "w": 1400,
+  "h": 1182,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "fcd1a2b4"
+ },
+ {
+  "src": "/screens/coop-marketing-fund-claims/02.webp",
+  "w": 746,
+  "h": 1560,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "dcf1ca63"
+ },
+ {
+  "src": "/screens/coop-marketing-fund-claims/03.webp",
+  "w": 746,
+  "h": 1560,
+  "caption": "Claims",
+  "mobile": false,
+  "v": "95b48570"
+ },
+ {
+  "src": "/screens/coop-marketing-fund-claims/04.webp",
+  "w": 746,
+  "h": 1560,
+  "caption": "Pipeline lane switch",
+  "mobile": false,
+  "v": "720c4978"
+ },
+ {
+  "src": "/screens/coop-marketing-fund-claims/05.webp",
+  "w": 746,
+  "h": 1560,
+  "caption": "Calendar agenda",
+  "mobile": false,
+  "v": "b02d2a0d"
+ },
+ {
+  "src": "/screens/coop-marketing-fund-claims/06.webp",
+  "w": 746,
+  "h": 1560,
+  "caption": "Fund",
+  "mobile": false,
+  "v": "bf073d45"
+ }
+]

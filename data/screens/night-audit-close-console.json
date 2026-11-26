@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/night-audit-close-console/01.webp",
+  "w": 1364,
+  "h": 820,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "858085b9"
+ },
+ {
+  "src": "/screens/night-audit-close-console/02.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "d6dfcd63"
+ },
+ {
+  "src": "/screens/night-audit-close-console/03.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "More views",
+  "mobile": true,
+  "v": "d637a002"
+ },
+ {
+  "src": "/screens/night-audit-close-console/04.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Noshows",
+  "mobile": true,
+  "v": "965c5f67"
+ },
+ {
+  "src": "/screens/night-audit-close-console/05.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Folio cards",
+  "mobile": true,
+  "v": "d0ab1c68"
+ },
+ {
+  "src": "/screens/night-audit-close-console/06.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Folio detail",
+  "mobile": true,
+  "v": "a2881856"
+ }
+]

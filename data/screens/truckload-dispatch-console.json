@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/truckload-dispatch-console/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "82e4c670"
+ },
+ {
+  "src": "/screens/truckload-dispatch-console/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "c88f21e4"
+ },
+ {
+  "src": "/screens/truckload-dispatch-console/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "50f12255"
+ },
+ {
+  "src": "/screens/truckload-dispatch-console/04.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dispatch board",
+  "mobile": false,
+  "v": "0975215c"
+ },
+ {
+  "src": "/screens/truckload-dispatch-console/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo loads needs action",
+  "mobile": false,
+  "v": "873ce7f4"
+ },
+ {
+  "src": "/screens/truckload-dispatch-console/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo driver timeline",
+  "mobile": false,
+  "v": "d84687c8"
+ }
+]

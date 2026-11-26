@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/shipper-document-hub/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "07cd572d"
+ },
+ {
+  "src": "/screens/shipper-document-hub/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "c9afd9d5"
+ },
+ {
+  "src": "/screens/shipper-document-hub/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Documents",
+  "mobile": true,
+  "v": "89d3617a"
+ },
+ {
+  "src": "/screens/shipper-document-hub/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Due",
+  "mobile": true,
+  "v": "3c004358"
+ },
+ {
+  "src": "/screens/shipper-document-hub/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Editor",
+  "mobile": true,
+  "v": "6993fd90"
+ },
+ {
+  "src": "/screens/shipper-document-hub/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Documents list",
+  "mobile": false,
+  "v": "e4e8ccc4"
+ }
+]

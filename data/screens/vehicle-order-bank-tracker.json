@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/vehicle-order-bank-tracker/01.webp",
+  "w": 1040,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "d5a7abab"
+ },
+ {
+  "src": "/screens/vehicle-order-bank-tracker/02.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "49c87129"
+ },
+ {
+  "src": "/screens/vehicle-order-bank-tracker/03.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Updates",
+  "mobile": true,
+  "v": "d743ec29"
+ },
+ {
+  "src": "/screens/vehicle-order-bank-tracker/04.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Menu",
+  "mobile": true,
+  "v": "21958f98"
+ },
+ {
+  "src": "/screens/vehicle-order-bank-tracker/05.webp",
+  "w": 1040,
+  "h": 900,
+  "caption": "Demo pipeline",
+  "mobile": false,
+  "v": "5c2ae9bd"
+ },
+ {
+  "src": "/screens/vehicle-order-bank-tracker/06.webp",
+  "w": 1040,
+  "h": 900,
+  "caption": "Demo eta",
+  "mobile": false,
+  "v": "1555f951"
+ }
+]

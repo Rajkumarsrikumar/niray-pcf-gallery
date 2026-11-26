@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/production-call-sheet-builder/01.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "5246a2d6"
+ },
+ {
+  "src": "/screens/production-call-sheet-builder/02.webp",
+  "w": 419,
+  "h": 890,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "7b481162"
+ },
+ {
+  "src": "/screens/production-call-sheet-builder/03.webp",
+  "w": 419,
+  "h": 890,
+  "caption": "Call sheet",
+  "mobile": true,
+  "v": "dc21a37f"
+ },
+ {
+  "src": "/screens/production-call-sheet-builder/04.webp",
+  "w": 419,
+  "h": 890,
+  "caption": "Distribution",
+  "mobile": true,
+  "v": "c81341a8"
+ },
+ {
+  "src": "/screens/production-call-sheet-builder/05.webp",
+  "w": 419,
+  "h": 890,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "5f87c0db"
+ },
+ {
+  "src": "/screens/production-call-sheet-builder/06.webp",
+  "w": 419,
+  "h": 890,
+  "caption": "Form",
+  "mobile": true,
+  "v": "46269e9b"
+ }
+]

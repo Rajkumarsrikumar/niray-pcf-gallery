@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/right-of-way-easement-manager/01.webp",
+  "w": 1334,
+  "h": 1000,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "554fe8a4"
+ },
+ {
+  "src": "/screens/right-of-way-easement-manager/02.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "ecac9eeb"
+ },
+ {
+  "src": "/screens/right-of-way-easement-manager/03.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Easements",
+  "mobile": true,
+  "v": "f6a2999b"
+ },
+ {
+  "src": "/screens/right-of-way-easement-manager/04.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Board",
+  "mobile": true,
+  "v": "a2f68921"
+ },
+ {
+  "src": "/screens/right-of-way-easement-manager/05.webp",
+  "w": 1334,
+  "h": 1000,
+  "caption": "Easements",
+  "mobile": false,
+  "v": "3808c8e8"
+ },
+ {
+  "src": "/screens/right-of-way-easement-manager/06.webp",
+  "w": 1334,
+  "h": 1000,
+  "caption": "Need action grouped by project",
+  "mobile": false,
+  "v": "9de09b66"
+ }
+]

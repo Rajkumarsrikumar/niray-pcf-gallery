@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/warehouse-wave-planner/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "8ed4d816"
+ },
+ {
+  "src": "/screens/warehouse-wave-planner/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "db2a7c24"
+ },
+ {
+  "src": "/screens/warehouse-wave-planner/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Pool",
+  "mobile": true,
+  "v": "bac48ca9"
+ },
+ {
+  "src": "/screens/warehouse-wave-planner/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Editor",
+  "mobile": true,
+  "v": "2f5fbbd3"
+ },
+ {
+  "src": "/screens/warehouse-wave-planner/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Order pool",
+  "mobile": false,
+  "v": "84cfece7"
+ },
+ {
+  "src": "/screens/warehouse-wave-planner/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Pool grouped carrier",
+  "mobile": false,
+  "v": "1ec1199f"
+ }
+]

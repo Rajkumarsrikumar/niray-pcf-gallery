@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/simops-conflict-planner/01.webp",
+  "w": 1354,
+  "h": 800,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "6c38d855"
+ },
+ {
+  "src": "/screens/simops-conflict-planner/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "ec6511b5"
+ },
+ {
+  "src": "/screens/simops-conflict-planner/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Plan agenda",
+  "mobile": true,
+  "v": "5975204d"
+ },
+ {
+  "src": "/screens/simops-conflict-planner/04.webp",
+  "w": 1354,
+  "h": 800,
+  "caption": "Daily plan",
+  "mobile": false,
+  "v": "7851b6c7"
+ },
+ {
+  "src": "/screens/simops-conflict-planner/05.webp",
+  "w": 1354,
+  "h": 800,
+  "caption": "Plan detail prohibited",
+  "mobile": false,
+  "v": "3b33c714"
+ },
+ {
+  "src": "/screens/simops-conflict-planner/06.webp",
+  "w": 1354,
+  "h": 800,
+  "caption": "Rescheduled clear window",
+  "mobile": false,
+  "v": "88a86e4a"
+ }
+]

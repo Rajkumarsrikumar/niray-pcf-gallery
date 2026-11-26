@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/tour-departure-manifest-manager/01.webp",
+  "w": 1366,
+  "h": 820,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "6d408b99"
+ },
+ {
+  "src": "/screens/tour-departure-manifest-manager/02.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "eda4f98e"
+ },
+ {
+  "src": "/screens/tour-departure-manifest-manager/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Departures",
+  "mobile": true,
+  "v": "f75e5946"
+ },
+ {
+  "src": "/screens/tour-departure-manifest-manager/04.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Manifest",
+  "mobile": true,
+  "v": "54743a3c"
+ },
+ {
+  "src": "/screens/tour-departure-manifest-manager/05.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Passenger cards",
+  "mobile": true,
+  "v": "20110057"
+ },
+ {
+  "src": "/screens/tour-departure-manifest-manager/06.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "139a48d6"
+ }
+]

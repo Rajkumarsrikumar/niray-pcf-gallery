@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/staffing-request-fulfilment-desk/01.webp",
+  "w": 1012,
+  "h": 809,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "0d1fed84"
+ },
+ {
+  "src": "/screens/staffing-request-fulfilment-desk/02.webp",
+  "w": 373,
+  "h": 720,
+  "caption": "M 1 dashboard",
+  "mobile": true,
+  "v": "405007c4"
+ },
+ {
+  "src": "/screens/staffing-request-fulfilment-desk/03.webp",
+  "w": 373,
+  "h": 720,
+  "caption": "M 2 queue cards",
+  "mobile": true,
+  "v": "ec45ce0c"
+ },
+ {
+  "src": "/screens/staffing-request-fulfilment-desk/04.webp",
+  "w": 373,
+  "h": 720,
+  "caption": "M 3 detail",
+  "mobile": true,
+  "v": "b9d0cd25"
+ },
+ {
+  "src": "/screens/staffing-request-fulfilment-desk/05.webp",
+  "w": 373,
+  "h": 720,
+  "caption": "M 6 talent pool",
+  "mobile": true,
+  "v": "ff846107"
+ },
+ {
+  "src": "/screens/staffing-request-fulfilment-desk/06.webp",
+  "w": 978,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "35f69b43"
+ }
+]

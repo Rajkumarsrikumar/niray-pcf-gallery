@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/store-task-execution-hub/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "33aa9f2f"
+ },
+ {
+  "src": "/screens/store-task-execution-hub/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "c879489e"
+ },
+ {
+  "src": "/screens/store-task-execution-hub/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Tasks",
+  "mobile": true,
+  "v": "cfcfb75f"
+ },
+ {
+  "src": "/screens/store-task-execution-hub/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "df58f4f2"
+ },
+ {
+  "src": "/screens/store-task-execution-hub/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo tasks",
+  "mobile": false,
+  "v": "78c7eb16"
+ },
+ {
+  "src": "/screens/store-task-execution-hub/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo board",
+  "mobile": false,
+  "v": "57c43dd9"
+ }
+]

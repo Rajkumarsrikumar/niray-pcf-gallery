@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/regulatory-complaint-case-manager/01.webp",
+  "w": 1366,
+  "h": 780,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "a7bf696e"
+ },
+ {
+  "src": "/screens/regulatory-complaint-case-manager/02.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "fc594428"
+ },
+ {
+  "src": "/screens/regulatory-complaint-case-manager/03.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Cases",
+  "mobile": true,
+  "v": "35148bbb"
+ },
+ {
+  "src": "/screens/regulatory-complaint-case-manager/04.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "5210c0df"
+ },
+ {
+  "src": "/screens/regulatory-complaint-case-manager/05.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Board chips",
+  "mobile": true,
+  "v": "6723ee86"
+ },
+ {
+  "src": "/screens/regulatory-complaint-case-manager/06.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Clock",
+  "mobile": true,
+  "v": "e926cde5"
+ }
+]

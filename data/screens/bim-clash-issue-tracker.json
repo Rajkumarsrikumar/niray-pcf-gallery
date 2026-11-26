@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/bim-clash-issue-tracker/01.webp",
+  "w": 1050,
+  "h": 820,
+  "caption": "Demo mode dashboard",
+  "mobile": false,
+  "v": "1500e87b"
+ },
+ {
+  "src": "/screens/bim-clash-issue-tracker/02.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "ce51c5f3"
+ },
+ {
+  "src": "/screens/bim-clash-issue-tracker/03.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Register cards",
+  "mobile": true,
+  "v": "6a61391b"
+ },
+ {
+  "src": "/screens/bim-clash-issue-tracker/04.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "87948c7c"
+ },
+ {
+  "src": "/screens/bim-clash-issue-tracker/05.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Board",
+  "mobile": true,
+  "v": "70825b72"
+ },
+ {
+  "src": "/screens/bim-clash-issue-tracker/06.webp",
+  "w": 1050,
+  "h": 820,
+  "caption": "Demo matrix",
+  "mobile": false,
+  "v": "b3a4715a"
+ }
+]

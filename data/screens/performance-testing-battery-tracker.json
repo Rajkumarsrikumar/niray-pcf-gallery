@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/performance-testing-battery-tracker/01.webp",
+  "w": 1340,
+  "h": 860,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "94e773da"
+ },
+ {
+  "src": "/screens/performance-testing-battery-tracker/02.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "M dashboard",
+  "mobile": true,
+  "v": "472a6dc4"
+ },
+ {
+  "src": "/screens/performance-testing-battery-tracker/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "M detail",
+  "mobile": true,
+  "v": "754e5711"
+ },
+ {
+  "src": "/screens/performance-testing-battery-tracker/04.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "M matrix",
+  "mobile": true,
+  "v": "583fb0ae"
+ },
+ {
+  "src": "/screens/performance-testing-battery-tracker/05.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "M results",
+  "mobile": true,
+  "v": "926c360a"
+ },
+ {
+  "src": "/screens/performance-testing-battery-tracker/06.webp",
+  "w": 1340,
+  "h": 860,
+  "caption": "Results list",
+  "mobile": false,
+  "v": "2c8dacb5"
+ }
+]

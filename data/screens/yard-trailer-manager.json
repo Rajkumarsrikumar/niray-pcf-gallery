@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/yard-trailer-manager/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo map",
+  "mobile": false,
+  "v": "db1afa5e"
+ },
+ {
+  "src": "/screens/yard-trailer-manager/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Map zone",
+  "mobile": true,
+  "v": "77b542e2"
+ },
+ {
+  "src": "/screens/yard-trailer-manager/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "e9f688f7"
+ },
+ {
+  "src": "/screens/yard-trailer-manager/04.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "581b2b1a"
+ },
+ {
+  "src": "/screens/yard-trailer-manager/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo inventory",
+  "mobile": false,
+  "v": "3e53b3b8"
+ },
+ {
+  "src": "/screens/yard-trailer-manager/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo moves",
+  "mobile": false,
+  "v": "eeacc783"
+ }
+]

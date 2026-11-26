@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/install-jeopardy-manager/01.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "70695670"
+ },
+ {
+  "src": "/screens/install-jeopardy-manager/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "ac463b72"
+ },
+ {
+  "src": "/screens/install-jeopardy-manager/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Risk queue",
+  "mobile": true,
+  "v": "40640e65"
+ },
+ {
+  "src": "/screens/install-jeopardy-manager/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Appointments",
+  "mobile": true,
+  "v": "00d57976"
+ },
+ {
+  "src": "/screens/install-jeopardy-manager/05.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "6471ab2f"
+ },
+ {
+  "src": "/screens/install-jeopardy-manager/06.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Portal",
+  "mobile": true,
+  "v": "40dd12d3"
+ }
+]

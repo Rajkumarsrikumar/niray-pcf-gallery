@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/hazop-action-closeout-tracker/01.webp",
+  "w": 1318,
+  "h": 840,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "5a50be41"
+ },
+ {
+  "src": "/screens/hazop-action-closeout-tracker/02.webp",
+  "w": 373,
+  "h": 772,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "9d41f1d9"
+ },
+ {
+  "src": "/screens/hazop-action-closeout-tracker/03.webp",
+  "w": 373,
+  "h": 772,
+  "caption": "Actions cards",
+  "mobile": true,
+  "v": "8b91417f"
+ },
+ {
+  "src": "/screens/hazop-action-closeout-tracker/04.webp",
+  "w": 373,
+  "h": 772,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "1b0795d5"
+ },
+ {
+  "src": "/screens/hazop-action-closeout-tracker/05.webp",
+  "w": 1318,
+  "h": 840,
+  "caption": "Dashboard connected",
+  "mobile": false,
+  "v": "059b1aa8"
+ },
+ {
+  "src": "/screens/hazop-action-closeout-tracker/06.webp",
+  "w": 1318,
+  "h": 840,
+  "caption": "Actions grid",
+  "mobile": false,
+  "v": "7b131f80"
+ }
+]

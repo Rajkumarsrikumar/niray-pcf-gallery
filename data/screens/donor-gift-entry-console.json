@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/donor-gift-entry-console/01.webp",
+  "w": 1364,
+  "h": 820,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "490915d1"
+ },
+ {
+  "src": "/screens/donor-gift-entry-console/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "7e1ed03f"
+ },
+ {
+  "src": "/screens/donor-gift-entry-console/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Gift cards",
+  "mobile": true,
+  "v": "a7719e24"
+ },
+ {
+  "src": "/screens/donor-gift-entry-console/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "8a742459"
+ },
+ {
+  "src": "/screens/donor-gift-entry-console/05.webp",
+  "w": 1364,
+  "h": 820,
+  "caption": "Csv mapped overview",
+  "mobile": false,
+  "v": "65ec4e7a"
+ },
+ {
+  "src": "/screens/donor-gift-entry-console/06.webp",
+  "w": 1364,
+  "h": 820,
+  "caption": "Batches",
+  "mobile": false,
+  "v": "7734ef9e"
+ }
+]

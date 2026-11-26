@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/conflict-check-intake-desk/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "a1c5b939"
+ },
+ {
+  "src": "/screens/conflict-check-intake-desk/02.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "M 1 dashboard",
+  "mobile": true,
+  "v": "c228eda3"
+ },
+ {
+  "src": "/screens/conflict-check-intake-desk/03.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "M 2 intake cards",
+  "mobile": true,
+  "v": "c320013e"
+ },
+ {
+  "src": "/screens/conflict-check-intake-desk/04.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "M 3 review",
+  "mobile": true,
+  "v": "a6be89cd"
+ },
+ {
+  "src": "/screens/conflict-check-intake-desk/05.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "M 4 pipeline",
+  "mobile": true,
+  "v": "6f92c371"
+ },
+ {
+  "src": "/screens/conflict-check-intake-desk/06.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "M 5 new intake",
+  "mobile": true,
+  "v": "d80ea013"
+ }
+]

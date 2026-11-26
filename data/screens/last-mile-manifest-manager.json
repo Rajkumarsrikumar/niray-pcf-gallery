@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/last-mile-manifest-manager/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "1a020e40"
+ },
+ {
+  "src": "/screens/last-mile-manifest-manager/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "3485ed6f"
+ },
+ {
+  "src": "/screens/last-mile-manifest-manager/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Stops",
+  "mobile": true,
+  "v": "b8989b6a"
+ },
+ {
+  "src": "/screens/last-mile-manifest-manager/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Manifest",
+  "mobile": true,
+  "v": "68cf5496"
+ },
+ {
+  "src": "/screens/last-mile-manifest-manager/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Editor",
+  "mobile": true,
+  "v": "49eaff00"
+ },
+ {
+  "src": "/screens/last-mile-manifest-manager/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Manifests today",
+  "mobile": false,
+  "v": "9d87a6ab"
+ }
+]

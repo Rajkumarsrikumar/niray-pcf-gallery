@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/gmp-change-control-board/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "cfa16d48"
+ },
+ {
+  "src": "/screens/gmp-change-control-board/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "768428c5"
+ },
+ {
+  "src": "/screens/gmp-change-control-board/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Board ccb review",
+  "mobile": true,
+  "v": "cc212cd9"
+ },
+ {
+  "src": "/screens/gmp-change-control-board/04.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Ccb board",
+  "mobile": false,
+  "v": "94a5eef8"
+ },
+ {
+  "src": "/screens/gmp-change-control-board/05.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Board gate blocked",
+  "mobile": false,
+  "v": "16dd6ec5"
+ },
+ {
+  "src": "/screens/gmp-change-control-board/06.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Detail summary gates",
+  "mobile": false,
+  "v": "88096ddc"
+ }
+]

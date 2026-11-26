@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/court-filing-preparation-console/01.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "5cfc5543"
+ },
+ {
+  "src": "/screens/court-filing-preparation-console/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "dff17162"
+ },
+ {
+  "src": "/screens/court-filing-preparation-console/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Preparation",
+  "mobile": true,
+  "v": "1e69d17f"
+ },
+ {
+  "src": "/screens/court-filing-preparation-console/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Board stage chips",
+  "mobile": true,
+  "v": "f51e3ae2"
+ },
+ {
+  "src": "/screens/court-filing-preparation-console/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Filing cards",
+  "mobile": true,
+  "v": "1c40263a"
+ },
+ {
+  "src": "/screens/court-filing-preparation-console/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "8f28b907"
+ }
+]

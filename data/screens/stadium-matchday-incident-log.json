@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/stadium-matchday-incident-log/01.webp",
+  "w": 1328,
+  "h": 1307,
+  "caption": "Control demo",
+  "mobile": false,
+  "v": "d4f0170d"
+ },
+ {
+  "src": "/screens/stadium-matchday-incident-log/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Control",
+  "mobile": true,
+  "v": "ae857a50"
+ },
+ {
+  "src": "/screens/stadium-matchday-incident-log/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Board",
+  "mobile": true,
+  "v": "645f78ec"
+ },
+ {
+  "src": "/screens/stadium-matchday-incident-log/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "ccd392d5"
+ },
+ {
+  "src": "/screens/stadium-matchday-incident-log/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Form",
+  "mobile": true,
+  "v": "837f9c07"
+ },
+ {
+  "src": "/screens/stadium-matchday-incident-log/06.webp",
+  "w": 1328,
+  "h": 560,
+  "caption": "Quick filter medical",
+  "mobile": false,
+  "v": "b5840442"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/pumper-route-gauge-sheet/01.webp",
+  "w": 1330,
+  "h": 860,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "8288a53d"
+ },
+ {
+  "src": "/screens/pumper-route-gauge-sheet/02.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "1eb7e454"
+ },
+ {
+  "src": "/screens/pumper-route-gauge-sheet/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Route sheet",
+  "mobile": true,
+  "v": "21d9a39a"
+ },
+ {
+  "src": "/screens/pumper-route-gauge-sheet/04.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Gauge sheet validation",
+  "mobile": true,
+  "v": "f0bfc7c8"
+ },
+ {
+  "src": "/screens/pumper-route-gauge-sheet/05.webp",
+  "w": 1330,
+  "h": 860,
+  "caption": "Route sheet north loop",
+  "mobile": false,
+  "v": "6939dfcc"
+ },
+ {
+  "src": "/screens/pumper-route-gauge-sheet/06.webp",
+  "w": 1330,
+  "h": 860,
+  "caption": "Route creek pending stops",
+  "mobile": false,
+  "v": "039720e4"
+ }
+]

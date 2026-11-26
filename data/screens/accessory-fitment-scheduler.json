@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/accessory-fitment-scheduler/01.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "505d950b"
+ },
+ {
+  "src": "/screens/accessory-fitment-scheduler/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "59ac7f1e"
+ },
+ {
+  "src": "/screens/accessory-fitment-scheduler/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Deals",
+  "mobile": true,
+  "v": "3cbf154e"
+ },
+ {
+  "src": "/screens/accessory-fitment-scheduler/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "A parts",
+  "mobile": true,
+  "v": "63af17ef"
+ },
+ {
+  "src": "/screens/accessory-fitment-scheduler/05.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Jobs list",
+  "mobile": false,
+  "v": "f8e9efa2"
+ },
+ {
+  "src": "/screens/accessory-fitment-scheduler/06.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Job detail",
+  "mobile": false,
+  "v": "83af6ac4"
+ }
+]

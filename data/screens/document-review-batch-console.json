@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/document-review-batch-console/01.webp",
+  "w": 1320,
+  "h": 860,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "ac7ddea8"
+ },
+ {
+  "src": "/screens/document-review-batch-console/02.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "2c3c90e2"
+ },
+ {
+  "src": "/screens/document-review-batch-console/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Batches",
+  "mobile": true,
+  "v": "2e22d4c5"
+ },
+ {
+  "src": "/screens/document-review-batch-console/04.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "B detail",
+  "mobile": true,
+  "v": "aec4b818"
+ },
+ {
+  "src": "/screens/document-review-batch-console/05.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Batches grid",
+  "mobile": false,
+  "v": "351ec6f6"
+ },
+ {
+  "src": "/screens/document-review-batch-console/06.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Filter drawer",
+  "mobile": false,
+  "v": "2fe205f7"
+ }
+]

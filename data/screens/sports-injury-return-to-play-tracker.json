@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/sports-injury-return-to-play-tracker/01.webp",
+  "w": 1364,
+  "h": 800,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "4dfeac07"
+ },
+ {
+  "src": "/screens/sports-injury-return-to-play-tracker/02.webp",
+  "w": 1364,
+  "h": 800,
+  "caption": "Register",
+  "mobile": false,
+  "v": "c5f6992f"
+ },
+ {
+  "src": "/screens/sports-injury-return-to-play-tracker/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "1ac1b4b1"
+ },
+ {
+  "src": "/screens/sports-injury-return-to-play-tracker/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Register cards",
+  "mobile": true,
+  "v": "09ee24d8"
+ },
+ {
+  "src": "/screens/sports-injury-return-to-play-tracker/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Board",
+  "mobile": true,
+  "v": "5a24ad6b"
+ },
+ {
+  "src": "/screens/sports-injury-return-to-play-tracker/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "452cd4e3"
+ }
+]

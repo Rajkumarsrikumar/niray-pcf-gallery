@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/contracts-in-transit-funding-tracker/01.webp",
+  "w": 957,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "8967991d"
+ },
+ {
+  "src": "/screens/contracts-in-transit-funding-tracker/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "cb9634f9"
+ },
+ {
+  "src": "/screens/contracts-in-transit-funding-tracker/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Pipeline",
+  "mobile": true,
+  "v": "8998729f"
+ },
+ {
+  "src": "/screens/contracts-in-transit-funding-tracker/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Deals",
+  "mobile": true,
+  "v": "2919ffaa"
+ },
+ {
+  "src": "/screens/contracts-in-transit-funding-tracker/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "225bed5c"
+ },
+ {
+  "src": "/screens/contracts-in-transit-funding-tracker/06.webp",
+  "w": 957,
+  "h": 900,
+  "caption": "Demo pipeline",
+  "mobile": false,
+  "v": "cbdea606"
+ }
+]

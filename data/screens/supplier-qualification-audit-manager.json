@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/supplier-qualification-audit-manager/01.webp",
+  "w": 1339,
+  "h": 900,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "80371a71"
+ },
+ {
+  "src": "/screens/supplier-qualification-audit-manager/02.webp",
+  "w": 314,
+  "h": 740,
+  "caption": "Audit plan",
+  "mobile": true,
+  "v": "957cc1a3"
+ },
+ {
+  "src": "/screens/supplier-qualification-audit-manager/03.webp",
+  "w": 314,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "e4bc406e"
+ },
+ {
+  "src": "/screens/supplier-qualification-audit-manager/04.webp",
+  "w": 314,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "92d2cbd5"
+ },
+ {
+  "src": "/screens/supplier-qualification-audit-manager/05.webp",
+  "w": 314,
+  "h": 740,
+  "caption": "Qualification",
+  "mobile": true,
+  "v": "8760ba66"
+ },
+ {
+  "src": "/screens/supplier-qualification-audit-manager/06.webp",
+  "w": 314,
+  "h": 740,
+  "caption": "Suppliers",
+  "mobile": true,
+  "v": "aebe6f0c"
+ }
+]

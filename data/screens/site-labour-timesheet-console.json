@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/site-labour-timesheet-console/01.webp",
+  "w": 1003,
+  "h": 820,
+  "caption": "Demo mode dashboard",
+  "mobile": false,
+  "v": "9ddffde5"
+ },
+ {
+  "src": "/screens/site-labour-timesheet-console/02.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "381be831"
+ },
+ {
+  "src": "/screens/site-labour-timesheet-console/03.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Timecards cards",
+  "mobile": true,
+  "v": "28f62710"
+ },
+ {
+  "src": "/screens/site-labour-timesheet-console/04.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "9aeda835"
+ },
+ {
+  "src": "/screens/site-labour-timesheet-console/05.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Crew week",
+  "mobile": true,
+  "v": "35a2dc76"
+ },
+ {
+  "src": "/screens/site-labour-timesheet-console/06.webp",
+  "w": 1003,
+  "h": 820,
+  "caption": "Demo crew week",
+  "mobile": false,
+  "v": "60c777fe"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/inter-store-transfer-manager/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "e2dce837"
+ },
+ {
+  "src": "/screens/inter-store-transfer-manager/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "21a69c5e"
+ },
+ {
+  "src": "/screens/inter-store-transfer-manager/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Transfers",
+  "mobile": true,
+  "v": "c3b9a1d5"
+ },
+ {
+  "src": "/screens/inter-store-transfer-manager/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Pipeline",
+  "mobile": true,
+  "v": "18e477c8"
+ },
+ {
+  "src": "/screens/inter-store-transfer-manager/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Lines",
+  "mobile": true,
+  "v": "4a09357e"
+ },
+ {
+  "src": "/screens/inter-store-transfer-manager/06.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "857f4b25"
+ }
+]

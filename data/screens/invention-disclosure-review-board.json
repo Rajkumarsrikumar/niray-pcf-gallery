@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/invention-disclosure-review-board/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "eb39d776"
+ },
+ {
+  "src": "/screens/invention-disclosure-review-board/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "09752c0b"
+ },
+ {
+  "src": "/screens/invention-disclosure-review-board/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Pipeline stage chips",
+  "mobile": true,
+  "v": "c5132ab9"
+ },
+ {
+  "src": "/screens/invention-disclosure-review-board/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Register cards",
+  "mobile": true,
+  "v": "21f9f9ef"
+ },
+ {
+  "src": "/screens/invention-disclosure-review-board/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Committee",
+  "mobile": true,
+  "v": "ec7bf9bb"
+ },
+ {
+  "src": "/screens/invention-disclosure-review-board/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "9c0eb8d5"
+ }
+]

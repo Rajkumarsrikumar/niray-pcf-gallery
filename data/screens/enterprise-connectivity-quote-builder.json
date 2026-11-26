@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/enterprise-connectivity-quote-builder/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "6c96650d"
+ },
+ {
+  "src": "/screens/enterprise-connectivity-quote-builder/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "096afb58"
+ },
+ {
+  "src": "/screens/enterprise-connectivity-quote-builder/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Builder",
+  "mobile": true,
+  "v": "15d9e96d"
+ },
+ {
+  "src": "/screens/enterprise-connectivity-quote-builder/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Approvals",
+  "mobile": true,
+  "v": "3ba1b73b"
+ },
+ {
+  "src": "/screens/enterprise-connectivity-quote-builder/05.webp",
+  "w": 1000,
+  "h": 760,
+  "caption": "Quotes grid bulk",
+  "mobile": false,
+  "v": "c310497e"
+ },
+ {
+  "src": "/screens/enterprise-connectivity-quote-builder/06.webp",
+  "w": 1000,
+  "h": 760,
+  "caption": "Builder pending approval",
+  "mobile": false,
+  "v": "8222c5a3"
+ }
+]

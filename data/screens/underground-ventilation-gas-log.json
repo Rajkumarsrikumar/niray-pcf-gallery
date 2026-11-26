@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/underground-ventilation-gas-log/01.webp",
+  "w": 983,
+  "h": 860,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "a705f0e9"
+ },
+ {
+  "src": "/screens/underground-ventilation-gas-log/02.webp",
+  "w": 373,
+  "h": 752,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "4d41a324"
+ },
+ {
+  "src": "/screens/underground-ventilation-gas-log/03.webp",
+  "w": 373,
+  "h": 752,
+  "caption": "Headings",
+  "mobile": true,
+  "v": "4932ea0a"
+ },
+ {
+  "src": "/screens/underground-ventilation-gas-log/04.webp",
+  "w": 373,
+  "h": 752,
+  "caption": "Reentry",
+  "mobile": true,
+  "v": "37296345"
+ },
+ {
+  "src": "/screens/underground-ventilation-gas-log/05.webp",
+  "w": 983,
+  "h": 860,
+  "caption": "Dashboard no2 trend",
+  "mobile": false,
+  "v": "1644d42c"
+ },
+ {
+  "src": "/screens/underground-ventilation-gas-log/06.webp",
+  "w": 983,
+  "h": 860,
+  "caption": "Heading board",
+  "mobile": false,
+  "v": "d3c8e5ff"
+ }
+]

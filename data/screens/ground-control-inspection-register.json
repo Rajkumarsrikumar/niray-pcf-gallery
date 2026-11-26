@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/ground-control-inspection-register/01.webp",
+  "w": 963,
+  "h": 860,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "755e2b60"
+ },
+ {
+  "src": "/screens/ground-control-inspection-register/02.webp",
+  "w": 373,
+  "h": 752,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "e972c57f"
+ },
+ {
+  "src": "/screens/ground-control-inspection-register/03.webp",
+  "w": 373,
+  "h": 752,
+  "caption": "Hazard map",
+  "mobile": true,
+  "v": "5c2e1931"
+ },
+ {
+  "src": "/screens/ground-control-inspection-register/04.webp",
+  "w": 373,
+  "h": 752,
+  "caption": "Risk matrix",
+  "mobile": true,
+  "v": "ff235b71"
+ },
+ {
+  "src": "/screens/ground-control-inspection-register/05.webp",
+  "w": 963,
+  "h": 860,
+  "caption": "Hazard map",
+  "mobile": false,
+  "v": "ce9cfd3c"
+ },
+ {
+  "src": "/screens/ground-control-inspection-register/06.webp",
+  "w": 963,
+  "h": 860,
+  "caption": "Hazard map no entry",
+  "mobile": false,
+  "v": "184b727b"
+ }
+]

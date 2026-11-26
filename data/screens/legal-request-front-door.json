@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/legal-request-front-door/01.webp",
+  "w": 1012,
+  "h": 896,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "d4535cde"
+ },
+ {
+  "src": "/screens/legal-request-front-door/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Queue",
+  "mobile": true,
+  "v": "f5b9d5d6"
+ },
+ {
+  "src": "/screens/legal-request-front-door/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "c6adef57"
+ },
+ {
+  "src": "/screens/legal-request-front-door/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "77ded550"
+ },
+ {
+  "src": "/screens/legal-request-front-door/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "New form",
+  "mobile": true,
+  "v": "7baf917d"
+ },
+ {
+  "src": "/screens/legal-request-front-door/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Board",
+  "mobile": true,
+  "v": "c5f79fc7"
+ }
+]

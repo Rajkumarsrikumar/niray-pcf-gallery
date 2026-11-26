@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/cruise-shore-excursion-manager/01.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "d46cb145"
+ },
+ {
+  "src": "/screens/cruise-shore-excursion-manager/02.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "df9cbc14"
+ },
+ {
+  "src": "/screens/cruise-shore-excursion-manager/03.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Inventory",
+  "mobile": true,
+  "v": "df617f75"
+ },
+ {
+  "src": "/screens/cruise-shore-excursion-manager/04.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Map your columns",
+  "mobile": false,
+  "v": "d46cb145"
+ },
+ {
+  "src": "/screens/cruise-shore-excursion-manager/05.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Dashboard data",
+  "mobile": false,
+  "v": "41feacf8"
+ },
+ {
+  "src": "/screens/cruise-shore-excursion-manager/06.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Excursion inventory",
+  "mobile": false,
+  "v": "19f6e1b8"
+ }
+]

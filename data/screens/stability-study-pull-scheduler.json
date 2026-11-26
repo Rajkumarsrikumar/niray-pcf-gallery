@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/stability-study-pull-scheduler/01.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "a60f63e7"
+ },
+ {
+  "src": "/screens/stability-study-pull-scheduler/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "dc103fd1"
+ },
+ {
+  "src": "/screens/stability-study-pull-scheduler/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Register",
+  "mobile": true,
+  "v": "22236bc0"
+ },
+ {
+  "src": "/screens/stability-study-pull-scheduler/04.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Calendar month",
+  "mobile": false,
+  "v": "fcd33445"
+ },
+ {
+  "src": "/screens/stability-study-pull-scheduler/05.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Calendar next month",
+  "mobile": false,
+  "v": "1cabe870"
+ },
+ {
+  "src": "/screens/stability-study-pull-scheduler/06.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Register open",
+  "mobile": false,
+  "v": "25f27d21"
+ }
+]

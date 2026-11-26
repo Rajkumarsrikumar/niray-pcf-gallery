@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/travel-policy-compliance-auditor/01.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "adb575f4"
+ },
+ {
+  "src": "/screens/travel-policy-compliance-auditor/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "a403c7e3"
+ },
+ {
+  "src": "/screens/travel-policy-compliance-auditor/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Bookings",
+  "mobile": true,
+  "v": "758f3100"
+ },
+ {
+  "src": "/screens/travel-policy-compliance-auditor/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "B detail",
+  "mobile": true,
+  "v": "1adbfbf3"
+ },
+ {
+  "src": "/screens/travel-policy-compliance-auditor/05.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Audit queue board",
+  "mobile": false,
+  "v": "b13501a6"
+ },
+ {
+  "src": "/screens/travel-policy-compliance-auditor/06.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Bookings list",
+  "mobile": false,
+  "v": "dcb0691e"
+ }
+]

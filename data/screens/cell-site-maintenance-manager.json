@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/cell-site-maintenance-manager/01.webp",
+  "w": 1364,
+  "h": 820,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "e04048ee"
+ },
+ {
+  "src": "/screens/cell-site-maintenance-manager/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "14d8f355"
+ },
+ {
+  "src": "/screens/cell-site-maintenance-manager/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Work orders",
+  "mobile": true,
+  "v": "4ab9b31b"
+ },
+ {
+  "src": "/screens/cell-site-maintenance-manager/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "66452b46"
+ },
+ {
+  "src": "/screens/cell-site-maintenance-manager/05.webp",
+  "w": 1364,
+  "h": 820,
+  "caption": "Site health map",
+  "mobile": false,
+  "v": "33b4d60e"
+ },
+ {
+  "src": "/screens/cell-site-maintenance-manager/06.webp",
+  "w": 1364,
+  "h": 820,
+  "caption": "Site panel critical",
+  "mobile": false,
+  "v": "f2660396"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/project-meeting-minutes-manager/01.webp",
+  "w": 976,
+  "h": 820,
+  "caption": "Demo mode dashboard",
+  "mobile": false,
+  "v": "646b985d"
+ },
+ {
+  "src": "/screens/project-meeting-minutes-manager/02.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "33975db9"
+ },
+ {
+  "src": "/screens/project-meeting-minutes-manager/03.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Action cards",
+  "mobile": true,
+  "v": "a4df4546"
+ },
+ {
+  "src": "/screens/project-meeting-minutes-manager/04.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "faa53b21"
+ },
+ {
+  "src": "/screens/project-meeting-minutes-manager/05.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Minutes",
+  "mobile": true,
+  "v": "95999f0b"
+ },
+ {
+  "src": "/screens/project-meeting-minutes-manager/06.webp",
+  "w": 976,
+  "h": 820,
+  "caption": "Demo minutes",
+  "mobile": false,
+  "v": "5a8dbe1c"
+ }
+]

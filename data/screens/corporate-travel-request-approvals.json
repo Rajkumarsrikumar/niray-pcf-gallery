@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/corporate-travel-request-approvals/01.webp",
+  "w": 1348,
+  "h": 820,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "3176a1d2"
+ },
+ {
+  "src": "/screens/corporate-travel-request-approvals/02.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "871629bb"
+ },
+ {
+  "src": "/screens/corporate-travel-request-approvals/03.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Request cards",
+  "mobile": true,
+  "v": "ab2685d0"
+ },
+ {
+  "src": "/screens/corporate-travel-request-approvals/04.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "232ef0cb"
+ },
+ {
+  "src": "/screens/corporate-travel-request-approvals/05.webp",
+  "w": 1348,
+  "h": 820,
+  "caption": "Requests list",
+  "mobile": false,
+  "v": "badf6f92"
+ },
+ {
+  "src": "/screens/corporate-travel-request-approvals/06.webp",
+  "w": 1348,
+  "h": 820,
+  "caption": "Filter drawer",
+  "mobile": false,
+  "v": "86a1d9b0"
+ }
+]

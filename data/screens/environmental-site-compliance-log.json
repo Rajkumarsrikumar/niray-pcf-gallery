@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/environmental-site-compliance-log/01.webp",
+  "w": 1238,
+  "h": 860,
+  "caption": "Demo mode dashboard",
+  "mobile": false,
+  "v": "3cad313b"
+ },
+ {
+  "src": "/screens/environmental-site-compliance-log/02.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "66fdfa81"
+ },
+ {
+  "src": "/screens/environmental-site-compliance-log/03.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "967dad3a"
+ },
+ {
+  "src": "/screens/environmental-site-compliance-log/04.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "Monitors",
+  "mobile": true,
+  "v": "e163fe85"
+ },
+ {
+  "src": "/screens/environmental-site-compliance-log/05.webp",
+  "w": 1238,
+  "h": 860,
+  "caption": "Demo monitors trends",
+  "mobile": false,
+  "v": "feb03504"
+ },
+ {
+  "src": "/screens/environmental-site-compliance-log/06.webp",
+  "w": 1238,
+  "h": 860,
+  "caption": "Live data dashboard",
+  "mobile": false,
+  "v": "1fdcbcbd"
+ }
+]

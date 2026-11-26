@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/site-induction-access-manager/01.webp",
+  "w": 1238,
+  "h": 840,
+  "caption": "Demo mode dashboard",
+  "mobile": false,
+  "v": "2d5f6243"
+ },
+ {
+  "src": "/screens/site-induction-access-manager/02.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "fc9f6751"
+ },
+ {
+  "src": "/screens/site-induction-access-manager/03.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "Worker cards",
+  "mobile": true,
+  "v": "5a26952f"
+ },
+ {
+  "src": "/screens/site-induction-access-manager/04.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "bdf503f3"
+ },
+ {
+  "src": "/screens/site-induction-access-manager/05.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "Gate verdict",
+  "mobile": true,
+  "v": "70c7bd7b"
+ },
+ {
+  "src": "/screens/site-induction-access-manager/06.webp",
+  "w": 1238,
+  "h": 840,
+  "caption": "Demo gate check",
+  "mobile": false,
+  "v": "9cdc9487"
+ }
+]

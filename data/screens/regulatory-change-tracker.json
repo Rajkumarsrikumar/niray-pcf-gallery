@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/regulatory-change-tracker/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "6c4ddeec"
+ },
+ {
+  "src": "/screens/regulatory-change-tracker/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M board",
+  "mobile": true,
+  "v": "54a9eb12"
+ },
+ {
+  "src": "/screens/regulatory-change-tracker/03.webp",
+  "w": 373,
+  "h": 713,
+  "caption": "M dashboard",
+  "mobile": true,
+  "v": "456aa86b"
+ },
+ {
+  "src": "/screens/regulatory-change-tracker/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M more menu",
+  "mobile": true,
+  "v": "2cd7b6d3"
+ },
+ {
+  "src": "/screens/regulatory-change-tracker/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M register cards",
+  "mobile": true,
+  "v": "3583e312"
+ },
+ {
+  "src": "/screens/regulatory-change-tracker/06.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Horizon scan",
+  "mobile": false,
+  "v": "44d2e7ee"
+ }
+]

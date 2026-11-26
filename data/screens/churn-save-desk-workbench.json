@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/churn-save-desk-workbench/01.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "41f5be1a"
+ },
+ {
+  "src": "/screens/churn-save-desk-workbench/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "1599a4ae"
+ },
+ {
+  "src": "/screens/churn-save-desk-workbench/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Requests",
+  "mobile": true,
+  "v": "2dcd87b4"
+ },
+ {
+  "src": "/screens/churn-save-desk-workbench/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "da93b25c"
+ },
+ {
+  "src": "/screens/churn-save-desk-workbench/05.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Pipeline chips",
+  "mobile": true,
+  "v": "f1aa9720"
+ },
+ {
+  "src": "/screens/churn-save-desk-workbench/06.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Callbacks",
+  "mobile": true,
+  "v": "21fbfe14"
+ }
+]

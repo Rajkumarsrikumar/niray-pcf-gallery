@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/project-cost-forecast-workbench/01.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Demo mode dashboard",
+  "mobile": false,
+  "v": "2bab3506"
+ },
+ {
+  "src": "/screens/project-cost-forecast-workbench/02.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "273b5005"
+ },
+ {
+  "src": "/screens/project-cost-forecast-workbench/03.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Report cards",
+  "mobile": true,
+  "v": "436f41f3"
+ },
+ {
+  "src": "/screens/project-cost-forecast-workbench/04.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "5e23670a"
+ },
+ {
+  "src": "/screens/project-cost-forecast-workbench/05.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Analysis",
+  "mobile": true,
+  "v": "56b60bc6"
+ },
+ {
+  "src": "/screens/project-cost-forecast-workbench/06.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Demo analysis",
+  "mobile": false,
+  "v": "e3d54488"
+ }
+]

@@ -1,5 +1,8 @@
 import Icon from "./Icon";
-import { themeFor, type Component } from "@/lib/catalog";
+import { themeFor } from "@/lib/shared";
+import type { CardItem } from "@/lib/catalog";
+
+type Component = CardItem;
 
 function hash(s: string) {
   let h = 2166136261;

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/vehicle-allocation-planner/01.webp",
+  "w": 1298,
+  "h": 920,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "ff631514"
+ },
+ {
+  "src": "/screens/vehicle-allocation-planner/02.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Board",
+  "mobile": true,
+  "v": "756c9038"
+ },
+ {
+  "src": "/screens/vehicle-allocation-planner/03.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Create form",
+  "mobile": true,
+  "v": "876284bc"
+ },
+ {
+  "src": "/screens/vehicle-allocation-planner/04.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "704b0837"
+ },
+ {
+  "src": "/screens/vehicle-allocation-planner/05.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "4e929d58"
+ },
+ {
+  "src": "/screens/vehicle-allocation-planner/06.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Lines",
+  "mobile": true,
+  "v": "f08201e5"
+ }
+]

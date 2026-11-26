@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/proof-of-delivery-exception-desk/01.webp",
+  "w": 1334,
+  "h": 860,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "e495219e"
+ },
+ {
+  "src": "/screens/proof-of-delivery-exception-desk/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "6c66d87f"
+ },
+ {
+  "src": "/screens/proof-of-delivery-exception-desk/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Pod review",
+  "mobile": true,
+  "v": "5d171333"
+ },
+ {
+  "src": "/screens/proof-of-delivery-exception-desk/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Board chips",
+  "mobile": true,
+  "v": "9308d411"
+ },
+ {
+  "src": "/screens/proof-of-delivery-exception-desk/05.webp",
+  "w": 1334,
+  "h": 860,
+  "caption": "Pod review short detected",
+  "mobile": false,
+  "v": "2b7e5dcf"
+ },
+ {
+  "src": "/screens/proof-of-delivery-exception-desk/06.webp",
+  "w": 1334,
+  "h": 860,
+  "caption": "Exception board",
+  "mobile": false,
+  "v": "d9fe01df"
+ }
+]

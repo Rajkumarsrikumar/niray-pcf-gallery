@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/container-demurrage-tracker/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "07bb60d7"
+ },
+ {
+  "src": "/screens/container-demurrage-tracker/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "ed9a7aee"
+ },
+ {
+  "src": "/screens/container-demurrage-tracker/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Board",
+  "mobile": true,
+  "v": "bb66d50b"
+ },
+ {
+  "src": "/screens/container-demurrage-tracker/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Editor",
+  "mobile": true,
+  "v": "08bfbf6f"
+ },
+ {
+  "src": "/screens/container-demurrage-tracker/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Containers list",
+  "mobile": false,
+  "v": "3f2ab604"
+ },
+ {
+  "src": "/screens/container-demurrage-tracker/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Free time board",
+  "mobile": false,
+  "v": "9d16bc5d"
+ }
+]

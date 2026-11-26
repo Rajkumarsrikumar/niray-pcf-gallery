@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/tip-pool-distribution-calculator/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "b94c99c4"
+ },
+ {
+  "src": "/screens/tip-pool-distribution-calculator/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "e59323b7"
+ },
+ {
+  "src": "/screens/tip-pool-distribution-calculator/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Pools",
+  "mobile": true,
+  "v": "dcabfb6b"
+ },
+ {
+  "src": "/screens/tip-pool-distribution-calculator/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Pool",
+  "mobile": true,
+  "v": "4dc9610a"
+ },
+ {
+  "src": "/screens/tip-pool-distribution-calculator/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo pools",
+  "mobile": false,
+  "v": "983d1b40"
+ },
+ {
+  "src": "/screens/tip-pool-distribution-calculator/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo pool calculator",
+  "mobile": false,
+  "v": "bee92380"
+ }
+]

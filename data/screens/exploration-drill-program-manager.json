@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/exploration-drill-program-manager/01.webp",
+  "w": 971,
+  "h": 860,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "e8de22cd"
+ },
+ {
+  "src": "/screens/exploration-drill-program-manager/02.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "44fddfc7"
+ },
+ {
+  "src": "/screens/exploration-drill-program-manager/03.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Rigs",
+  "mobile": true,
+  "v": "5d6b5773"
+ },
+ {
+  "src": "/screens/exploration-drill-program-manager/04.webp",
+  "w": 971,
+  "h": 860,
+  "caption": "Programs",
+  "mobile": false,
+  "v": "b8e8aad2"
+ },
+ {
+  "src": "/screens/exploration-drill-program-manager/05.webp",
+  "w": 971,
+  "h": 860,
+  "caption": "Hole board",
+  "mobile": false,
+  "v": "f4f145dc"
+ },
+ {
+  "src": "/screens/exploration-drill-program-manager/06.webp",
+  "w": 971,
+  "h": 860,
+  "caption": "Detail complete blocked",
+  "mobile": false,
+  "v": "3dd455a3"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/vfx-shot-tracker/01.webp",
+  "w": 1366,
+  "h": 760,
+  "caption": "Demo board",
+  "mobile": false,
+  "v": "92e1bbe1"
+ },
+ {
+  "src": "/screens/vfx-shot-tracker/02.webp",
+  "w": 375,
+  "h": 792,
+  "caption": "Board",
+  "mobile": true,
+  "v": "b057992c"
+ },
+ {
+  "src": "/screens/vfx-shot-tracker/03.webp",
+  "w": 375,
+  "h": 792,
+  "caption": "B client review column",
+  "mobile": true,
+  "v": "2d51ebed"
+ },
+ {
+  "src": "/screens/vfx-shot-tracker/04.webp",
+  "w": 375,
+  "h": 792,
+  "caption": "Detail sheet",
+  "mobile": true,
+  "v": "855af2b3"
+ },
+ {
+  "src": "/screens/vfx-shot-tracker/05.webp",
+  "w": 375,
+  "h": 792,
+  "caption": "Reviews",
+  "mobile": true,
+  "v": "657ab5cb"
+ },
+ {
+  "src": "/screens/vfx-shot-tracker/06.webp",
+  "w": 1366,
+  "h": 760,
+  "caption": "Board episode",
+  "mobile": false,
+  "v": "89fe5109"
+ }
+]

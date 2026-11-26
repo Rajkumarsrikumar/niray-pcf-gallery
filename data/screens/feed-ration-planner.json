@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/feed-ration-planner/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "71720106"
+ },
+ {
+  "src": "/screens/feed-ration-planner/02.webp",
+  "w": 373,
+  "h": 720,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "f180a637"
+ },
+ {
+  "src": "/screens/feed-ration-planner/03.webp",
+  "w": 373,
+  "h": 720,
+  "caption": "Ration cards",
+  "mobile": true,
+  "v": "7e0ef000"
+ },
+ {
+  "src": "/screens/feed-ration-planner/04.webp",
+  "w": 373,
+  "h": 720,
+  "caption": "Ration detail",
+  "mobile": true,
+  "v": "f1681e85"
+ },
+ {
+  "src": "/screens/feed-ration-planner/05.webp",
+  "w": 373,
+  "h": 720,
+  "caption": "Line cards",
+  "mobile": true,
+  "v": "f92e01f2"
+ },
+ {
+  "src": "/screens/feed-ration-planner/06.webp",
+  "w": 373,
+  "h": 720,
+  "caption": "Mixing sheet",
+  "mobile": true,
+  "v": "930ea597"
+ }
+]

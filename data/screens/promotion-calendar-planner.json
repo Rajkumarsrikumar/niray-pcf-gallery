@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/promotion-calendar-planner/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "e24d35df"
+ },
+ {
+  "src": "/screens/promotion-calendar-planner/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "d32a7296"
+ },
+ {
+  "src": "/screens/promotion-calendar-planner/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Calendar agenda",
+  "mobile": true,
+  "v": "3d27c400"
+ },
+ {
+  "src": "/screens/promotion-calendar-planner/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Promotions",
+  "mobile": true,
+  "v": "5734090c"
+ },
+ {
+  "src": "/screens/promotion-calendar-planner/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Readiness",
+  "mobile": true,
+  "v": "a9202f33"
+ },
+ {
+  "src": "/screens/promotion-calendar-planner/06.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "1aa3a004"
+ }
+]

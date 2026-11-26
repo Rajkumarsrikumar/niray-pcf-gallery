@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/vacation-rental-owner-statement/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "379be8ef"
+ },
+ {
+  "src": "/screens/vacation-rental-owner-statement/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "353d5f65"
+ },
+ {
+  "src": "/screens/vacation-rental-owner-statement/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Statements",
+  "mobile": true,
+  "v": "2f8f446e"
+ },
+ {
+  "src": "/screens/vacation-rental-owner-statement/04.webp",
+  "w": 958,
+  "h": 1180,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "2282955e"
+ },
+ {
+  "src": "/screens/vacation-rental-owner-statement/05.webp",
+  "w": 958,
+  "h": 1180,
+  "caption": "Statements board",
+  "mobile": false,
+  "v": "ee690a8e"
+ },
+ {
+  "src": "/screens/vacation-rental-owner-statement/06.webp",
+  "w": 958,
+  "h": 1180,
+  "caption": "Statement document",
+  "mobile": false,
+  "v": "13df733e"
+ }
+]

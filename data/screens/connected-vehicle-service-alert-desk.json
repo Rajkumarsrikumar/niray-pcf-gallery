@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/connected-vehicle-service-alert-desk/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "ab2cda7f"
+ },
+ {
+  "src": "/screens/connected-vehicle-service-alert-desk/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "9fa3847c"
+ },
+ {
+  "src": "/screens/connected-vehicle-service-alert-desk/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Queue",
+  "mobile": true,
+  "v": "87237993"
+ },
+ {
+  "src": "/screens/connected-vehicle-service-alert-desk/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Calendar",
+  "mobile": true,
+  "v": "d58bb9f8"
+ },
+ {
+  "src": "/screens/connected-vehicle-service-alert-desk/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Form",
+  "mobile": true,
+  "v": "f7afbbd7"
+ },
+ {
+  "src": "/screens/connected-vehicle-service-alert-desk/06.webp",
+  "w": 1174,
+  "h": 860,
+  "caption": "Queue",
+  "mobile": false,
+  "v": "981051e7"
+ }
+]

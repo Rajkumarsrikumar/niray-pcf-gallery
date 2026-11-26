@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/price-change-batch-manager/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "76bc8a36"
+ },
+ {
+  "src": "/screens/price-change-batch-manager/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "97153ec8"
+ },
+ {
+  "src": "/screens/price-change-batch-manager/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Batches",
+  "mobile": true,
+  "v": "50606dde"
+ },
+ {
+  "src": "/screens/price-change-batch-manager/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Lines",
+  "mobile": true,
+  "v": "6397495e"
+ },
+ {
+  "src": "/screens/price-change-batch-manager/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Print",
+  "mobile": true,
+  "v": "cff9ccce"
+ },
+ {
+  "src": "/screens/price-change-batch-manager/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Walk",
+  "mobile": true,
+  "v": "815a85f0"
+ }
+]

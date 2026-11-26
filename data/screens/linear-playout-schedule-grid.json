@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/linear-playout-schedule-grid/01.webp",
+  "w": 1366,
+  "h": 760,
+  "caption": "Demo grid",
+  "mobile": false,
+  "v": "e5df4cdd"
+ },
+ {
+  "src": "/screens/linear-playout-schedule-grid/02.webp",
+  "w": 375,
+  "h": 792,
+  "caption": "Grid agenda",
+  "mobile": true,
+  "v": "7c9db38b"
+ },
+ {
+  "src": "/screens/linear-playout-schedule-grid/03.webp",
+  "w": 375,
+  "h": 792,
+  "caption": "Channel sport",
+  "mobile": true,
+  "v": "6dbd0c41"
+ },
+ {
+  "src": "/screens/linear-playout-schedule-grid/04.webp",
+  "w": 375,
+  "h": 792,
+  "caption": "Detail sheet",
+  "mobile": true,
+  "v": "7297e3bc"
+ },
+ {
+  "src": "/screens/linear-playout-schedule-grid/05.webp",
+  "w": 375,
+  "h": 792,
+  "caption": "Epg",
+  "mobile": true,
+  "v": "f4a71af2"
+ },
+ {
+  "src": "/screens/linear-playout-schedule-grid/06.webp",
+  "w": 1366,
+  "h": 760,
+  "caption": "Grid primetime overlap watershed",
+  "mobile": false,
+  "v": "32c3d99c"
+ }
+]

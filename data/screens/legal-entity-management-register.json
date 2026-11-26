@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/legal-entity-management-register/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "a70ddb3d"
+ },
+ {
+  "src": "/screens/legal-entity-management-register/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "M dashboard",
+  "mobile": true,
+  "v": "c2cf2c74"
+ },
+ {
+  "src": "/screens/legal-entity-management-register/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "M detail",
+  "mobile": true,
+  "v": "8fd28072"
+ },
+ {
+  "src": "/screens/legal-entity-management-register/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "M entity cards",
+  "mobile": true,
+  "v": "7c9e25e5"
+ },
+ {
+  "src": "/screens/legal-entity-management-register/05.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "M form validation",
+  "mobile": true,
+  "v": "bbebe53d"
+ },
+ {
+  "src": "/screens/legal-entity-management-register/06.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Entity register",
+  "mobile": false,
+  "v": "9eeabfe3"
+ }
+]

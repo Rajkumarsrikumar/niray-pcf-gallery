@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/explosives-magazine-inventory/01.webp",
+  "w": 1400,
+  "h": 1263,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "5ca4ea23"
+ },
+ {
+  "src": "/screens/explosives-magazine-inventory/02.webp",
+  "w": 746,
+  "h": 1560,
+  "caption": "Ledger cards",
+  "mobile": false,
+  "v": "8acf486c"
+ },
+ {
+  "src": "/screens/explosives-magazine-inventory/03.webp",
+  "w": 746,
+  "h": 1560,
+  "caption": "View menu",
+  "mobile": false,
+  "v": "5c8b1e5a"
+ },
+ {
+  "src": "/screens/explosives-magazine-inventory/04.webp",
+  "w": 1400,
+  "h": 1263,
+  "caption": "Ledger",
+  "mobile": false,
+  "v": "454e8532"
+ },
+ {
+  "src": "/screens/explosives-magazine-inventory/05.webp",
+  "w": 1400,
+  "h": 1263,
+  "caption": "Ledger grouped multiselect",
+  "mobile": false,
+  "v": "d209ecf3"
+ },
+ {
+  "src": "/screens/explosives-magazine-inventory/06.webp",
+  "w": 1400,
+  "h": 1263,
+  "caption": "Verify two person blocked",
+  "mobile": false,
+  "v": "12bf462a"
+ }
+]

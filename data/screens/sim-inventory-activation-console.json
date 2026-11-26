@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/sim-inventory-activation-console/01.webp",
+  "w": 1012,
+  "h": 757,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "ab623627"
+ },
+ {
+  "src": "/screens/sim-inventory-activation-console/02.webp",
+  "w": 1012,
+  "h": 677,
+  "caption": "Malformed config safe defaults",
+  "mobile": false,
+  "v": "f7c6b91a"
+ },
+ {
+  "src": "/screens/sim-inventory-activation-console/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "31ddebc3"
+ },
+ {
+  "src": "/screens/sim-inventory-activation-console/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Swap desk",
+  "mobile": true,
+  "v": "6655dfb0"
+ },
+ {
+  "src": "/screens/sim-inventory-activation-console/05.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Swap detail",
+  "mobile": true,
+  "v": "96fb60a7"
+ },
+ {
+  "src": "/screens/sim-inventory-activation-console/06.webp",
+  "w": 1012,
+  "h": 757,
+  "caption": "Stock and iccid ranges",
+  "mobile": false,
+  "v": "7400222a"
+ }
+]

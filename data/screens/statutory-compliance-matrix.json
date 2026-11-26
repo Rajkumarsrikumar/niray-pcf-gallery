@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/statutory-compliance-matrix/01.webp",
+  "w": 1366,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "8405208c"
+ },
+ {
+  "src": "/screens/statutory-compliance-matrix/02.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "102340cb"
+ },
+ {
+  "src": "/screens/statutory-compliance-matrix/03.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Matrix cards",
+  "mobile": true,
+  "v": "a348cbb9"
+ },
+ {
+  "src": "/screens/statutory-compliance-matrix/04.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Register cards",
+  "mobile": true,
+  "v": "949bb3d1"
+ },
+ {
+  "src": "/screens/statutory-compliance-matrix/05.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "690d762f"
+ },
+ {
+  "src": "/screens/statutory-compliance-matrix/06.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Record result",
+  "mobile": true,
+  "v": "801f19b3"
+ }
+]

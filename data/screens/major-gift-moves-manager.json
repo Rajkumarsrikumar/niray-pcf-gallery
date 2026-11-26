@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/major-gift-moves-manager/01.webp",
+  "w": 1334,
+  "h": 820,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "a762a676"
+ },
+ {
+  "src": "/screens/major-gift-moves-manager/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "661c5500"
+ },
+ {
+  "src": "/screens/major-gift-moves-manager/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Prospects",
+  "mobile": true,
+  "v": "a95ae0bf"
+ },
+ {
+  "src": "/screens/major-gift-moves-manager/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "d05cc2a3"
+ },
+ {
+  "src": "/screens/major-gift-moves-manager/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Moves",
+  "mobile": true,
+  "v": "20c4ac17"
+ },
+ {
+  "src": "/screens/major-gift-moves-manager/06.webp",
+  "w": 1334,
+  "h": 820,
+  "caption": "Demo prospects",
+  "mobile": false,
+  "v": "8398215a"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/food-waste-tracker/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "e74ecdfc"
+ },
+ {
+  "src": "/screens/food-waste-tracker/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "333f653c"
+ },
+ {
+  "src": "/screens/food-waste-tracker/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Trends",
+  "mobile": true,
+  "v": "497cf93c"
+ },
+ {
+  "src": "/screens/food-waste-tracker/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "edbd3032"
+ },
+ {
+  "src": "/screens/food-waste-tracker/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo trends",
+  "mobile": false,
+  "v": "502da31f"
+ },
+ {
+  "src": "/screens/food-waste-tracker/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo targets",
+  "mobile": false,
+  "v": "3c582d82"
+ }
+]

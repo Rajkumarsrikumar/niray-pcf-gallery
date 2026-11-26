@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/talent-scouting-player-evaluator/01.webp",
+  "w": 1364,
+  "h": 800,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "d5cd4a38"
+ },
+ {
+  "src": "/screens/talent-scouting-player-evaluator/02.webp",
+  "w": 1364,
+  "h": 800,
+  "caption": "Players",
+  "mobile": false,
+  "v": "21e92331"
+ },
+ {
+  "src": "/screens/talent-scouting-player-evaluator/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "626323d0"
+ },
+ {
+  "src": "/screens/talent-scouting-player-evaluator/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Players cards",
+  "mobile": true,
+  "v": "9949eab7"
+ },
+ {
+  "src": "/screens/talent-scouting-player-evaluator/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Pipeline",
+  "mobile": true,
+  "v": "19c33116"
+ },
+ {
+  "src": "/screens/talent-scouting-player-evaluator/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Positions",
+  "mobile": true,
+  "v": "3749eb64"
+ }
+]

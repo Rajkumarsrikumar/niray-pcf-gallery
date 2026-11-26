@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/cargo-claims-manager/01.webp",
+  "w": 1334,
+  "h": 860,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "cd3be18c"
+ },
+ {
+  "src": "/screens/cargo-claims-manager/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "db9311b4"
+ },
+ {
+  "src": "/screens/cargo-claims-manager/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Deadlines",
+  "mobile": true,
+  "v": "8b4224b9"
+ },
+ {
+  "src": "/screens/cargo-claims-manager/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Pipeline chips",
+  "mobile": true,
+  "v": "e9cb9ac5"
+ },
+ {
+  "src": "/screens/cargo-claims-manager/05.webp",
+  "w": 1334,
+  "h": 860,
+  "caption": "Deadlines",
+  "mobile": false,
+  "v": "bfa3fb3c"
+ },
+ {
+  "src": "/screens/cargo-claims-manager/06.webp",
+  "w": 1334,
+  "h": 860,
+  "caption": "Pipeline board",
+  "mobile": false,
+  "v": "962c79b0"
+ }
+]

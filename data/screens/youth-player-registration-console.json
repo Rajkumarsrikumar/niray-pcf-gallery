@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/youth-player-registration-console/01.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Overview demo",
+  "mobile": false,
+  "v": "cab80a7d"
+ },
+ {
+  "src": "/screens/youth-player-registration-console/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Checks",
+  "mobile": true,
+  "v": "da428ffd"
+ },
+ {
+  "src": "/screens/youth-player-registration-console/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "cc9d7006"
+ },
+ {
+  "src": "/screens/youth-player-registration-console/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Fees",
+  "mobile": true,
+  "v": "a0d17016"
+ },
+ {
+  "src": "/screens/youth-player-registration-console/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Form",
+  "mobile": true,
+  "v": "3f3d8803"
+ },
+ {
+  "src": "/screens/youth-player-registration-console/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Home",
+  "mobile": true,
+  "v": "7f51d26e"
+ }
+]

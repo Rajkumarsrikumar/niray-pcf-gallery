@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/cruise-cabin-inventory-allocator/01.webp",
+  "w": 1012,
+  "h": 894,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "1ae5bad9"
+ },
+ {
+  "src": "/screens/cruise-cabin-inventory-allocator/02.webp",
+  "w": 373,
+  "h": 752,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "4a236328"
+ },
+ {
+  "src": "/screens/cruise-cabin-inventory-allocator/03.webp",
+  "w": 373,
+  "h": 752,
+  "caption": "Deck plan",
+  "mobile": true,
+  "v": "d4fc9406"
+ },
+ {
+  "src": "/screens/cruise-cabin-inventory-allocator/04.webp",
+  "w": 373,
+  "h": 752,
+  "caption": "Drawer",
+  "mobile": true,
+  "v": "c4b3941e"
+ },
+ {
+  "src": "/screens/cruise-cabin-inventory-allocator/05.webp",
+  "w": 1012,
+  "h": 894,
+  "caption": "Deck plan",
+  "mobile": false,
+  "v": "b0403139"
+ },
+ {
+  "src": "/screens/cruise-cabin-inventory-allocator/06.webp",
+  "w": 1012,
+  "h": 894,
+  "caption": "Allocate auto proposals",
+  "mobile": false,
+  "v": "ba44473c"
+ }
+]

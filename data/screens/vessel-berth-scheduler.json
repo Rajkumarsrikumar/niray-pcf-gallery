@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/vessel-berth-scheduler/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "842db863"
+ },
+ {
+  "src": "/screens/vessel-berth-scheduler/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "2d42856f"
+ },
+ {
+  "src": "/screens/vessel-berth-scheduler/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Berth lineup",
+  "mobile": true,
+  "v": "0f1d25ab"
+ },
+ {
+  "src": "/screens/vessel-berth-scheduler/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "4348bcbe"
+ },
+ {
+  "src": "/screens/vessel-berth-scheduler/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Berth plan 3 days",
+  "mobile": false,
+  "v": "4bf35bf9"
+ },
+ {
+  "src": "/screens/vessel-berth-scheduler/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Berth plan 7 days",
+  "mobile": false,
+  "v": "6ff4c38c"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/lease-return-remarketing-desk/01.webp",
+  "w": 995,
+  "h": 840,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "b58689ae"
+ },
+ {
+  "src": "/screens/lease-return-remarketing-desk/02.webp",
+  "w": 995,
+  "h": 840,
+  "caption": "Register",
+  "mobile": false,
+  "v": "60e05fa9"
+ },
+ {
+  "src": "/screens/lease-return-remarketing-desk/03.webp",
+  "w": 995,
+  "h": 840,
+  "caption": "Board",
+  "mobile": false,
+  "v": "eab25968"
+ },
+ {
+  "src": "/screens/lease-return-remarketing-desk/04.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "Board",
+  "mobile": true,
+  "v": "4f057f5f"
+ },
+ {
+  "src": "/screens/lease-return-remarketing-desk/05.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "62c50409"
+ },
+ {
+  "src": "/screens/lease-return-remarketing-desk/06.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "7aab77be"
+ }
+]

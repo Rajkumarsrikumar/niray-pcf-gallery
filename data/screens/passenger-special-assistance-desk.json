@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/passenger-special-assistance-desk/01.webp",
+  "w": 1012,
+  "h": 851,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "6ed2cf27"
+ },
+ {
+  "src": "/screens/passenger-special-assistance-desk/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "afce5670"
+ },
+ {
+  "src": "/screens/passenger-special-assistance-desk/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Request cards",
+  "mobile": true,
+  "v": "5c890082"
+ },
+ {
+  "src": "/screens/passenger-special-assistance-desk/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Board column",
+  "mobile": true,
+  "v": "b7e5d049"
+ },
+ {
+  "src": "/screens/passenger-special-assistance-desk/05.webp",
+  "w": 1012,
+  "h": 850,
+  "caption": "Request list",
+  "mobile": false,
+  "v": "a25c6b4b"
+ },
+ {
+  "src": "/screens/passenger-special-assistance-desk/06.webp",
+  "w": 1012,
+  "h": 851,
+  "caption": "Detail skill gap best agents",
+  "mobile": false,
+  "v": "047ece5d"
+ }
+]

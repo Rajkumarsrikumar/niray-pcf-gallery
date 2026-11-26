@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/content-qc-issue-log/01.webp",
+  "w": 1366,
+  "h": 820,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "dad8faf9"
+ },
+ {
+  "src": "/screens/content-qc-issue-log/02.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "49ddcca3"
+ },
+ {
+  "src": "/screens/content-qc-issue-log/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Issues",
+  "mobile": true,
+  "v": "6eb7c56e"
+ },
+ {
+  "src": "/screens/content-qc-issue-log/04.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "460265e3"
+ },
+ {
+  "src": "/screens/content-qc-issue-log/05.webp",
+  "w": 1366,
+  "h": 820,
+  "caption": "Demo reports",
+  "mobile": false,
+  "v": "15418abc"
+ },
+ {
+  "src": "/screens/content-qc-issue-log/06.webp",
+  "w": 1366,
+  "h": 820,
+  "caption": "Dashboard sample data",
+  "mobile": false,
+  "v": "0e2dd7d8"
+ }
+]

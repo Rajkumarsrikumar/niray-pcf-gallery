@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/speak-up-case-manager/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "6da1898f"
+ },
+ {
+  "src": "/screens/speak-up-case-manager/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M board",
+  "mobile": true,
+  "v": "12f31e54"
+ },
+ {
+  "src": "/screens/speak-up-case-manager/03.webp",
+  "w": 373,
+  "h": 713,
+  "caption": "M dashboard",
+  "mobile": true,
+  "v": "19843875"
+ },
+ {
+  "src": "/screens/speak-up-case-manager/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M more menu",
+  "mobile": true,
+  "v": "2a5f14e5"
+ },
+ {
+  "src": "/screens/speak-up-case-manager/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M register cards",
+  "mobile": true,
+  "v": "e3789318"
+ },
+ {
+  "src": "/screens/speak-up-case-manager/06.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Deadline clock",
+  "mobile": false,
+  "v": "8d441040"
+ }
+]

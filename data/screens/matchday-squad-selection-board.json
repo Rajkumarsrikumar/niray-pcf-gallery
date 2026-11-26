@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/matchday-squad-selection-board/01.webp",
+  "w": 1364,
+  "h": 800,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "70deb673"
+ },
+ {
+  "src": "/screens/matchday-squad-selection-board/02.webp",
+  "w": 1364,
+  "h": 800,
+  "caption": "Pitch",
+  "mobile": false,
+  "v": "fb08aa8e"
+ },
+ {
+  "src": "/screens/matchday-squad-selection-board/03.webp",
+  "w": 1364,
+  "h": 800,
+  "caption": "Squad",
+  "mobile": false,
+  "v": "4008f45c"
+ },
+ {
+  "src": "/screens/matchday-squad-selection-board/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "P 01 overview",
+  "mobile": true,
+  "v": "3814144e"
+ },
+ {
+  "src": "/screens/matchday-squad-selection-board/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "P 02 pitch",
+  "mobile": true,
+  "v": "cdbde129"
+ },
+ {
+  "src": "/screens/matchday-squad-selection-board/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "P 03 squad cards",
+  "mobile": true,
+  "v": "ad2b5222"
+ }
+]

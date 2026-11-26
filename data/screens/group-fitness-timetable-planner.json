@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/group-fitness-timetable-planner/01.webp",
+  "w": 1340,
+  "h": 860,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "04c0c7c8"
+ },
+ {
+  "src": "/screens/group-fitness-timetable-planner/02.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "M classes",
+  "mobile": true,
+  "v": "6a8d8d3a"
+ },
+ {
+  "src": "/screens/group-fitness-timetable-planner/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "M dashboard",
+  "mobile": true,
+  "v": "c33ff079"
+ },
+ {
+  "src": "/screens/group-fitness-timetable-planner/04.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "M detail",
+  "mobile": true,
+  "v": "c05643ef"
+ },
+ {
+  "src": "/screens/group-fitness-timetable-planner/05.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "M timetable agenda",
+  "mobile": true,
+  "v": "cc435bb1"
+ },
+ {
+  "src": "/screens/group-fitness-timetable-planner/06.webp",
+  "w": 1340,
+  "h": 860,
+  "caption": "Timetable week",
+  "mobile": false,
+  "v": "b6c78d9a"
+ }
+]

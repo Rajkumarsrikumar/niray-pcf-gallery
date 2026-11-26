@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/freight-quote-builder/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "546f8e1b"
+ },
+ {
+  "src": "/screens/freight-quote-builder/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "2d873319"
+ },
+ {
+  "src": "/screens/freight-quote-builder/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Pipeline chips",
+  "mobile": true,
+  "v": "134d4058"
+ },
+ {
+  "src": "/screens/freight-quote-builder/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Builder",
+  "mobile": true,
+  "v": "265fb3e9"
+ },
+ {
+  "src": "/screens/freight-quote-builder/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Quotes list",
+  "mobile": false,
+  "v": "3d425163"
+ },
+ {
+  "src": "/screens/freight-quote-builder/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Pipeline board",
+  "mobile": false,
+  "v": "12bfa7e7"
+ }
+]

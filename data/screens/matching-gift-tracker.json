@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/matching-gift-tracker/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "290ddf1b"
+ },
+ {
+  "src": "/screens/matching-gift-tracker/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "9e1648b2"
+ },
+ {
+  "src": "/screens/matching-gift-tracker/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Claims",
+  "mobile": true,
+  "v": "68d32a05"
+ },
+ {
+  "src": "/screens/matching-gift-tracker/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "426ef09b"
+ },
+ {
+  "src": "/screens/matching-gift-tracker/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Board",
+  "mobile": true,
+  "v": "7f6a9708"
+ },
+ {
+  "src": "/screens/matching-gift-tracker/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo claims",
+  "mobile": false,
+  "v": "a87b2168"
+ }
+]

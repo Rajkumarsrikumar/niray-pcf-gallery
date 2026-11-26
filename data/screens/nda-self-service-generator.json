@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/nda-self-service-generator/01.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "fad45379"
+ },
+ {
+  "src": "/screens/nda-self-service-generator/02.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "2f170c3c"
+ },
+ {
+  "src": "/screens/nda-self-service-generator/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Request cards",
+  "mobile": true,
+  "v": "9549bd5e"
+ },
+ {
+  "src": "/screens/nda-self-service-generator/04.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "80d0faf9"
+ },
+ {
+  "src": "/screens/nda-self-service-generator/05.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Requests grid",
+  "mobile": false,
+  "v": "dda8976a"
+ },
+ {
+  "src": "/screens/nda-self-service-generator/06.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Requests grouped by status",
+  "mobile": false,
+  "v": "a59d8a52"
+ }
+]

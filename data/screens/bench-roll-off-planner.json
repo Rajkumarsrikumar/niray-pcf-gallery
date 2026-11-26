@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/bench-roll-off-planner/01.webp",
+  "w": 1400,
+  "h": 714,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "d171d53e"
+ },
+ {
+  "src": "/screens/bench-roll-off-planner/02.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Hero",
+  "mobile": false,
+  "v": "85e908c2"
+ },
+ {
+  "src": "/screens/bench-roll-off-planner/03.webp",
+  "w": 373,
+  "h": 720,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "25ffd523"
+ },
+ {
+  "src": "/screens/bench-roll-off-planner/04.webp",
+  "w": 373,
+  "h": 720,
+  "caption": "People cards",
+  "mobile": true,
+  "v": "2511091b"
+ },
+ {
+  "src": "/screens/bench-roll-off-planner/05.webp",
+  "w": 373,
+  "h": 720,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "5cdfeed5"
+ },
+ {
+  "src": "/screens/bench-roll-off-planner/06.webp",
+  "w": 373,
+  "h": 720,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "25ffd523"
+ }
+]

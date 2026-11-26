@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/oversize-permit-tracker/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "357a0444"
+ },
+ {
+  "src": "/screens/oversize-permit-tracker/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "d3e19c55"
+ },
+ {
+  "src": "/screens/oversize-permit-tracker/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Permits",
+  "mobile": true,
+  "v": "c5511997"
+ },
+ {
+  "src": "/screens/oversize-permit-tracker/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Timeline",
+  "mobile": true,
+  "v": "15266b26"
+ },
+ {
+  "src": "/screens/oversize-permit-tracker/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Editor",
+  "mobile": true,
+  "v": "4bb316f0"
+ },
+ {
+  "src": "/screens/oversize-permit-tracker/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Permits list",
+  "mobile": false,
+  "v": "8e89c031"
+ }
+]

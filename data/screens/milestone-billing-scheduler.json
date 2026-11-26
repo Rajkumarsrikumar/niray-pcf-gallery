@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/milestone-billing-scheduler/01.webp",
+  "w": 1012,
+  "h": 937,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "cb0ed01d"
+ },
+ {
+  "src": "/screens/milestone-billing-scheduler/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 1 dashboard",
+  "mobile": true,
+  "v": "751199cf"
+ },
+ {
+  "src": "/screens/milestone-billing-scheduler/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 2 schedule",
+  "mobile": true,
+  "v": "2c7f7842"
+ },
+ {
+  "src": "/screens/milestone-billing-scheduler/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 3 queue",
+  "mobile": true,
+  "v": "03a7555f"
+ },
+ {
+  "src": "/screens/milestone-billing-scheduler/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 4 detail",
+  "mobile": true,
+  "v": "6d6bf00d"
+ },
+ {
+  "src": "/screens/milestone-billing-scheduler/06.webp",
+  "w": 1035,
+  "h": 900,
+  "caption": "Schedule grouped contract",
+  "mobile": false,
+  "v": "42dac967"
+ }
+]

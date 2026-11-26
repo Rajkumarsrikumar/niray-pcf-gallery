@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/retention-release-tracker/01.webp",
+  "w": 1038,
+  "h": 820,
+  "caption": "Demo mode dashboard",
+  "mobile": false,
+  "v": "8d0591f2"
+ },
+ {
+  "src": "/screens/retention-release-tracker/02.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "2d1c1eb5"
+ },
+ {
+  "src": "/screens/retention-release-tracker/03.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Register cards",
+  "mobile": true,
+  "v": "c6c6a992"
+ },
+ {
+  "src": "/screens/retention-release-tracker/04.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "70c97e6e"
+ },
+ {
+  "src": "/screens/retention-release-tracker/05.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Schedule",
+  "mobile": true,
+  "v": "565f24df"
+ },
+ {
+  "src": "/screens/retention-release-tracker/06.webp",
+  "w": 1038,
+  "h": 820,
+  "caption": "Demo release schedule",
+  "mobile": false,
+  "v": "0ca27c43"
+ }
+]

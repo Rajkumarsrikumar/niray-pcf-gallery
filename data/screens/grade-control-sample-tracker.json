@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/grade-control-sample-tracker/01.webp",
+  "w": 1012,
+  "h": 894,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "f844d3fe"
+ },
+ {
+  "src": "/screens/grade-control-sample-tracker/02.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Home",
+  "mobile": true,
+  "v": "bcb7d35d"
+ },
+ {
+  "src": "/screens/grade-control-sample-tracker/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Samples",
+  "mobile": true,
+  "v": "61feb448"
+ },
+ {
+  "src": "/screens/grade-control-sample-tracker/04.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Batches",
+  "mobile": true,
+  "v": "c066f01e"
+ },
+ {
+  "src": "/screens/grade-control-sample-tracker/05.webp",
+  "w": 1012,
+  "h": 894,
+  "caption": "Demo samples",
+  "mobile": false,
+  "v": "96a2663c"
+ },
+ {
+  "src": "/screens/grade-control-sample-tracker/06.webp",
+  "w": 1012,
+  "h": 894,
+  "caption": "Demo batches",
+  "mobile": false,
+  "v": "b103277f"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/pole-test-treat-program-manager/01.webp",
+  "w": 1334,
+  "h": 1000,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "a5a842e4"
+ },
+ {
+  "src": "/screens/pole-test-treat-program-manager/02.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "1cf17d1f"
+ },
+ {
+  "src": "/screens/pole-test-treat-program-manager/03.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Poles",
+  "mobile": true,
+  "v": "136f0d13"
+ },
+ {
+  "src": "/screens/pole-test-treat-program-manager/04.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "11246c60"
+ },
+ {
+  "src": "/screens/pole-test-treat-program-manager/05.webp",
+  "w": 1334,
+  "h": 1000,
+  "caption": "Poles list",
+  "mobile": false,
+  "v": "b7f78198"
+ },
+ {
+  "src": "/screens/pole-test-treat-program-manager/06.webp",
+  "w": 1334,
+  "h": 1000,
+  "caption": "List grouped by circuit",
+  "mobile": false,
+  "v": "ea10ad94"
+ }
+]

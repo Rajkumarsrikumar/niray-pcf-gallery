@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/tribute-gift-manager/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "d2699a71"
+ },
+ {
+  "src": "/screens/tribute-gift-manager/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "bab29edd"
+ },
+ {
+  "src": "/screens/tribute-gift-manager/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Queue",
+  "mobile": true,
+  "v": "08dabaf4"
+ },
+ {
+  "src": "/screens/tribute-gift-manager/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Gifts",
+  "mobile": true,
+  "v": "5bb297c8"
+ },
+ {
+  "src": "/screens/tribute-gift-manager/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "13ee2cf1"
+ },
+ {
+  "src": "/screens/tribute-gift-manager/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo queue",
+  "mobile": false,
+  "v": "d7403da2"
+ }
+]

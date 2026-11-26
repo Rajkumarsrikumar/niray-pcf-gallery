@@ -3,7 +3,7 @@ import Icon from "./Icon";
 import ProductCard from "./ProductCard";
 import Hero, { type HeroPick } from "./Hero";
 import Reveal from "./Reveal";
-import { PRICE, allComponents, allPacks, formatPrice, industries, industrySlug, isAvailable, packComponents, screensFor, themeFor } from "@/lib/catalog";
+import { PRICE, allComponents, allPacks, cardItem, formatPrice, industries, industrySlug, isAvailable, packComponents, screensFor, themeFor } from "@/lib/catalog";
 
 export const metadata = { alternates: { canonical: "/" } };
 
@@ -84,7 +84,7 @@ export default function Home() {
           <h2 className="text-3xl font-extrabold tracking-[-0.03em] text-ink sm:text-4xl">Popular right now</h2>
           <Link href="/components" className="hidden shrink-0 text-sm font-semibold text-tile-blue hover:underline sm:inline">Shop all {allComponents.length}</Link>
         </div>
-        <div className="grid grid-cols-2 gap-x-4 gap-y-9 sm:gap-x-6 lg:grid-cols-4">{shown.map((c) => <ProductCard key={c.slug} c={c} />)}</div>
+        <div className="grid grid-cols-2 gap-x-4 gap-y-9 sm:gap-x-6 lg:grid-cols-4">{shown.map((c) => <ProductCard key={c.slug} c={cardItem(c)} />)}</div>
       </Reveal>
 
       <Reveal className="mx-auto max-w-7xl px-4 pt-20">
@@ -138,7 +138,7 @@ export default function Home() {
 
       <Reveal className="mx-auto max-w-7xl px-4 pt-20">
         <h2 className="mb-7 text-3xl font-extrabold tracking-[-0.03em] text-ink sm:text-4xl">New this week</h2>
-        <div className="grid grid-cols-2 gap-x-4 gap-y-9 sm:gap-x-6 lg:grid-cols-4">{newest.map((c) => <ProductCard key={c.slug} c={c} />)}</div>
+        <div className="grid grid-cols-2 gap-x-4 gap-y-9 sm:gap-x-6 lg:grid-cols-4">{newest.map((c) => <ProductCard key={c.slug} c={cardItem(c)} />)}</div>
       </Reveal>
 
       <section className="mx-auto max-w-7xl px-4 pt-20" aria-labelledby="faq">

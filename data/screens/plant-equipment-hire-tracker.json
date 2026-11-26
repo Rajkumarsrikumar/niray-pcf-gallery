@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/plant-equipment-hire-tracker/01.webp",
+  "w": 1023,
+  "h": 820,
+  "caption": "Demo mode dashboard",
+  "mobile": false,
+  "v": "8a6b69bf"
+ },
+ {
+  "src": "/screens/plant-equipment-hire-tracker/02.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "5b0936e3"
+ },
+ {
+  "src": "/screens/plant-equipment-hire-tracker/03.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Register cards",
+  "mobile": true,
+  "v": "3f517dfd"
+ },
+ {
+  "src": "/screens/plant-equipment-hire-tracker/04.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "2116806b"
+ },
+ {
+  "src": "/screens/plant-equipment-hire-tracker/05.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Timeline",
+  "mobile": true,
+  "v": "12961ce5"
+ },
+ {
+  "src": "/screens/plant-equipment-hire-tracker/06.webp",
+  "w": 1023,
+  "h": 820,
+  "caption": "Demo timeline",
+  "mobile": false,
+  "v": "01d0c4d4"
+ }
+]

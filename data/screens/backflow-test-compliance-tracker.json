@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/backflow-test-compliance-tracker/01.webp",
+  "w": 1324,
+  "h": 1000,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "b82c2e8e"
+ },
+ {
+  "src": "/screens/backflow-test-compliance-tracker/02.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "d495eacc"
+ },
+ {
+  "src": "/screens/backflow-test-compliance-tracker/03.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Register",
+  "mobile": true,
+  "v": "1ac5aab0"
+ },
+ {
+  "src": "/screens/backflow-test-compliance-tracker/04.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "b79b539d"
+ },
+ {
+  "src": "/screens/backflow-test-compliance-tracker/05.webp",
+  "w": 1324,
+  "h": 1000,
+  "caption": "Assembly register",
+  "mobile": false,
+  "v": "7ba1c6fa"
+ },
+ {
+  "src": "/screens/backflow-test-compliance-tracker/06.webp",
+  "w": 1324,
+  "h": 1000,
+  "caption": "Register enforcement grouped",
+  "mobile": false,
+  "v": "39a8a99f"
+ }
+]

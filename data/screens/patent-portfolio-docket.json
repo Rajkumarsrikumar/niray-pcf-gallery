@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/patent-portfolio-docket/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "69a6d032"
+ },
+ {
+  "src": "/screens/patent-portfolio-docket/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "M dashboard",
+  "mobile": true,
+  "v": "93fee043"
+ },
+ {
+  "src": "/screens/patent-portfolio-docket/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "M detail",
+  "mobile": true,
+  "v": "225a5801"
+ },
+ {
+  "src": "/screens/patent-portfolio-docket/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "M docket cards",
+  "mobile": true,
+  "v": "e336e987"
+ },
+ {
+  "src": "/screens/patent-portfolio-docket/05.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "M form validation",
+  "mobile": true,
+  "v": "1d6bca30"
+ },
+ {
+  "src": "/screens/patent-portfolio-docket/06.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Docket register",
+  "mobile": false,
+  "v": "009df997"
+ }
+]

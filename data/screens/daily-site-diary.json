@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/daily-site-diary/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "7fa8e0f7"
+ },
+ {
+  "src": "/screens/daily-site-diary/02.webp",
+  "w": 1100,
+  "h": 900,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "8ea85f22"
+ },
+ {
+  "src": "/screens/daily-site-diary/03.webp",
+  "w": 1100,
+  "h": 900,
+  "caption": "Detail",
+  "mobile": false,
+  "v": "8c631922"
+ },
+ {
+  "src": "/screens/daily-site-diary/04.webp",
+  "w": 1100,
+  "h": 900,
+  "caption": "Calendar",
+  "mobile": false,
+  "v": "e89135d5"
+ },
+ {
+  "src": "/screens/daily-site-diary/05.webp",
+  "w": 1100,
+  "h": 900,
+  "caption": "Crew",
+  "mobile": false,
+  "v": "c912cbaf"
+ },
+ {
+  "src": "/screens/daily-site-diary/06.webp",
+  "w": 1100,
+  "h": 900,
+  "caption": "Delays",
+  "mobile": false,
+  "v": "0c0675be"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/process-safety-moc-pssr-tracker/01.webp",
+  "w": 1330,
+  "h": 860,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "aeefd1cf"
+ },
+ {
+  "src": "/screens/process-safety-moc-pssr-tracker/02.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Board",
+  "mobile": true,
+  "v": "48031c14"
+ },
+ {
+  "src": "/screens/process-safety-moc-pssr-tracker/03.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "ef693b44"
+ },
+ {
+  "src": "/screens/process-safety-moc-pssr-tracker/04.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "New moc validation",
+  "mobile": true,
+  "v": "5be960fd"
+ },
+ {
+  "src": "/screens/process-safety-moc-pssr-tracker/05.webp",
+  "w": 375,
+  "h": 780,
+  "caption": "Register",
+  "mobile": true,
+  "v": "967745d3"
+ },
+ {
+  "src": "/screens/process-safety-moc-pssr-tracker/06.webp",
+  "w": 1330,
+  "h": 860,
+  "caption": "Register kpi filter",
+  "mobile": false,
+  "v": "e53b82be"
+ }
+]

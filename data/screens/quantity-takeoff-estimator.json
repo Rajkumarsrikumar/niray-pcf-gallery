@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/quantity-takeoff-estimator/01.webp",
+  "w": 1040,
+  "h": 820,
+  "caption": "Demo mode dashboard",
+  "mobile": false,
+  "v": "c60b2f0a"
+ },
+ {
+  "src": "/screens/quantity-takeoff-estimator/02.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "2bbf3058"
+ },
+ {
+  "src": "/screens/quantity-takeoff-estimator/03.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Takeoff cards",
+  "mobile": true,
+  "v": "d30a0e05"
+ },
+ {
+  "src": "/screens/quantity-takeoff-estimator/04.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "9cb6fb0f"
+ },
+ {
+  "src": "/screens/quantity-takeoff-estimator/05.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Assemblies",
+  "mobile": true,
+  "v": "17f3fbbe"
+ },
+ {
+  "src": "/screens/quantity-takeoff-estimator/06.webp",
+  "w": 1040,
+  "h": 820,
+  "caption": "Demo assemblies",
+  "mobile": false,
+  "v": "c3bfc480"
+ }
+]

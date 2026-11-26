@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/food-bank-distribution-console/01.webp",
+  "w": 1334,
+  "h": 820,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "a20232f1"
+ },
+ {
+  "src": "/screens/food-bank-distribution-console/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "299a9909"
+ },
+ {
+  "src": "/screens/food-bank-distribution-console/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Queue",
+  "mobile": true,
+  "v": "56cffdd8"
+ },
+ {
+  "src": "/screens/food-bank-distribution-console/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Queue ready",
+  "mobile": true,
+  "v": "7bf42a88"
+ },
+ {
+  "src": "/screens/food-bank-distribution-console/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "5e8ff3db"
+ },
+ {
+  "src": "/screens/food-bank-distribution-console/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Checkin list",
+  "mobile": true,
+  "v": "349f5baf"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/travel-agent-commission-reconciler/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "13f6ca80"
+ },
+ {
+  "src": "/screens/travel-agent-commission-reconciler/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "aa8034e7"
+ },
+ {
+  "src": "/screens/travel-agent-commission-reconciler/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Reconciliation cards",
+  "mobile": true,
+  "v": "b75add92"
+ },
+ {
+  "src": "/screens/travel-agent-commission-reconciler/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Payment runs",
+  "mobile": true,
+  "v": "f56d07ff"
+ },
+ {
+  "src": "/screens/travel-agent-commission-reconciler/05.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Reconciliation grid",
+  "mobile": false,
+  "v": "3dad3f6d"
+ },
+ {
+  "src": "/screens/travel-agent-commission-reconciler/06.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Reconciliation issues grouped",
+  "mobile": false,
+  "v": "cc7ce1a8"
+ }
+]

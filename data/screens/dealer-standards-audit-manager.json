@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/dealer-standards-audit-manager/01.webp",
+  "w": 1298,
+  "h": 920,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "73375476"
+ },
+ {
+  "src": "/screens/dealer-standards-audit-manager/02.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Actions",
+  "mobile": true,
+  "v": "16a4719d"
+ },
+ {
+  "src": "/screens/dealer-standards-audit-manager/03.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Checklist",
+  "mobile": true,
+  "v": "6c5abdf2"
+ },
+ {
+  "src": "/screens/dealer-standards-audit-manager/04.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Create form",
+  "mobile": true,
+  "v": "3c882435"
+ },
+ {
+  "src": "/screens/dealer-standards-audit-manager/05.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "758e0b48"
+ },
+ {
+  "src": "/screens/dealer-standards-audit-manager/06.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Dealers",
+  "mobile": true,
+  "v": "0fd5e1ed"
+ }
+]

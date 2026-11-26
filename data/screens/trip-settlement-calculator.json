@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/trip-settlement-calculator/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "92aa83db"
+ },
+ {
+  "src": "/screens/trip-settlement-calculator/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "df49ab05"
+ },
+ {
+  "src": "/screens/trip-settlement-calculator/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Audit",
+  "mobile": true,
+  "v": "5136ce30"
+ },
+ {
+  "src": "/screens/trip-settlement-calculator/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Editor",
+  "mobile": true,
+  "v": "5b4e5b3c"
+ },
+ {
+  "src": "/screens/trip-settlement-calculator/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Audit queue",
+  "mobile": false,
+  "v": "f47ea437"
+ },
+ {
+  "src": "/screens/trip-settlement-calculator/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Audit pod",
+  "mobile": false,
+  "v": "2ff316b7"
+ }
+]

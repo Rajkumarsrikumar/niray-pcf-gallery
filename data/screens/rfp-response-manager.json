@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/rfp-response-manager/01.webp",
+  "w": 1326,
+  "h": 860,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "bc6cd744"
+ },
+ {
+  "src": "/screens/rfp-response-manager/02.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "M 1 dashboard",
+  "mobile": true,
+  "v": "49e8d6e1"
+ },
+ {
+  "src": "/screens/rfp-response-manager/03.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "M 2 rfps",
+  "mobile": true,
+  "v": "e0f65edb"
+ },
+ {
+  "src": "/screens/rfp-response-manager/04.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "M 3 question cards",
+  "mobile": true,
+  "v": "3fecf158"
+ },
+ {
+  "src": "/screens/rfp-response-manager/05.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "M 4 workspace",
+  "mobile": true,
+  "v": "bee506cd"
+ },
+ {
+  "src": "/screens/rfp-response-manager/06.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "M 5 more menu",
+  "mobile": true,
+  "v": "6bc11e6f"
+ }
+]

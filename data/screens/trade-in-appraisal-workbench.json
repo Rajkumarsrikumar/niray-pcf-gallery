@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/trade-in-appraisal-workbench/01.webp",
+  "w": 1011,
+  "h": 940,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "953445de"
+ },
+ {
+  "src": "/screens/trade-in-appraisal-workbench/02.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "78d7571e"
+ },
+ {
+  "src": "/screens/trade-in-appraisal-workbench/03.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Board status",
+  "mobile": true,
+  "v": "603a13c9"
+ },
+ {
+  "src": "/screens/trade-in-appraisal-workbench/04.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "28d0c857"
+ },
+ {
+  "src": "/screens/trade-in-appraisal-workbench/05.webp",
+  "w": 1011,
+  "h": 940,
+  "caption": "Appraisal board",
+  "mobile": false,
+  "v": "c3876ad1"
+ },
+ {
+  "src": "/screens/trade-in-appraisal-workbench/06.webp",
+  "w": 1011,
+  "h": 940,
+  "caption": "Drag to valued",
+  "mobile": false,
+  "v": "1dc78e3d"
+ }
+]

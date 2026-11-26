@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/audit-workpaper-signoff-tracker/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "ad7e6e95"
+ },
+ {
+  "src": "/screens/audit-workpaper-signoff-tracker/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "7928efb8"
+ },
+ {
+  "src": "/screens/audit-workpaper-signoff-tracker/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Workpapers",
+  "mobile": true,
+  "v": "3f367065"
+ },
+ {
+  "src": "/screens/audit-workpaper-signoff-tracker/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "5790dfc8"
+ },
+ {
+  "src": "/screens/audit-workpaper-signoff-tracker/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Notes",
+  "mobile": true,
+  "v": "6e77dc99"
+ },
+ {
+  "src": "/screens/audit-workpaper-signoff-tracker/06.webp",
+  "w": 980,
+  "h": 860,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "f923d19b"
+ }
+]

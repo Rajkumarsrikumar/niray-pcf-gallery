@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/tower-colocation-tenancy-manager/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "b6231538"
+ },
+ {
+  "src": "/screens/tower-colocation-tenancy-manager/02.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Malformed config safe defaults",
+  "mobile": false,
+  "v": "c6775cfd"
+ },
+ {
+  "src": "/screens/tower-colocation-tenancy-manager/03.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "ad69d50d"
+ },
+ {
+  "src": "/screens/tower-colocation-tenancy-manager/04.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Tower detail",
+  "mobile": true,
+  "v": "e56d4092"
+ },
+ {
+  "src": "/screens/tower-colocation-tenancy-manager/05.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Applications",
+  "mobile": true,
+  "v": "04aa2185"
+ },
+ {
+  "src": "/screens/tower-colocation-tenancy-manager/06.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Tenancy panel from elevation",
+  "mobile": false,
+  "v": "6a61ef81"
+ }
+]

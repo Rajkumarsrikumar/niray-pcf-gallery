@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/community-grievance-manager/01.webp",
+  "w": 991,
+  "h": 860,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "99e27744"
+ },
+ {
+  "src": "/screens/community-grievance-manager/02.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "6e9ef039"
+ },
+ {
+  "src": "/screens/community-grievance-manager/03.webp",
+  "w": 373,
+  "h": 812,
+  "caption": "Board column switcher",
+  "mobile": true,
+  "v": "4b3abef1"
+ },
+ {
+  "src": "/screens/community-grievance-manager/04.webp",
+  "w": 991,
+  "h": 860,
+  "caption": "Case board",
+  "mobile": false,
+  "v": "afd70c2c"
+ },
+ {
+  "src": "/screens/community-grievance-manager/05.webp",
+  "w": 991,
+  "h": 860,
+  "caption": "Status change undo",
+  "mobile": false,
+  "v": "369f2215"
+ },
+ {
+  "src": "/screens/community-grievance-manager/06.webp",
+  "w": 991,
+  "h": 860,
+  "caption": "Board drop rule blocked",
+  "mobile": false,
+  "v": "e292c898"
+ }
+]

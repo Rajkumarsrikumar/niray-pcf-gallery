@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/field-scouting-observations/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "514fa897"
+ },
+ {
+  "src": "/screens/field-scouting-observations/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "43c7e79e"
+ },
+ {
+  "src": "/screens/field-scouting-observations/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Observation cards",
+  "mobile": true,
+  "v": "588034d5"
+ },
+ {
+  "src": "/screens/field-scouting-observations/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "a6914637"
+ },
+ {
+  "src": "/screens/field-scouting-observations/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Field risk",
+  "mobile": true,
+  "v": "36a3135b"
+ },
+ {
+  "src": "/screens/field-scouting-observations/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Actions",
+  "mobile": true,
+  "v": "3d8fcb96"
+ }
+]

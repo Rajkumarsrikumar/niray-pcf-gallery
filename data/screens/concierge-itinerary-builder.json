@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/concierge-itinerary-builder/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "be1a8cd8"
+ },
+ {
+  "src": "/screens/concierge-itinerary-builder/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "785fec52"
+ },
+ {
+  "src": "/screens/concierge-itinerary-builder/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Day",
+  "mobile": true,
+  "v": "7fec6072"
+ },
+ {
+  "src": "/screens/concierge-itinerary-builder/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Itinerary",
+  "mobile": true,
+  "v": "d61d36b9"
+ },
+ {
+  "src": "/screens/concierge-itinerary-builder/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Bookings",
+  "mobile": true,
+  "v": "5a481187"
+ },
+ {
+  "src": "/screens/concierge-itinerary-builder/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Board",
+  "mobile": true,
+  "v": "8043bd54"
+ }
+]

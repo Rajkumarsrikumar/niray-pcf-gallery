@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/material-delivery-site-logistics/01.webp",
+  "w": 1038,
+  "h": 820,
+  "caption": "Demo mode today",
+  "mobile": false,
+  "v": "a6cd84f9"
+ },
+ {
+  "src": "/screens/material-delivery-site-logistics/02.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Today",
+  "mobile": true,
+  "v": "973596a6"
+ },
+ {
+  "src": "/screens/material-delivery-site-logistics/03.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Booking cards",
+  "mobile": true,
+  "v": "058a4d7d"
+ },
+ {
+  "src": "/screens/material-delivery-site-logistics/04.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "e11cae3c"
+ },
+ {
+  "src": "/screens/material-delivery-site-logistics/05.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Planner",
+  "mobile": true,
+  "v": "5a51b032"
+ },
+ {
+  "src": "/screens/material-delivery-site-logistics/06.webp",
+  "w": 1038,
+  "h": 820,
+  "caption": "Demo slot planner",
+  "mobile": false,
+  "v": "ec95af23"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/recall-campaign-completion-tracker/01.webp",
+  "w": 947,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "d8e147ad"
+ },
+ {
+  "src": "/screens/recall-campaign-completion-tracker/02.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "0e60d2f7"
+ },
+ {
+  "src": "/screens/recall-campaign-completion-tracker/03.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Campaigns",
+  "mobile": true,
+  "v": "081ebcef"
+ },
+ {
+  "src": "/screens/recall-campaign-completion-tracker/04.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Menu",
+  "mobile": true,
+  "v": "afc2b84d"
+ },
+ {
+  "src": "/screens/recall-campaign-completion-tracker/05.webp",
+  "w": 947,
+  "h": 900,
+  "caption": "Demo campaigns",
+  "mobile": false,
+  "v": "d7cccc55"
+ },
+ {
+  "src": "/screens/recall-campaign-completion-tracker/06.webp",
+  "w": 947,
+  "h": 900,
+  "caption": "Demo outreach",
+  "mobile": false,
+  "v": "7c15753a"
+ }
+]

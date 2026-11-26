@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/residuals-participations-calculator/01.webp",
+  "w": 958,
+  "h": 820,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "e7367772"
+ },
+ {
+  "src": "/screens/residuals-participations-calculator/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "8c716400"
+ },
+ {
+  "src": "/screens/residuals-participations-calculator/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Calculator",
+  "mobile": true,
+  "v": "d54c274d"
+ },
+ {
+  "src": "/screens/residuals-participations-calculator/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Workflow",
+  "mobile": true,
+  "v": "87e402e4"
+ },
+ {
+  "src": "/screens/residuals-participations-calculator/05.webp",
+  "w": 958,
+  "h": 820,
+  "caption": "Csv dashboard",
+  "mobile": false,
+  "v": "4ed7150e"
+ },
+ {
+  "src": "/screens/residuals-participations-calculator/06.webp",
+  "w": 958,
+  "h": 820,
+  "caption": "Ledger",
+  "mobile": false,
+  "v": "f303b842"
+ }
+]

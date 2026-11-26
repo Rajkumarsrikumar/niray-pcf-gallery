@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/rate-card-deal-estimator/01.webp",
+  "w": 1012,
+  "h": 936,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "fd122756"
+ },
+ {
+  "src": "/screens/rate-card-deal-estimator/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 1 dashboard",
+  "mobile": true,
+  "v": "79d0162a"
+ },
+ {
+  "src": "/screens/rate-card-deal-estimator/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 2 deals",
+  "mobile": true,
+  "v": "3e4934ed"
+ },
+ {
+  "src": "/screens/rate-card-deal-estimator/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 3 builder",
+  "mobile": true,
+  "v": "db0a331a"
+ },
+ {
+  "src": "/screens/rate-card-deal-estimator/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 4 compare",
+  "mobile": true,
+  "v": "074254a3"
+ },
+ {
+  "src": "/screens/rate-card-deal-estimator/06.webp",
+  "w": 1038,
+  "h": 900,
+  "caption": "Deals grouped status",
+  "mobile": false,
+  "v": "1d88edb7"
+ }
+]

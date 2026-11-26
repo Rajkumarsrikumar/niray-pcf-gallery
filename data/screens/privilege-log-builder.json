@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/privilege-log-builder/01.webp",
+  "w": 1364,
+  "h": 760,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "bbc4676f"
+ },
+ {
+  "src": "/screens/privilege-log-builder/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "f356e366"
+ },
+ {
+  "src": "/screens/privilege-log-builder/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "4c32e618"
+ },
+ {
+  "src": "/screens/privilege-log-builder/04.webp",
+  "w": 1364,
+  "h": 760,
+  "caption": "Dashboard data",
+  "mobile": false,
+  "v": "beb22227"
+ },
+ {
+  "src": "/screens/privilege-log-builder/05.webp",
+  "w": 1364,
+  "h": 760,
+  "caption": "Filter drawer",
+  "mobile": false,
+  "v": "70085cb7"
+ },
+ {
+  "src": "/screens/privilege-log-builder/06.webp",
+  "w": 1364,
+  "h": 760,
+  "caption": "Detail panel",
+  "mobile": false,
+  "v": "7084ca53"
+ }
+]

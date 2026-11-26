@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/personal-trainer-session-pack-manager/01.webp",
+  "w": 1364,
+  "h": 800,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "cad64706"
+ },
+ {
+  "src": "/screens/personal-trainer-session-pack-manager/02.webp",
+  "w": 1364,
+  "h": 800,
+  "caption": "Packs",
+  "mobile": false,
+  "v": "e4ed4caa"
+ },
+ {
+  "src": "/screens/personal-trainer-session-pack-manager/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "6038cfd6"
+ },
+ {
+  "src": "/screens/personal-trainer-session-pack-manager/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Packs cards",
+  "mobile": true,
+  "v": "6f150745"
+ },
+ {
+  "src": "/screens/personal-trainer-session-pack-manager/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Renewals",
+  "mobile": true,
+  "v": "22976649"
+ },
+ {
+  "src": "/screens/personal-trainer-session-pack-manager/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Trainers",
+  "mobile": true,
+  "v": "a33da2a5"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/short-interval-control-board/01.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "e95a005e"
+ },
+ {
+  "src": "/screens/short-interval-control-board/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "c5141e06"
+ },
+ {
+  "src": "/screens/short-interval-control-board/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Board",
+  "mobile": true,
+  "v": "cee62ec3"
+ },
+ {
+  "src": "/screens/short-interval-control-board/04.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Demo hourly board",
+  "mobile": false,
+  "v": "8383220c"
+ },
+ {
+  "src": "/screens/short-interval-control-board/05.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "What if recovery",
+  "mobile": false,
+  "v": "e0f7c9a0"
+ },
+ {
+  "src": "/screens/short-interval-control-board/06.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Handover blockers",
+  "mobile": false,
+  "v": "342ea3b3"
+ }
+]

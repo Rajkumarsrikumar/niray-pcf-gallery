@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/contract-request-negotiation-tracker/01.webp",
+  "w": 1012,
+  "h": 954,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "66bb2b74"
+ },
+ {
+  "src": "/screens/contract-request-negotiation-tracker/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Pipeline",
+  "mobile": true,
+  "v": "5ce8c5ad"
+ },
+ {
+  "src": "/screens/contract-request-negotiation-tracker/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "b6d4d2b5"
+ },
+ {
+  "src": "/screens/contract-request-negotiation-tracker/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "aaf1e38d"
+ },
+ {
+  "src": "/screens/contract-request-negotiation-tracker/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Board",
+  "mobile": true,
+  "v": "0c1a6a49"
+ },
+ {
+  "src": "/screens/contract-request-negotiation-tracker/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "B approvals",
+  "mobile": true,
+  "v": "8a1e01b1"
+ }
+]

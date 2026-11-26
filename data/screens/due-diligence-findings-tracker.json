@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/due-diligence-findings-tracker/01.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "e0396e0e"
+ },
+ {
+  "src": "/screens/due-diligence-findings-tracker/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "ac1a8121"
+ },
+ {
+  "src": "/screens/due-diligence-findings-tracker/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Findings",
+  "mobile": true,
+  "v": "02c86cfe"
+ },
+ {
+  "src": "/screens/due-diligence-findings-tracker/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Request cards",
+  "mobile": true,
+  "v": "4cedf341"
+ },
+ {
+  "src": "/screens/due-diligence-findings-tracker/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "70730db1"
+ },
+ {
+  "src": "/screens/due-diligence-findings-tracker/06.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Request list",
+  "mobile": false,
+  "v": "41f19876"
+ }
+]

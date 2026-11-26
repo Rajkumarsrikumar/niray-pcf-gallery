@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/area-manager-store-visit/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "8fb4baa4"
+ },
+ {
+  "src": "/screens/area-manager-store-visit/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "dfe29542"
+ },
+ {
+  "src": "/screens/area-manager-store-visit/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Visits",
+  "mobile": true,
+  "v": "5317b3e3"
+ },
+ {
+  "src": "/screens/area-manager-store-visit/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "6cc885c8"
+ },
+ {
+  "src": "/screens/area-manager-store-visit/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Action board",
+  "mobile": true,
+  "v": "644d7c42"
+ },
+ {
+  "src": "/screens/area-manager-store-visit/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo visits",
+  "mobile": false,
+  "v": "28953849"
+ }
+]

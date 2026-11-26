@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/gala-auction-manager/01.webp",
+  "w": 1334,
+  "h": 820,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "cb3198e8"
+ },
+ {
+  "src": "/screens/gala-auction-manager/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "d0e3a48f"
+ },
+ {
+  "src": "/screens/gala-auction-manager/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Seating",
+  "mobile": true,
+  "v": "d08c4a10"
+ },
+ {
+  "src": "/screens/gala-auction-manager/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Auction",
+  "mobile": true,
+  "v": "3244985c"
+ },
+ {
+  "src": "/screens/gala-auction-manager/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Lot detail",
+  "mobile": true,
+  "v": "0ca1c194"
+ },
+ {
+  "src": "/screens/gala-auction-manager/06.webp",
+  "w": 1334,
+  "h": 820,
+  "caption": "Demo seating",
+  "mobile": false,
+  "v": "9f06403c"
+ }
+]

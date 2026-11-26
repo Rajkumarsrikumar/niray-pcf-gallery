@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/mdu-building-access-manager/01.webp",
+  "w": 1366,
+  "h": 780,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "ed6a18d3"
+ },
+ {
+  "src": "/screens/mdu-building-access-manager/02.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "5e1514bf"
+ },
+ {
+  "src": "/screens/mdu-building-access-manager/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Buildings",
+  "mobile": true,
+  "v": "4b6ada2e"
+ },
+ {
+  "src": "/screens/mdu-building-access-manager/04.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "17539ec5"
+ },
+ {
+  "src": "/screens/mdu-building-access-manager/05.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Board chips",
+  "mobile": true,
+  "v": "2efa2bbc"
+ },
+ {
+  "src": "/screens/mdu-building-access-manager/06.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Consents",
+  "mobile": true,
+  "v": "24c06bcc"
+ }
+]

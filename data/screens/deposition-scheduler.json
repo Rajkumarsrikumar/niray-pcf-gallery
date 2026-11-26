@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/deposition-scheduler/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "aeaa3cf3"
+ },
+ {
+  "src": "/screens/deposition-scheduler/02.webp",
+  "w": 395,
+  "h": 826,
+  "caption": "M calendar agenda",
+  "mobile": true,
+  "v": "3f0a4e8c"
+ },
+ {
+  "src": "/screens/deposition-scheduler/03.webp",
+  "w": 395,
+  "h": 826,
+  "caption": "M dashboard",
+  "mobile": true,
+  "v": "cc0baa37"
+ },
+ {
+  "src": "/screens/deposition-scheduler/04.webp",
+  "w": 395,
+  "h": 826,
+  "caption": "M schedule cards",
+  "mobile": true,
+  "v": "c47664a5"
+ },
+ {
+  "src": "/screens/deposition-scheduler/05.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Schedule list",
+  "mobile": false,
+  "v": "2a96b0a6"
+ },
+ {
+  "src": "/screens/deposition-scheduler/06.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Schedule grouped by day",
+  "mobile": false,
+  "v": "eff19bcb"
+ }
+]

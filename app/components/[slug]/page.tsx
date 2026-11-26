@@ -9,7 +9,7 @@ import FreeDownload from "./FreeDownload";
 import Sections from "./Sections";
 import delivery from "@/data/delivery.json";
 import { componentKeywords } from "@/lib/seo";
-import { CONTACT, HEALTH_NOTICE, PRICE, formatPrice, allComponents, getComponent, isAvailable, packForComponent, screensFor, themeFor } from "@/lib/catalog";
+import { CONTACT, HEALTH_NOTICE, PRICE, cardItem, formatPrice, allComponents, getComponent, isAvailable, packForComponent, screensFor, themeFor } from "@/lib/catalog";
 
 export function generateStaticParams() {
   return allComponents.map((c) => ({ slug: c.slug }));
@@ -144,7 +144,7 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
       {related.length > 0 && (
         <section className="mt-16">
           <h2 className="mb-8 text-3xl font-extrabold tracking-tight text-ink">More for {c.industry}</h2>
-          <div className="grid gap-x-5 gap-y-8 sm:grid-cols-2 lg:grid-cols-4">{related.map((r) => <ProductCard key={r.slug} c={r} />)}</div>
+          <div className="grid gap-x-5 gap-y-8 sm:grid-cols-2 lg:grid-cols-4">{related.map((r) => <ProductCard key={r.slug} c={cardItem(r)} />)}</div>
         </section>
       )}
     </div>

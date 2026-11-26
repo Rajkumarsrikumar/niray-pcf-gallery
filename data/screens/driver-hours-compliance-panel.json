@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/driver-hours-compliance-panel/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "6ca92cef"
+ },
+ {
+  "src": "/screens/driver-hours-compliance-panel/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "e19c0ab5"
+ },
+ {
+  "src": "/screens/driver-hours-compliance-panel/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Violations",
+  "mobile": true,
+  "v": "b8ddcdd3"
+ },
+ {
+  "src": "/screens/driver-hours-compliance-panel/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Editor",
+  "mobile": true,
+  "v": "381c33a0"
+ },
+ {
+  "src": "/screens/driver-hours-compliance-panel/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Violations queue",
+  "mobile": false,
+  "v": "9cfa1c78"
+ },
+ {
+  "src": "/screens/driver-hours-compliance-panel/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Violations driving limit",
+  "mobile": false,
+  "v": "5ebeba6e"
+ }
+]

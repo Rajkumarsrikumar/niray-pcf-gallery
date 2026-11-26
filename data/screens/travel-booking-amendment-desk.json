@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/travel-booking-amendment-desk/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "96814e8e"
+ },
+ {
+  "src": "/screens/travel-booking-amendment-desk/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "ab59fc30"
+ },
+ {
+  "src": "/screens/travel-booking-amendment-desk/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Queue cards",
+  "mobile": true,
+  "v": "7f4d34ba"
+ },
+ {
+  "src": "/screens/travel-booking-amendment-desk/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "8ce60c37"
+ },
+ {
+  "src": "/screens/travel-booking-amendment-desk/05.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Dashboard sample data",
+  "mobile": false,
+  "v": "1cf20460"
+ },
+ {
+  "src": "/screens/travel-booking-amendment-desk/06.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Request queue",
+  "mobile": false,
+  "v": "9bfc2a43"
+ }
+]

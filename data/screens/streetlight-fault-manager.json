@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/streetlight-fault-manager/01.webp",
+  "w": 1300,
+  "h": 840,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "aa13cb44"
+ },
+ {
+  "src": "/screens/streetlight-fault-manager/02.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "M dashboard",
+  "mobile": true,
+  "v": "aacd99e1"
+ },
+ {
+  "src": "/screens/streetlight-fault-manager/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "M detail",
+  "mobile": true,
+  "v": "2ae28fef"
+ },
+ {
+  "src": "/screens/streetlight-fault-manager/04.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "M faults cards",
+  "mobile": true,
+  "v": "8b3c3283"
+ },
+ {
+  "src": "/screens/streetlight-fault-manager/05.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "M public report",
+  "mobile": true,
+  "v": "52a30b38"
+ },
+ {
+  "src": "/screens/streetlight-fault-manager/06.webp",
+  "w": 1300,
+  "h": 840,
+  "caption": "Dashboard sample data",
+  "mobile": false,
+  "v": "da731ab0"
+ }
+]

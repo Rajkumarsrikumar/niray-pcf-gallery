@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/construction-change-order-manager/01.webp",
+  "w": 1364,
+  "h": 800,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "651c67ba"
+ },
+ {
+  "src": "/screens/construction-change-order-manager/02.webp",
+  "w": 373,
+  "h": 720,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "929e1069"
+ },
+ {
+  "src": "/screens/construction-change-order-manager/03.webp",
+  "w": 373,
+  "h": 720,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "57e3028a"
+ },
+ {
+  "src": "/screens/construction-change-order-manager/04.webp",
+  "w": 373,
+  "h": 720,
+  "caption": "Pipeline",
+  "mobile": true,
+  "v": "68e53c5c"
+ },
+ {
+  "src": "/screens/construction-change-order-manager/05.webp",
+  "w": 373,
+  "h": 720,
+  "caption": "Contract",
+  "mobile": true,
+  "v": "fb313b5f"
+ },
+ {
+  "src": "/screens/construction-change-order-manager/06.webp",
+  "w": 373,
+  "h": 720,
+  "caption": "Subs",
+  "mobile": true,
+  "v": "183148f6"
+ }
+]

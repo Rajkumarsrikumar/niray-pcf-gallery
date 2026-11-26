@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/crane-lift-plan-manager/01.webp",
+  "w": 1050,
+  "h": 800,
+  "caption": "Demo mode dashboard",
+  "mobile": false,
+  "v": "55e9ec02"
+ },
+ {
+  "src": "/screens/crane-lift-plan-manager/02.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "b86e0067"
+ },
+ {
+  "src": "/screens/crane-lift-plan-manager/03.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Register cards",
+  "mobile": true,
+  "v": "2f12bb15"
+ },
+ {
+  "src": "/screens/crane-lift-plan-manager/04.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "6a760250"
+ },
+ {
+  "src": "/screens/crane-lift-plan-manager/05.webp",
+  "w": 373,
+  "h": 792,
+  "caption": "Crane agenda",
+  "mobile": true,
+  "v": "219d85bd"
+ },
+ {
+  "src": "/screens/crane-lift-plan-manager/06.webp",
+  "w": 1050,
+  "h": 800,
+  "caption": "Demo crane schedule",
+  "mobile": false,
+  "v": "35998b8e"
+ }
+]

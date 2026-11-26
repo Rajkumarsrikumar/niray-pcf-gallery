@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/permit-to-work-issuer/01.webp",
+  "w": 1366,
+  "h": 900,
+  "caption": "Demo control room",
+  "mobile": false,
+  "v": "30aaee78"
+ },
+ {
+  "src": "/screens/permit-to-work-issuer/02.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Control room bottom bar",
+  "mobile": true,
+  "v": "1854095e"
+ },
+ {
+  "src": "/screens/permit-to-work-issuer/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Register cards",
+  "mobile": true,
+  "v": "b8521345"
+ },
+ {
+  "src": "/screens/permit-to-work-issuer/04.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "315340cb"
+ },
+ {
+  "src": "/screens/permit-to-work-issuer/05.webp",
+  "w": 1366,
+  "h": 900,
+  "caption": "Csv mapped control room",
+  "mobile": false,
+  "v": "9c07db9a"
+ },
+ {
+  "src": "/screens/permit-to-work-issuer/06.webp",
+  "w": 1366,
+  "h": 900,
+  "caption": "Permit board",
+  "mobile": false,
+  "v": "6685eccf"
+ }
+]

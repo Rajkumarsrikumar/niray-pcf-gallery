@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/drill-blast-pattern-manager/01.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "0f4c5e49"
+ },
+ {
+  "src": "/screens/drill-blast-pattern-manager/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Home",
+  "mobile": true,
+  "v": "403b4b18"
+ },
+ {
+  "src": "/screens/drill-blast-pattern-manager/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Pattern",
+  "mobile": true,
+  "v": "9da7732a"
+ },
+ {
+  "src": "/screens/drill-blast-pattern-manager/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Board",
+  "mobile": true,
+  "v": "91efc8b5"
+ },
+ {
+  "src": "/screens/drill-blast-pattern-manager/05.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Demo pattern",
+  "mobile": false,
+  "v": "85274c4c"
+ },
+ {
+  "src": "/screens/drill-blast-pattern-manager/06.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Demo board",
+  "mobile": false,
+  "v": "72d9fc96"
+ }
+]

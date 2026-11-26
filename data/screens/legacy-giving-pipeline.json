@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/legacy-giving-pipeline/01.webp",
+  "w": 1334,
+  "h": 860,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "6997c320"
+ },
+ {
+  "src": "/screens/legacy-giving-pipeline/02.webp",
+  "w": 1334,
+  "h": 860,
+  "caption": "Pipeline board",
+  "mobile": false,
+  "v": "0cdebd6e"
+ },
+ {
+  "src": "/screens/legacy-giving-pipeline/03.webp",
+  "w": 1334,
+  "h": 860,
+  "caption": "Expectancies",
+  "mobile": false,
+  "v": "c5a21784"
+ },
+ {
+  "src": "/screens/legacy-giving-pipeline/04.webp",
+  "w": 1334,
+  "h": 860,
+  "caption": "Estates",
+  "mobile": false,
+  "v": "e376c112"
+ },
+ {
+  "src": "/screens/legacy-giving-pipeline/05.webp",
+  "w": 1334,
+  "h": 860,
+  "caption": "Society",
+  "mobile": false,
+  "v": "04103634"
+ },
+ {
+  "src": "/screens/legacy-giving-pipeline/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "c5e0ee43"
+ }
+]

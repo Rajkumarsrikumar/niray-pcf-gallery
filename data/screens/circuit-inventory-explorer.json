@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/circuit-inventory-explorer/01.webp",
+  "w": 1366,
+  "h": 820,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "bef8d5ae"
+ },
+ {
+  "src": "/screens/circuit-inventory-explorer/02.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "1c07d67b"
+ },
+ {
+  "src": "/screens/circuit-inventory-explorer/03.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "Inventory",
+  "mobile": true,
+  "v": "825ccf38"
+ },
+ {
+  "src": "/screens/circuit-inventory-explorer/04.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "96728ecd"
+ },
+ {
+  "src": "/screens/circuit-inventory-explorer/05.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "Impact",
+  "mobile": true,
+  "v": "171a8923"
+ },
+ {
+  "src": "/screens/circuit-inventory-explorer/06.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Portal",
+  "mobile": true,
+  "v": "bb0a9a76"
+ }
+]

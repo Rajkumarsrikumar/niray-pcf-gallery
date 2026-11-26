@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/courtesy-vehicle-fleet-manager/01.webp",
+  "w": 993,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "d7b32d55"
+ },
+ {
+  "src": "/screens/courtesy-vehicle-fleet-manager/02.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "40c87fcd"
+ },
+ {
+  "src": "/screens/courtesy-vehicle-fleet-manager/03.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Availability",
+  "mobile": true,
+  "v": "4979ef9a"
+ },
+ {
+  "src": "/screens/courtesy-vehicle-fleet-manager/04.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Menu",
+  "mobile": true,
+  "v": "f36213eb"
+ },
+ {
+  "src": "/screens/courtesy-vehicle-fleet-manager/05.webp",
+  "w": 993,
+  "h": 900,
+  "caption": "Demo availability",
+  "mobile": false,
+  "v": "f079b73b"
+ },
+ {
+  "src": "/screens/courtesy-vehicle-fleet-manager/06.webp",
+  "w": 993,
+  "h": 900,
+  "caption": "Demo desk",
+  "mobile": false,
+  "v": "26b95076"
+ }
+]

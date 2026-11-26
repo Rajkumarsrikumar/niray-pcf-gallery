@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/live-event-run-of-show/01.webp",
+  "w": 1300,
+  "h": 820,
+  "caption": "Demo rundown",
+  "mobile": false,
+  "v": "d4a95149"
+ },
+ {
+  "src": "/screens/live-event-run-of-show/02.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "Rundown",
+  "mobile": true,
+  "v": "83e682df"
+ },
+ {
+  "src": "/screens/live-event-run-of-show/03.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "328eb6cf"
+ },
+ {
+  "src": "/screens/live-event-run-of-show/04.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "Filters",
+  "mobile": true,
+  "v": "f313ad74"
+ },
+ {
+  "src": "/screens/live-event-run-of-show/05.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "Caller",
+  "mobile": true,
+  "v": "6faccd0d"
+ },
+ {
+  "src": "/screens/live-event-run-of-show/06.webp",
+  "w": 1300,
+  "h": 820,
+  "caption": "Show caller live",
+  "mobile": false,
+  "v": "b6e92d97"
+ }
+]

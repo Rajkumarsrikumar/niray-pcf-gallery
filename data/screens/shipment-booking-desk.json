@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/shipment-booking-desk/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "0f54e8f4"
+ },
+ {
+  "src": "/screens/shipment-booking-desk/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "35f89716"
+ },
+ {
+  "src": "/screens/shipment-booking-desk/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Board",
+  "mobile": true,
+  "v": "6ab5931a"
+ },
+ {
+  "src": "/screens/shipment-booking-desk/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Editor",
+  "mobile": true,
+  "v": "a46d911e"
+ },
+ {
+  "src": "/screens/shipment-booking-desk/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Requests list",
+  "mobile": false,
+  "v": "0ebdf573"
+ },
+ {
+  "src": "/screens/shipment-booking-desk/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Booking board",
+  "mobile": false,
+  "v": "c0025916"
+ }
+]

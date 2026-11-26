@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/network-trouble-ticket-console/01.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "64b63222"
+ },
+ {
+  "src": "/screens/network-trouble-ticket-console/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "17ae809a"
+ },
+ {
+  "src": "/screens/network-trouble-ticket-console/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Tickets",
+  "mobile": true,
+  "v": "04ba3f2b"
+ },
+ {
+  "src": "/screens/network-trouble-ticket-console/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "ab344eb1"
+ },
+ {
+  "src": "/screens/network-trouble-ticket-console/05.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Board status chips",
+  "mobile": true,
+  "v": "32841065"
+ },
+ {
+  "src": "/screens/network-trouble-ticket-console/06.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Sla watch",
+  "mobile": true,
+  "v": "2226c940"
+ }
+]

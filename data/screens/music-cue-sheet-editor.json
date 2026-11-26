@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/music-cue-sheet-editor/01.webp",
+  "w": 1068,
+  "h": 728,
+  "caption": "Demo mode dashboard",
+  "mobile": false,
+  "v": "8c41ec10"
+ },
+ {
+  "src": "/screens/music-cue-sheet-editor/02.webp",
+  "w": 358,
+  "h": 728,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "5d5a5999"
+ },
+ {
+  "src": "/screens/music-cue-sheet-editor/03.webp",
+  "w": 358,
+  "h": 728,
+  "caption": "Cue cards",
+  "mobile": true,
+  "v": "39b0afb6"
+ },
+ {
+  "src": "/screens/music-cue-sheet-editor/04.webp",
+  "w": 358,
+  "h": 728,
+  "caption": "Board lane picker",
+  "mobile": true,
+  "v": "add9c19f"
+ },
+ {
+  "src": "/screens/music-cue-sheet-editor/05.webp",
+  "w": 358,
+  "h": 728,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "640431b1"
+ },
+ {
+  "src": "/screens/music-cue-sheet-editor/06.webp",
+  "w": 1068,
+  "h": 728,
+  "caption": "Dashboard sample data",
+  "mobile": false,
+  "v": "cf3315ac"
+ }
+]

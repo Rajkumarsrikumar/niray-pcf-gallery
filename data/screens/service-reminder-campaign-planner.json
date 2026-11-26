@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/service-reminder-campaign-planner/01.webp",
+  "w": 949,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "1c675079"
+ },
+ {
+  "src": "/screens/service-reminder-campaign-planner/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "fb311265"
+ },
+ {
+  "src": "/screens/service-reminder-campaign-planner/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Board",
+  "mobile": true,
+  "v": "82681542"
+ },
+ {
+  "src": "/screens/service-reminder-campaign-planner/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "List",
+  "mobile": true,
+  "v": "b42f49cd"
+ },
+ {
+  "src": "/screens/service-reminder-campaign-planner/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "3120113b"
+ },
+ {
+  "src": "/screens/service-reminder-campaign-planner/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Campaigns",
+  "mobile": true,
+  "v": "15dde3eb"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/number-porting-request-manager/01.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "3b93210a"
+ },
+ {
+  "src": "/screens/number-porting-request-manager/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "2a3c010d"
+ },
+ {
+  "src": "/screens/number-porting-request-manager/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Requests",
+  "mobile": true,
+  "v": "ba22f306"
+ },
+ {
+  "src": "/screens/number-porting-request-manager/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "d6dad46c"
+ },
+ {
+  "src": "/screens/number-porting-request-manager/05.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Pipeline status chips",
+  "mobile": true,
+  "v": "65ffb890"
+ },
+ {
+  "src": "/screens/number-porting-request-manager/06.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Cutover",
+  "mobile": true,
+  "v": "30224aec"
+ }
+]

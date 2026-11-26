@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/wayleave-easement-tracker/01.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "b994e1ab"
+ },
+ {
+  "src": "/screens/wayleave-easement-tracker/02.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "Malformed config safe defaults",
+  "mobile": false,
+  "v": "b90cea80"
+ },
+ {
+  "src": "/screens/wayleave-easement-tracker/03.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "90a3096e"
+ },
+ {
+  "src": "/screens/wayleave-easement-tracker/04.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Route corridor",
+  "mobile": true,
+  "v": "dd04df42"
+ },
+ {
+  "src": "/screens/wayleave-easement-tracker/05.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Negotiations",
+  "mobile": true,
+  "v": "9e900cca"
+ },
+ {
+  "src": "/screens/wayleave-easement-tracker/06.webp",
+  "w": 1012,
+  "h": 817,
+  "caption": "Route corridor",
+  "mobile": false,
+  "v": "b026648d"
+ }
+]

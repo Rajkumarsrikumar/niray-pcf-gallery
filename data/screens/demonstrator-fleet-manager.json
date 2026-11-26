@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/demonstrator-fleet-manager/01.webp",
+  "w": 1021,
+  "h": 820,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "b7331d5e"
+ },
+ {
+  "src": "/screens/demonstrator-fleet-manager/02.webp",
+  "w": 1021,
+  "h": 820,
+  "caption": "Register",
+  "mobile": false,
+  "v": "87dc7407"
+ },
+ {
+  "src": "/screens/demonstrator-fleet-manager/03.webp",
+  "w": 1021,
+  "h": 820,
+  "caption": "Board",
+  "mobile": false,
+  "v": "df9fc5b0"
+ },
+ {
+  "src": "/screens/demonstrator-fleet-manager/04.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "Board",
+  "mobile": true,
+  "v": "dfd3d62d"
+ },
+ {
+  "src": "/screens/demonstrator-fleet-manager/05.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "61d851c0"
+ },
+ {
+  "src": "/screens/demonstrator-fleet-manager/06.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "2aa8e51a"
+ }
+]

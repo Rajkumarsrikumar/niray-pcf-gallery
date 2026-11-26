@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/cross-dock-flow-planner/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "14ba85dc"
+ },
+ {
+  "src": "/screens/cross-dock-flow-planner/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "637d22b1"
+ },
+ {
+  "src": "/screens/cross-dock-flow-planner/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dock lanes",
+  "mobile": true,
+  "v": "fd2181e7"
+ },
+ {
+  "src": "/screens/cross-dock-flow-planner/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Editor",
+  "mobile": true,
+  "v": "6a999cad"
+ },
+ {
+  "src": "/screens/cross-dock-flow-planner/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Dock map",
+  "mobile": false,
+  "v": "0d3dff79"
+ },
+ {
+  "src": "/screens/cross-dock-flow-planner/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Flow board",
+  "mobile": false,
+  "v": "f5d3d02d"
+ }
+]

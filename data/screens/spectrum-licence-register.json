@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/spectrum-licence-register/01.webp",
+  "w": 1366,
+  "h": 780,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "178b2922"
+ },
+ {
+  "src": "/screens/spectrum-licence-register/02.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "adb55207"
+ },
+ {
+  "src": "/screens/spectrum-licence-register/03.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Register",
+  "mobile": true,
+  "v": "997423fb"
+ },
+ {
+  "src": "/screens/spectrum-licence-register/04.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "0ea5286b"
+ },
+ {
+  "src": "/screens/spectrum-licence-register/05.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Band plan",
+  "mobile": true,
+  "v": "9ad46652"
+ },
+ {
+  "src": "/screens/spectrum-licence-register/06.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Renewals",
+  "mobile": true,
+  "v": "39ba69a9"
+ }
+]

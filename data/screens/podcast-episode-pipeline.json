@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/podcast-episode-pipeline/01.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "2a1f94b8"
+ },
+ {
+  "src": "/screens/podcast-episode-pipeline/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "e5ff7fed"
+ },
+ {
+  "src": "/screens/podcast-episode-pipeline/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Board",
+  "mobile": true,
+  "v": "f31f1ccd"
+ },
+ {
+  "src": "/screens/podcast-episode-pipeline/04.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Csv dashboard",
+  "mobile": false,
+  "v": "08d38015"
+ },
+ {
+  "src": "/screens/podcast-episode-pipeline/05.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Pipeline board",
+  "mobile": false,
+  "v": "50b17e99"
+ },
+ {
+  "src": "/screens/podcast-episode-pipeline/06.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Episodes list",
+  "mobile": false,
+  "v": "bb1763c0"
+ }
+]

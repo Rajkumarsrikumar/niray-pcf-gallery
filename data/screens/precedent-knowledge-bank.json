@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/precedent-knowledge-bank/01.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "d49ccb32"
+ },
+ {
+  "src": "/screens/precedent-knowledge-bank/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "c628a417"
+ },
+ {
+  "src": "/screens/precedent-knowledge-bank/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Library",
+  "mobile": true,
+  "v": "c60408bd"
+ },
+ {
+  "src": "/screens/precedent-knowledge-bank/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "B library refine",
+  "mobile": true,
+  "v": "5a76ef49"
+ },
+ {
+  "src": "/screens/precedent-knowledge-bank/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Board stage chips",
+  "mobile": true,
+  "v": "b29bc27f"
+ },
+ {
+  "src": "/screens/precedent-knowledge-bank/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Register cards",
+  "mobile": true,
+  "v": "43c7834e"
+ }
+]

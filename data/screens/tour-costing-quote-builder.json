@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/tour-costing-quote-builder/01.webp",
+  "w": 1364,
+  "h": 820,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "b982022f"
+ },
+ {
+  "src": "/screens/tour-costing-quote-builder/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "d666013e"
+ },
+ {
+  "src": "/screens/tour-costing-quote-builder/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Quote cards",
+  "mobile": true,
+  "v": "46780e72"
+ },
+ {
+  "src": "/screens/tour-costing-quote-builder/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Costing",
+  "mobile": true,
+  "v": "3dfc747b"
+ },
+ {
+  "src": "/screens/tour-costing-quote-builder/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Summary",
+  "mobile": true,
+  "v": "d7f1868b"
+ },
+ {
+  "src": "/screens/tour-costing-quote-builder/06.webp",
+  "w": 1364,
+  "h": 820,
+  "caption": "Quotes list",
+  "mobile": false,
+  "v": "c6a22574"
+ }
+]

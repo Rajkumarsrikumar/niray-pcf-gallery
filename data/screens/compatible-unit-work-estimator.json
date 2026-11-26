@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/compatible-unit-work-estimator/01.webp",
+  "w": 1334,
+  "h": 1000,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "e7351c4e"
+ },
+ {
+  "src": "/screens/compatible-unit-work-estimator/02.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "c1540e27"
+ },
+ {
+  "src": "/screens/compatible-unit-work-estimator/03.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Packages",
+  "mobile": true,
+  "v": "92f55ed0"
+ },
+ {
+  "src": "/screens/compatible-unit-work-estimator/04.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Board",
+  "mobile": true,
+  "v": "1182531f"
+ },
+ {
+  "src": "/screens/compatible-unit-work-estimator/05.webp",
+  "w": 1334,
+  "h": 1000,
+  "caption": "Work packages",
+  "mobile": false,
+  "v": "e986752d"
+ },
+ {
+  "src": "/screens/compatible-unit-work-estimator/06.webp",
+  "w": 1334,
+  "h": 1000,
+  "caption": "Need action grouped by status",
+  "mobile": false,
+  "v": "543d2875"
+ }
+]

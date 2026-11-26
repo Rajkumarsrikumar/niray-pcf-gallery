@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/outreach-encounter-log/01.webp",
+  "w": 1334,
+  "h": 860,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "a4da3f78"
+ },
+ {
+  "src": "/screens/outreach-encounter-log/02.webp",
+  "w": 1334,
+  "h": 860,
+  "caption": "Follow up board",
+  "mobile": false,
+  "v": "483bf48f"
+ },
+ {
+  "src": "/screens/outreach-encounter-log/03.webp",
+  "w": 1334,
+  "h": 860,
+  "caption": "People",
+  "mobile": false,
+  "v": "66daf755"
+ },
+ {
+  "src": "/screens/outreach-encounter-log/04.webp",
+  "w": 1334,
+  "h": 860,
+  "caption": "Run sheet",
+  "mobile": false,
+  "v": "9a205f0f"
+ },
+ {
+  "src": "/screens/outreach-encounter-log/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "a1a5676f"
+ },
+ {
+  "src": "/screens/outreach-encounter-log/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "8bb1a7fb"
+ }
+]

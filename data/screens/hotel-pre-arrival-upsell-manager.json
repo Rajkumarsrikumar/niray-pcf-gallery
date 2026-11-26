@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/hotel-pre-arrival-upsell-manager/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "e75c164a"
+ },
+ {
+  "src": "/screens/hotel-pre-arrival-upsell-manager/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "e95a2f3d"
+ },
+ {
+  "src": "/screens/hotel-pre-arrival-upsell-manager/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Pipeline stage",
+  "mobile": true,
+  "v": "78727531"
+ },
+ {
+  "src": "/screens/hotel-pre-arrival-upsell-manager/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Inventory",
+  "mobile": true,
+  "v": "46600dd5"
+ },
+ {
+  "src": "/screens/hotel-pre-arrival-upsell-manager/05.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Pipeline board",
+  "mobile": false,
+  "v": "4dd8c37d"
+ },
+ {
+  "src": "/screens/hotel-pre-arrival-upsell-manager/06.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Pipeline drag allowed stages",
+  "mobile": false,
+  "v": "9a224fb6"
+ }
+]

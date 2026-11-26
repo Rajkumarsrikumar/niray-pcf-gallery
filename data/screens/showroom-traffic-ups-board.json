@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/showroom-traffic-ups-board/01.webp",
+  "w": 1028,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "65943531"
+ },
+ {
+  "src": "/screens/showroom-traffic-ups-board/02.webp",
+  "w": 1028,
+  "h": 900,
+  "caption": "Ups board",
+  "mobile": false,
+  "v": "baf3a070"
+ },
+ {
+  "src": "/screens/showroom-traffic-ups-board/03.webp",
+  "w": 1028,
+  "h": 900,
+  "caption": "Pipeline",
+  "mobile": false,
+  "v": "580f8c3e"
+ },
+ {
+  "src": "/screens/showroom-traffic-ups-board/04.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "24b2bcda"
+ },
+ {
+  "src": "/screens/showroom-traffic-ups-board/05.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "6c1052a7"
+ },
+ {
+  "src": "/screens/showroom-traffic-ups-board/06.webp",
+  "w": 373,
+  "h": 700,
+  "caption": "More menu",
+  "mobile": true,
+  "v": "df749133"
+ }
+]

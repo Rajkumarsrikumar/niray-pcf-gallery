@@ -71,7 +71,9 @@ def refresh_packs(cat, slugs):
         plans.append((cat["industryPlan"], "in progress"))
     status_of = {c["component"]: c["status"] for c in cat["components"]}
     for plan_, status in plans:
-        slug = re.sub(r"[^a-z0-9]+", "-", plan_["packName"].lower().replace("niray ", "").replace("&", "and")).strip("-")
+        if not isinstance(plan_.get("components"), list):
+            continue  # some library plans store only a count here; nothing to merge
+        slug =re.sub(r"[^a-z0-9]+", "-", plan_["packName"].lower().replace("niray ", "").replace("&", "and")).strip("-")
         existing = next((p for p in packs if p["packName"] == plan_["packName"] or p["slug"] == slug), None)
         items = [{"order": i["order"], "component": i["component"],
                   "slug": slugs.get(i["component"]) or (existing and next((x.get("slug") for x in existing["components"] if x["component"] == i["component"]), None)),

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/subcontractor-engagement-manager/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "f3353d06"
+ },
+ {
+  "src": "/screens/subcontractor-engagement-manager/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 1 dashboard",
+  "mobile": true,
+  "v": "e7b88e9c"
+ },
+ {
+  "src": "/screens/subcontractor-engagement-manager/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 2 cards",
+  "mobile": true,
+  "v": "58ba77b1"
+ },
+ {
+  "src": "/screens/subcontractor-engagement-manager/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 3 detail",
+  "mobile": true,
+  "v": "7e7bc9b4"
+ },
+ {
+  "src": "/screens/subcontractor-engagement-manager/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 4 board",
+  "mobile": true,
+  "v": "03c7c2e3"
+ },
+ {
+  "src": "/screens/subcontractor-engagement-manager/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 5 compliance",
+  "mobile": true,
+  "v": "1a848e36"
+ }
+]

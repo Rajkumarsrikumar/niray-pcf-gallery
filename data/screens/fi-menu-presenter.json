@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/fi-menu-presenter/01.webp",
+  "w": 1238,
+  "h": 860,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "118f1b15"
+ },
+ {
+  "src": "/screens/fi-menu-presenter/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "4b633db4"
+ },
+ {
+  "src": "/screens/fi-menu-presenter/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "List",
+  "mobile": true,
+  "v": "c8680e26"
+ },
+ {
+  "src": "/screens/fi-menu-presenter/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Board",
+  "mobile": true,
+  "v": "567db376"
+ },
+ {
+  "src": "/screens/fi-menu-presenter/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Menu",
+  "mobile": true,
+  "v": "050b6b8e"
+ },
+ {
+  "src": "/screens/fi-menu-presenter/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "B menu decisions",
+  "mobile": true,
+  "v": "9de02b5f"
+ }
+]

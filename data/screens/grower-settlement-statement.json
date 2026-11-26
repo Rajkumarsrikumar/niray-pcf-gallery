@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/grower-settlement-statement/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "1f927461"
+ },
+ {
+  "src": "/screens/grower-settlement-statement/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "afa13037"
+ },
+ {
+  "src": "/screens/grower-settlement-statement/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Load cards",
+  "mobile": true,
+  "v": "aa1b7e4c"
+ },
+ {
+  "src": "/screens/grower-settlement-statement/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Statements",
+  "mobile": true,
+  "v": "412d8cbe"
+ },
+ {
+  "src": "/screens/grower-settlement-statement/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Statement document",
+  "mobile": true,
+  "v": "91027e46"
+ },
+ {
+  "src": "/screens/grower-settlement-statement/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Payment run",
+  "mobile": true,
+  "v": "845e5afd"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/jib-dispute-desk/01.webp",
+  "w": 1318,
+  "h": 820,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "1142dd7f"
+ },
+ {
+  "src": "/screens/jib-dispute-desk/02.webp",
+  "w": 373,
+  "h": 772,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "ed5ae38c"
+ },
+ {
+  "src": "/screens/jib-dispute-desk/03.webp",
+  "w": 373,
+  "h": 772,
+  "caption": "Lines cards",
+  "mobile": true,
+  "v": "a3f6f70e"
+ },
+ {
+  "src": "/screens/jib-dispute-desk/04.webp",
+  "w": 373,
+  "h": 772,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "4fcda9da"
+ },
+ {
+  "src": "/screens/jib-dispute-desk/05.webp",
+  "w": 1318,
+  "h": 820,
+  "caption": "Dashboard connected",
+  "mobile": false,
+  "v": "01f01d73"
+ },
+ {
+  "src": "/screens/jib-dispute-desk/06.webp",
+  "w": 1318,
+  "h": 820,
+  "caption": "Lines grid",
+  "mobile": false,
+  "v": "17a0ab1d"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/punch-list-closeout-manager/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "0a361520"
+ },
+ {
+  "src": "/screens/punch-list-closeout-manager/02.webp",
+  "w": 1100,
+  "h": 900,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "5ef1ef51"
+ },
+ {
+  "src": "/screens/punch-list-closeout-manager/03.webp",
+  "w": 1100,
+  "h": 900,
+  "caption": "List",
+  "mobile": false,
+  "v": "a25858f4"
+ },
+ {
+  "src": "/screens/punch-list-closeout-manager/04.webp",
+  "w": 1100,
+  "h": 900,
+  "caption": "Detail",
+  "mobile": false,
+  "v": "f9fd6fa3"
+ },
+ {
+  "src": "/screens/punch-list-closeout-manager/05.webp",
+  "w": 1100,
+  "h": 900,
+  "caption": "Board",
+  "mobile": false,
+  "v": "c89ec576"
+ },
+ {
+  "src": "/screens/punch-list-closeout-manager/06.webp",
+  "w": 1100,
+  "h": 900,
+  "caption": "Areas",
+  "mobile": false,
+  "v": "815971fa"
+ }
+]

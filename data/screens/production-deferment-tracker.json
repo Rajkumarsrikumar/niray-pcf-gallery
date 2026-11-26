@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/production-deferment-tracker/01.webp",
+  "w": 1340,
+  "h": 1150,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "82bf4817"
+ },
+ {
+  "src": "/screens/production-deferment-tracker/02.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "223bd882"
+ },
+ {
+  "src": "/screens/production-deferment-tracker/03.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Events",
+  "mobile": true,
+  "v": "0b38814f"
+ },
+ {
+  "src": "/screens/production-deferment-tracker/04.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Panel",
+  "mobile": true,
+  "v": "a4bf1721"
+ },
+ {
+  "src": "/screens/production-deferment-tracker/05.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Menu",
+  "mobile": true,
+  "v": "449a8e3f"
+ },
+ {
+  "src": "/screens/production-deferment-tracker/06.webp",
+  "w": 1340,
+  "h": 1000,
+  "caption": "Events list",
+  "mobile": false,
+  "v": "778e5acc"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/volunteer-shift-coordinator/01.webp",
+  "w": 1334,
+  "h": 820,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "6aee2806"
+ },
+ {
+  "src": "/screens/volunteer-shift-coordinator/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "c11f2ebf"
+ },
+ {
+  "src": "/screens/volunteer-shift-coordinator/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Shifts",
+  "mobile": true,
+  "v": "bd1092de"
+ },
+ {
+  "src": "/screens/volunteer-shift-coordinator/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Roster",
+  "mobile": true,
+  "v": "e4f422f9"
+ },
+ {
+  "src": "/screens/volunteer-shift-coordinator/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Calendar",
+  "mobile": true,
+  "v": "5ba9ee50"
+ },
+ {
+  "src": "/screens/volunteer-shift-coordinator/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "5a5ab018"
+ }
+]

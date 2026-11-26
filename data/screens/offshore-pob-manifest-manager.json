@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/offshore-pob-manifest-manager/01.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "128dcbed"
+ },
+ {
+  "src": "/screens/offshore-pob-manifest-manager/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "651b2974"
+ },
+ {
+  "src": "/screens/offshore-pob-manifest-manager/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Manifests",
+  "mobile": true,
+  "v": "24f57eec"
+ },
+ {
+  "src": "/screens/offshore-pob-manifest-manager/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Personnel",
+  "mobile": true,
+  "v": "9435e068"
+ },
+ {
+  "src": "/screens/offshore-pob-manifest-manager/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "Form validation",
+  "mobile": true,
+  "v": "ef9b3317"
+ },
+ {
+  "src": "/screens/offshore-pob-manifest-manager/06.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Personnel list",
+  "mobile": false,
+  "v": "5c0776a4"
+ }
+]

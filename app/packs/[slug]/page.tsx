@@ -4,7 +4,7 @@ import AddToCart from "../../AddToCart";
 import Icon from "../../Icon";
 import ProductCard from "../../ProductCard";
 import { packKeywords } from "@/lib/seo";
-import { HEALTH_NOTICE, PRICE, allComponents, allPacks, formatPrice, getPack, isAvailable, packPreviews, themeFor, thumbOf } from "@/lib/catalog";
+import { HEALTH_NOTICE, PRICE, allComponents, allPacks, cardItem, formatPrice, getPack, isAvailable, packPreviews, themeFor, thumbOf } from "@/lib/catalog";
 
 export function generateStaticParams() {
   return allPacks.map((p) => ({ slug: p.slug }));
@@ -80,7 +80,7 @@ export default function PackPage({ params }: { params: { slug: string } }) {
         {Array.from(groups.entries()).map(([g, items]) => (
           <section key={g} className="mb-12">
             <h2 className="mb-5 flex items-center gap-3 text-xl font-bold text-brand-navy">{g}<span className="rounded-full bg-slate-100 px-2.5 py-0.5 text-xs font-semibold text-slate-500">{items.length}</span></h2>
-            <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">{items.map((c) => <ProductCard key={c.slug} c={c} />)}</div>
+            <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">{items.map((c) => <ProductCard key={c.slug} c={cardItem(c)} />)}</div>
           </section>
         ))}
       </div>

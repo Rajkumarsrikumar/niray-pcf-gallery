@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/clienteling-client-book/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "fd512b3b"
+ },
+ {
+  "src": "/screens/clienteling-client-book/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "4f23ebf4"
+ },
+ {
+  "src": "/screens/clienteling-client-book/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Clients",
+  "mobile": true,
+  "v": "208a4514"
+ },
+ {
+  "src": "/screens/clienteling-client-book/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "e4d40c7b"
+ },
+ {
+  "src": "/screens/clienteling-client-book/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Outreach",
+  "mobile": true,
+  "v": "c168ab31"
+ },
+ {
+  "src": "/screens/clienteling-client-book/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo clients",
+  "mobile": false,
+  "v": "9d1f050a"
+ }
+]

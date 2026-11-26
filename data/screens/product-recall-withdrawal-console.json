@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/product-recall-withdrawal-console/01.webp",
+  "w": 1317,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "46c088b1"
+ },
+ {
+  "src": "/screens/product-recall-withdrawal-console/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "8282b727"
+ },
+ {
+  "src": "/screens/product-recall-withdrawal-console/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Recalls",
+  "mobile": true,
+  "v": "55a9812c"
+ },
+ {
+  "src": "/screens/product-recall-withdrawal-console/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Lines",
+  "mobile": true,
+  "v": "1dad479a"
+ },
+ {
+  "src": "/screens/product-recall-withdrawal-console/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Sweep",
+  "mobile": true,
+  "v": "c10444ca"
+ },
+ {
+  "src": "/screens/product-recall-withdrawal-console/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Quarantine",
+  "mobile": true,
+  "v": "2c8c2a4f"
+ }
+]

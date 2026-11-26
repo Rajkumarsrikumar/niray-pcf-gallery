@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/sponsorship-deliverables-tracker/01.webp",
+  "w": 1300,
+  "h": 840,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "66477ee7"
+ },
+ {
+  "src": "/screens/sponsorship-deliverables-tracker/02.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "Deliverables",
+  "mobile": true,
+  "v": "95df84b1"
+ },
+ {
+  "src": "/screens/sponsorship-deliverables-tracker/03.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "6221772a"
+ },
+ {
+  "src": "/screens/sponsorship-deliverables-tracker/04.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "Filters",
+  "mobile": true,
+  "v": "235d91b8"
+ },
+ {
+  "src": "/screens/sponsorship-deliverables-tracker/05.webp",
+  "w": 375,
+  "h": 740,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "aa9c7fd0"
+ },
+ {
+  "src": "/screens/sponsorship-deliverables-tracker/06.webp",
+  "w": 1300,
+  "h": 840,
+  "caption": "Deliverables list",
+  "mobile": false,
+  "v": "4cd710d9"
+ }
+]

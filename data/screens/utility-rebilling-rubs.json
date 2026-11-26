@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/utility-rebilling-rubs/01.webp",
+  "w": 1040,
+  "h": 760,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "e04df023"
+ },
+ {
+  "src": "/screens/utility-rebilling-rubs/02.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "0b875c94"
+ },
+ {
+  "src": "/screens/utility-rebilling-rubs/03.webp",
+  "w": 375,
+  "h": 720,
+  "caption": "Bills",
+  "mobile": true,
+  "v": "f3b1e1f2"
+ },
+ {
+  "src": "/screens/utility-rebilling-rubs/04.webp",
+  "w": 1040,
+  "h": 760,
+  "caption": "Demo bills register",
+  "mobile": false,
+  "v": "30f55f25"
+ },
+ {
+  "src": "/screens/utility-rebilling-rubs/05.webp",
+  "w": 1040,
+  "h": 760,
+  "caption": "Csv overview",
+  "mobile": false,
+  "v": "2691ae80"
+ },
+ {
+  "src": "/screens/utility-rebilling-rubs/06.webp",
+  "w": 1040,
+  "h": 760,
+  "caption": "Bills grouped property",
+  "mobile": false,
+  "v": "54c8e37f"
+ }
+]

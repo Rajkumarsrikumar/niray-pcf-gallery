@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/market-access-hta-dossier-planner/01.webp",
+  "w": 1360,
+  "h": 900,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "2e7efcbd"
+ },
+ {
+  "src": "/screens/market-access-hta-dossier-planner/02.webp",
+  "w": 335,
+  "h": 740,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "ce9201c1"
+ },
+ {
+  "src": "/screens/market-access-hta-dossier-planner/03.webp",
+  "w": 335,
+  "h": 740,
+  "caption": "Dossiers",
+  "mobile": true,
+  "v": "da635b19"
+ },
+ {
+  "src": "/screens/market-access-hta-dossier-planner/04.webp",
+  "w": 335,
+  "h": 740,
+  "caption": "Gaps",
+  "mobile": true,
+  "v": "9292ed74"
+ },
+ {
+  "src": "/screens/market-access-hta-dossier-planner/05.webp",
+  "w": 335,
+  "h": 740,
+  "caption": "Home",
+  "mobile": true,
+  "v": "5d3f8337"
+ },
+ {
+  "src": "/screens/market-access-hta-dossier-planner/06.webp",
+  "w": 335,
+  "h": 740,
+  "caption": "Outcomes",
+  "mobile": true,
+  "v": "e4985d47"
+ }
+]

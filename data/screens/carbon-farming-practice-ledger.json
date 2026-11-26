@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/carbon-farming-practice-ledger/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "8cedb68d"
+ },
+ {
+  "src": "/screens/carbon-farming-practice-ledger/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "e6652984"
+ },
+ {
+  "src": "/screens/carbon-farming-practice-ledger/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Practice cards",
+  "mobile": true,
+  "v": "70ce2eae"
+ },
+ {
+  "src": "/screens/carbon-farming-practice-ledger/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Practice panel",
+  "mobile": true,
+  "v": "9810245c"
+ },
+ {
+  "src": "/screens/carbon-farming-practice-ledger/05.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Batches",
+  "mobile": true,
+  "v": "adfe676c"
+ },
+ {
+  "src": "/screens/carbon-farming-practice-ledger/06.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Deadlines agenda",
+  "mobile": true,
+  "v": "fbd41757"
+ }
+]

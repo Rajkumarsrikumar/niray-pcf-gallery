@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/well-intervention-workover-planner/01.webp",
+  "w": 1340,
+  "h": 900,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "55964aeb"
+ },
+ {
+  "src": "/screens/well-intervention-workover-planner/02.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "2dd0ca08"
+ },
+ {
+  "src": "/screens/well-intervention-workover-planner/03.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Register",
+  "mobile": true,
+  "v": "877062cf"
+ },
+ {
+  "src": "/screens/well-intervention-workover-planner/04.webp",
+  "w": 375,
+  "h": 860,
+  "caption": "Panel",
+  "mobile": true,
+  "v": "4034edd5"
+ },
+ {
+  "src": "/screens/well-intervention-workover-planner/05.webp",
+  "w": 1340,
+  "h": 900,
+  "caption": "Candidate ranking",
+  "mobile": false,
+  "v": "1c893dcf"
+ },
+ {
+  "src": "/screens/well-intervention-workover-planner/06.webp",
+  "w": 1340,
+  "h": 900,
+  "caption": "Ranking table budget cutoff",
+  "mobile": false,
+  "v": "85b55a37"
+ }
+]

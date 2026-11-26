@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/harvest-maturity-pick-scheduler/01.webp",
+  "w": 1340,
+  "h": 820,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "4e14f30f"
+ },
+ {
+  "src": "/screens/harvest-maturity-pick-scheduler/02.webp",
+  "w": 1340,
+  "h": 820,
+  "caption": "Hero",
+  "mobile": false,
+  "v": "d7239892"
+ },
+ {
+  "src": "/screens/harvest-maturity-pick-scheduler/03.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "73c8ce10"
+ },
+ {
+  "src": "/screens/harvest-maturity-pick-scheduler/04.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Maturity",
+  "mobile": true,
+  "v": "1a0a5f7c"
+ },
+ {
+  "src": "/screens/harvest-maturity-pick-scheduler/05.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "90a565f9"
+ },
+ {
+  "src": "/screens/harvest-maturity-pick-scheduler/06.webp",
+  "w": 375,
+  "h": 760,
+  "caption": "Calendar",
+  "mobile": true,
+  "v": "13074e06"
+ }
+]

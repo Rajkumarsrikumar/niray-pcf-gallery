@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/network-change-window-planner/01.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "1f4bd553"
+ },
+ {
+  "src": "/screens/network-change-window-planner/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "431ecb25"
+ },
+ {
+  "src": "/screens/network-change-window-planner/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Calendar agenda",
+  "mobile": true,
+  "v": "fd5b0556"
+ },
+ {
+  "src": "/screens/network-change-window-planner/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Changes",
+  "mobile": true,
+  "v": "2aa14ea0"
+ },
+ {
+  "src": "/screens/network-change-window-planner/05.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "d7ed03f3"
+ },
+ {
+  "src": "/screens/network-change-window-planner/06.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Cab status chips",
+  "mobile": true,
+  "v": "2c4566d0"
+ }
+]

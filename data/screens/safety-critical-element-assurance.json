@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/safety-critical-element-assurance/01.webp",
+  "w": 1318,
+  "h": 860,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "0c2ce0cb"
+ },
+ {
+  "src": "/screens/safety-critical-element-assurance/02.webp",
+  "w": 373,
+  "h": 772,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "37a488e3"
+ },
+ {
+  "src": "/screens/safety-critical-element-assurance/03.webp",
+  "w": 373,
+  "h": 772,
+  "caption": "Register cards",
+  "mobile": true,
+  "v": "7e6538ee"
+ },
+ {
+  "src": "/screens/safety-critical-element-assurance/04.webp",
+  "w": 373,
+  "h": 772,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "11c5894c"
+ },
+ {
+  "src": "/screens/safety-critical-element-assurance/05.webp",
+  "w": 1318,
+  "h": 860,
+  "caption": "Dashboard connected",
+  "mobile": false,
+  "v": "009d02d8"
+ },
+ {
+  "src": "/screens/safety-critical-element-assurance/06.webp",
+  "w": 1318,
+  "h": 860,
+  "caption": "Register grid",
+  "mobile": false,
+  "v": "84c049f5"
+ }
+]

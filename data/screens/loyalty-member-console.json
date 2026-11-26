@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/loyalty-member-console/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "6276d13c"
+ },
+ {
+  "src": "/screens/loyalty-member-console/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "6071c3af"
+ },
+ {
+  "src": "/screens/loyalty-member-console/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Members",
+  "mobile": true,
+  "v": "5ee0ea59"
+ },
+ {
+  "src": "/screens/loyalty-member-console/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Member",
+  "mobile": true,
+  "v": "aae1983c"
+ },
+ {
+  "src": "/screens/loyalty-member-console/05.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Ledger",
+  "mobile": true,
+  "v": "d1ce974e"
+ },
+ {
+  "src": "/screens/loyalty-member-console/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo members",
+  "mobile": false,
+  "v": "d7de4c52"
+ }
+]

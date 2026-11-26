@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/load-tender-board/01.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo overview",
+  "mobile": false,
+  "v": "42891acc"
+ },
+ {
+  "src": "/screens/load-tender-board/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Overview",
+  "mobile": true,
+  "v": "99a7917f"
+ },
+ {
+  "src": "/screens/load-tender-board/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "9193150b"
+ },
+ {
+  "src": "/screens/load-tender-board/04.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo loads needs action",
+  "mobile": false,
+  "v": "73a8871b"
+ },
+ {
+  "src": "/screens/load-tender-board/05.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo board",
+  "mobile": false,
+  "v": "2d8ac4b8"
+ },
+ {
+  "src": "/screens/load-tender-board/06.webp",
+  "w": 1334,
+  "h": 900,
+  "caption": "Demo carriers",
+  "mobile": false,
+  "v": "828dbfa2"
+ }
+]

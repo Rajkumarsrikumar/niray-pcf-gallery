@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/energy-isolation-loto-manager/01.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "5c9aa3d8"
+ },
+ {
+  "src": "/screens/energy-isolation-loto-manager/02.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Home",
+  "mobile": true,
+  "v": "d857b849"
+ },
+ {
+  "src": "/screens/energy-isolation-loto-manager/03.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Board",
+  "mobile": true,
+  "v": "b8715cb3"
+ },
+ {
+  "src": "/screens/energy-isolation-loto-manager/04.webp",
+  "w": 373,
+  "h": 760,
+  "caption": "Lockbox",
+  "mobile": true,
+  "v": "9648d780"
+ },
+ {
+  "src": "/screens/energy-isolation-loto-manager/05.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Demo board",
+  "mobile": false,
+  "v": "a239cd19"
+ },
+ {
+  "src": "/screens/energy-isolation-loto-manager/06.webp",
+  "w": 1364,
+  "h": 900,
+  "caption": "Demo lockbox",
+  "mobile": false,
+  "v": "9eeb87c6"
+ }
+]

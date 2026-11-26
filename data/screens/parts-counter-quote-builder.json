@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/parts-counter-quote-builder/01.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Dashboard demo",
+  "mobile": false,
+  "v": "f486179f"
+ },
+ {
+  "src": "/screens/parts-counter-quote-builder/02.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "8a1476b5"
+ },
+ {
+  "src": "/screens/parts-counter-quote-builder/03.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Parts",
+  "mobile": true,
+  "v": "0f239da6"
+ },
+ {
+  "src": "/screens/parts-counter-quote-builder/04.webp",
+  "w": 373,
+  "h": 780,
+  "caption": "Board",
+  "mobile": true,
+  "v": "b341129e"
+ },
+ {
+  "src": "/screens/parts-counter-quote-builder/05.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Quotes list",
+  "mobile": false,
+  "v": "afb9355d"
+ },
+ {
+  "src": "/screens/parts-counter-quote-builder/06.webp",
+  "w": 1364,
+  "h": 860,
+  "caption": "Quote detail",
+  "mobile": false,
+  "v": "035d0976"
+ }
+]

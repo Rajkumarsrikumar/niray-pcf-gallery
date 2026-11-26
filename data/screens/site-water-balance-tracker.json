@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/site-water-balance-tracker/01.webp",
+  "w": 1045,
+  "h": 860,
+  "caption": "Dashboard",
+  "mobile": false,
+  "v": "85f9a1bb"
+ },
+ {
+  "src": "/screens/site-water-balance-tracker/02.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "e4c05da3"
+ },
+ {
+  "src": "/screens/site-water-balance-tracker/03.webp",
+  "w": 357,
+  "h": 752,
+  "caption": "Balance cards",
+  "mobile": true,
+  "v": "2b983606"
+ },
+ {
+  "src": "/screens/site-water-balance-tracker/04.webp",
+  "w": 1045,
+  "h": 860,
+  "caption": "Balance",
+  "mobile": false,
+  "v": "f2853ce9"
+ },
+ {
+  "src": "/screens/site-water-balance-tracker/05.webp",
+  "w": 1045,
+  "h": 860,
+  "caption": "Balance pit3 out of tolerance",
+  "mobile": false,
+  "v": "de6a5cb2"
+ },
+ {
+  "src": "/screens/site-water-balance-tracker/06.webp",
+  "w": 1045,
+  "h": 860,
+  "caption": "Lock period blocked",
+  "mobile": false,
+  "v": "8069bd18"
+ }
+]

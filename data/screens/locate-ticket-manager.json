@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/locate-ticket-manager/01.webp",
+  "w": 1334,
+  "h": 1000,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "d7dbc07a"
+ },
+ {
+  "src": "/screens/locate-ticket-manager/02.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "08eee9d0"
+ },
+ {
+  "src": "/screens/locate-ticket-manager/03.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Tickets",
+  "mobile": true,
+  "v": "dca57675"
+ },
+ {
+  "src": "/screens/locate-ticket-manager/04.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Board",
+  "mobile": true,
+  "v": "c5b9af83"
+ },
+ {
+  "src": "/screens/locate-ticket-manager/05.webp",
+  "w": 373,
+  "h": 800,
+  "caption": "Dispatch",
+  "mobile": true,
+  "v": "67d9ec11"
+ },
+ {
+  "src": "/screens/locate-ticket-manager/06.webp",
+  "w": 1334,
+  "h": 1000,
+  "caption": "Tickets",
+  "mobile": false,
+  "v": "71789af0"
+ }
+]

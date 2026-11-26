@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/fibre-order-to-activation-tracker/01.webp",
+  "w": 1012,
+  "h": 797,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "b4ce9c85"
+ },
+ {
+  "src": "/screens/fibre-order-to-activation-tracker/02.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Dashboard",
+  "mobile": true,
+  "v": "2fe312dd"
+ },
+ {
+  "src": "/screens/fibre-order-to-activation-tracker/03.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Pipeline stage chips",
+  "mobile": true,
+  "v": "1f7009c6"
+ },
+ {
+  "src": "/screens/fibre-order-to-activation-tracker/04.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Orders",
+  "mobile": true,
+  "v": "d71f0d07"
+ },
+ {
+  "src": "/screens/fibre-order-to-activation-tracker/05.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Detail",
+  "mobile": true,
+  "v": "052950c0"
+ },
+ {
+  "src": "/screens/fibre-order-to-activation-tracker/06.webp",
+  "w": 375,
+  "h": 812,
+  "caption": "Installs",
+  "mobile": true,
+  "v": "ed21b71b"
+ }
+]

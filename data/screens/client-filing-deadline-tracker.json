@@ -1,0 +1,50 @@
+[
+ {
+  "src": "/screens/client-filing-deadline-tracker/01.webp",
+  "w": 1012,
+  "h": 854,
+  "caption": "Demo dashboard",
+  "mobile": false,
+  "v": "b9b11c3e"
+ },
+ {
+  "src": "/screens/client-filing-deadline-tracker/02.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 01 dashboard",
+  "mobile": true,
+  "v": "44f0c6d9"
+ },
+ {
+  "src": "/screens/client-filing-deadline-tracker/03.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 02 filings",
+  "mobile": true,
+  "v": "dd09988d"
+ },
+ {
+  "src": "/screens/client-filing-deadline-tracker/04.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 03 detail",
+  "mobile": true,
+  "v": "a2662852"
+ },
+ {
+  "src": "/screens/client-filing-deadline-tracker/05.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 04 calendar agenda",
+  "mobile": true,
+  "v": "20e61b98"
+ },
+ {
+  "src": "/screens/client-filing-deadline-tracker/06.webp",
+  "w": 373,
+  "h": 740,
+  "caption": "M 05 board lane",
+  "mobile": true,
+  "v": "cc056451"
+ }
+]
