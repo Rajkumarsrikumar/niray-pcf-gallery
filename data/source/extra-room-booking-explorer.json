@@ -29,14 +29,18 @@
  "mobileResponsive": true,
  "complexity": "Advanced",
  "status": "final",
- "availability": "Coming soon",
+ "availability": "Available",
  "componentVersion": "1.0.0",
- "solutionVersion": null,
+ "solutionVersion": "1.0.0.0",
  "releaseDate": "2026-11-03",
  "schemaName": "pcfl_PCFLib.RoomBookingExplorer",
  "react": "16.14.0 (platform library)",
  "controlType": "virtual",
  "userManual": "RoomBookingExplorer_USER_GUIDE.docx",
  "screenshotCount": 10,
- "price": null
+ "price": null,
+ "solutionFiles": [
+  "NirayITSolutions_RoomBookingExplorer_1_0_0_0_managed.zip",
+  "NirayITSolutions_RoomBookingExplorer_1_0_0_0_User-Manual.docx"
+ ]
 }

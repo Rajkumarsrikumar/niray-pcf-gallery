@@ -29,14 +29,18 @@
  "mobileResponsive": true,
  "complexity": "Advanced",
  "status": "final",
- "availability": "Coming soon",
+ "availability": "Available",
  "componentVersion": "1.0.2",
- "solutionVersion": null,
+ "solutionVersion": "1.0.1.0",
  "releaseDate": "2026-10-16",
  "schemaName": "pcfl_PCFLib.ChoicePillToggle",
  "react": "16.14.0 (platform library)",
  "controlType": "virtual",
  "userManual": "ChoicePillToggle_USER_GUIDE.docx",
  "screenshotCount": 8,
- "price": null
+ "price": null,
+ "solutionFiles": [
+  "NirayITSolutions_ChoicePillToggle_1_0_1_0_managed.zip",
+  "NirayITSolutions_ChoicePillToggle_1_0_1_0_User-Manual.docx"
+ ]
 }

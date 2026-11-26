@@ -29,14 +29,18 @@
  "mobileResponsive": true,
  "complexity": "Advanced",
  "status": "final",
- "availability": "Coming soon",
+ "availability": "Available",
  "componentVersion": "1.0.1",
- "solutionVersion": null,
+ "solutionVersion": "1.0.0.0",
  "releaseDate": "2026-10-23",
  "schemaName": "pcfl_PCFLib.CurrencyInput",
  "react": null,
  "controlType": "standard",
  "userManual": "CurrencyInput_USER_GUIDE.docx",
  "screenshotCount": 7,
- "price": null
+ "price": null,
+ "solutionFiles": [
+  "NirayITSolutions_CurrencyInput_1_0_0_0_managed.zip",
+  "NirayITSolutions_CurrencyInput_1_0_0_0_User-Manual.docx"
+ ]
 }

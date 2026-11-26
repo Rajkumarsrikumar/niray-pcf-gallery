@@ -23,14 +23,18 @@
  "mobileResponsive": true,
  "complexity": "Advanced",
  "status": "final",
- "availability": "Coming soon",
+ "availability": "Available",
  "componentVersion": "1.0.1",
- "solutionVersion": null,
+ "solutionVersion": "1.0.0.0",
  "releaseDate": "2026-10-20",
  "schemaName": "pcfl_PCFLib.SignaturePad",
  "react": null,
  "controlType": "standard",
  "userManual": "SignaturePad_USER_GUIDE.docx",
  "screenshotCount": 8,
- "price": null
+ "price": null,
+ "solutionFiles": [
+  "NirayITSolutions_SignaturePad_1_0_0_0_managed.zip",
+  "NirayITSolutions_SignaturePad_1_0_0_0_User-Manual.docx"
+ ]
 }
