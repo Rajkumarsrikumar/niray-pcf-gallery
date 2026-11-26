@@ -613,5 +613,560 @@
   "component": "DentalToothChart",
   "managed": "NirayITSolutions_DentalToothChart_1_0_90_0_managed.zip",
   "manualPdf": "NirayITSolutions_DentalToothChart_1_0_90_0_User-Manual.pdf"
+ },
+ "activity-timeline": {
+  "component": "ActivityTimeline",
+  "managed": "NirayITSolutions_ActivityTimeline_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_ActivityTimeline_1_0_0_0_User-Manual.pdf"
+ },
+ "appointment-slot-picker": {
+  "component": "AppointmentSlotPicker",
+  "managed": "NirayITSolutions_AppointmentSlotPicker_1_1_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_AppointmentSlotPicker_1_1_0_0_User-Manual.pdf"
+ },
+ "approval-audit-trail-explorer": {
+  "component": "ApprovalAuditTrailExplorer",
+  "managed": "NirayITSolutions_ApprovalAuditTrailExplorer_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_ApprovalAuditTrailExplorer_1_0_0_0_User-Manual.pdf"
+ },
+ "approval-conditions-tracker": {
+  "component": "ApprovalConditionsTracker",
+  "managed": "NirayITSolutions_ApprovalConditionsTracker_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_ApprovalConditionsTracker_1_0_0_0_User-Manual.pdf"
+ },
+ "approval-cycle-time-analyzer": {
+  "component": "ApprovalCycleTimeAnalyzer",
+  "managed": "NirayITSolutions_ApprovalCycleTimeAnalyzer_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_ApprovalCycleTimeAnalyzer_1_0_0_0_User-Manual.pdf"
+ },
+ "approval-decision-composer": {
+  "component": "ApprovalDecisionComposer",
+  "managed": "NirayITSolutions_ApprovalDecisionComposer_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_ApprovalDecisionComposer_1_0_0_0_User-Manual.pdf"
+ },
+ "approval-delegation-planner": {
+  "component": "ApprovalDelegationPlanner",
+  "managed": "NirayITSolutions_ApprovalDelegationPlanner_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_ApprovalDelegationPlanner_1_0_0_0_User-Manual.pdf"
+ },
+ "approval-flow-sankey": {
+  "component": "ApprovalFlowSankey",
+  "managed": "NirayITSolutions_ApprovalFlowSankey_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_ApprovalFlowSankey_1_0_0_0_User-Manual.pdf"
+ },
+ "approval-inbox": {
+  "component": "ApprovalInbox",
+  "managed": "NirayITSolutions_ApprovalInbox_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_ApprovalInbox_1_0_0_0_User-Manual.pdf"
+ },
+ "approval-route-designer": {
+  "component": "ApprovalRouteDesigner",
+  "managed": "NirayITSolutions_ApprovalRouteDesigner_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_ApprovalRouteDesigner_1_0_0_0_User-Manual.pdf"
+ },
+ "approver-workload-balancer": {
+  "component": "ApproverWorkloadBalancer",
+  "managed": "NirayITSolutions_ApproverWorkloadBalancer_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_ApproverWorkloadBalancer_1_0_0_0_User-Manual.pdf"
+ },
+ "attachment-uploader": {
+  "component": "AttachmentUploader",
+  "managed": "NirayITSolutions_AttachmentUploader_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_AttachmentUploader_1_0_0_0_User-Manual.pdf"
+ },
+ "availability-grid": {
+  "component": "AvailabilityGrid",
+  "managed": "NirayITSolutions_AvailabilityGrid_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_AvailabilityGrid_1_0_0_0_User-Manual.pdf"
+ },
+ "budget-phasing-editor": {
+  "component": "BudgetPhasingEditor",
+  "managed": "NirayITSolutions_BudgetPhasingEditor_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_BudgetPhasingEditor_1_0_0_0_User-Manual.pdf"
+ },
+ "calendar-heatmap": {
+  "component": "CalendarHeatmap",
+  "managed": "NirayITSolutions_CalendarHeatmap_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_CalendarHeatmap_1_0_0_0_User-Manual.pdf"
+ },
+ "category-tree-picker": {
+  "component": "CategoryTreePicker",
+  "managed": "NirayITSolutions_CategoryTreePicker_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_CategoryTreePicker_1_0_0_0_User-Manual.pdf"
+ },
+ "change-approval-risk-assessor": {
+  "component": "ChangeApprovalRiskAssessor",
+  "managed": "NirayITSolutions_ChangeApprovalRiskAssessor_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_ChangeApprovalRiskAssessor_1_0_0_0_User-Manual.pdf"
+ },
+ "choice-pill-toggle": {
+  "component": "ChoicePillToggle",
+  "managed": "NirayITSolutions_ChoicePillToggle_1_0_1_0_managed.zip",
+  "manualPdf": "NirayITSolutions_ChoicePillToggle_1_0_1_0_User-Manual.pdf"
+ },
+ "close-date-slippage-guard": {
+  "component": "CloseDateSlippageGuard",
+  "managed": "NirayITSolutions_CloseDateSlippageGuard_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_CloseDateSlippageGuard_1_0_0_0_User-Manual.pdf"
+ },
+ "color-swatch-picker": {
+  "component": "ColorSwatchPicker",
+  "managed": "NirayITSolutions_ColorSwatchPicker_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_ColorSwatchPicker_1_0_0_0_User-Manual.pdf"
+ },
+ "commerce-mega-menu": {
+  "component": "CommerceMegaMenu",
+  "managed": "NirayITSolutions_CommerceMegaMenu_1_1_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_CommerceMegaMenu_1_1_0_0_User-Manual.pdf"
+ },
+ "comparison-matrix": {
+  "component": "ComparisonMatrix",
+  "managed": "NirayITSolutions_ComparisonMatrix_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_ComparisonMatrix_1_0_0_0_User-Manual.pdf"
+ },
+ "contact-points-editor": {
+  "component": "ContactPointsEditor",
+  "managed": "NirayITSolutions_ContactPointsEditor_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_ContactPointsEditor_1_0_0_0_User-Manual.pdf"
+ },
+ "cost-allocation-editor": {
+  "component": "CostAllocationEditor",
+  "managed": "NirayITSolutions_CostAllocationEditor_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_CostAllocationEditor_1_0_0_0_User-Manual.pdf"
+ },
+ "cross-sell-whitespace-matrix": {
+  "component": "CrossSellWhitespaceMatrix",
+  "managed": "NirayITSolutions_CrossSellWhitespaceMatrix_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_CrossSellWhitespaceMatrix_1_0_0_0_User-Manual.pdf"
+ },
+ "currency-input": {
+  "component": "CurrencyInput",
+  "managed": "NirayITSolutions_CurrencyInput_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_CurrencyInput_1_0_0_0_User-Manual.pdf"
+ },
+ "deal-health-inspector": {
+  "component": "DealHealthInspector",
+  "managed": "NirayITSolutions_DealHealthInspector_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_DealHealthInspector_1_0_0_0_User-Manual.pdf"
+ },
+ "deal-qualification-tracker": {
+  "component": "DealQualificationTracker",
+  "managed": "NirayITSolutions_DealQualificationTracker_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_DealQualificationTracker_1_0_0_0_User-Manual.pdf"
+ },
+ "deal-size-band-analyzer": {
+  "component": "DealSizeBandAnalyzer",
+  "managed": "NirayITSolutions_DealSizeBandAnalyzer_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_DealSizeBandAnalyzer_1_0_0_0_User-Manual.pdf"
+ },
+ "delegation-of-authority-matrix": {
+  "component": "DelegationOfAuthorityMatrix",
+  "managed": "NirayITSolutions_DelegationOfAuthorityMatrix_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_DelegationOfAuthorityMatrix_1_0_0_0_User-Manual.pdf"
+ },
+ "discount-approval-guard": {
+  "component": "DiscountApprovalGuard",
+  "managed": "NirayITSolutions_DiscountApprovalGuard_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_DiscountApprovalGuard_1_0_0_0_User-Manual.pdf"
+ },
+ "discussion-thread": {
+  "component": "DiscussionThread",
+  "managed": "NirayITSolutions_DiscussionThread_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_DiscussionThread_1_0_0_0_User-Manual.pdf"
+ },
+ "document-library-browser": {
+  "component": "DocumentLibraryBrowser",
+  "managed": "NirayITSolutions_DocumentLibraryBrowser_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_DocumentLibraryBrowser_1_0_0_0_User-Manual.pdf"
+ },
+ "donation-pledge-builder": {
+  "component": "DonationPledgeBuilder",
+  "managed": "NirayITSolutions_DonationPledgeBuilder_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_DonationPledgeBuilder_1_0_0_0_User-Manual.pdf"
+ },
+ "donor-retention-cohort-matrix": {
+  "component": "DonorRetentionCohortMatrix",
+  "managed": "NirayITSolutions_DonorRetentionCohortMatrix_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_DonorRetentionCohortMatrix_1_0_0_0_User-Manual.pdf"
+ },
+ "duplicate-match-reviewer": {
+  "component": "DuplicateMatchReviewer",
+  "managed": "NirayITSolutions_DuplicateMatchReviewer_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_DuplicateMatchReviewer_1_0_0_0_User-Manual.pdf"
+ },
+ "duration-input": {
+  "component": "DurationInput",
+  "managed": "NirayITSolutions_DurationInput_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_DurationInput_1_0_0_0_User-Manual.pdf"
+ },
+ "editable-grid": {
+  "component": "EditableGrid",
+  "managed": "NirayITSolutions_EditableGrid_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_EditableGrid_1_0_0_0_User-Manual.pdf"
+ },
+ "email-input": {
+  "component": "EmailInput",
+  "managed": "NirayITSolutions_EmailInput_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_EmailInput_1_0_0_0_User-Manual.pdf"
+ },
+ "employment-history-editor": {
+  "component": "EmploymentHistoryEditor",
+  "managed": "NirayITSolutions_EmploymentHistoryEditor_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_EmploymentHistoryEditor_1_0_0_0_User-Manual.pdf"
+ },
+ "equipment-fault-reporter": {
+  "component": "EquipmentFaultReporter",
+  "managed": "NirayITSolutions_EquipmentFaultReporter_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_EquipmentFaultReporter_1_0_0_0_User-Manual.pdf"
+ },
+ "event-ticket-selector": {
+  "component": "EventTicketSelector",
+  "managed": "NirayITSolutions_EventTicketSelector_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_EventTicketSelector_1_0_0_0_User-Manual.pdf"
+ },
+ "file-crypt": {
+  "component": "FileCrypt",
+  "managed": "NirayITSolutions_FileCrypt_1_0_1_0_managed.zip",
+  "manualPdf": "NirayITSolutions_FileCrypt_1_0_1_0_User-Manual.pdf"
+ },
+ "guided-questionnaire": {
+  "component": "GuidedQuestionnaire",
+  "managed": "NirayITSolutions_GuidedQuestionnaire_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_GuidedQuestionnaire_1_0_0_0_User-Manual.pdf"
+ },
+ "hierarchy-explorer": {
+  "component": "HierarchyExplorer",
+  "managed": "NirayITSolutions_HierarchyExplorer_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_HierarchyExplorer_1_0_0_0_User-Manual.pdf"
+ },
+ "household-budget-calculator": {
+  "component": "HouseholdBudgetCalculator",
+  "managed": "NirayITSolutions_HouseholdBudgetCalculator_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_HouseholdBudgetCalculator_1_0_0_0_User-Manual.pdf"
+ },
+ "inline-edit-grid": {
+  "component": "InlineEditGrid",
+  "managed": "NirayITSolutions_InlineEditGrid_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_InlineEditGrid_1_0_0_0_User-Manual.pdf"
+ },
+ "instalment-plan-builder": {
+  "component": "InstalmentPlanBuilder",
+  "managed": "NirayITSolutions_InstalmentPlanBuilder_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_InstalmentPlanBuilder_1_0_0_0_User-Manual.pdf"
+ },
+ "kpi-scorecard-board": {
+  "component": "KpiScorecardBoard",
+  "managed": "NirayITSolutions_KpiScorecardBoard_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_KpiScorecardBoard_1_0_0_0_User-Manual.pdf"
+ },
+ "lead-follow-up-card-list": {
+  "component": "LeadFollowUpCardList",
+  "managed": "NirayITSolutions_LeadFollowUpCardList_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_LeadFollowUpCardList_1_0_0_0_User-Manual.pdf"
+ },
+ "lead-intent-profiler": {
+  "component": "LeadIntentProfiler",
+  "managed": "NirayITSolutions_LeadIntentProfiler_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_LeadIntentProfiler_1_0_0_0_User-Manual.pdf"
+ },
+ "likert-matrix": {
+  "component": "LikertMatrix",
+  "managed": "NirayITSolutions_LikertMatrix_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_LikertMatrix_1_0_0_0_User-Manual.pdf"
+ },
+ "line-item-editor": {
+  "component": "LineItemEditor",
+  "managed": "NirayITSolutions_LineItemEditor_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_LineItemEditor_1_0_0_0_User-Manual.pdf"
+ },
+ "masked-input": {
+  "component": "MaskedInput",
+  "managed": "NirayITSolutions_MaskedInput_1_0_1_0_managed.zip",
+  "manualPdf": "NirayITSolutions_MaskedInput_1_0_1_0_User-Manual.pdf"
+ },
+ "meter-reading-log": {
+  "component": "MeterReadingLog",
+  "managed": "NirayITSolutions_MeterReadingLog_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_MeterReadingLog_1_0_0_0_User-Manual.pdf"
+ },
+ "milestone-payment-schedule": {
+  "component": "MilestonePaymentSchedule",
+  "managed": "NirayITSolutions_MilestonePaymentSchedule_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_MilestonePaymentSchedule_1_0_0_0_User-Manual.pdf"
+ },
+ "multi-choice-chips": {
+  "component": "MultiChoiceChips",
+  "managed": "NirayITSolutions_MultiChoiceChips_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_MultiChoiceChips_1_0_0_0_User-Manual.pdf"
+ },
+ "mutual-action-plan-editor": {
+  "component": "MutualActionPlanEditor",
+  "managed": "NirayITSolutions_MutualActionPlanEditor_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_MutualActionPlanEditor_1_0_0_0_User-Manual.pdf"
+ },
+ "opening-hours-editor": {
+  "component": "OpeningHoursEditor",
+  "managed": "NirayITSolutions_OpeningHoursEditor_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_OpeningHoursEditor_1_0_0_0_User-Manual.pdf"
+ },
+ "partner-deal-registration": {
+  "component": "PartnerDealRegistration",
+  "managed": "NirayITSolutions_PartnerDealRegistration_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_PartnerDealRegistration_1_0_0_0_User-Manual.pdf"
+ },
+ "people-picker": {
+  "component": "PeoplePicker",
+  "managed": "NirayITSolutions_PeoplePicker_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_PeoplePicker_1_0_0_0_User-Manual.pdf"
+ },
+ "pipeline-funnel": {
+  "component": "PipelineFunnel",
+  "managed": "NirayITSolutions_PipelineFunnel_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_PipelineFunnel_1_0_0_0_User-Manual.pdf"
+ },
+ "pipeline-movement-waterfall": {
+  "component": "PipelineMovementWaterfall",
+  "managed": "NirayITSolutions_PipelineMovementWaterfall_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_PipelineMovementWaterfall_1_0_0_0_User-Manual.pdf"
+ },
+ "pivot-matrix": {
+  "component": "PivotMatrix",
+  "managed": "NirayITSolutions_PivotMatrix_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_PivotMatrix_1_0_0_0_User-Manual.pdf"
+ },
+ "planogram-auditor": {
+  "component": "PlanogramAuditor",
+  "managed": "NirayITSolutions_PlanogramAuditor_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_PlanogramAuditor_1_0_0_0_User-Manual.pdf"
+ },
+ "policy-acceptance-reader": {
+  "component": "PolicyAcceptanceReader",
+  "managed": "NirayITSolutions_PolicyAcceptanceReader_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_PolicyAcceptanceReader_1_0_0_0_User-Manual.pdf"
+ },
+ "portfolio-bubble-chart": {
+  "component": "PortfolioBubbleChart",
+  "managed": "NirayITSolutions_PortfolioBubbleChart_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_PortfolioBubbleChart_1_0_0_0_User-Manual.pdf"
+ },
+ "preference-ranker": {
+  "component": "PreferenceRanker",
+  "managed": "NirayITSolutions_PreferenceRanker_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_PreferenceRanker_1_0_0_0_User-Manual.pdf"
+ },
+ "preventive-maintenance-checklist": {
+  "component": "PreventiveMaintenanceChecklist",
+  "managed": "NirayITSolutions_PreventiveMaintenanceChecklist_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_PreventiveMaintenanceChecklist_1_0_0_0_User-Manual.pdf"
+ },
+ "quota-attainment-leaderboard": {
+  "component": "QuotaAttainmentLeaderboard",
+  "managed": "NirayITSolutions_QuotaAttainmentLeaderboard_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_QuotaAttainmentLeaderboard_1_0_0_0_User-Manual.pdf"
+ },
+ "range-slider": {
+  "component": "RangeSlider",
+  "managed": "NirayITSolutions_RangeSlider_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_RangeSlider_1_0_0_0_User-Manual.pdf"
+ },
+ "rating-input": {
+  "component": "RatingInput",
+  "managed": "NirayITSolutions_RatingInput_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_RatingInput_1_0_0_0_User-Manual.pdf"
+ },
+ "receivables-aging-board": {
+  "component": "ReceivablesAgingBoard",
+  "managed": "NirayITSolutions_ReceivablesAgingBoard_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_ReceivablesAgingBoard_1_0_0_0_User-Manual.pdf"
+ },
+ "recurrence-editor": {
+  "component": "RecurrenceEditor",
+  "managed": "NirayITSolutions_RecurrenceEditor_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_RecurrenceEditor_1_0_0_0_User-Manual.pdf"
+ },
+ "recurrence-pattern-editor": {
+  "component": "RecurrencePatternEditor",
+  "managed": "NirayITSolutions_RecurrencePatternEditor_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_RecurrencePatternEditor_1_0_0_0_User-Manual.pdf"
+ },
+ "renewal-uplift-planner": {
+  "component": "RenewalUpliftPlanner",
+  "managed": "NirayITSolutions_RenewalUpliftPlanner_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_RenewalUpliftPlanner_1_0_0_0_User-Manual.pdf"
+ },
+ "repeating-group-editor": {
+  "component": "RepeatingGroupEditor",
+  "managed": "NirayITSolutions_RepeatingGroupEditor_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_RepeatingGroupEditor_1_0_0_0_User-Manual.pdf"
+ },
+ "return-request-builder": {
+  "component": "ReturnRequestBuilder",
+  "managed": "NirayITSolutions_ReturnRequestBuilder_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_ReturnRequestBuilder_1_0_0_0_User-Manual.pdf"
+ },
+ "rfq-quote-response-builder": {
+  "component": "RfqQuoteResponseBuilder",
+  "managed": "NirayITSolutions_RfqQuoteResponseBuilder_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_RfqQuoteResponseBuilder_1_0_0_0_User-Manual.pdf"
+ },
+ "risk-matrix": {
+  "component": "RiskMatrix",
+  "managed": "NirayITSolutions_RiskMatrix_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_RiskMatrix_1_0_0_0_User-Manual.pdf"
+ },
+ "room-booking-explorer": {
+  "component": "RoomBookingExplorer",
+  "managed": "NirayITSolutions_RoomBookingExplorer_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_RoomBookingExplorer_1_0_0_0_User-Manual.pdf"
+ },
+ "sales-call-outcome-picker": {
+  "component": "SalesCallOutcomePicker",
+  "managed": "NirayITSolutions_SalesCallOutcomePicker_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_SalesCallOutcomePicker_1_0_0_0_User-Manual.pdf"
+ },
+ "sales-forecast-commit-board": {
+  "component": "SalesForecastCommitBoard",
+  "managed": "NirayITSolutions_SalesForecastCommitBoard_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_SalesForecastCommitBoard_1_0_0_0_User-Manual.pdf"
+ },
+ "service-attendance-trend-tile": {
+  "component": "ServiceAttendanceTrendTile",
+  "managed": "NirayITSolutions_ServiceAttendanceTrendTile_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_ServiceAttendanceTrendTile_1_0_0_0_User-Manual.pdf"
+ },
+ "signature-pad": {
+  "component": "SignaturePad",
+  "managed": "NirayITSolutions_SignaturePad_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_SignaturePad_1_0_0_0_User-Manual.pdf"
+ },
+ "site-map-explorer": {
+  "component": "SiteMapExplorer",
+  "managed": "NirayITSolutions_SiteMapExplorer_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_SiteMapExplorer_1_0_0_0_User-Manual.pdf"
+ },
+ "skills-matrix-editor": {
+  "component": "SkillsMatrixEditor",
+  "managed": "NirayITSolutions_SkillsMatrixEditor_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_SkillsMatrixEditor_1_0_0_0_User-Manual.pdf"
+ },
+ "sla-countdown": {
+  "component": "SlaCountdown",
+  "managed": "NirayITSolutions_SlaCountdown_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_SlaCountdown_1_0_0_0_User-Manual.pdf"
+ },
+ "smart-address-editor": {
+  "component": "SmartAddressEditor",
+  "managed": "NirayITSolutions_SmartAddressEditor_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_SmartAddressEditor_1_0_0_0_User-Manual.pdf"
+ },
+ "smart-gallery": {
+  "component": "SmartGallery",
+  "managed": "NirayITSolutions_SmartGallery_1_3_1_0_managed.zip",
+  "manualPdf": "NirayITSolutions_SmartGallery_1_3_1_0_User-Manual.pdf"
+ },
+ "smart-text-area": {
+  "component": "SmartTextArea",
+  "managed": "NirayITSolutions_SmartTextArea_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_SmartTextArea_1_0_0_0_User-Manual.pdf"
+ },
+ "staff-directory-explorer": {
+  "component": "StaffDirectoryExplorer",
+  "managed": "NirayITSolutions_StaffDirectoryExplorer_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_StaffDirectoryExplorer_1_0_0_0_User-Manual.pdf"
+ },
+ "stakeholder-influence-map": {
+  "component": "StakeholderInfluenceMap",
+  "managed": "NirayITSolutions_StakeholderInfluenceMap_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_StakeholderInfluenceMap_1_0_0_0_User-Manual.pdf"
+ },
+ "stock-level-monitor": {
+  "component": "StockLevelMonitor",
+  "managed": "NirayITSolutions_StockLevelMonitor_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_StockLevelMonitor_1_0_0_0_User-Manual.pdf"
+ },
+ "store-visit-geo-check-in": {
+  "component": "StoreVisitGeoCheckIn",
+  "managed": "NirayITSolutions_StoreVisitGeoCheckIn_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_StoreVisitGeoCheckIn_1_0_0_0_User-Manual.pdf"
+ },
+ "summary-chart": {
+  "component": "SummaryChart",
+  "managed": "NirayITSolutions_SummaryChart_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_SummaryChart_1_0_0_0_User-Manual.pdf"
+ },
+ "tag-chip-input": {
+  "component": "TagChipInput",
+  "managed": "NirayITSolutions_TagChipInput_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_TagChipInput_1_0_0_0_User-Manual.pdf"
+ },
+ "technician-route-sequencer": {
+  "component": "TechnicianRouteSequencer",
+  "managed": "NirayITSolutions_TechnicianRouteSequencer_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_TechnicianRouteSequencer_1_0_0_0_User-Manual.pdf"
+ },
+ "three-way-match-reconciler": {
+  "component": "ThreeWayMatchReconciler",
+  "managed": "NirayITSolutions_ThreeWayMatchReconciler_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_ThreeWayMatchReconciler_1_0_0_0_User-Manual.pdf"
+ },
+ "tiered-pricing-editor": {
+  "component": "TieredPricingEditor",
+  "managed": "NirayITSolutions_TieredPricingEditor_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_TieredPricingEditor_1_0_0_0_User-Manual.pdf"
+ },
+ "time-zone-meeting-planner": {
+  "component": "TimeZoneMeetingPlanner",
+  "managed": "NirayITSolutions_TimeZoneMeetingPlanner_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_TimeZoneMeetingPlanner_1_0_0_0_User-Manual.pdf"
+ },
+ "travel-itinerary-builder": {
+  "component": "TravelItineraryBuilder",
+  "managed": "NirayITSolutions_TravelItineraryBuilder_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_TravelItineraryBuilder_1_0_0_0_User-Manual.pdf"
+ },
+ "treemap-explorer": {
+  "component": "TreemapExplorer",
+  "managed": "NirayITSolutions_TreemapExplorer_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_TreemapExplorer_1_0_0_0_User-Manual.pdf"
+ },
+ "variant-matrix-order": {
+  "component": "VariantMatrixOrder",
+  "managed": "NirayITSolutions_VariantMatrixOrder_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_VariantMatrixOrder_1_0_0_0_User-Manual.pdf"
+ },
+ "vehicle-damage-inspector": {
+  "component": "VehicleDamageInspector",
+  "managed": "NirayITSolutions_VehicleDamageInspector_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_VehicleDamageInspector_1_0_0_0_User-Manual.pdf"
+ },
+ "volunteer-availability-planner": {
+  "component": "VolunteerAvailabilityPlanner",
+  "managed": "NirayITSolutions_VolunteerAvailabilityPlanner_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_VolunteerAvailabilityPlanner_1_0_0_0_User-Manual.pdf"
+ },
+ "weighted-scorecard": {
+  "component": "WeightedScorecard",
+  "managed": "NirayITSolutions_WeightedScorecard_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_WeightedScorecard_1_0_0_0_User-Manual.pdf"
+ },
+ "win-loss-reason-breakdown": {
+  "component": "WinLossReasonBreakdown",
+  "managed": "NirayITSolutions_WinLossReasonBreakdown_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_WinLossReasonBreakdown_1_0_0_0_User-Manual.pdf"
+ },
+ "word-limit-text-area": {
+  "component": "WordLimitTextArea",
+  "managed": "NirayITSolutions_WordLimitTextArea_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_WordLimitTextArea_1_0_0_0_User-Manual.pdf"
+ },
+ "work-order-dispatch-queue": {
+  "component": "WorkOrderDispatchQueue",
+  "managed": "NirayITSolutions_WorkOrderDispatchQueue_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_WorkOrderDispatchQueue_1_0_0_0_User-Manual.pdf"
+ },
+ "workday-date-picker": {
+  "component": "WorkdayDatePicker",
+  "managed": "NirayITSolutions_WorkdayDatePicker_1_0_0_0_managed.zip",
+  "manualPdf": "NirayITSolutions_WorkdayDatePicker_1_0_0_0_User-Manual.pdf"
  }
 }

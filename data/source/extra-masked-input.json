@@ -26,14 +26,18 @@
  "mobileResponsive": true,
  "complexity": "Advanced",
  "status": "final",
- "availability": "Coming soon",
+ "availability": "Available",
  "componentVersion": "1.0.1",
- "solutionVersion": null,
+ "solutionVersion": "1.0.1.0",
  "releaseDate": "2026-10-20",
  "schemaName": "pcfl_PCFLib.MaskedInput",
  "react": null,
  "controlType": "standard",
  "userManual": "MaskedInput_USER_GUIDE.docx",
  "screenshotCount": 7,
- "price": null
+ "price": null,
+ "solutionFiles": [
+  "NirayITSolutions_MaskedInput_1_0_1_0_managed.zip",
+  "NirayITSolutions_MaskedInput_1_0_1_0_User-Manual.docx"
+ ]
 }

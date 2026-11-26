@@ -28,7 +28,7 @@ for f in sorted(glob.glob(os.path.join(src, "extra-*.json"))):
         "mobileResponsive": e.get("mobileResponsive", True), "complexity": e.get("complexity", "Advanced"),
         "tags": e.get("tags", []), "availability": e["availability"],
         "componentVersion": e.get("componentVersion"), "solutionVersion": e.get("solutionVersion"),
-        "controlType": e.get("controlType"), "react": e.get("react"),
+        "controlType": e.get("controlType"), "react": e.get("react"), "solutionFiles": e.get("solutionFiles"),
         "screenshotCount": e.get("screenshotCount", 0), "dateBuilt": e.get("releaseDate"), "price": None,
     })
     slugs.add(e["slug"])

@@ -31,14 +31,18 @@
  "mobileResponsive": true,
  "complexity": "Advanced",
  "status": "final",
- "availability": "Coming soon",
+ "availability": "Available",
  "componentVersion": "1.0.0",
- "solutionVersion": null,
+ "solutionVersion": "1.0.0.0",
  "releaseDate": "2026-11-12",
  "schemaName": "pcfl_PCFLib.CloseDateSlippageGuard",
  "react": "16.14.0 (platform library)",
  "controlType": "virtual",
  "userManual": "CloseDateSlippageGuard_USER_GUIDE.docx",
  "screenshotCount": 8,
- "price": null
+ "price": null,
+ "solutionFiles": [
+  "NirayITSolutions_CloseDateSlippageGuard_1_0_0_0_managed.zip",
+  "NirayITSolutions_CloseDateSlippageGuard_1_0_0_0_User-Manual.docx"
+ ]
 }
