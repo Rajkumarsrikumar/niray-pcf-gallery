@@ -42,6 +42,7 @@ export default function Checkout() {
                 <p className="mt-3 text-sm text-slate-500">Pay securely by card with Stripe. We email you a download link for the managed solution and PDF user manual right after payment.</p>
                 <button onClick={pay} disabled={paying} className="mt-4 block w-full rounded-xl bg-brand-navy py-3.5 text-center font-semibold text-white hover:bg-brand-blue disabled:opacity-60">{paying ? "Opening payment…" : "Pay by card"}</button>
                 {error && <p className="mt-2 text-sm text-red-600">{error}</p>}
+                <a href="https://buy.stripe.com/aFa8wO2FU7DvfC39ii8bS00" target="_blank" rel="noopener noreferrer" className="mt-3 block w-full rounded-xl border border-brand-navy py-3 text-center font-semibold text-brand-navy hover:bg-slate-50">Pay with Stripe payment link</a>
                 <a href={`mailto:${CONTACT}?subject=${encodeURIComponent("PCF Gallery quote request")}&body=${body}`} className="mt-3 block text-center text-sm text-brand-blue hover:underline">Need an invoice instead? Request a quote</a>
               </>
             ) : (
