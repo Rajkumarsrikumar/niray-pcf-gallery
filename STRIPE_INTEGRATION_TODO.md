@@ -31,7 +31,7 @@ These parameters were configured in Checkout Studio and are now set in the call.
 | billing_address_collection | `auto` |
 | phone_number_collection | `{ enabled: false }` |
 | automatic_tax | `{ enabled: false }` |
-| allow_promotion_codes | `false` |
+| allow_promotion_codes | `true` (changed Nov 28 2026 at the owner's request; create codes in Stripe → Product catalogue → Coupons) |
 | submit_type | `auto` |
 | integration_identifier | `hosted_web_0001` |
 | origin_context | `web` |
