@@ -23,7 +23,15 @@ export async function POST(req: Request) {
   try {
     const cart = await saveCart(items);
     const session = await stripePost<{ url: string }>("checkout/sessions", {
+      ui_mode: "hosted_page",
       mode: "payment",
+      billing_address_collection: "auto",
+      phone_number_collection: { enabled: false },
+      automatic_tax: { enabled: false },
+      allow_promotion_codes: false,
+      submit_type: "auto",
+      integration_identifier: "hosted_web_0001",
+      origin_context: "web",
       success_url: `${siteUrl()}/checkout/success?session_id={CHECKOUT_SESSION_ID}`,
       cancel_url: `${siteUrl()}/checkout`,
       client_reference_id: cart,
